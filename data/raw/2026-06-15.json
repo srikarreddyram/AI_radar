@@ -40,20 +40,20 @@
     "article_text": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
   },
   {
-    "id": "0fda1a1b5a24b71c",
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "source": "OpenAI Blog",
-    "publication_date": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "article_text": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
-  },
-  {
     "id": "009f70280ebcc29e",
     "title": "OpenAI to acquire Ona",
     "source": "OpenAI Blog",
     "publication_date": "Thu, 11 Jun 2026 00:00:00 GMT",
     "url": "https://openai.com/index/openai-to-acquire-ona",
     "article_text": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
+  },
+  {
+    "id": "0fda1a1b5a24b71c",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "source": "OpenAI Blog",
+    "publication_date": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "article_text": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
   },
   {
     "id": "c17e7186c8901da2",
@@ -624,14 +624,6 @@
     "article_text": "In this post, we walk you through the Nova Sonic Test Harness, an open source framework that we built to solve both problems. It serves as a rapid iteration tool for tuning system prompts and tool configurations (run a conversation, see results, adjust, repeat) and as a comprehensive evaluation framework for validating voice agent quality at scale. It runs complete multi-turn conversations with Amazon Nova Sonic automatically, evaluates them using LLM-as-judge techniques, and can even detect cases where the model’s audio output doesn’t match its text output (audio hallucinations). No microphone required."
   },
   {
-    "id": "815999082b7e74c8",
-    "title": "3 things leaders need to know from Microsoft Build 2026",
-    "source": "Azure AI Blog",
-    "publication_date": "Thu, 11 Jun 2026 19:00:00 +0000",
-    "url": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
-    "article_text": "<p>At Microsoft Build 2026, AI moved from experimentation to execution—shifting from isolated tools to connected systems grounded in business data. Organizations that win will embed AI across workflows, scale it effectively, and translate it into measurable outcomes like faster growth, lower costs, and better customer experiences.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/\">3 things leaders need to know from Microsoft Build 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
-  },
-  {
     "id": "4979016e4abdf662",
     "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
     "source": "Azure AI Blog",
@@ -656,20 +648,20 @@
     "article_text": "<p>At Microsoft Build, we are announcing that Microsoft Discovery is now generally available for all organizations, providing a comprehensive platform for building and governing agentic AI workflows.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/\">Announcing Microsoft Discovery general availability and Microsoft Discovery app preview</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
   },
   {
-    "id": "c477fa54ec7d03df",
-    "title": "A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry",
-    "source": "Azure AI Blog",
-    "publication_date": "Tue, 02 Jun 2026 16:00:00 +0000",
-    "url": "https://devblogs.microsoft.com/foundry/build-2026-foundry-models/",
-    "article_text": "<p>Microsoft Foundry helps teams move beyond model access to operate AI at scale—selecting, evaluating, optimizing, and governing models across the full lifecycle.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/foundry/build-2026-foundry-models/\">A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
-  },
-  {
     "id": "c803d55ec7c78b7d",
     "title": "Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval",
     "source": "Azure AI Blog",
     "publication_date": "Tue, 02 Jun 2026 16:00:00 +0000",
     "url": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/",
     "article_text": "<p>Build smarter agents with Microsoft Foundry IQ, unifying enterprise and external data into a secure, scalable knowledge layer for faster, higher-quality answers.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/\">Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "c477fa54ec7d03df",
+    "title": "A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry",
+    "source": "Azure AI Blog",
+    "publication_date": "Tue, 02 Jun 2026 16:00:00 +0000",
+    "url": "https://devblogs.microsoft.com/foundry/build-2026-foundry-models/",
+    "article_text": "<p>Microsoft Foundry helps teams move beyond model access to operate AI at scale—selecting, evaluating, optimizing, and governing models across the full lifecycle.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/foundry/build-2026-foundry-models/\">A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
   },
   {
     "id": "230c559d467deece",
@@ -702,6 +694,14 @@
     "publication_date": "Mon, 11 May 2026 19:00:00 +0000",
     "url": "https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/",
     "article_text": "<p>Microsoft and Red Hat show how Azure Red Hat OpenShift powers modernization and production AI with secure, scalable enterprise governance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/\">Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "1de0901c2a3f40c7",
+    "title": "Scaling cloud and AI: Microsoft Azure’s commitment to Europe’s digital future",
+    "source": "Azure AI Blog",
+    "publication_date": "Wed, 06 May 2026 14:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/",
+    "article_text": "<p>As demand for cloud and AI grows, Microsoft is expanding Azure across Europe to deliver scalable, resilient infrastructure that supports innovation, compliance, and performance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/\">Scaling cloud and AI: Microsoft Azure&#8217;s commitment to Europe&#8217;s digital future</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
   },
   {
     "id": "74b3c5e18682c7e7",
@@ -1318,5 +1318,405 @@
     "publication_date": "Mon, 15 Jun 2026 00:00:00 -0400",
     "url": "https://arxiv.org/abs/2606.13901",
     "article_text": "arXiv:2606.13901v1 Announce Type: new \nAbstract: Spiking Neural Networks (SNNs) have emerged as an energy-efficient alternative to conventional neural networks, demonstrating strong performance in computer vision and robotics. More recently, SNNs have been applied to time series forecasting (TSF), with methods exploring spiking temporal backbones, spike-compatible positional encodings, Fourier-domain processing, and redesigned neuron dynamics. However, existing SNN forecasting approaches process variables independently, lacking explicit mechanisms for modeling inter-variable dependencies. This is a critical limitation in multivariate settings, where cross-variable correlations carry substantial predictive information. We propose Spiking Fourier Graph Operators (SpikF-GO), which addresses this gap by combining a hypervariate graph formulation in which every scalar observation becomes a graph node with spike-driven spectral processing. SpikF-GO introduces a Hard Concrete frequency gate for learnable sparse frequency selection and a Complex LIF gate that applies independent spiking neurons to real and imaginary Fourier components, preserving binary, event-driven computation throughout the spectral domain. We further present a variant incorporating Central Pattern Generator-based positional encodings for stronger long-range temporal modeling. Evaluated on eight benchmarks under a unified experimental protocol, SpikF-GO achieves the best average rank among all SNN methods and outperforms its ANN counterpart, FourierGNN, at reduced energy cost. SpikF-GO maintains competitive accuracy even at substantially smaller embedding dimensions, thereby achieving significant energy reductions. To our knowledge, this is among the first works to bring graph-based multivariate modeling into the spiking domain for TSF and the first to provide a unified comparison across SNN forecasting architectures under a common experimental protocol."
+  },
+  {
+    "id": "65cef2891f2ec6fd",
+    "title": "Sineád O'Sullivan: Space X is not just too big to fail. It is too essential to be allowed to",
+    "source": "The Irish Times",
+    "publication_date": "2026-06-14T06:04:00Z",
+    "url": "https://www.irishtimes.com/opinion/2026/06/14/sinead-osullivan-space-x-is-not-just-too-big-to-fail-it-is-too-essential-to-be-allowed-to/",
+    "article_text": "How do you make a billion dollars? If you ask Michael OLeary, hell tell you its by investing 10 billion dollars in an airline. And if you ask Elon Musk, hell tell you its even easier: start with $22 … [+7232 chars]"
+  },
+  {
+    "id": "5bcfac6c65430911",
+    "title": "context-compiler 0.7.10",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T06:02:47Z",
+    "url": "https://pypi.org/project/context-compiler/0.7.10/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "6df3171060f1dd36",
+    "title": "Anthropic shuts down Mythos access after sweeping U.S. order",
+    "source": "Biztoc.com",
+    "publication_date": "2026-06-14T06:01:38Z",
+    "url": "https://biztoc.com/x/cdbe45b1091f95e7",
+    "article_text": "Anthropic shuts down Mythos access after sweeping U.S. order- Click here to listen to this article - Anthropic PBC has disabled access to its most advanced artificial intelligence models, including M… [+143 chars]"
+  },
+  {
+    "id": "08413f40ca90b083",
+    "title": "Traditional Finance Rushes Into Crypto as Institutions Buy Bitcoin Dip, Axios Reports",
+    "source": "Naturalnews.com",
+    "publication_date": "2026-06-14T06:00:00Z",
+    "url": "https://www.naturalnews.com/2026-06-14-tradfi-rushes-into-crypto-buy-bitcoin-dip.html",
+    "article_text": "Traditional financial institutions are accelerating their push into cryptocurrency products in 2026, according to an Axios report.\r\nBanks, brokerages, and exchanges are racing to offer crypto service… [+5522 chars]"
+  },
+  {
+    "id": "896a4ea5c29bd378",
+    "title": "White House AI Deal Would Override State Laws, Mandate Age Verification",
+    "source": "Naturalnews.com",
+    "publication_date": "2026-06-14T06:00:00Z",
+    "url": "https://www.naturalnews.com/2026-06-14-white-house-ai-deal-overrides-state-laws.html",
+    "article_text": "The White House has proposed a federal artificial intelligence (AI) framework that would override existing state AI regulations and require age verification for users of AI systems, according to offi… [+5245 chars]"
+  },
+  {
+    "id": "d2e83c379b146f42",
+    "title": "Metaによる中国発の注目AIスタートアップ・Manusの買収に中国政府が待った、買収解消に向け両社が準備中との報道",
+    "source": "Livedoor.com",
+    "publication_date": "2026-06-14T06:00:00Z",
+    "url": "https://news.livedoor.com/article/detail/31547204/",
+    "article_text": "AIMeta202512AIManusMetaManusBloomberg\r\nMeta Starts Unwinding Manus Deal by Splitting Operations, Data - Bloomberg\r\nhttps://www.bloomberg.com/news/articles/2026-06-11/meta-severs-manus-data-access-aft… [+1509 chars]"
+  },
+  {
+    "id": "9f2fa15702149083",
+    "title": "Argentina Proposes Legal Framework for AI-Run Corporations",
+    "source": "Naturalnews.com",
+    "publication_date": "2026-06-14T06:00:00Z",
+    "url": "https://www.naturalnews.com/2026-06-14-argentina-proposes-legal-framework-ai-run-corporations.html",
+    "article_text": "Argentinian President Javier Milei has submitted legislation to Congress that would establish a new legal framework for artificial intelligence (AI) deployment, including a corporate category for com… [+5453 chars]"
+  },
+  {
+    "id": "0989a77be5cc96aa",
+    "title": "Angry Meta employee hijacks company presentation to unleash profanity-laced tirade against top exec",
+    "source": "Dailymail.com",
+    "publication_date": "2026-06-14T05:58:44Z",
+    "url": "https://www.dailymail.com/news/article-15897199/Meta-employee-hijacks-company-presentation-unleash-tirade.html",
+    "article_text": "A Meta employee stunned colleagues by hijacking a company-wide livestream and launching into an expletive-filled tirade against a senior executive.\r\nThe extraordinary outburst unfolded during an inte… [+6056 chars]"
+  },
+  {
+    "id": "2b4e13cb0fe37e1b",
+    "title": "Amazon to expand automation use in inventory management at India fulfilment centres",
+    "source": "BusinessLine",
+    "publication_date": "2026-06-14T05:54:00Z",
+    "url": "https://www.thehindubusinessline.com/info-tech/amazon-to-expand-automation-use-in-inventory-management-at-india-fulfilment-centres/article71100450.ece",
+    "article_text": "Amazon will continue to expand the use of automation technologies across operations in India and deploy advanced systems for inventory management at its fulfilment centres in the country, a senior co… [+3000 chars]"
+  },
+  {
+    "id": "6f9ad4c389cde88d",
+    "title": "South Korea’s world-beating stock market eyes its MSCI moment",
+    "source": "The Times of India",
+    "publication_date": "2026-06-14T05:51:07Z",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/south-koreas-world-beating-stock-market-eyes-its-msci-moment/articleshow/131716179.cms",
+    "article_text": "After one of its most volatile weeks in years, South Koreas stock market is approaching a milestone it has long been chasing: a potential path into MSCI Inc.s developed-market status.The Kospi has be… [+4778 chars]"
+  },
+  {
+    "id": "1775f53ebdc26980",
+    "title": "slack-huddle-mcp 0.3.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T05:48:41Z",
+    "url": "https://pypi.org/project/slack-huddle-mcp/0.3.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "28fe6ec804b3c9d6",
+    "title": "slack-huddle-mcp added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T05:48:41Z",
+    "url": "https://pypi.org/project/slack-huddle-mcp/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "6e7046e8225855cb",
+    "title": "our workplace LLM mass delusion – ava's blog",
+    "source": "Avas.space",
+    "publication_date": "2026-06-14T05:47:01Z",
+    "url": "https://blog.avas.space/llm-circus/",
+    "article_text": "10 Jun, 2026\r\nI can't help but wonder whether we will look back on this AI hype in the workplace with confusion and embarrassment. If we indeed progress into a future where the bubble will burst, mod… [+9298 chars]"
+  },
+  {
+    "id": "1f5e2b77f7f732ed",
+    "title": "Simon Willison's Weblog: Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+    "source": "Simonwillison.net",
+    "publication_date": "2026-06-14T05:47:01Z",
+    "url": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/",
+    "article_text": "The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the Un… [+1540 chars]"
+  },
+  {
+    "id": "b354dd89c4703d6a",
+    "title": "GitHub - hanxiao/knowledge-graph-extractor: Turn any document or a whole zip into an interactive knowledge graph, using a self-hosted Qwen3.6-35B-A3B-MTP on a single NVIDIA L4 · GitHub",
+    "source": "Github.com",
+    "publication_date": "2026-06-14T05:47:01Z",
+    "url": "https://github.com/hanxiao/knowledge-graph-extractor",
+    "article_text": "Turn any document, URL, or a zip of files into an interactive knowledge graph,\r\nusing a self-hosted LLM (Qwen3.6-35B-A3B-MTP) on a single NVIDIA L4.\r\nLive demo: https://hanxiao.io/knowledge-graph\r\nEa… [+3093 chars]"
+  },
+  {
+    "id": "30a006c652667d6a",
+    "title": "OpenAI to acquire Ona | OpenAI",
+    "source": "Openai.com",
+    "publication_date": "2026-06-14T05:47:01Z",
+    "url": "https://openai.com/index/openai-to-acquire-ona/",
+    "article_text": "Today were announcing that OpenAI will acquire Ona(opens in a new window), bringing its secure cloud execution and orchestration technology into our rapidly expanding Codex ecosystem.\r\nMore than 5 mi… [+3464 chars]"
+  },
+  {
+    "id": "46471b1e4bd4d70e",
+    "title": "Amazon to expand automation use in inventory management at India fulfilment centres",
+    "source": "The Times of India",
+    "publication_date": "2026-06-14T05:45:01Z",
+    "url": "https://economictimes.indiatimes.com/tech/technology/amazon-to-expand-automation-use-in-inventory-management-at-india-fulfilment-centres/articleshow/131716171.cms",
+    "article_text": "Amazon will continue to expand the use of automation technologies across operations in India and deploy advanced systems for inventory management at its fulfilment centres in the country, a senior co… [+2963 chars]"
+  },
+  {
+    "id": "a4d85a73aefca862",
+    "title": "iris-security-openai 0.1.1",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T05:42:55Z",
+    "url": "https://pypi.org/project/iris-security-openai/0.1.1/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "e38923f6841b3a55",
+    "title": "iris-security-anthropic 0.1.1",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T05:42:52Z",
+    "url": "https://pypi.org/project/iris-security-anthropic/0.1.1/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "3b3c2857034f1b81",
+    "title": " Sleep optional: brutal kick-off time can't stop these fans",
+    "source": "Onefootball.com",
+    "publication_date": "2026-06-14T05:37:00Z",
+    "url": "https://onefootball.com/en/news/sleep-optional-brutal-kick-off-time-cant-stop-these-fans-43006437",
+    "article_text": "In Australia, its currently the afternoon; things look very different here in Germany, where most people are probably not even awake yet this Sunday, and in many places the beer for this evening like… [+1340 chars]"
+  },
+  {
+    "id": "bb68459f3d4bfdde",
+    "title": "Who is Luana Lopes Lara, Kalshi CEO who turned Kylie Jenner gossip into a $22 billion prediction marketplace",
+    "source": "Livemint",
+    "publication_date": "2026-06-14T05:32:45Z",
+    "url": "https://www.livemint.com/companies/who-is-luana-lopes-lara-kalshi-ceo-who-turned-kylie-jenner-gossip-into-a-22-billion-prediction-marketplace-11781411934855.html",
+    "article_text": "When prediction markets were little more than an idea on Wall Street, Kalshi Inc. co-founder Luana Lopes Lara found inspiration in an unlikely place: the womb of Kylie Jenner.\r\nIt was early 2018 and … [+12304 chars]"
+  },
+  {
+    "id": "22eb7ff322621c19",
+    "title": "‘The elephant in the room’: Trump’s Iran war looms over G7",
+    "source": "POLITICO.eu",
+    "publication_date": "2026-06-14T05:32:42Z",
+    "url": "https://www.politico.eu/article/the-elephant-in-the-room-trumps-iran-war-looms-over-g7/",
+    "article_text": "The presidents decision to strike Iran and his back-and-forth\r\n over whether attacks will ramp up has him facing a more hostile crowd at this years summit, less impressed with his political comeback … [+2473 chars]"
+  },
+  {
+    "id": "728d5e5baa707d6e",
+    "title": "SpaceX, Anthropic, or OpenAI: Which IPO Is the Better Buy?",
+    "source": "Biztoc.com",
+    "publication_date": "2026-06-14T05:32:32Z",
+    "url": "https://biztoc.com/x/5c00bddc9905f34d",
+    "article_text": "We may see three trillion-dollar initial public offerings (IPOs) this year. SpaceX (NASDAQ: SPCX) just debuted with a market cap of $2 trillion, while both OpenAI and Anthropic are planning to raise … [+142 chars]"
+  },
+  {
+    "id": "3946ebd5bae2a413",
+    "title": "obsidian-wiki 2026.6.5",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T05:30:10Z",
+    "url": "https://pypi.org/project/obsidian-wiki/2026.6.5/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "f3aa2bb582e0ab39",
+    "title": "CoinFund founder advocates decentralized AI as counterweight to centralization",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-06-14T05:29:03Z",
+    "url": "https://cryptobriefing.com/coinfund-decentralized-ai-counterweight/",
+    "article_text": "Jake Brukhman argues distributed GPU networks can challenge Big Tech's grip on artificial intelligence, and he's putting serious capital behind the thesis The AI arms race has a concentration problem… [+2429 chars]"
+  },
+  {
+    "id": "56a8883934f8ca77",
+    "title": "Consciousness likely not unique to earthlings, paper says",
+    "source": "Ucr.edu",
+    "publication_date": "2026-06-14T05:27:45Z",
+    "url": "https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says",
+    "article_text": "Does consciousness depend on flesh and blood?\r\nThe answer is almost certainly no, according to Eric Schwitzgebel, a distinguished professor of philosophy at the University of California, Riverside.\r\n… [+6657 chars]"
+  },
+  {
+    "id": "09dff527c888bf23",
+    "title": "fieldpilot-urdf added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T05:13:37Z",
+    "url": "https://pypi.org/project/fieldpilot-urdf/",
+    "article_text": "Import any ROS robot from a URL and run FK / IK / collision / validation /\r\nrepair in pure Python. No ROS install, no build.\r\nfieldpilot-urdf is the open core of FieldPilot's\r\nrobotics toolkit small,… [+5695 chars]"
+  },
+  {
+    "id": "79ad429aa6dd8c9f",
+    "title": "'Give half away', Melinda French Gates advices new wave of IPO millionaires - Here's why",
+    "source": "Livemint",
+    "publication_date": "2026-06-14T05:11:10Z",
+    "url": "https://www.livemint.com/companies/people/give-half-away-melinda-french-gates-advices-new-wave-of-spacex-openai-anthropic-ipo-millionaires-11781413306885.html",
+    "article_text": "A generation of new millionaires and billionaires is about to be created by the largest IPO wave in Wall Street history. One of the world's most prominent philanthropists says they should decide righ… [+6065 chars]"
+  },
+  {
+    "id": "743c4ec597fb335e",
+    "title": "syntropylabs-evalkit 0.1.29",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T05:09:24Z",
+    "url": "https://pypi.org/project/syntropylabs-evalkit/0.1.29/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "c9fbfaf536d601b6",
+    "title": "llm-key-validator 1.1.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T05:05:32Z",
+    "url": "https://pypi.org/project/llm-key-validator/1.1.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "4d182bb947028d10",
+    "title": "UK and Japan finalize $24B investment and technology partnership",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-06-14T05:04:33Z",
+    "url": "https://cryptobriefing.com/uk-japan-24b-investment-tech-partnership-2/",
+    "article_text": "The sweeping deal covers AI, semiconductors, quantum tech, and life sciences, with both nations betting on deeper collaboration to fuel economic growth. The United Kingdom and Japan are locking in on… [+1905 chars]"
+  },
+  {
+    "id": "1740e98594e9af7d",
+    "title": "Wall Street digests record fundraising haul as AI race intensifies",
+    "source": "Biztoc.com",
+    "publication_date": "2026-06-14T05:00:35Z",
+    "url": "https://biztoc.com/x/333bd3a271911ca2",
+    "article_text": "SpaceX, Anthropic and Alphabet financings highlight investors willingness to absorb a torrent of new issuance\r\nThis story appeared on ft.com, 2026-06-14 04:00:17."
+  },
+  {
+    "id": "b6290800ea398b86",
+    "title": "Why has IPO become a buzzword?",
+    "source": "RTE",
+    "publication_date": "2026-06-14T05:00:00Z",
+    "url": "https://www.rte.ie/news/business/2026/0614/1578167-ipo-buzzword-explainer/",
+    "article_text": "It was once a term only used among people interested in stock markets and investing, but now 'Initial Public Offering' or IPO has become a buzz word.\r\nGlobal tech giants have been receiving extensive… [+9213 chars]"
+  },
+  {
+    "id": "44aa0543c294a1e7",
+    "title": "Why has IPO become a buzzword?",
+    "source": "RTE",
+    "publication_date": "2026-06-14T05:00:00Z",
+    "url": "https://www.rte.ie/news/business/2026/0614/1578167-why-has-ipo-become-a-buzzword-explainer/",
+    "article_text": "It was once a term only used among people interested in stock markets and investing, now 'Initial Public Offering' or IPO has become a buzz word.\r\nGlobal tech giants have been receiving extensive med… [+9255 chars]"
+  },
+  {
+    "id": "151132b47fe80291",
+    "title": "Universal Soldier: The Return – The Ultimate Bodybuilding Motivation Movie and Jean-Claude Van Damme Fitness Inspiration",
+    "source": "Healthbestfit.com",
+    "publication_date": "2026-06-14T04:58:30Z",
+    "url": "https://www.healthbestfit.com/2026/06/Universal-Soldier-The-Return-The-Ultimate-Bodybuilding-Motivation-Movie-and-Jean-Claude-Van-Damme-Fitness-Inspiration.html",
+    "article_text": "When discussing the greatest action stars who influenced fitness culture, bodybuilding enthusiasts, and gym motivation around the world, few names carry the legendary status of Jean-Claude Van Damme.… [+8373 chars]"
+  },
+  {
+    "id": "67626d36a17aeb68",
+    "title": "nemotron-page-elements-v3 3.0.2.dev20260614045551",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T04:56:32Z",
+    "url": "https://pypi.org/project/nemotron-page-elements-v3/3.0.2.dev20260614045551/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "4f8c17c3abaf6d7a",
+    "title": "nemotron-graphic-elements-v1 1.0.1.dev20260614045551",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T04:56:25Z",
+    "url": "https://pypi.org/project/nemotron-graphic-elements-v1/1.0.1.dev20260614045551/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "5e78b75034363248",
+    "title": "\"Will significantly improve ticket booking efficiency\": ZRUCC Southern Railway member on IRCTC website upgrade",
+    "source": "The Times of India",
+    "publication_date": "2026-06-14T04:54:04Z",
+    "url": "https://economictimes.indiatimes.com/industry/transportation/railways/will-significantly-improve-ticket-booking-efficiency-zrucc-southern-railway-member-on-irctc-website-upgrade/articleshow/131715603.cms",
+    "article_text": "Nagapattinam (Tamil Nadu): Indian Railways is set to significantly upgrade its passenger reservation system, increasing ticket booking capacity from 32,000 to 1.5 lakh tickets per minute as part of a… [+2398 chars]"
+  },
+  {
+    "id": "5ada529d1392d419",
+    "title": "aegis-openai 1.0.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T04:51:56Z",
+    "url": "https://pypi.org/project/aegis-openai/1.0.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "ff72c04dd3736ad6",
+    "title": "aegis-openai added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T04:51:56Z",
+    "url": "https://pypi.org/project/aegis-openai/",
+    "article_text": "Drop-in OpenAI SDK wrapper that routes every tool_calls invocation through Aegis's runtime governance pipeline before execution.\r\npipinstallaegis-openai\r\nWhat it does\r\nWraps openai.OpenAI() so that e… [+2142 chars]"
+  },
+  {
+    "id": "024cd8974848f5f8",
+    "title": "aegis-anthropic 1.0.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T04:51:34Z",
+    "url": "https://pypi.org/project/aegis-anthropic/1.0.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "2d0eb3e95198e992",
+    "title": "aegis-anthropic added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T04:51:34Z",
+    "url": "https://pypi.org/project/aegis-anthropic/",
+    "article_text": "Drop-in Anthropic SDK wrapper that routes every tool_use call through Aegis's runtime governance pipeline before execution.\r\npipinstallaegis-anthropic\r\nWhat it does\r\nWraps anthropic.Anthropic() so th… [+2439 chars]"
+  },
+  {
+    "id": "eb99de19d780a919",
+    "title": " Seconds after Güler's volley, Australia stun Turkey!",
+    "source": "Onefootball.com",
+    "publication_date": "2026-06-14T04:51:00Z",
+    "url": "https://onefootball.com/en/news/seconds-after-guelers-volley-australia-stun-turkey-43006346",
+    "article_text": "So far, this is not going according to plan at all from Türkiyes point of view.\r\nAfter Güler and Co. looked the better side in the first 25 minutes of the group match against Australia but failed to … [+1041 chars]"
+  },
+  {
+    "id": "a9dbd5b9df4cd123",
+    "title": "☕️ FC Breakfast: Mbappé on the flute , Spain cools off ",
+    "source": "Onefootball.com",
+    "publication_date": "2026-06-14T04:50:00Z",
+    "url": "https://onefootball.com/en/news/fc-breakfast-mbappe-on-the-flute-spain-cools-off-43006343",
+    "article_text": "Before becoming the player we know today, Kylian Mbappé had a busy childhood.\r\nSpeaking with James Corben, the France international admitted that he played the flute when he was little.\r\nIn fact, if … [+944 chars]"
+  },
+  {
+    "id": "546c0cb019e0bac9",
+    "title": "Steep decline in number of job seekers as 216,000 Israelis return to work",
+    "source": "Israelnationalnews.com",
+    "publication_date": "2026-06-14T04:48:55Z",
+    "url": "https://www.israelnationalnews.com/news/428593",
+    "article_text": "The Employment Service announced on Sunday morning that with the Israeli economy returning to full activity following Operation Roaring Lion, approximately 216,000 workers have rejoined the workforce… [+1425 chars]"
+  },
+  {
+    "id": "2fde8d568eb2ec3f",
+    "title": "llm-zip 0.3.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T04:47:57Z",
+    "url": "https://pypi.org/project/llm-zip/0.3.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "98fb29aaa61e8848",
+    "title": "WATCH: Little League umpire gets the call of a lifetime",
+    "source": "Abcnews.com",
+    "publication_date": "2026-06-14T04:45:56Z",
+    "url": "https://abcnews.com/video/133852807/",
+    "article_text": "<ul><li>Trump's name removed from Kennedy Center: DOJ\r\n</li><li>US-Iran deal appears imminent\r\n</li><li>Key national security law expires amid political fight\r\n</li><li>Trouping of Colour marks King … [+4266 chars]"
+  },
+  {
+    "id": "19c22ae6b3e4fde9",
+    "title": "webspeed added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T04:44:25Z",
+    "url": "https://pypi.org/project/webspeed/",
+    "article_text": "The machine-readable layer for the web. Give your AI agent a clean, structured\r\nmap of any page what it is, what's on it, and what it can do (search,\r\nadd-to-cart, log in, paginate) instead of dumpin… [+2257 chars]"
+  },
+  {
+    "id": "e2f6d7e1dac7bf14",
+    "title": "dyva 0.3.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-14T04:43:15Z",
+    "url": "https://pypi.org/project/dyva/0.3.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "2f96ed534e5964e2",
+    "title": "Show HN: Agent Gate – a deterministic CI firewall for AI-generated PRs",
+    "source": "Github.com",
+    "publication_date": "2026-06-14T04:38:42Z",
+    "url": "https://github.com/sjh9714/Agent-Gate",
+    "article_text": "No AI PR gets merged without proof.\r\nAgent Gate is a deterministic CI firewall for AI-generated pull requests. It checks PR contracts, risky paths, agent instruction drift, workflow permissions, and … [+6171 chars]"
   }
 ]
