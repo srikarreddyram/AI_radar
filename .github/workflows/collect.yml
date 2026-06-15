@@ -1,0 +1,43 @@
+name: "📥 WF1: Daily Collection"
+
+on:
+  schedule:
+    - cron: "30 0 * * *"  # 00:30 UTC daily
+  workflow_dispatch:  # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run collection
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: |
+          python scripts/collect.py | tee /tmp/collect_output.txt
+          echo "ARTICLE_COUNT=$(grep 'ARTICLE_COUNT=' /tmp/collect_output.txt | cut -d= -f2)" >> $GITHUB_ENV
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "📥 raw collection: $(date -u +%Y-%m-%d) (${{ env.ARTICLE_COUNT || '0' }} articles)"
+          git push

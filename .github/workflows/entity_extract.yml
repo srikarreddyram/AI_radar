@@ -1,0 +1,43 @@
+name: "🔍 WF3: Entity Extraction"
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # 03:00 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m spacy download en_core_web_sm
+
+      - name: Run entity extraction
+        run: |
+          python scripts/entity_extract.py | tee /tmp/extract_output.txt
+          echo "EVENT_COUNT=$(grep 'EVENT_COUNT=' /tmp/extract_output.txt | cut -d= -f2)" >> $GITHUB_ENV
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "🔍 entities extracted: ${{ env.EVENT_COUNT || '0' }} events"
+          git push

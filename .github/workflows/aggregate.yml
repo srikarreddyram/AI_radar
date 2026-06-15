@@ -1,0 +1,41 @@
+name: "📊 WF4: Daily Aggregation"
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # 06:00 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run aggregation
+        run: |
+          python scripts/aggregate.py | tee /tmp/aggregate_output.txt
+          echo "TOTAL=$(grep 'TOTAL_EVENTS=' /tmp/aggregate_output.txt | cut -d= -f2)" >> $GITHUB_ENV
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "📊 aggregated datasets updated (${{ env.TOTAL || '0' }} total)"
+          git push
