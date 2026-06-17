@@ -8,11 +8,7 @@ import random
 
 def scrape_google_finance(ticker, exchange="NASDAQ"):
     url = f"https://www.google.com/finance/quote/{ticker}:{exchange}"
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    }
-    
-    response = requests.get(url, headers=headers)
+    response = requests.get(url)
     if response.status_code != 200:
         return None, None
         

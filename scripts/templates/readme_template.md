@@ -59,8 +59,9 @@ AIID runs **7 independent GitHub Actions workflows** daily:
 | 3 | 🔍 Extract | 03:00 | Extract entities (companies, products, locations) |
 | 4 | 📊 Aggregate | 06:00 | Rebuild analytics CSV files |
 | 5 | 📈 Stats | 12:00 | Calculate metrics & generate badges |
-| 6 | 📝 README | 18:00 | Update this file with latest data |
+| 6 | 📝 README | 03:00, 15:00 | Update this file with latest data |
 | 7 | 📋 Report | Sun 09:00 | Generate weekly summary report |
+| 8-12 | 📈 Stocks | 5x Daily | Track AI company stock prices & volume |
 
 ## 📁 Data Files
 
@@ -68,9 +69,10 @@ AIID runs **7 independent GitHub Actions workflows** daily:
 |------|-------------|
 | [`events/events_master.json`](events/events_master.json) | Complete event ledger (append-only) |
 | [`aggregated/all_events.csv`](aggregated/all_events.csv) | All events as CSV |
+| [`aggregated/ai_stocks.csv`](aggregated/ai_stocks.csv) | Daily stock tracking for AI companies |
 | [`aggregated/model_releases.csv`](aggregated/model_releases.csv) | Model release events |
 | [`aggregated/gpu_releases.csv`](aggregated/gpu_releases.csv) | GPU/hardware events |
-| [`aggregated/funding_rounds.csv`](aggregated/funding_rounds.csv) | Funding events |
+| [`aggregated/funding_rounds.csv`](aggregated/funding_rounds.csv) | Funding events (with `$USD` amounts) |
 | [`aggregated/datacenter_events.csv`](aggregated/datacenter_events.csv) | Datacenter events |
 | [`aggregated/outages.csv`](aggregated/outages.csv) | Outage events |
 
