@@ -2,7 +2,7 @@ name: "🔍 WF3: Entity Extraction"
 
 on:
   schedule:
-    - cron: "0 3 * * *"  # 03:00 UTC daily
+    - cron: "30 1,13 * * *"  # 01:30 and 13:30 UTC daily
   workflow_dispatch:
 
 permissions:
@@ -40,4 +40,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --staged --quiet || git commit -m "🔍 entities extracted: ${{ env.EVENT_COUNT || '0' }} events"
-          git push
+          git pull --rebase origin main && git push

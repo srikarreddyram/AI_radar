@@ -2,7 +2,7 @@ name: "📊 WF4: Daily Aggregation"
 
 on:
   schedule:
-    - cron: "0 6 * * *"  # 06:00 UTC daily
+    - cron: "0 2,14 * * *"  # 02:00 and 14:00 UTC daily
   workflow_dispatch:
 
 permissions:
@@ -38,4 +38,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --staged --quiet || git commit -m "📊 aggregated datasets updated (${{ env.TOTAL || '0' }} total)"
-          git push
+          git pull --rebase origin main && git push
