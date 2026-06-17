@@ -40,4 +40,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --staged --quiet || git commit -m "🔍 entities extracted: ${{ env.EVENT_COUNT || '0' }} events"
-          git pull --rebase origin main && git push
+          for i in 1 2 3 4 5; do git pull --rebase origin main && git push && break || sleep $((RANDOM % 5 + 1)); done
