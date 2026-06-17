@@ -4,7 +4,7 @@
 ![Last Updated](badges/last_updated.svg)
 
 > An automated data collection and intelligence platform tracking the AI infrastructure ecosystem.
-> **Last checked: 2026-06-17 at 04:29 UTC**
+> **Last checked: 2026-06-17 at 17:48 UTC**
 
 ---
 
@@ -12,22 +12,22 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Events** | 165 |
-| **Events (7 days)** | 10 |
-| **Events (30 days)** | 10 |
+| **Total Events** | 370 |
+| **Events (7 days)** | 122 |
+| **Events (30 days)** | 122 |
 
 ### Category Distribution
 
 | Category | Count |
 |----------|-------|
-| OTHER | 82 |
-| MODEL_RELEASE | 27 |
-| RESEARCH_BREAKTHROUGH | 24 |
-| FUNDING_EVENT | 11 |
-| DATACENTER_EXPANSION | 7 |
-| GPU_RELEASE | 7 |
-| POLICY_REGULATION | 3 |
-| OUTAGE | 3 |
+| OTHER | 171 |
+| RESEARCH_BREAKTHROUGH | 65 |
+| MODEL_RELEASE | 59 |
+| FUNDING_EVENT | 25 |
+| GPU_RELEASE | 22 |
+| DATACENTER_EXPANSION | 10 |
+| POLICY_REGULATION | 9 |
+| OUTAGE | 8 |
 | SERVICE_UPDATE | 1 |
 
 
@@ -35,16 +35,16 @@
 
 | Company | Events |
 |---------|--------|
-| Amazon | 16 |
-| OpenAI | 13 |
-| NVIDIA | 13 |
-| Microsoft | 13 |
-| Intel | 10 |
-| Anthropic | 7 |
-| Meta | 6 |
-| Google DeepMind | 5 |
-| Google | 5 |
-| Perplexity | 3 |
+| Intel | 25 |
+| NVIDIA | 21 |
+| Amazon | 20 |
+| OpenAI | 17 |
+| Anthropic | 15 |
+| Microsoft | 14 |
+| AI | 13 |
+| Modal | 11 |
+| Meta | 10 |
+| Google | 9 |
 
 
 ---
@@ -72,19 +72,20 @@
 - **Source**: [TechCrunch AI](https://techcrunch.com/2025/08/20/meta-to-add-100-mw-of-solar-power-from-u-s-gear/)
 - **Summary**: The social media company is adding another tranche of solar to power a new AI data center in South Carolina.
 
-### From commit to cloud: Powering what’s next for PostgreSQL
-- **Date**: Wed, 13 Ma
+### New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning
+- **Date**: Wed, 17 Ju
 - **Category**: `OTHER`
-- **Company**: Microsoft
-- **Source**: [Azure AI Blog](https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/)
-- **Summary**: <p>PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world.
+- **Company**: Amazon
+- **Source**: [AWS ML Blog](https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/)
+- **Summary**: Today we're introducing new capabilities on Amazon Bedrock AgentCore, the platform to build, connect, and optimize agents. In this post, we cover how these capabilities close each gap: connecting agents to organizational, web, and paid knowledge; helping teams find and fix what's going wrong in p...
 
-### Access OpenAI models and Codex through your Oracle cloud commitment
-- **Date**: Wed, 10 Ju
-- **Category**: `OTHER`
-- **Company**: OpenAI
-- **Source**: [OpenAI Blog](https://openai.com/index/openai-on-oracle-cloud)
-- **Summary**: Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.
+### Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search
+- **Date**: Wed, 17 Ju
+- **Category**: `RESEARCH_BREAKTHROUGH`
+- **Company**: AWS
+- **Source**: [arXiv cs.AI](https://arxiv.org/abs/2606.17209)
+- **Summary**: arXiv:2606.17209v1 Announce Type: new 
+Abstract: Test-time scaling for agentic search typically increases depth (i.e., more turns and tokens per trajectory) or breadth (i.e., more parallel rollouts). Here we focus on breadth scaling, showing that standard parallel sampling yields diminishing retu...
 
 
 
