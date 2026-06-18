@@ -1,0 +1,46 @@
+{
+  "snapshot_date": "2026-06-18",
+  "generated_at": "2026-06-18T06:56:32.199057+00:00",
+  "total_events": 449,
+  "category_distribution": {
+    "OTHER": 223,
+    "RESEARCH_BREAKTHROUGH": 81,
+    "MODEL_RELEASE": 64,
+    "FUNDING_EVENT": 28,
+    "GPU_RELEASE": 23,
+    "DATACENTER_EXPANSION": 10,
+    "POLICY_REGULATION": 9,
+    "OUTAGE": 9,
+    "SERVICE_UPDATE": 2
+  },
+  "top_companies": {
+    "": 108,
+    "Intel": 34,
+    "Amazon": 22,
+    "NVIDIA": 21,
+    "OpenAI": 19,
+    "Anthropic": 18,
+    "Modal": 14,
+    "Microsoft": 14,
+    "AI": 14,
+    "Meta": 10,
+    "Google": 9,
+    "Google DeepMind": 8,
+    "AWS": 5,
+    "LLM": 5,
+    "Perplexity": 4,
+    "Apple": 2,
+    "SWI Group Expands Transatlantic Digital Infrastructure Platform": 2,
+    "SWI Group": 2,
+    "Schneider Electric": 2,
+    "CI": 2
+  },
+  "csv_row_counts": {
+    "all_events": 449,
+    "model_releases": 64,
+    "gpu_releases": 23,
+    "funding_rounds": 28,
+    "datacenter_events": 10,
+    "outages": 9
+  }
+}
