@@ -464,6 +464,22 @@
     "article_text": "Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Monday, June 8, 10:00 a.m. [&#8230;]"
   },
   {
+    "id": "24acd58267710062",
+    "title": "Introducing Web Search on Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "publication_date": "Fri, 19 Jun 2026 14:15:24 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
+    "article_text": "Web Search on Amazon Bedrock AgentCore is now generally available. In this post, we walk through what makes Web Search on Amazon Bedrock AgentCore different, why it matters, and how to wire it in with a few lines of code."
+  },
+  {
+    "id": "0193aa2ac6496eee",
+    "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
+    "source": "AWS ML Blog",
+    "publication_date": "Fri, 19 Jun 2026 14:05:04 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
+    "article_text": "This post shows how to enable Adobe Marketing Agent for Amazon Quick using a Model Context Protocol (MCP). We walk you through how to configure the integration, authenticate using your Adobe credentials, and get the latest insights in Amazon Quick. The sample workflow returns audience rankings, loyalty segment summaries, journey usage, and conflict recommendations."
+  },
+  {
     "id": "f548571cf86e54e1",
     "title": "Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch",
     "source": "AWS ML Blog",
@@ -606,22 +622,6 @@
     "publication_date": "Thu, 11 Jun 2026 15:49:47 +0000",
     "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
     "article_text": "Agent-EvalKit is an open-source toolkit (Apache 2.0) that makes this evaluation infrastructure available by integrating with AI coding assistants, including Claude Code, Kiro CLI, and Kilo Code. This post walks through how Agent-EvalKit works across its six evaluation phases, using a travel research agent built with the Strands Agents SDK and Amazon Bedrock as a running example."
-  },
-  {
-    "id": "12ee40a24413a681",
-    "title": "Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick",
-    "source": "AWS ML Blog",
-    "publication_date": "Thu, 11 Jun 2026 15:36:31 +0000",
-    "url": "https://aws.amazon.com/blogs/machine-learning/spot-trends-faster-sort-smarter-unlocking-sparklines-and-custom-sort-in-amazon-quick/",
-    "article_text": "Today, we’re excited to announce two new capabilities that make Quick Sight dashboards even more expressive and business-aligned: sparklines and custom sort for controls. In this post, we walk through both features, what they are, when to use them, and how to configure them, with real-world scenarios that bring them together in a practical, decision-ready dashboard."
-  },
-  {
-    "id": "432c488f99ab600c",
-    "title": "Optimize blueprint extraction accuracy in Amazon Bedrock Data Automation",
-    "source": "AWS ML Blog",
-    "publication_date": "Thu, 11 Jun 2026 15:11:56 +0000",
-    "url": "https://aws.amazon.com/blogs/machine-learning/optimize-blueprint-extraction-accuracy-in-amazon-bedrock-data-automation/",
-    "article_text": "Blueprint instruction optimization is a BDA feature that automatically refines your extraction instructions to address this challenge directly. You provide three to ten example documents with expected values, and BDA refines your blueprint instructions to improve accuracy in minutes, not weeks. No separate model fine-tuning is required. By the end of this post, you can optimize your blueprints to improve accuracy, run the optimization workflow through the Amazon Bedrock console or the API, and apply best practices for selecting examples and ground truth."
   },
   {
     "id": "815999082b7e74c8",
@@ -920,6 +920,14 @@
     "article_text": "<p><a href=\"https://nousresearch.com/\">Nous Research</a>, the open-source artificial intelligence startup backed by crypto venture firm <a href=\"https://www.paradigm.xyz/\">Paradigm</a>, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia&#x27;s latest <a href=\"https://www.nvidia.com/en-us/data-center/dgx-b200/\">B200 graphics processors</a>.</p><p>The model, called <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a>, is another entry in a crowded field of AI coding assistants, but arrives at a particularly charged moment: <a href=\"https://claude.com/product/claude-code\">Claude Code</a>, the agentic programming tool from rival Anthropic, has dominated social media discussion since New Year&#x27;s Day, with developers posting <a href=\"https://x.com/0xDesigner/status/2008202211738648767?s=20\">breathless</a> <a href=\"https://x.com/hayesdev_/status/2008043379805048948\">testimonials</a> <a href=\"https://x.com/0xDesigner/status/2008202211738648767?s=20\">about its capabilities</a>. The simultaneous developments underscore how quickly AI-assisted software development is evolving — and how fiercely companies large and small are competing to capture what many believe will become a foundational technology for how software gets written.</p><p><span>type: <!-- -->embedded-entry-inline<!-- --> id: <!-- -->74cSyrq6OUrp9SEQ5zOUSl</span></p><p><a href=\"https://nousresearch.com/nouscoder-14b-a-competitive-olympiad-programming-model/\">NousCoder-14B</a> achieves a 67.87 percent accuracy rate on <a href=\"https://livecodebench.github.io/\">LiveCodeBench v6</a>, a standardized evaluation that tests models on competitive programming problems published between August 2024 and May 2025. That figure represents a 7.08 percentage point improvement over the base model it was trained from, Alibaba&#x27;s <a href=\"https://huggingface.co/Qwen/Qwen3-14B\">Qwen3-14B</a>, according to Nous Research&#x27;s technical report published alongside the release.</p><p>&quot;I gave Claude Code a description of the problem, it generated what we built last year in an hour,&quot; <a href=\"https://www.reddit.com/r/OpenAI/comments/1q2uuil/google_engineer_im_not_joking_and_this_isnt_funny/\">wrote Jaana Dogan</a>, a principal engineer at Google responsible for the Gemini API, in a viral post on X last week that captured the prevailing mood around AI coding tools. Dogan was describing a distributed agent orchestration system her team had spent a year developing — a system Claude Code approximated from a three-paragraph prompt.</p><p>The juxtaposition is instructive: while Anthropic&#x27;s <a href=\"https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are\">Claude Code has captured imaginations</a> with demonstrations of end-to-end software development, Nous Research is betting that open-source alternatives trained on verifiable problems can close the gap — and that transparency in how these models are built matters as much as raw capability.</p><hr /><h2><b>How Nous Research built an AI coding model that anyone can replicate</b></h2><p>What distinguishes the <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a> release from many competitor announcements is its radical openness. Nous Research published not just the <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">model weights</a> but the <a href=\"https://github.com/NousResearch/atropos/pull/296\">complete reinforcement learning environment</a>, benchmark suite, and training harness — built on the company&#x27;s <a href=\"https://github.com/NousResearch/atropos/pull/296\">Atropos framework </a>— enabling any researcher with sufficient compute to <a href=\"https://wandb.ai/jli505/qwen14b/reports/HermesCoder-14B--VmlldzoxNTQ5Nzc0MQ?accessToken=4pt3stwyh4x83zqe2jgoo5j9b7j07jbe5omf2n40lray3tih17vfkavjootvnw8o\">reproduce or extend the work</a>.</p><p>&quot;Open-sourcing the Atropos stack provides the necessary infrastructure for reproducible olympiad-level reasoning research,&quot; <a href=\"https://x.com/o_mega___/status/2008907268700475450?s=20\">noted one observer on X</a>, summarizing the significance for the academic and open-source communities.</p><p>The model was trained by <a href=\"https://x.com/JoeLi5050\">Joe Li</a>, a researcher in residence at Nous Research and a former competitive programmer himself. Li&#x27;s <a href=\"https://nousresearch.com/nouscoder-14b-a-competitive-olympiad-programming-model/\">technical report </a>reveals an unexpectedly personal dimension: he compared the model&#x27;s improvement trajectory to his own journey on Codeforces, the competitive programming platform where participants earn ratings based on contest performance.</p><p>Based on rough estimates mapping LiveCodeBench scores to Codeforces ratings, Li calculated that NousCoder-14B&#x27;s improvemen t— from approximately the 1600-1750 rating range to 2100-2200 — mirrors a leap that took him nearly two years of sustained practice between ages 14 and 16. The model accomplished the equivalent in four days.</p><p>&quot;Watching that final training run unfold was quite a surreal experience,&quot; Li wrote in the technical report.</p><p>But Li was quick to note an important caveat that speaks to broader questions about AI efficiency: he solved roughly 1,000 problems during those two years, while the model required 24,000. Humans, at least for now, remain dramatically more sample-efficient learners.</p><hr /><h2><b>Inside the reinforcement learning system that trains on 24,000 competitive programming problems</b></h2><p><a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a>&#x27;s training process offers a window into the increasingly sophisticated techniques researchers use to improve AI reasoning capabilities through reinforcement learning.</p><p>The approach relies on what researchers call &quot;verifiable rewards&quot; — a system where the model generates code solutions, those solutions are executed against test cases, and the model receives a simple binary signal: correct or incorrect. This feedback loop, while conceptually straightforward, requires significant infrastructure to execute at scale.</p><p>Nous Research used <a href=\"https://modal.com/\">Modal</a>, a cloud computing platform, to run sandboxed code execution in parallel. Each of the 24,000 training problems contains hundreds of test cases on average, and the system must verify that generated code produces correct outputs within time and memory constraints — 15 seconds and 4 gigabytes, respectively.</p><p>The training employed a technique called <a href=\"https://dapo-sia.github.io/\">DAPO (Dynamic Sampling Policy Optimization)</a>, which the researchers found performed slightly better than alternatives in their experiments. A key innovation involves &quot;dynamic sampling&quot; — discarding training examples where the model either solves all attempts or fails all attempts, since these provide no useful gradient signal for learning.</p><p>The researchers also adopted &quot;iterative context extension,&quot; first training the model with a 32,000-token context window before expanding to 40,000 tokens. During evaluation, extending the context further to approximately 80,000 tokens produced the best results, with accuracy reaching 67.87 percent.</p><p>Perhaps most significantly, the training pipeline overlaps inference and verification — as soon as the model generates a solution, it begins work on the next problem while the previous solution is being checked. This pipelining, combined with asynchronous training where multiple model instances work in parallel, maximizes hardware utilization on expensive GPU clusters.</p><hr /><h2><b>The looming data shortage that could slow AI coding model progress</b></h2><p>Buried in Li&#x27;s <a href=\"https://nousresearch.com/nouscoder-14b-a-competitive-olympiad-programming-model/\">technical report</a> is a finding with significant implications for the future of AI development: the training dataset for NousCoder-14B encompasses &quot;a significant portion of all readily available, verifiable competitive programming problems in a standardized dataset format.&quot;</p><p>In other words, for this particular domain, the researchers are approaching the limits of high-quality training data.</p><p>&quot;The total number of competitive programming problems on the Internet is roughly the same order of magnitude,&quot; Li wrote, referring to the 24,000 problems used for training. &quot;This suggests that within the competitive programming domain, we have approached the limits of high-quality data.&quot;</p><p>This observation echoes growing concern across the AI industry about data constraints. While compute continues to scale according to well-understood economic and engineering principles, training data is &quot;increasingly finite,&quot; as Li put it.</p><p>&quot;It appears that some of the most important research that needs to be done in the future will be in the areas of synthetic data generation and data efficient algorithms and architectures,&quot; he concluded.</p><p>The challenge is particularly acute for competitive programming because the domain requires problems with known correct solutions that can be verified automatically. Unlike natural language tasks where human evaluation or proxy metrics suffice, code either works or it doesn&#x27;t — making synthetic data generation considerably more difficult.</p><p>Li identified one potential avenue: training models not just to solve problems but to generate solvable problems, enabling a form of self-play similar to techniques that proved successful in game-playing AI systems. &quot;Once synthetic problem generation is solved, self-play becomes a very interesting direction,&quot; he wrote.</p><hr /><h2><b>A $65 million bet that open-source AI can compete with Big Tech</b></h2><p>Nous Research has carved out a distinctive position in the AI landscape: a company committed to <a href=\"https://nousresearch.com/\">open-source releases</a> that compete with — and sometimes exceed — proprietary alternatives.</p><p>The company raised<a href=\"https://fortune.com/crypto/2025/04/25/paradigm-nous-research-crypto-ai-venture-capital-deepseek-openai-blockchain/\"> $50 million in April 2025</a> in a round led by Paradigm, the cryptocurrency-focused venture firm founded by Coinbase co-founder Fred Ehrsam. Total funding reached $65 million, according to some reports. The investment reflected growing interest in decentralized approaches to AI training, an area where Nous Research has developed its <a href=\"https://psyche.network/\">Psyche platform</a>.</p><p>Previous releases include <a href=\"https://hermes4.nousresearch.com/\">Hermes 4</a>, a family of models that we reported &quot;<a href=\"https://venturebeat.com/ai/nous-research-drops-hermes-4-ai-models-that-outperform-chatgpt-without-content-restrictions\">outperform ChatGPT without content restrictions</a>,&quot; and DeepHermes-3, which the company described as the first &quot;<a href=\"https://venturebeat.com/ai/personalized-unrestricted-ai-lab-nous-research-launches-first-toggle-on-reasoning-model-deephermes-3\">toggle-on reasoning model</a>&quot; — allowing users to activate extended thinking capabilities on demand.</p><p>The company has cultivated a distinctive aesthetic and community, prompting some skepticism about whether style might overshadow substance. &quot;Ofc i&#x27;m gonna believe an anime pfp company. stop benchmarkmaxxing ffs,&quot; <a href=\"https://x.com/shydev69/status/2008654826356535510?s=20\">wrote one critic on X</a>, referring to Nous Research&#x27;s anime-style branding and the industry practice of optimizing for benchmark performance.</p><p>Others raised technical questions. &quot;<a href=\"https://x.com/yehor_smoliakov/status/2008659681489940757?s=20\">Based on the benchmark, Nemotron is better</a>,&quot; noted one commenter, referring to Nvidia&#x27;s family of language models. Another asked whether <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a> is &quot;agentic focused or just &#x27;one shot&#x27; coding&quot; — a distinction that matters for practical software development, where iterating on feedback typically produces better results than single attempts.</p><hr /><h2><b>What researchers say must happen next for AI coding tools to keep improving</b></h2><p>The release includes several directions for future work that hint at where AI coding research may be heading.</p><p>Multi-turn reinforcement learning tops the list. Currently, the model receives only a final binary reward — pass or fail — after generating a solution. But competitive programming problems typically include public test cases that provide intermediate feedback: compilation errors, incorrect outputs, time limit violations. Training models to incorporate this feedback across multiple attempts could significantly improve performance.</p><p>Controlling response length also remains a challenge. The researchers found that incorrect solutions tended to be longer than correct ones, and response lengths quickly saturated available context windows during training — a pattern that various algorithmic modifications failed to resolve.</p><p>Perhaps most ambitiously, Li proposed &quot;problem generation and self-play&quot; — training models to both solve and create programming problems. This would address the data scarcity problem directly by enabling models to generate their own training curricula.</p><p>&quot;Humans are great at generating interesting and useful problems for other competitive programmers, but it appears that there still exists a significant gap in LLM capabilities in creative problem generation,&quot; Li wrote.</p><p>The model is <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">available now on Hugging Face</a> under an Apache 2.0 license. For researchers and developers who want to build on the work, Nous Research has published the complete <a href=\"https://github.com/NousResearch/atropos/pull/296\">Atropos training stack</a> alongside it.</p><p>What took Li two years of adolescent dedication to achieve—climbing from a 1600-level novice to a 2100-rated competitor on Codeforces—an AI replicated in 96 hours. He needed 1,000 problems. The model needed 24,000. But soon enough, these systems may learn to write their own problems, teach themselves, and leave human benchmarks behind entirely.</p><p>The question is no longer whether machines can learn to code. It&#x27;s whether they&#x27;ll soon be better teachers than we ever were.</p><p>\n</p>"
   },
   {
+    "id": "b98b96efdd669128",
+    "title": "The film about Sam Altman has been dropped by Amazon MGM",
+    "source": "The Verge AI",
+    "publication_date": "2026-06-19T10:15:29-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+    "article_text": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica [&#8230;]"
+  },
+  {
     "id": "8ad2b1d3c2a8e540",
     "title": "Barret Zoph is out at OpenAI again after just five months",
     "source": "The Verge AI",
@@ -990,14 +998,6 @@
     "publication_date": "2026-06-17T12:27:00-04:00",
     "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
     "article_text": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier AI development? Send 'em over to tina.nguyen+tips@theverge.com. Back [&#8230;]"
-  },
-  {
-    "id": "b34e8b3a6c36bdfc",
-    "title": "Can anyone look cool wearing Snap’s $2,000 glasses?",
-    "source": "The Verge AI",
-    "publication_date": "2026-06-17T12:13:34-04:00",
-    "url": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
-    "article_text": "Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to \"bring computing into the world\" and \"make it more human.\" He positioned them as a device to help people [&#8230;]"
   },
   {
     "id": "2fee3d084618ca8a",
@@ -1320,403 +1320,387 @@
     "article_text": "arXiv:2606.19411v1 Announce Type: new \nAbstract: Selecting a small, diverse, high-quality subset from a massive pool of candidates is a recurring primitive in modern machine learning -- data curation and coreset selection for training and fine-tuning large models, active-learning batch acquisition, prompt and exemplar selection for in-context learning, retrieval diversification, and experimental design. Determinantal Point Processes (\\DPP s) give a principled, well-calibrated notion of diversity for this task, but their \\emph{MAP} objective -- pick a size-$k$ subset $S$ maximizing $\\logdet(L_S)$ -- is NP-hard, and the standard greedy and sampling algorithms scale superlinearly in the ground-set size $n$. This cost is prohibitive precisely in the data-centric regime where diversity matters most, where $n$ ranges over millions to billions of candidate examples, features, or embeddings. We recast \\DPP-MAP as a continuous optimization problem over the Stiefel manifold, and show that its first-order optimality conditions form a \\emph{Nonlinear Eigenvalue Problem with eigenvector dependency} (\\NEPv) of a previously unstudied form. This \\NEPv\\ admits a self-consistent field (\\SCF) iteration with a spectral-gap-based local contraction guarantee, giving a principled iterative solver where the diversity objective drives an eigenvector-dependent operator. The resulting algorithm, \\OurMethod, requires only matrix-vector products with the kernel and runs in time $O\\!\\big((ndk+nk^2)\\,t\\big)$ for a small number of iterations $t$, scaling near-linearly in $n$ and integrating directly with low-rank and feature-map kernels common in ML. This paper focuses on the relaxation, solver, and scaling analysis; full real-data benchmarking is left to a planned empirical study."
   },
   {
-    "id": "49b953db3bfe4148",
-    "title": "Two techies from India and Pakistan built an AI startup - Now both are billionaires thanks to Elon Musk. Here's all about Aman Sanger and Sualeh Asif",
+    "id": "f72904e8ab3e6ee6",
+    "title": "Federal regulators back Trump's plan to speed power to energy-hungry AI data centers",
     "source": "The Times of India",
-    "publication_date": "2026-06-18T05:32:07Z",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/who-are-aman-sanger-and-sualeh-asif-cursor-founders-from-india-and-pakistan-set-to-become-billionaires-after-elon-musk-acquires-their-ai-startup/articleshow/131818672.cms",
-    "article_text": "A young Indian entrepreneur and a Pakistani mathematician-turned-tech founder have joined the ranks of billionaires after Elon Musk's reported acquisition of Anysphere, the company behind the popular… [+3069 chars]"
+    "publication_date": "2026-06-18T15:46:13Z",
+    "url": "https://economictimes.indiatimes.com/tech/technology/federal-regulators-back-trumps-plan-to-speed-power-to-energy-hungry-ai-data-centers/articleshow/131835285.cms",
+    "article_text": "Federal regulators on Thursday agreed to let large energy users connect more quickly to the nation's inefficient and electric transmission system to accommodate surging demand from power-hungry artif… [+4435 chars]"
   },
   {
-    "id": "5eebb1b7a7a4eda3",
-    "title": "agentkavach 0.2.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-18T05:31:33Z",
-    "url": "https://pypi.org/project/agentkavach/0.2.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "id": "2b8ba6f782cf4d84",
+    "title": "Trump says Apple and Intel will build chips together in US",
+    "source": "Cult of Mac",
+    "publication_date": "2026-06-18T15:45:49Z",
+    "url": "https://www.cultofmac.com/news/trump-says-apple-and-intel-will-build-chips-in-us",
+    "article_text": "A return to a new form of \"Intel Inside\" looks likely. Photo: Intel\r\nPresident Donald J. Trump took to his Truth Social media site late Wednesday to say Apple and Intel will build chips in the United… [+5959 chars]"
   },
   {
-    "id": "f6a3f4751d2543cb",
-    "title": "opencode-llmstack 1.0.0rc1",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-18T05:31:09Z",
-    "url": "https://pypi.org/project/opencode-llmstack/1.0.0rc1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "c2d16d953c8846ff",
-    "title": "Microsoft Scout, New Enterprise Autopilot Built on OpenClaw, Announced at Build 2026",
-    "source": "InfoQ.com",
-    "publication_date": "2026-06-18T05:26:00Z",
-    "url": "https://www.infoq.com/news/2026/06/microsoft-scout-openclaw-build/",
-    "article_text": "Microsoft recently introduced at Build 2026 Microsoft Scout, an always-on agent. Scout belongs to a new category of agents Microsoft called Autopilots: always-on agents that work autonomously on a us… [+4234 chars]"
-  },
-  {
-    "id": "65f7974338b46be6",
-    "title": "abstract-hugpy-dev 0.1.38",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-18T05:23:32Z",
-    "url": "https://pypi.org/project/abstract-hugpy-dev/0.1.38/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "323f35d6cc4bb76f",
-    "title": "tau-by-clarity 0.55.12",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-18T05:21:16Z",
-    "url": "https://pypi.org/project/tau-by-clarity/0.55.12/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "5011843eaf2ab595",
-    "title": "hanary-mcp 0.22.3",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-18T05:20:17Z",
-    "url": "https://pypi.org/project/hanary-mcp/0.22.3/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "eebea562fcaad749",
-    "title": " 2026 World Cup, overnight round-up",
-    "source": "Onefootball.com",
-    "publication_date": "2026-06-18T05:20:00Z",
-    "url": "https://onefootball.com/en/news/2026-world-cup-overnight-round-up-43024203",
-    "article_text": "Every morning, OneFootball will bring you a full recap of the night at the World Cup. Lets get into the summary of another eventful night!\r\nThats it: all the opening matchdays have now been played!\r\n… [+1910 chars]"
-  },
-  {
-    "id": "8749cbaa01af84f0",
-    "title": "Architecting for AI: Five things Antonio Neri told the enterprise at HPE Discover",
-    "source": "SiliconANGLE News",
-    "publication_date": "2026-06-18T05:18:05Z",
-    "url": "https://siliconangle.com/2026/06/18/architecting-ai-five-things-antonio-neri-told-enterprise-hpe-discover/",
-    "article_text": "Hewlett Packard Enterprise Co. Chief Executive Antonio Neri opened the company’s annual user conference, Discover, this week in Las Vegas with a manifesto for the AI era. Though all events now discus… [+8746 chars]"
-  },
-  {
-    "id": "3434be15ba400ed1",
-    "title": "Noam Shazeer hired by Google for $2.7 billion in 2024 leaves the tech giant in less than 18 months to join Sam Altman's Open AI",
-    "source": "The Times of India",
-    "publication_date": "2026-06-18T05:14:43Z",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/noam-shazeer-hired-by-google-for-2-7-billion-in-2024-leaves-the-tech-giant-in-less-than-18-months-to-join-sam-altmans-open-ai/articleshow/131818353.cms",
-    "article_text": "Noam Shazeer, vice president of engineering at Google and co-lead of its Gemini artificial intelligence models, announced on Wednesday that he is leaving the company to join OpenAI.In a post on X, Sh… [+2447 chars]"
-  },
-  {
-    "id": "b9ae4e5bd856d579",
-    "title": "Robots pour cocktails and run marathons, but still can’t multitask",
-    "source": "Digital Journal",
-    "publication_date": "2026-06-18T05:14:08Z",
-    "url": "https://www.digitaljournal.com/article/robots-pour-cocktails-and-run-marathons-but-still-cant-multitask/",
-    "article_text": "They can mix cocktails, run marathons and fold laundry. But humanoid robots are still a long way from doing lots of different jobs on command, whatever the marketing says.\r\nThe gap was easy to spot a… [+3660 chars]"
-  },
-  {
-    "id": "3e43ceb1a41973f8",
-    "title": "2026 Rousseeuw Prize for Statistics Awarded to R Core Team for Transforming Statistics Computing Worldwide",
-    "source": "R-bloggers.com",
-    "publication_date": "2026-06-18T05:09:44Z",
-    "url": "https://www.r-bloggers.com/2026/06/2026-rousseeuw-prize-for-statistics-awarded-to-r-core-team-for-transforming-statistics-computing-worldwide/",
-    "article_text": "[This article was first published on R-posts.com, and kindly contributed to R-bloggers]. (You can report issue about the content on this page here)\r\nWant to share your content on R-bloggers? click he… [+4781 chars]"
-  },
-  {
-    "id": "ecfdfafea1f34126",
-    "title": "bog-agents-cli 0.9.8",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-18T05:08:54Z",
-    "url": "https://pypi.org/project/bog-agents-cli/0.9.8/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "7236df7de00681c7",
-    "title": "RStudio AI That Doesn’t Cost a Penny: llmcoder vs. Posit AI Assistant",
-    "source": "R-bloggers.com",
-    "publication_date": "2026-06-18T05:08:52Z",
-    "url": "https://www.r-bloggers.com/2026/06/rstudio-ai-that-doesnt-cost-a-penny-llmcoder-vs-posit-ai-assistant/",
-    "article_text": "[This article was first published on R-posts.com, and kindly contributed to R-bloggers]. (You can report issue about the content on this page here)\r\nWant to share your content on R-bloggers? click he… [+6518 chars]"
-  },
-  {
-    "id": "9598b0a760331202",
-    "title": "bog-agents 0.9.8",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-18T05:08:35Z",
-    "url": "https://pypi.org/project/bog-agents/0.9.8/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "fda27e959101af7b",
-    "title": "Some States Are Forging Ahead With AI Regulations",
-    "source": "Insurance Journal",
-    "publication_date": "2026-06-18T05:05:44Z",
-    "url": "https://www.insurancejournal.com/news/national/2026/06/18/874239.htm",
-    "article_text": "Six months after President Donald Trump warned states not to regulate artificial intelligence, they are increasingly doing just that.\r\nCongress has stalled on producing federal regulation of artifici… [+6891 chars]"
-  },
-  {
-    "id": "1241f0464bc42015",
-    "title": "'Mistakes Are Made': Trump Rejects Accountability for US Massacre at Iran Girls' School",
-    "source": "Common Dreams",
-    "publication_date": "2026-06-18T05:04:29Z",
-    "url": "https://www.commondreams.org/news/trump-minab-school",
-    "article_text": "President Donald Trump on Wednesday joined a long line of US leaders to brush off atrocities committed by American troops when he dodged questions about responsibility for the February cruise missile… [+6049 chars]"
-  },
-  {
-    "id": "2560fb949cf86fc4",
-    "title": "nodecanon 0.1.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-18T05:03:52Z",
-    "url": "https://pypi.org/project/nodecanon/0.1.1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "2ef22566cace49bb",
-    "title": "Designing Enterprise AI Service Catalogs for Large Organizations",
-    "source": "C-sharpcorner.com",
-    "publication_date": "2026-06-18T05:02:26Z",
-    "url": "https://www.c-sharpcorner.com/article/designing-enterprise-ai-service-catalogs-for-large-organizations/",
-    "article_text": "Introduction\r\nAs Artificial Intelligence adoption accelerates across enterprises, organizations are rapidly building AI-powered applications, intelligent assistants, automation solutions, document pr… [+9098 chars]"
-  },
-  {
-    "id": "27d967eafb8291a4",
-    "title": "AI accurately measures mesothelioma tumors for better treatment decisions",
-    "source": "News-Medical.Net",
-    "publication_date": "2026-06-18T05:02:12Z",
-    "url": "https://www.news-medical.net/news/20260617/AI-accurately-measures-mesothelioma-tumors-for-better-treatment-decisions.aspx",
-    "article_text": "Physicians and researchers at the Netherlands Cancer Institute have developed an AI model that outperforms physicians at evaluating treatment response in pleural mesothelioma. Being far more accurate… [+4137 chars]"
-  },
-  {
-    "id": "1fed1a177da1fa85",
-    "title": "Building Self-Service AI Platforms for Internal Development Teams",
-    "source": "C-sharpcorner.com",
-    "publication_date": "2026-06-18T05:01:45Z",
-    "url": "https://www.c-sharpcorner.com/article/building-self-service-ai-platforms-for-internal-development-teams/",
-    "article_text": "Introduction\r\nAs Artificial Intelligence becomes a standard part of software development, many organizations face a new challenge: enabling development teams to use AI effectively without creating bo… [+8999 chars]"
-  },
-  {
-    "id": "c4807fe6cc21e898",
-    "title": "What happens to oversight when AI agents write a lab’s own code",
-    "source": "Help Net Security",
-    "publication_date": "2026-06-18T05:00:52Z",
-    "url": "https://www.helpnetsecurity.com/2026/06/18/research-ai-coding-agent-oversight/",
-    "article_text": "Inside the labs building frontier AI, a growing share of the coding gets done by the AI itself. These agents write, edit, and run software with light human oversight between steps, and they reach int… [+4542 chars]"
-  },
-  {
-    "id": "519a18a96db885ba",
-    "title": "Less Traffic, Better Leads: Is Google Fixing B2B Marketing?",
-    "source": "Search Engine Journal",
-    "publication_date": "2026-06-18T05:00:38Z",
-    "url": "https://www.searchenginejournal.com/google-fix-b2b-marketing-expertcallers-spa/573278/",
-    "article_text": "This post was sponsored by Expert Callers. The opinions expressed in this article are the sponsor’s own. \r\nWhy did my inbound traffic drop suddenly?\r\nAre B2B leads dropping everywhere?\r\nIs AI Overvie… [+9695 chars]"
-  },
-  {
-    "id": "97d15ffd2a99ae6b",
-    "title": "Designing AI-Ready Multi-Tenant Architectures in ASP.NET Core",
-    "source": "C-sharpcorner.com",
-    "publication_date": "2026-06-18T05:00:13Z",
-    "url": "https://www.c-sharpcorner.com/article/designing-ai-ready-multi-tenant-architectures-in-asp-net-core/",
-    "article_text": "Introduction\r\nAs organizations increasingly integrate Artificial Intelligence into their products and services, the demand for scalable multi-tenant AI platforms continues to grow. SaaS providers, en… [+8453 chars]"
-  },
-  {
-    "id": "193f62b3cc2806e8",
-    "title": "Energy price shock to squeeze Irish wage growth this year, says Central Bank",
-    "source": "The Irish Times",
-    "publication_date": "2026-06-18T05:00:01Z",
-    "url": "https://www.irishtimes.com/business/2026/06/18/energy-price-shock-to-squeeze-irish-wage-growth-this-year-says-central-bank/",
-    "article_text": "Surging energy prices from the US-Israeli war with Iran will lead to a spike in costs for Irish households, which will all but wipe out any wage increases this year, the Central Bank has said, even i… [+3073 chars]"
-  },
-  {
-    "id": "491263ca5805e9d1",
-    "title": "Plan to advise charities overseas how to avoid inadvertently financing terrorists",
-    "source": "The Irish Times",
-    "publication_date": "2026-06-18T05:00:01Z",
-    "url": "https://www.irishtimes.com/crime-law/2026/06/18/plan-to-advise-charities-overseas-how-to-avoid-inadvertently-financing-terrorists/",
-    "article_text": "Charities operating in higher-risk regions are set to receive guidance on how they can avoid inadvertently financing terrorists as part of a new Government plan to fight financial crime.\r\nThe 30-poin… [+2959 chars]"
-  },
-  {
-    "id": "8a7bdbb0dbef491e",
-    "title": "AI-Powered API Discovery and Cataloging in Enterprise Applications",
-    "source": "C-sharpcorner.com",
-    "publication_date": "2026-06-18T04:59:50Z",
-    "url": "https://www.c-sharpcorner.com/article/ai-powered-api-discovery-and-cataloging-in-enterprise-applications/",
-    "article_text": "Introduction\r\nModern enterprises rely heavily on APIs to connect applications, integrate services, enable automation, and support digital transformation initiatives. As organizations grow, the number… [+8931 chars]"
-  },
-  {
-    "id": "cfd3fe9bdb3e9cda",
-    "title": " World Cup highlights: England, Croatia in top game, Ghana sweat",
-    "source": "Onefootball.com",
-    "publication_date": "2026-06-18T04:59:00Z",
-    "url": "https://onefootball.com/en/news/world-cup-highlights-england-croatia-in-top-game-ghana-sweat-43024125",
-    "article_text": "England and Croatia delivered what was probably the best match of the World Cup so far late on Wednesday evening. Thanks in no small part to an outstanding Harry Kane, the Three Lions ultimately triu… [+376 chars]"
-  },
-  {
-    "id": "c0a0abe6a8866d1f",
-    "title": "AI-Driven Knowledge Base Maintenance: Keeping Enterprise Content Fresh",
-    "source": "C-sharpcorner.com",
-    "publication_date": "2026-06-18T04:58:57Z",
-    "url": "https://www.c-sharpcorner.com/article/ai-driven-knowledge-base-maintenance-keeping-enterprise-content-fresh/",
-    "article_text": "Introduction\r\nKnowledge bases are at the heart of modern enterprises. Organizations rely on documentation, policies, procedures, technical guides, support articles, and operational manuals to share i… [+8709 chars]"
-  },
-  {
-    "id": "c6787fe577b0adec",
-    "title": "Building AI-Powered Onboarding Assistants for Engineering Teams",
-    "source": "C-sharpcorner.com",
-    "publication_date": "2026-06-18T04:58:38Z",
-    "url": "https://www.c-sharpcorner.com/article/building-ai-powered-onboarding-assistants-for-engineering-teams/",
-    "article_text": "Introduction\r\nOne of the biggest challenges facing engineering organizations is onboarding new developers efficiently. Modern software systems are complex, often consisting of multiple repositories, … [+9264 chars]"
-  },
-  {
-    "id": "75a292cee3c0e5a3",
-    "title": "Implementing AI-Powered Data Classification Systems Using .NET",
-    "source": "C-sharpcorner.com",
-    "publication_date": "2026-06-18T04:57:35Z",
-    "url": "https://www.c-sharpcorner.com/article/implementing-ai-powered-data-classification-systems-using-net/",
-    "article_text": "Introduction\r\nOrganizations generate and process massive volumes of data every day. Customer records, financial reports, contracts, emails, support tickets, healthcare documents, and internal communi… [+8745 chars]"
-  },
-  {
-    "id": "8125b1defbb718c2",
-    "title": "Prompt Caching vs Semantic Caching: Performance Optimization Strategies for Enterprise AI Applications",
-    "source": "C-sharpcorner.com",
-    "publication_date": "2026-06-18T04:57:11Z",
-    "url": "https://www.c-sharpcorner.com/article/prompt-caching-vs-semantic-caching-performance-optimization-strategies-for-ente/",
-    "article_text": "Introduction\r\nAs enterprise AI adoption grows, organizations are increasingly focused on optimizing the performance, scalability, and cost of their AI systems. Large Language Models (LLMs) deliver po… [+8392 chars]"
-  },
-  {
-    "id": "d29125435f9ffed5",
-    "title": "️ We can face any rival: the best of Aguirre's press conference",
-    "source": "Onefootball.com",
-    "publication_date": "2026-06-18T04:57:00Z",
-    "url": "https://onefootball.com/en/news/we-can-face-any-rival-the-best-of-aguirres-press-conference-43024122",
-    "article_text": "The Mexican National Team faces its second Group A match at the 2026 World Cup. After beating South Africa 2-0 in its opener, El Tri will take on South Korea this Thursday, June 18, at Guadalajara St… [+1275 chars]"
-  },
-  {
-    "id": "9f99257527540ab6",
-    "title": "tend 0.1.6",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-18T04:56:56Z",
-    "url": "https://pypi.org/project/tend/0.1.6/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "879a93f30fb800ef",
-    "title": "Context Compression Techniques for Enterprise AI Applications",
-    "source": "C-sharpcorner.com",
-    "publication_date": "2026-06-18T04:56:39Z",
-    "url": "https://www.c-sharpcorner.com/article/context-compression-techniques-for-enterprise-ai-applications/",
-    "article_text": "Introduction\r\nOne of the biggest challenges when building enterprise AI applications is managing context efficiently. Large Language Models (LLMs) rely on context to understand user requests, generat… [+8777 chars]"
-  },
-  {
-    "id": "97fed192c488a176",
-    "title": "autorubric 1.5.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-18T04:56:32Z",
-    "url": "https://pypi.org/project/autorubric/1.5.1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "3d0741d93f12fa41",
-    "title": "AI Reliability Engineering: Preventing Hallucinations in Production Systems",
-    "source": "C-sharpcorner.com",
-    "publication_date": "2026-06-18T04:56:21Z",
-    "url": "https://www.c-sharpcorner.com/article/ai-reliability-engineering-preventing-hallucinations-in-production-systems/",
-    "article_text": "Introduction\r\nAs organizations move Artificial Intelligence from experimentation to production, reliability has become one of the most important concerns for development teams. While Large Language M… [+8185 chars]"
-  },
-  {
-    "id": "5b581e57338e927e",
-    "title": "How to Build AI-Powered Requirements Analysis Systems with .NET",
-    "source": "C-sharpcorner.com",
-    "publication_date": "2026-06-18T04:55:52Z",
-    "url": "https://www.c-sharpcorner.com/article/how-to-build-ai-powered-requirements-analysis-systems-with-net/",
-    "article_text": "Introduction\r\nOne of the most common reasons software projects face delays, budget overruns, or quality issues is poorly defined requirements. Business requirements often arrive in the form of emails… [+8557 chars]"
-  },
-  {
-    "id": "940a360dbc8114d0",
-    "title": "Building AI-Powered Data Validation Pipelines in ASP.NET Core",
-    "source": "C-sharpcorner.com",
-    "publication_date": "2026-06-18T04:55:35Z",
-    "url": "https://www.c-sharpcorner.com/article/building-ai-powered-data-validation-pipelines-in-asp-net-core/",
-    "article_text": "Introduction\r\nData is the foundation of every modern application. Whether data originates from web forms, APIs, databases, IoT devices, or third-party integrations, ensuring its accuracy and consiste… [+7653 chars]"
-  },
-  {
-    "id": "6846cac08e57076d",
-    "title": "open-data-products 0.2.5",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-18T04:55:21Z",
-    "url": "https://pypi.org/project/open-data-products/0.2.5/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "f81a272224076e7d",
-    "title": "Will Zee Entertainment’s FIFA World Cup deal turn the needle for its 3.3 crore shareholders?",
-    "source": "The Times of India",
-    "publication_date": "2026-06-18T04:55:17Z",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-zee-entertainments-fifa-world-cup-deal-turn-the-needle-for-its-3-3-crore-shareholders/articleshow/131817713.cms",
-    "article_text": "It was perhaps the first time in India that, until the final stretch, the country did not have an official broadcasting partner for what is arguably the world's biggest sporting event: the FIFA World… [+7125 chars]"
-  },
-  {
-    "id": "e26379cf2f318ad8",
-    "title": "Anthropic Is Bringing Together AI Design and Coding in Claude - CNET",
-    "source": "Slashdot.org",
-    "publication_date": "2026-06-18T04:52:06Z",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183955952",
-    "article_text": "Top Ten Things Overheard At The ANSI C Draft Committee Meetings:\r\n (5) All right, who's the wiseguy who stuck this trigraph stuff in\r\n here?"
-  },
-  {
-    "id": "358461c9906f511b",
-    "title": "tau-by-clarity 0.55.11",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-18T04:49:46Z",
-    "url": "https://pypi.org/project/tau-by-clarity/0.55.11/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "da1d6fac5481ed0d",
-    "title": "Nvidia Supplier SK Hynix Ships Next-Generation HBM Memory Samples To Major Customers",
+    "id": "c51db52c2595861c",
+    "title": "Microsoft expands AI business in China, with ByteDance emerging as top customer",
     "source": "Biztoc.com",
-    "publication_date": "2026-06-18T04:49:14Z",
-    "url": "https://biztoc.com/x/a5aa54f41480a7e6",
-    "article_text": "On Wednesday, Nvidia Corp (NASDAQ:NVDA) supplier SK Hynix began shipping samples of its latest high-bandwidth memory, or HBM, chips to major customers.SK Hynix Unveils Advanced HBM4E Memory For AI Wo… [+145 chars]"
+    "publication_date": "2026-06-18T15:45:17Z",
+    "url": "https://biztoc.com/x/f80d86f17642d927",
+    "article_text": "Microsoft Corp (NASDAQ:MSFT) is expanding its artificial intelligence business in China, with ByteDance expected to spend more than $1 billion annually on the company's AI and cloud services, accordi… [+150 chars]"
   },
   {
-    "id": "951c43642c1b1990",
-    "title": "JPMorgan said to block Anthropic use for Hong Kong staff",
+    "id": "29abc281980dee86",
+    "title": "Huawei regional president Terry calls on Minister Dr Timilsina",
+    "source": "Khabarhub.com",
+    "publication_date": "2026-06-18T15:45:05Z",
+    "url": "https://english.khabarhub.com/2026/18/554520/",
+    "article_text": "KATHMANDU:  A delegation led by president of the Asia Pacific Region of Chinese company, Huawei, Terry He, paid a courtesy call on Minister for Information and Communications, Dr Bikram Timilsina, on… [+1872 chars]"
+  },
+  {
+    "id": "4fc2ca3ee383b416",
+    "title": "Pennsylvania Approves Bill To Force Companies To Disclose AI In Ads",
+    "source": "The Daily Caller",
+    "publication_date": "2026-06-18T15:45:02Z",
+    "url": "https://dailycaller.com/2026/06/18/pennsylvania-approves-bill-to-force-companies-disclose-ai-ads/",
+    "article_text": "The Pennsylvania House of Representatives approved a bill Wednesday that would mandate companies disclose all artificial intelligence-generated content used to sell consumer goods.\r\nThe legislation, … [+2933 chars]"
+  },
+  {
+    "id": "2b842bf57b2c1190",
+    "title": "0G Private Computer Launches GLM-5.2 for Private, Verifiable AI Coding",
+    "source": "GlobeNewswire",
+    "publication_date": "2026-06-18T15:45:00Z",
+    "url": "https://www.globenewswire.com/news-release/2026/06/18/3314381/0/en/0G-Private-Computer-Launches-GLM-5-2-for-Private-Verifiable-AI-Coding.html",
+    "article_text": "San Francisco, CA, June 18, 2026 (GLOBE NEWSWIRE) -- 0G Labs, the blockchain for AI agents, today announced that GLM-5.2, the newly open-sourced large language model from Z.ai, is now live on 0G Priv… [+2719 chars]"
+  },
+  {
+    "id": "864c93d5f6fcbf71",
+    "title": "The Philosophical Consequences Of Simulations",
+    "source": "Hedgehogreview.com",
+    "publication_date": "2026-06-18T15:44:00Z",
+    "url": "https://hedgehogreview.com/issues/humanism-in-a-posthumanist-age/articles/the-consolations-of-simulation",
+    "article_text": "Back a few years ago, when I was teaching a large survey course on moral reasoning, I happened to mention the simulation hypothesis. Immediately, to my surprise, my otherwise sleepy students clocked … [+35044 chars]"
+  },
+  {
+    "id": "0c77e60a8c1fb5d8",
+    "title": "Important Notice to Long-Term Shareholders of Commvault Systems, Inc. (NASDAQ: CVLT); LKQ Corporation (NASDAQ: LKQ); Phreesia, Inc. (NYSE: PHR); and Power Solutions International, Inc. (NASDAQ: PSIX): Grabar Law Office is Investigating Claims on Your Behalf",
+    "source": "GlobeNewswire",
+    "publication_date": "2026-06-18T15:43:00Z",
+    "url": "https://www.globenewswire.com/news-release/2026/06/18/3314378/0/en/Important-Notice-to-Long-Term-Shareholders-of-Commvault-Systems-Inc-NASDAQ-CVLT-LKQ-Corporation-NASDAQ-LKQ-Phreesia-Inc-NYSE-PHR-and-Power-Solutions-International-Inc-NASDAQ-PSIX-G.html",
+    "article_text": "PHILADELPHIA, June 18, 2026 (GLOBE NEWSWIRE) -- \r\nCOMMVAULT SYSTEMS, INC. (NASDAQ: CVLT)\r\n:\r\nWHAT IS HAPPENING? Grabar Law Office is investigating claims on behalf of shareholders of Commvault System… [+8939 chars]"
+  },
+  {
+    "id": "b6495e10dd64490e",
+    "title": "Michael Burry Called the 2008 Crash. Now He’s Shorting Nvidia to Buy This Boring Healthcare Stock",
     "source": "Biztoc.com",
-    "publication_date": "2026-06-18T04:49:14Z",
-    "url": "https://biztoc.com/x/ac8da963d36a00f7",
-    "article_text": "JPMorgan Chase has prevented the use of Anthropic's artificial intelligence (AI) models by its staff in Hong Kong, the Financial Times reported on Thursday, citing three people familiar with the situ… [+69 chars]"
+    "publication_date": "2026-06-18T15:42:21Z",
+    "url": "https://biztoc.com/x/9b643339ea92cab0",
+    "article_text": "The post Michael Burry Called the 2008 Crash. Now Hes Shorting Nvidia to Buy This Boring Healthcare Stock. appeared first on 24/7 Wall St.. \r\nNvidia (NVDA) faces bear-case headwinds from historically… [+137 chars]"
   },
   {
-    "id": "1ef4ae0a7a0968ff",
-    "title": "UAE’s push towards agentic AI raises stakes for governance and accountability",
-    "source": "ComputerWeekly.com",
-    "publication_date": "2026-06-18T04:49:00Z",
-    "url": "https://www.computerweekly.com/news/366644823/UAEs-push-towards-agentic-AI-raises-stakes-for-governance-and-accountability",
-    "article_text": "The UAEs ambition to become a global leader in artificial intelligence (AI) is entering a new phase as government agencies move beyond AI experimentation towards large-scale deployment of autonomous,… [+6638 chars]"
+    "id": "11f261e6e729c180",
+    "title": "Ask AI: \"Describe the Life Of James Richman in 1835 At Age 14 in Hilperton, Wiltshire\"",
+    "source": "Blogger.com",
+    "publication_date": "2026-06-18T15:42:00Z",
+    "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/26204193/2157779072043637790",
+    "article_text": "I wondered if the FREE AI tools could provide me with information about a young boy's life in  Hilperton, Wiltshire in 1835.  My 2nd great-grandfather, James Richman (1821-1912) was age 14 in 1835.  … [+17120 chars]"
   },
   {
-    "id": "1c8aa221c54eb9b1",
-    "title": "ENISA meets Anthropic amid US export controls on AI models",
+    "id": "40b4daa54fbba172",
+    "title": "Show HN: Pi Extension to Maximize AI Credits Across Cursor, Codex, ClaudeCode",
+    "source": "Github.com",
+    "publication_date": "2026-06-18T15:41:44Z",
+    "url": "https://github.com/sathish316/pi-omniagent-extensions/",
+    "article_text": "All four files do the same job: they let Pi (the host coding agent) drive another coding agent's CLI as if it were just another model in Pi's /model picker. It uses ACP (https://agentclientprotocol.c… [+2036 chars]"
+  },
+  {
+    "id": "fe38c50413b6141f",
+    "title": "I asked ChatGPT to turn me into a 1990s action figure — and it remembered things I'd forgotten",
+    "source": "TechRadar",
+    "publication_date": "2026-06-18T15:40:38Z",
+    "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-asked-chatgpt-to-turn-me-into-a-1990s-action-figure-and-it-remembered-things-id-forgotten",
+    "article_text": "Recently I asked ChatGPT to turn a childhood photo of me into a 1990s action figure. The surprising part wasn't the image itself. It was that the AI chose accessories that accurately reflected my chi… [+4812 chars]"
+  },
+  {
+    "id": "39acd31e418b5252",
+    "title": "pynims added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-18T15:40:14Z",
+    "url": "https://pypi.org/project/pynims/",
+    "article_text": "Python client and CLI (command-line interface) for the USGS NIMS (National Imagery Management System) API. Use it to query camera metadata, list and download imagery, and construct image URLs from Py… [+4054 chars]"
+  },
+  {
+    "id": "2579467386de9b53",
+    "title": "It’s official — the Google Nest Audio and Nest Mini are dead, here’s what that means for current owners",
+    "source": "TechRadar",
+    "publication_date": "2026-06-18T15:38:49Z",
+    "url": "https://www.techradar.com/home/smart-speakers/its-official-the-google-nest-audio-and-nest-mini-are-dead-heres-what-that-means-for-current-owners",
+    "article_text": "<ul><li>Google is officially retiring its range of Nest Audio speakers</li><li>That includes the Google Nest Audio and the Google Nest Mini</li><li>They’ll be replaced by the Google Home Speaker when… [+2643 chars]"
+  },
+  {
+    "id": "bf81f98c60c88bec",
+    "title": "modular 26.4.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-18T15:38:34Z",
+    "url": "https://pypi.org/project/modular/26.4.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "3561f941ee65a868",
+    "title": "HyperLight Announces $80 Million Series C to Accelerate TFLN Deployment for AI Infrastructure",
+    "source": "Financial Post",
+    "publication_date": "2026-06-18T15:38:28Z",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/hyperlight-announces-80-million-series-c-to-accelerate-tfln-deployment-for-ai-infrastructure",
+    "article_text": "THIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Exclusive articles from Barbara Shecter, Joe O'Connor, Gabriel Friedman, … [+5511 chars]"
+  },
+  {
+    "id": "189345fbef8d5b96",
+    "title": "Federal regulators back Trump's plan to speed power to energy-hungry AI data centers",
+    "source": "seattlepi.com",
+    "publication_date": "2026-06-18T15:38:01Z",
+    "url": "https://www.seattlepi.com/business/article/federal-regulators-back-trump-s-plan-to-speed-22311104.php",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "c48ce7cb863f47a1",
+    "title": "Microsoft Corporation Investigated by the Portnoy Law Firm",
+    "source": "GlobeNewswire",
+    "publication_date": "2026-06-18T15:38:00Z",
+    "url": "https://www.globenewswire.com/news-release/2026/06/18/3314372/0/en/Microsoft-Corporation-Investigated-by-the-Portnoy-Law-Firm.html",
+    "article_text": "LOS ANGELES, June 18, 2026 (GLOBE NEWSWIRE) -- The Portnoy Law Firm advises Microsoft Corporation, (Microsoft\" or the \"Company\") (NASDAQ: MSFT) investors that the firm has initiated an investigation … [+2825 chars]"
+  },
+  {
+    "id": "e5d88eb2afb2f6aa",
+    "title": "Jeff Bezos Predicts AI Will Create Labor Shortage, Not Mass Unemployment",
+    "source": "Breitbart News",
+    "publication_date": "2026-06-18T15:37:25Z",
+    "url": "https://www.breitbart.com/tech/2026/06/18/jeff-bezos-predicts-ai-will-create-labor-shortage-not-mass-unemployment/",
+    "article_text": "Amazon founder Jeff Bezos challenged widespread concerns about AI eliminating jobs during a recent interview, arguing instead that the technology will generate unprecedented demand for human workers.… [+3643 chars]"
+  },
+  {
+    "id": "1ecc85ffc45520b8",
+    "title": "Federal regulators back Trump's plan to speed power to energy-hungry AI data centers",
+    "source": "WJXT News4JAX",
+    "publication_date": "2026-06-18T15:32:35Z",
+    "url": "https://www.news4jax.com/business/2026/06/18/federal-regulators-back-trumps-plan-to-speed-power-to-energy-hungry-ai-data-centers/",
+    "article_text": "WASHINGTON Federal regulators on Thursday ordered regional grid operators to help large energy users connect more quickly to the nations inefficient and aging electric transmission system, a step the… [+6581 chars]"
+  },
+  {
+    "id": "4582fa80045efa21",
+    "title": "Regulators back Trump plan to speed power to energy-hungry AI data centers",
+    "source": "Associated Press",
+    "publication_date": "2026-06-18T15:30:24Z",
+    "url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
+    "article_text": "WASHINGTON (AP) Federal regulators on Thursday agreed to let large energy users connect more quickly to the nations inefficient and electric transmission system to accommodate surging demand from pow… [+5060 chars]"
+  },
+  {
+    "id": "e44fc2dd1bfe5542",
+    "title": "Forefront Tech Holdings Acquisition Corp Announces the Separate Trading of its Class A Ordinary Shares and Warrants, Commencing June 22, 2026",
+    "source": "GlobeNewswire",
+    "publication_date": "2026-06-18T15:30:00Z",
+    "url": "https://www.globenewswire.com/news-release/2026/06/18/3314367/0/en/Forefront-Tech-Holdings-Acquisition-Corp-Announces-the-Separate-Trading-of-its-Class-A-Ordinary-Shares-and-Warrants-Commencing-June-22-2026.html",
+    "article_text": "GRAND CAYMAN, CAYMAN ISLANDS, June 18, 2026 (GLOBE NEWSWIRE) -- Forefront Tech Holdings Acquisition Corp (NASDAQ: FTHAU) (the Company) today announced that commencing June 22, 2026, holders of the un… [+3647 chars]"
+  },
+  {
+    "id": "8da8141e8b4fbc11",
+    "title": "Robo.ai To Acquire QC Capital In $60 Million All-Stock Deal",
+    "source": "Biztoc.com",
+    "publication_date": "2026-06-18T15:29:14Z",
+    "url": "https://biztoc.com/x/a3da0eac526d38ec",
+    "article_text": "Robo.ai Inc. (NASDAQ:AIIO) announced Thursday that it has signed an agreement to acquire QC Capital Limited in a proposed $60 million all-stock deal. The acquisition supports the companys plan to exp… [+136 chars]"
+  },
+  {
+    "id": "2075d92c45331e35",
+    "title": "iconoscope added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-18T15:28:46Z",
+    "url": "https://pypi.org/project/iconoscope/",
+    "article_text": "iconoscope is a python package for exploring image collections using visual similarity based on image embeddings extracted from models like CLIP and DINOv2/3. Embeddings can be used to generate a mos… [+1949 chars]"
+  },
+  {
+    "id": "c7f03aac4d5fa403",
+    "title": "Tim Cook Says Apple Is About to Get Swamped By a “100-Year Flood”",
+    "source": "Biztoc.com",
+    "publication_date": "2026-06-18T15:27:45Z",
+    "url": "https://biztoc.com/x/a91eaaa6805d9e98",
+    "article_text": "The post Tim Cook Says Apple Is About to Get Swamped By a 100-Year Flood appeared first on 24/7 Wall St..The artificial intelligence boom is reshaping more than just software. It is rewriting the eco… [+137 chars]"
+  },
+  {
+    "id": "e1b273b4bd7b21be",
+    "title": "openai-420 added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-18T15:27:22Z",
+    "url": "https://pypi.org/project/openai-420/",
+    "article_text": "Download the file for your platform. If you're not sure which to choose, learn more about installing packages. \r\nSource Distribution \r\nBuilt Distribution \r\nFilter files by name, interpreter, ABI, and… [+144 chars]"
+  },
+  {
+    "id": "cb087ac3d4a1d177",
+    "title": "Dario Amodei only has 1 direct report, his chief of staff—and everyone else reports to his sister: ‘It’s incredibly freeing’",
+    "source": "Biztoc.com",
+    "publication_date": "2026-06-18T15:26:34Z",
+    "url": "https://biztoc.com/x/ad3bea59f41872a5",
+    "article_text": "Dario Amodei has built Anthropic, the company behind Claude, into one of the most successful startups in historyreaching a staggering $965 billion valuation and positioning the company for an IPO.And… [+138 chars]"
+  },
+  {
+    "id": "3c68e37c55a2d717",
+    "title": "Chaos Vantage 3.3.0 Win",
+    "source": "Cgpersia.com",
+    "publication_date": "2026-06-18T15:26:16Z",
+    "url": "https://cgpersia.com/2026/06/chaos-vantage-3-3-0-win-203906.html",
+    "article_text": "Chaos Vantage 3.3.0 Win\r\nInfo:\r\nTransform your 3D scenes with Chaos Vantage, the real-time GPU-accelerated renderer up to 10x faster. Compatible with V-Ray and Corona, it uses pure raytracing for hig… [+985 chars]"
+  },
+  {
+    "id": "04ec8a5ca2b12de7",
+    "title": "Black-Box AI Forces CFOs to Write a New Audit Playbook",
+    "source": "pymnts.com",
+    "publication_date": "2026-06-18T15:25:58Z",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/black-box-ai-forces-cfos-to-write-a-new-audit-playbook/",
+    "article_text": "Innovations typically work best when they feel invisible to the end user. But for finance teams, innovations work best when they are explainable.That has put enterprise artificial intelligence and CF… [+5716 chars]"
+  },
+  {
+    "id": "ca951687c14e83a3",
+    "title": "Dow jumps 250 points as Wall Street tries to recover from Fed sell-off over interest rates, inflation fears",
+    "source": "New York Post",
+    "publication_date": "2026-06-18T15:25:46Z",
+    "url": "https://nypost.com/2026/06/18/business/dow-jumps-250-points-as-wall-street-tries-to-recover-from-fed-sell-off-over-interest-rates-inflation-fears/",
+    "article_text": "Stocks rose Thursday morning as Wall Street tried to recover from a sell-off the previous day, when Fed Chair Kevin Warsh came out with a tough, anti-inflation stance that spooked investors hoping fo… [+2770 chars]"
+  },
+  {
+    "id": "c0e6e34608c65b91",
+    "title": "Scammers Now Selling Fake NVIDIA RTX Graphics Cards With Glued-Down Plastic GPUs & Scrap Memory",
+    "source": "Wccftech",
+    "publication_date": "2026-06-18T15:25:21Z",
+    "url": "https://wccftech.com/scammers-selling-fake-nvidia-rtx-graphics-cards-glued-plastic-gpus-scrap-memory/",
+    "article_text": "More Fake GPUs are circulating online marketplaces, which use plastic chips to imitate NVIDIA RTX GPUs and scrap memory dies.\r\nOver the years, we have seen several instances of fake graphics cards ap… [+3199 chars]"
+  },
+  {
+    "id": "80997f42e4809ec3",
+    "title": "BStocks integration goes live on Lista DAO, turning tokenized stocks into DeFi collateral",
     "source": "Crypto Briefing",
-    "publication_date": "2026-06-18T04:44:55Z",
-    "url": "https://cryptobriefing.com/enisa-anthropic-us-ai-export-controls/",
-    "article_text": "The EU's cybersecurity agency is sitting down with Anthropic just days after the US forced the company to suspend access to its most advanced AI models for foreign nationals The European Union Agency… [+2502 chars]"
+    "publication_date": "2026-06-18T15:23:49Z",
+    "url": "https://cryptobriefing.com/bstocks-lista-dao-defi-integration/",
+    "article_text": "Binance's tokenized US securities can now be used for borrowing and yield farming on BNB Chain's largest lending protocol Tokenized versions of NVIDIA, Tesla, and Micron shares can now do something t… [+3187 chars]"
   },
   {
-    "id": "310b19f5e82d6c35",
-    "title": "☕️ FC breakfast: Giroud  shock in Norway  Da Fonseca ",
-    "source": "Onefootball.com",
-    "publication_date": "2026-06-18T04:44:00Z",
-    "url": "https://onefootball.com/en/news/fc-breakfast-giroud-shock-in-norway-da-fonseca-43024111",
-    "article_text": "After being stripped of the title of the all-time top scorer for Les Bleus, Olivier Giroud sent a little message to Kylian Mbappé via LOSC's Twitter account. Nice!\r\nYou may have missed it in the midd… [+816 chars]"
+    "id": "2897ed6f9711db1f",
+    "title": "US government to fast-track grid connections for AI data centers",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-06-18T15:21:28Z",
+    "url": "https://cryptobriefing.com/us-fast-track-grid-ai-data-centers/",
+    "article_text": "FERC plans to cut approval timelines to 60 days as AI electricity demand overwhelms the existing interconnection queue The Federal Energy Regulatory Commission announced plans on June 18, 2026, to ex… [+2699 chars]"
   },
   {
-    "id": "3f202b9f75f82c6f",
-    "title": " CR7: horror numbers, is he still an asset for Portugal? ",
-    "source": "Onefootball.com",
-    "publication_date": "2026-06-18T04:42:00Z",
-    "url": "https://onefootball.com/en/news/cr7-horror-numbers-is-he-still-an-asset-for-portugal-43024109",
-    "article_text": "Cristiano Ronaldo wasnt obliged to answer Messi, or at least he didnt have to do it with a hat-trick: pulling it off would have been even more epochal than what we saw in Argentina-Algeria.\r\nBut from… [+2155 chars]"
+    "id": "d41dfdb2d29b9dbf",
+    "title": "What GE Vernova Stock's Shadow Backlog Was Saying Before The Surge",
+    "source": "Trefis",
+    "publication_date": "2026-06-18T15:21:25Z",
+    "url": "https://www.trefis.com/articles/603586/what-ge-vernova-stocks-shadow-backlog-was-saying-before-the-surge/2026-06-18",
+    "article_text": "Trefis: GEV Stock Insights\r\nThe official order book was only half the story; the real tell was hiding in a different, less-watched number that quantified the data center boom before it became the mai… [+3526 chars]"
   },
   {
-    "id": "5da04ecc419ea996",
-    "title": "lmcache 0.4.8rc4",
+    "id": "e9fb0e5735bb4c94",
+    "title": "Hsiao-Wei Wang resigns as co-executive director of Ethereum Foundation",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-06-18T15:21:22Z",
+    "url": "https://cryptobriefing.com/hsiao-wei-wang-resigns-ethereum-foundation/",
+    "article_text": "The departure marks the second co-executive director exit in months, continuing a turbulent stretch of leadership turnover at Ethereum's steward organization Hsiao-Wei Wang has stepped down as co-exe… [+2172 chars]"
+  },
+  {
+    "id": "908171d0dcfd596d",
+    "title": "AI cuts tech project times from years to months, says Deutsche Bank exec",
+    "source": "The Times of India",
+    "publication_date": "2026-06-18T15:20:57Z",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-cuts-tech-project-times-from-years-to-months-says-deutsche-bank-exec/articleshow/131834797.cms",
+    "article_text": "Artificial intelligence is accelerating productivity at Deutsche Bank, enabling tasks that once took years to be completed within months, a senior executive said on Thursday.The German lender is usin… [+2007 chars]"
+  },
+  {
+    "id": "3020abb0d93b4eef",
+    "title": "General Intuition in talks to raise $300M at around $2B valuation | TechCrunch",
+    "source": "TechCrunch",
+    "publication_date": "2026-06-18T15:20:37Z",
+    "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+    "article_text": "General Intuition, the New York-based startup building a foundation model that trains AI agents how to move through space and time, is in talks to raise around $300 million, sources familiar with the… [+2135 chars]"
+  },
+  {
+    "id": "c1f5b51b3083e819",
+    "title": "The alarming details behind a 14-year-old’s random murder of a retired teacher in Ontario",
+    "source": "National Post",
+    "publication_date": "2026-06-18T15:20:25Z",
+    "url": "https://nationalpost.com/news/the-alarming-details-behind-a-14-year-olds-random-murder-of-a-retired-teacher-in-ontario",
+    "article_text": "Four minutes before he stopped in front of Doneys house he was scrolling through various web sites and social media. Soon after he killed Doney, he continued watching YouTube, including clips from th… [+3534 chars]"
+  },
+  {
+    "id": "bb2e33fc0b39360b",
+    "title": "Study: Almost 80% of Global Data Centers Face Climate Threat",
+    "source": "Newser",
+    "publication_date": "2026-06-18T15:20:00Z",
+    "url": "https://www.newser.com/story/391292/study-almost-80-of-global-data-centers-face-climate-threat.html",
+    "article_text": "First Street criticizes insurers and investors for relying on historical weather data that no longer reflects the reality of the changing climate. \"The climate is no longer behaving the way the histo… [+859 chars]"
+  },
+  {
+    "id": "007b429a0b88bd15",
+    "title": "Show HN: Oh – verbatim memory and insights of all your past vibecoding sessions",
+    "source": "Vercel.app",
+    "publication_date": "2026-06-18T15:19:46Z",
+    "url": "https://oh-landing-mu.vercel.app/",
+    "article_text": "Oh.\r\nYour AI coding is a black box. Oh turns it into a mirror.\r\nAfter every Claude Code and Codex session, Oh shows you where your time and tokens went and quotes your own words back at the moment th… [+11637 chars]"
+  },
+  {
+    "id": "920baf6f2d33dd57",
+    "title": "BCE reaches deal to provide Cohere with AI computing power",
+    "source": "Financial Post",
+    "publication_date": "2026-06-18T15:19:42Z",
+    "url": "https://financialpost.com/telecom/bce-provide-cohere-ai-computing",
+    "article_text": "BCE Inc. reached a deal with Cohere Inc. and other Canadian firms to provide data centre capacity and compute to operate artificial intelligence models, continuing the telecom companys push to expand… [+3442 chars]"
+  },
+  {
+    "id": "9f2727239d360ea1",
+    "title": "mfai 7.3.0",
     "source": "Pypi.org",
-    "publication_date": "2026-06-18T04:40:54Z",
-    "url": "https://pypi.org/project/lmcache/0.4.8rc4/",
+    "publication_date": "2026-06-18T15:19:14Z",
+    "url": "https://pypi.org/project/mfai/7.3.0/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "6bfb869e958ebfaa",
+    "title": "InCor inaugurates CESIN: Unprecedented complex that integrates technology, science and high performance training",
+    "source": "Associated Press",
+    "publication_date": "2026-06-18T15:19:05Z",
+    "url": "https://apnews.com/press-release/pr-newswire/press-release-c38b579363ed50f987c439ae67a9a3a0",
+    "article_text": "New complex of the Heart Institute (InCor-HCFMUSP) strengthens the training of professionals and the qualification of public health care in Brazil, by integrating immersive clinical simulation based … [+6668 chars]"
+  },
+  {
+    "id": "7fcb1f67abb8e16d",
+    "title": "Meta’s Dina Powell McCormick taps Wall Street connections to fund AI infrastructure push",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-06-18T15:17:42Z",
+    "url": "https://cryptobriefing.com/meta-dina-powell-mccormick-ai-funding/",
+    "article_text": "The former Goldman Sachs executive and new Meta president is leveraging decades of financial relationships to secure capital for the company's massive AI buildout When you need to raise enormous sums… [+2173 chars]"
+  },
+  {
+    "id": "8a436ad9e6578b61",
+    "title": "Daily Search Forum Recap: June 18, 2026",
+    "source": "Seroundtable.com",
+    "publication_date": "2026-06-18T15:17:06Z",
+    "url": "https://www.seroundtable.com/recap-06-18-2026-41528.html",
+    "article_text": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web.\r\nGoogle says to add all domain variations to the Chan… [+5084 chars]"
+  },
+  {
+    "id": "c431a6df4be3c2af",
+    "title": "Show HN: Talking to My Terminal with Local Speech-to-Text and Pi Coding Agent",
+    "source": "Agenticcodingweekly.com",
+    "publication_date": "2026-06-18T15:16:57Z",
+    "url": "https://www.agenticcodingweekly.com/p/talking-to-my-terminal-with-local-speech-to-text-and-pi-coding-agent",
+    "article_text": "I set up two terminal commands I can talk to, , and q. I enter , in terminal, hit Enter, say what I want, it gives me back the shell command. With q command, I ask a question out loud, and an LLM ans… [+5128 chars]"
+  },
+  {
+    "id": "8e7f28a08978fa9a",
+    "title": "Show HN: Give Your ORM Superpowers",
+    "source": "Github.com",
+    "publication_date": "2026-06-18T15:16:31Z",
+    "url": "https://github.com/neul-labs/ormai",
+    "article_text": "Give your AI agents database access without the risk.\r\nOrmAI wraps your existing ORM models in a policy-enforced runtime. Your agents get typed tools for querying and writing data while you keep cont… [+7258 chars]"
+  },
+  {
+    "id": "0e48288dfe0379be",
+    "title": "Startup pioneers early-stage ticker reservation model aimed at reviving the public-company mindset",
+    "source": "SiliconANGLE News",
+    "publication_date": "2026-06-18T15:15:00Z",
+    "url": "https://siliconangle.com/2026/06/18/startup-pioneers-early-stage-ticker-reservation-model-aimed-reviving-public-company-mindset/",
+    "article_text": "A venture-backed startup is introducing a new milestone to the startup playbook: reserving a stock ticker symbol years before an initial public offering.\r\nOrnn AI Inc., a company focused on bringing … [+7410 chars]"
   }
 ]
