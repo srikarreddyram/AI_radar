@@ -24,6 +24,9 @@ Abstract: Self-play reinforcement learning has recently emerged as a way to trai
 a1e855bd-82cb-4168-b2d4-f32d8a7b25f2,"Fri, 19 Ju",GPU_RELEASE,Emyx,,,arXiv cs.LG,https://arxiv.org/abs/2606.19377,"arXiv:2606.19377v1 Announce Type: new 
 Abstract: Computational enzyme design requires generating proteins that scaffold catalytic residues and ligands, a task that demands both geometric accuracy and structural diversity from the underlying generative model. Current all-atom generators inherit ex...",Emyx: Fast and efficient all-atom protein generation,
 674ab0dc-776f-4041-8076-4952eaa91e92,"Fri, 12 Ju",GPU_RELEASE,NVIDIA,,,NVIDIA Blog,https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/,"AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance ...",NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark,Blackwell Ultra
+7a79c161-3f87-44fe-95af-f4cca2c51742,2026-06-18,GPU_RELEASE,GPU,,Corona,Cgpersia.com,https://cgpersia.com/2026/06/chaos-vantage-3-3-0-win-203906.html,"Chaos Vantage 3.3.0 Win
+Info:
+Transform your 3D scenes with Chaos Vantage, the real-time GPU-accelerated renderer up to 10x faster. Compatible with V-Ray and Corona, it uses pure raytracing for hig… [+985 chars]",Chaos Vantage 3.3.0 Win,
 b0dd5f20-663d-49a6-94c9-3ca9cabfdba7,2026-06-17,GPU_RELEASE,,,,Pypi.org,https://pypi.org/project/swm-gpu/0.2.6/,"A required part of this site couldnt load. This may be due to a browser
  extension, network issues, or browser settings.",swm-gpu 0.2.6,
 ce6ef653-c599-4693-889d-14fd12cba445,2026-06-17,GPU_RELEASE,AI,,,Projecthuginn.com,https://www.projecthuginn.com,"Job Definition
