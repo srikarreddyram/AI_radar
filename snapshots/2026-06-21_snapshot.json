@@ -1,28 +1,28 @@
 {
   "snapshot_date": "2026-06-21",
-  "generated_at": "2026-06-21T06:54:48.218837+00:00",
-  "total_events": 802,
+  "generated_at": "2026-06-21T15:55:53.507778+00:00",
+  "total_events": 852,
   "category_distribution": {
-    "OTHER": 476,
-    "MODEL_RELEASE": 97,
+    "OTHER": 508,
+    "MODEL_RELEASE": 102,
     "RESEARCH_BREAKTHROUGH": 94,
-    "FUNDING_EVENT": 54,
-    "GPU_RELEASE": 34,
-    "DATACENTER_EXPANSION": 16,
+    "FUNDING_EVENT": 60,
+    "GPU_RELEASE": 40,
+    "DATACENTER_EXPANSION": 17,
     "POLICY_REGULATION": 14,
     "OUTAGE": 13,
     "SERVICE_UPDATE": 4
   },
   "top_companies": {
-    "": 170,
-    "Intel": 69,
-    "NVIDIA": 46,
+    "": 183,
+    "Intel": 72,
+    "NVIDIA": 53,
+    "AI": 38,
     "OpenAI": 36,
-    "AI": 35,
-    "Amazon": 30,
+    "Amazon": 32,
     "Anthropic": 24,
+    "Microsoft": 20,
     "Modal": 19,
-    "Microsoft": 19,
     "Google": 16,
     "Meta": 15,
     "Google DeepMind": 10,
@@ -36,11 +36,11 @@
     "Social Media\r\n'": 3
   },
   "csv_row_counts": {
-    "all_events": 802,
-    "model_releases": 97,
-    "gpu_releases": 34,
-    "funding_rounds": 54,
-    "datacenter_events": 16,
+    "all_events": 852,
+    "model_releases": 102,
+    "gpu_releases": 40,
+    "funding_rounds": 60,
+    "datacenter_events": 17,
     "outages": 13
   }
 }
