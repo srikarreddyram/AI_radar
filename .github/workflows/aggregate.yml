@@ -2,7 +2,7 @@ name: "📊 WF4: Daily Aggregation"
 
 on:
   schedule:
-    - cron: "0 2,14 * * *"  # 02:00 and 14:00 UTC daily
+    - cron: "16 4 * * *"  # 04:16 UTC
   workflow_dispatch:
 
 permissions:

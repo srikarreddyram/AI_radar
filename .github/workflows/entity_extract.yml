@@ -2,7 +2,7 @@ name: "🔍 WF3: Entity Extraction"
 
 on:
   schedule:
-    - cron: "30 1,13 * * *"  # 01:30 and 13:30 UTC daily
+    - cron: "14 4 * * *"  # 04:14 UTC
   workflow_dispatch:
 
 permissions:
