@@ -2,7 +2,7 @@ name: "🏷️ WF2: Daily Classification"
 
 on:
   schedule:
-    - cron: "12 4 * * *"  # 04:12 UTC
+    - cron: "0 1,13 * * *"  # 01:00 and 13:00 UTC daily
   workflow_dispatch:
 
 permissions:
