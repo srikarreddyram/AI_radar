@@ -34,8 +34,8 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "srikarreddyram"
+          git config user.email "srikarreddyram@users.noreply.github.com"
           git add -A
           git diff --staged --quiet || git commit -m "📊 aggregated datasets updated (${{ env.TOTAL || '0' }} total)"
           for i in 1 2 3 4 5; do git pull --rebase origin main && git push && break || sleep $((RANDOM % 5 + 1)); done
