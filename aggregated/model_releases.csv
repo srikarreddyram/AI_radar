@@ -190,6 +190,8 @@ d61113d9-41ba-45a0-9a38-1863966bd12e,2026-06-23,MODEL_RELEASE,,,,Pypi.org,https:
 0c85a938-48d5-4c4d-aca7-f6420ea51a8d,2026-06-23,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/distil-llm/0.12.0/,"A required part of this site couldnt load. This may be due to a browser
  extension, network issues, or browser settings.",distil-llm 0.12.0
 e78dee45-b24f-424e-b24d-62357af6eff6,2026-06-23,MODEL_RELEASE,OpenAI,GPT-5,,Internet,https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html,"OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative, the artificial intelligence (AI) company announced last mo… [+5818 chars]",OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws
+4093fc4c-d7d0-4be6-ac17-cbadc9ef1c0c,2026-06-23,MODEL_RELEASE,AI,,Minimal,Github.com,https://github.com/bartwojtowicz/videopython,"Minimal, LLM-friendly Python library for programmatic video editing, processing, and AI video workflows. Full documentation: videopython.com
+Disclaimer: This project started as a hand-written hobby… [+5250 chars]","Show HN: Videopython – local-first video processing, editing and AI workflows"
 ba8f5954-3f0f-496a-8153-c111966e1843,2026-06-22,MODEL_RELEASE,AI,Claude,,Pypi.org,https://pypi.org/project/oh-my-wiki/,A host-universal LLM-wiki you drive from your AI coding agent (Claude Code / Codex / Gemini). oh-my-wiki exposes exactly two surfaces.,oh-my-wiki added to PyPI
 78ff2d20-1148-47e4-b106-0dd800be616a,2026-06-22,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/distil-llm/0.5.0/,"A required part of this site couldnt load. This may be due to a browser
  extension, network issues, or browser settings.",distil-llm 0.5.0
