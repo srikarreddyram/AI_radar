@@ -4,7 +4,7 @@
 ![Last Updated](badges/last_updated.svg)
 
 > An automated data collection and intelligence platform tracking the AI infrastructure ecosystem.
-> **Last checked: 2026-06-23 at 17:20 UTC**
+> **Last checked: 2026-06-24 at 06:52 UTC**
 
 ---
 
@@ -12,39 +12,39 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Events** | 1064 |
-| **Events (7 days)** | 616 |
-| **Events (30 days)** | 682 |
+| **Total Events** | 1164 |
+| **Events (7 days)** | 617 |
+| **Events (30 days)** | 736 |
 
 ### Category Distribution
 
 | Category | Count |
 |----------|-------|
-| OTHER | 648 |
-| MODEL_RELEASE | 124 |
-| RESEARCH_BREAKTHROUGH | 120 |
-| FUNDING_EVENT | 70 |
-| GPU_RELEASE | 46 |
-| DATACENTER_EXPANSION | 20 |
-| POLICY_REGULATION | 16 |
-| OUTAGE | 15 |
-| SERVICE_UPDATE | 5 |
+| OTHER | 693 |
+| RESEARCH_BREAKTHROUGH | 145 |
+| MODEL_RELEASE | 139 |
+| FUNDING_EVENT | 77 |
+| GPU_RELEASE | 48 |
+| DATACENTER_EXPANSION | 21 |
+| OUTAGE | 18 |
+| POLICY_REGULATION | 17 |
+| SERVICE_UPDATE | 6 |
 
 
 ### Top Companies
 
 | Company | Events |
 |---------|--------|
-| Intel | 89 |
-| NVIDIA | 76 |
-| AI | 53 |
-| OpenAI | 44 |
-| Amazon | 36 |
+| Intel | 95 |
+| NVIDIA | 80 |
+| AI | 56 |
+| OpenAI | 48 |
+| Amazon | 39 |
 | Anthropic | 31 |
-| Modal | 23 |
-| Microsoft | 21 |
-| Google | 18 |
-| Meta | 18 |
+| Modal | 29 |
+| Microsoft | 23 |
+| Meta | 20 |
+| Google | 19 |
 
 
 ---
@@ -58,34 +58,36 @@
 - **Source**: [TechCrunch AI](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)
 - **Summary**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company confirmed. The announcement comes days after the company partnered with Spotify for AI-narrated audiobooks.
 
-### Harvard dropouts to launch ‘always on’ AI smart glasses that listen and record every conversation
-- **Date**: Wed, 20 Au
-- **Category**: `POLICY_REGULATION`
-- **Company**: Meta
-- **Source**: [TechCrunch AI](https://techcrunch.com/2025/08/20/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-and-record-every-conversation/)
-- **Summary**: After developing a facial-recognition app for Meta’s Ray-Ban glasses and doxing random people, two former Harvard students are now launching a startup that makes smart glasses with an always-on microphone.
+### NVIDIA and AWS Collaborate to Bring AI to Production at Scale
+- **Date**: Wed, 24 Ju
+- **Category**: `GPU_RELEASE`
+- **Company**: NVIDIA
+- **Source**: [NVIDIA Blog](https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/)
+- **Summary**: Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints.
 
-### Meta to add 100MW of solar power from US gear
-- **Date**: Wed, 20 Au
-- **Category**: `DATACENTER_EXPANSION`
-- **Company**: Meta
-- **Source**: [TechCrunch AI](https://techcrunch.com/2025/08/20/meta-to-add-100-mw-of-solar-power-from-u-s-gear/)
-- **Summary**: The social media company is adding another tranche of solar to power a new AI data center in South Carolina.
+### RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems
+- **Date**: Wed, 24 Ju
+- **Category**: `MODEL_RELEASE`
+- **Company**: RIFT-Bench: Dynamic Red-teaming
+- **Source**: [arXiv cs.AI](https://arxiv.org/abs/2606.23927)
+- **Summary**: arXiv:2606.23927v1 Announce Type: new 
+Abstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specif...
 
-### New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning
-- **Date**: Wed, 17 Ju
-- **Category**: `OTHER`
-- **Company**: Amazon
-- **Source**: [AWS ML Blog](https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/)
-- **Summary**: Today we're introducing new capabilities on Amazon Bedrock AgentCore, the platform to build, connect, and optimize agents. In this post, we cover how these capabilities close each gap: connecting agents to organizational, web, and paid knowledge; helping teams find and fix what's going wrong in p...
-
-### Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search
-- **Date**: Wed, 17 Ju
+### Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs
+- **Date**: Wed, 24 Ju
 - **Category**: `RESEARCH_BREAKTHROUGH`
-- **Company**: AWS
-- **Source**: [arXiv cs.AI](https://arxiv.org/abs/2606.17209)
-- **Summary**: arXiv:2606.17209v1 Announce Type: new 
-Abstract: Test-time scaling for agentic search typically increases depth (i.e., more turns and tokens per trajectory) or breadth (i.e., more parallel rollouts). Here we focus on breadth scaling, showing that standard parallel sampling yields diminishing retu...
+- **Company**: CoT
+- **Source**: [arXiv cs.AI](https://arxiv.org/abs/2606.23938)
+- **Summary**: arXiv:2606.23938v1 Announce Type: new 
+Abstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose intermediate decisions in natural language, yet current rationales often lack the step-by-step decision...
+
+### Critique of Agent Model
+- **Date**: Wed, 24 Ju
+- **Category**: `MODEL_RELEASE`
+- **Company**: Large Language Model
+- **Source**: [arXiv cs.AI](https://arxiv.org/abs/2606.23991)
+- **Summary**: arXiv:2606.23991v1 Announce Type: new 
+Abstract: What is an agent? What constitutes agency?
 
 
 
