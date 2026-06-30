@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-06-30T06:38:16.024032+00:00",
+  "generated_at": "2026-06-30T16:36:23.232300+00:00",
   "date": "2026-06-30",
-  "total_events": 1941,
-  "events_7d": 667,
-  "events_30d": 1346,
+  "total_events": 1993,
+  "events_7d": 716,
+  "events_30d": 1395,
   "category_distribution": {
-    "OTHER": 1163,
+    "OTHER": 1198,
     "RESEARCH_BREAKTHROUGH": 236,
-    "MODEL_RELEASE": 211,
-    "FUNDING_EVENT": 127,
-    "GPU_RELEASE": 107,
-    "DATACENTER_EXPANSION": 37,
+    "MODEL_RELEASE": 214,
+    "FUNDING_EVENT": 132,
+    "GPU_RELEASE": 111,
+    "DATACENTER_EXPANSION": 40,
+    "POLICY_REGULATION": 28,
     "OUTAGE": 27,
-    "POLICY_REGULATION": 26,
     "SERVICE_UPDATE": 7
   },
   "top_companies": {
-    "Intel": 179,
-    "NVIDIA": 117,
-    "AI": 97,
-    "OpenAI": 81,
-    "Anthropic": 67,
-    "Amazon": 56,
+    "Intel": 184,
+    "NVIDIA": 121,
+    "AI": 98,
+    "OpenAI": 84,
+    "Anthropic": 68,
+    "Amazon": 57,
     "Modal": 39,
     "Meta": 33,
-    "Microsoft": 27,
-    "Google": 25
+    "Microsoft": 28,
+    "Google": 27
   }
 }
