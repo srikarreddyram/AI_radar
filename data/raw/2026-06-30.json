@@ -320,6 +320,30 @@
     "article_text": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients."
   },
   {
+    "id": "e1eaa68bad5a6ab6",
+    "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
+    "source": "NVIDIA Blog",
+    "publication_date": "Tue, 30 Jun 2026 15:00:57 +0000",
+    "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
+    "article_text": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and systems, and strengthened by a broad open source ecosystem, NVIDIA’s [&#8230;]"
+  },
+  {
+    "id": "f45efe482dc8c305",
+    "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
+    "source": "NVIDIA Blog",
+    "publication_date": "Tue, 30 Jun 2026 15:00:49 +0000",
+    "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
+    "article_text": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot&#8217;s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind [&#8230;]"
+  },
+  {
+    "id": "a5ac4346ca76b814",
+    "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+    "source": "NVIDIA Blog",
+    "publication_date": "Tue, 30 Jun 2026 13:00:27 +0000",
+    "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/",
+    "article_text": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. Vision AI agents are becoming a practical way to automatically turn video data from the physical world into operational intelligence in factories, [&#8230;]"
+  },
+  {
     "id": "f870f3c172e9d7ad",
     "title": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
     "source": "NVIDIA Blog",
@@ -438,30 +462,6 @@
     "publication_date": "Thu, 18 Jun 2026 20:00:27 +0000",
     "url": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
     "article_text": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the grid.  In the era of AI, which NVIDIA founder and CEO Jensen Huang has described as a [&#8230;]"
-  },
-  {
-    "id": "c7e0934b3133134d",
-    "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
-    "source": "NVIDIA Blog",
-    "publication_date": "Thu, 18 Jun 2026 13:00:43 +0000",
-    "url": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
-    "article_text": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations.  For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the speed and scale the industry demands.  At Cannes Lions, running [&#8230;]"
-  },
-  {
-    "id": "f050902ea17e1cb0",
-    "title": "Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices",
-    "source": "NVIDIA Blog",
-    "publication_date": "Thu, 18 Jun 2026 13:00:32 +0000",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/",
-    "article_text": "Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce NOW is making it easier than ever to get [&#8230;]"
-  },
-  {
-    "id": "fdc88f4c9e5e63bb",
-    "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
-    "source": "NVIDIA Blog",
-    "publication_date": "Thu, 18 Jun 2026 06:00:59 +0000",
-    "url": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
-    "article_text": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying applications and the French AI ecosystem [&#8230;]"
   },
   {
     "id": "84b7a491c35da1a6",
@@ -920,8 +920,16 @@
     "article_text": "<p><a href=\"https://nousresearch.com/\">Nous Research</a>, the open-source artificial intelligence startup backed by crypto venture firm <a href=\"https://www.paradigm.xyz/\">Paradigm</a>, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia&#x27;s latest <a href=\"https://www.nvidia.com/en-us/data-center/dgx-b200/\">B200 graphics processors</a>.</p><p>The model, called <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a>, is another entry in a crowded field of AI coding assistants, but arrives at a particularly charged moment: <a href=\"https://claude.com/product/claude-code\">Claude Code</a>, the agentic programming tool from rival Anthropic, has dominated social media discussion since New Year&#x27;s Day, with developers posting <a href=\"https://x.com/0xDesigner/status/2008202211738648767?s=20\">breathless</a> <a href=\"https://x.com/hayesdev_/status/2008043379805048948\">testimonials</a> <a href=\"https://x.com/0xDesigner/status/2008202211738648767?s=20\">about its capabilities</a>. The simultaneous developments underscore how quickly AI-assisted software development is evolving — and how fiercely companies large and small are competing to capture what many believe will become a foundational technology for how software gets written.</p><p><span>type: <!-- -->embedded-entry-inline<!-- --> id: <!-- -->74cSyrq6OUrp9SEQ5zOUSl</span></p><p><a href=\"https://nousresearch.com/nouscoder-14b-a-competitive-olympiad-programming-model/\">NousCoder-14B</a> achieves a 67.87 percent accuracy rate on <a href=\"https://livecodebench.github.io/\">LiveCodeBench v6</a>, a standardized evaluation that tests models on competitive programming problems published between August 2024 and May 2025. That figure represents a 7.08 percentage point improvement over the base model it was trained from, Alibaba&#x27;s <a href=\"https://huggingface.co/Qwen/Qwen3-14B\">Qwen3-14B</a>, according to Nous Research&#x27;s technical report published alongside the release.</p><p>&quot;I gave Claude Code a description of the problem, it generated what we built last year in an hour,&quot; <a href=\"https://www.reddit.com/r/OpenAI/comments/1q2uuil/google_engineer_im_not_joking_and_this_isnt_funny/\">wrote Jaana Dogan</a>, a principal engineer at Google responsible for the Gemini API, in a viral post on X last week that captured the prevailing mood around AI coding tools. Dogan was describing a distributed agent orchestration system her team had spent a year developing — a system Claude Code approximated from a three-paragraph prompt.</p><p>The juxtaposition is instructive: while Anthropic&#x27;s <a href=\"https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are\">Claude Code has captured imaginations</a> with demonstrations of end-to-end software development, Nous Research is betting that open-source alternatives trained on verifiable problems can close the gap — and that transparency in how these models are built matters as much as raw capability.</p><hr /><h2><b>How Nous Research built an AI coding model that anyone can replicate</b></h2><p>What distinguishes the <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a> release from many competitor announcements is its radical openness. Nous Research published not just the <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">model weights</a> but the <a href=\"https://github.com/NousResearch/atropos/pull/296\">complete reinforcement learning environment</a>, benchmark suite, and training harness — built on the company&#x27;s <a href=\"https://github.com/NousResearch/atropos/pull/296\">Atropos framework </a>— enabling any researcher with sufficient compute to <a href=\"https://wandb.ai/jli505/qwen14b/reports/HermesCoder-14B--VmlldzoxNTQ5Nzc0MQ?accessToken=4pt3stwyh4x83zqe2jgoo5j9b7j07jbe5omf2n40lray3tih17vfkavjootvnw8o\">reproduce or extend the work</a>.</p><p>&quot;Open-sourcing the Atropos stack provides the necessary infrastructure for reproducible olympiad-level reasoning research,&quot; <a href=\"https://x.com/o_mega___/status/2008907268700475450?s=20\">noted one observer on X</a>, summarizing the significance for the academic and open-source communities.</p><p>The model was trained by <a href=\"https://x.com/JoeLi5050\">Joe Li</a>, a researcher in residence at Nous Research and a former competitive programmer himself. Li&#x27;s <a href=\"https://nousresearch.com/nouscoder-14b-a-competitive-olympiad-programming-model/\">technical report </a>reveals an unexpectedly personal dimension: he compared the model&#x27;s improvement trajectory to his own journey on Codeforces, the competitive programming platform where participants earn ratings based on contest performance.</p><p>Based on rough estimates mapping LiveCodeBench scores to Codeforces ratings, Li calculated that NousCoder-14B&#x27;s improvemen t— from approximately the 1600-1750 rating range to 2100-2200 — mirrors a leap that took him nearly two years of sustained practice between ages 14 and 16. The model accomplished the equivalent in four days.</p><p>&quot;Watching that final training run unfold was quite a surreal experience,&quot; Li wrote in the technical report.</p><p>But Li was quick to note an important caveat that speaks to broader questions about AI efficiency: he solved roughly 1,000 problems during those two years, while the model required 24,000. Humans, at least for now, remain dramatically more sample-efficient learners.</p><hr /><h2><b>Inside the reinforcement learning system that trains on 24,000 competitive programming problems</b></h2><p><a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a>&#x27;s training process offers a window into the increasingly sophisticated techniques researchers use to improve AI reasoning capabilities through reinforcement learning.</p><p>The approach relies on what researchers call &quot;verifiable rewards&quot; — a system where the model generates code solutions, those solutions are executed against test cases, and the model receives a simple binary signal: correct or incorrect. This feedback loop, while conceptually straightforward, requires significant infrastructure to execute at scale.</p><p>Nous Research used <a href=\"https://modal.com/\">Modal</a>, a cloud computing platform, to run sandboxed code execution in parallel. Each of the 24,000 training problems contains hundreds of test cases on average, and the system must verify that generated code produces correct outputs within time and memory constraints — 15 seconds and 4 gigabytes, respectively.</p><p>The training employed a technique called <a href=\"https://dapo-sia.github.io/\">DAPO (Dynamic Sampling Policy Optimization)</a>, which the researchers found performed slightly better than alternatives in their experiments. A key innovation involves &quot;dynamic sampling&quot; — discarding training examples where the model either solves all attempts or fails all attempts, since these provide no useful gradient signal for learning.</p><p>The researchers also adopted &quot;iterative context extension,&quot; first training the model with a 32,000-token context window before expanding to 40,000 tokens. During evaluation, extending the context further to approximately 80,000 tokens produced the best results, with accuracy reaching 67.87 percent.</p><p>Perhaps most significantly, the training pipeline overlaps inference and verification — as soon as the model generates a solution, it begins work on the next problem while the previous solution is being checked. This pipelining, combined with asynchronous training where multiple model instances work in parallel, maximizes hardware utilization on expensive GPU clusters.</p><hr /><h2><b>The looming data shortage that could slow AI coding model progress</b></h2><p>Buried in Li&#x27;s <a href=\"https://nousresearch.com/nouscoder-14b-a-competitive-olympiad-programming-model/\">technical report</a> is a finding with significant implications for the future of AI development: the training dataset for NousCoder-14B encompasses &quot;a significant portion of all readily available, verifiable competitive programming problems in a standardized dataset format.&quot;</p><p>In other words, for this particular domain, the researchers are approaching the limits of high-quality training data.</p><p>&quot;The total number of competitive programming problems on the Internet is roughly the same order of magnitude,&quot; Li wrote, referring to the 24,000 problems used for training. &quot;This suggests that within the competitive programming domain, we have approached the limits of high-quality data.&quot;</p><p>This observation echoes growing concern across the AI industry about data constraints. While compute continues to scale according to well-understood economic and engineering principles, training data is &quot;increasingly finite,&quot; as Li put it.</p><p>&quot;It appears that some of the most important research that needs to be done in the future will be in the areas of synthetic data generation and data efficient algorithms and architectures,&quot; he concluded.</p><p>The challenge is particularly acute for competitive programming because the domain requires problems with known correct solutions that can be verified automatically. Unlike natural language tasks where human evaluation or proxy metrics suffice, code either works or it doesn&#x27;t — making synthetic data generation considerably more difficult.</p><p>Li identified one potential avenue: training models not just to solve problems but to generate solvable problems, enabling a form of self-play similar to techniques that proved successful in game-playing AI systems. &quot;Once synthetic problem generation is solved, self-play becomes a very interesting direction,&quot; he wrote.</p><hr /><h2><b>A $65 million bet that open-source AI can compete with Big Tech</b></h2><p>Nous Research has carved out a distinctive position in the AI landscape: a company committed to <a href=\"https://nousresearch.com/\">open-source releases</a> that compete with — and sometimes exceed — proprietary alternatives.</p><p>The company raised<a href=\"https://fortune.com/crypto/2025/04/25/paradigm-nous-research-crypto-ai-venture-capital-deepseek-openai-blockchain/\"> $50 million in April 2025</a> in a round led by Paradigm, the cryptocurrency-focused venture firm founded by Coinbase co-founder Fred Ehrsam. Total funding reached $65 million, according to some reports. The investment reflected growing interest in decentralized approaches to AI training, an area where Nous Research has developed its <a href=\"https://psyche.network/\">Psyche platform</a>.</p><p>Previous releases include <a href=\"https://hermes4.nousresearch.com/\">Hermes 4</a>, a family of models that we reported &quot;<a href=\"https://venturebeat.com/ai/nous-research-drops-hermes-4-ai-models-that-outperform-chatgpt-without-content-restrictions\">outperform ChatGPT without content restrictions</a>,&quot; and DeepHermes-3, which the company described as the first &quot;<a href=\"https://venturebeat.com/ai/personalized-unrestricted-ai-lab-nous-research-launches-first-toggle-on-reasoning-model-deephermes-3\">toggle-on reasoning model</a>&quot; — allowing users to activate extended thinking capabilities on demand.</p><p>The company has cultivated a distinctive aesthetic and community, prompting some skepticism about whether style might overshadow substance. &quot;Ofc i&#x27;m gonna believe an anime pfp company. stop benchmarkmaxxing ffs,&quot; <a href=\"https://x.com/shydev69/status/2008654826356535510?s=20\">wrote one critic on X</a>, referring to Nous Research&#x27;s anime-style branding and the industry practice of optimizing for benchmark performance.</p><p>Others raised technical questions. &quot;<a href=\"https://x.com/yehor_smoliakov/status/2008659681489940757?s=20\">Based on the benchmark, Nemotron is better</a>,&quot; noted one commenter, referring to Nvidia&#x27;s family of language models. Another asked whether <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a> is &quot;agentic focused or just &#x27;one shot&#x27; coding&quot; — a distinction that matters for practical software development, where iterating on feedback typically produces better results than single attempts.</p><hr /><h2><b>What researchers say must happen next for AI coding tools to keep improving</b></h2><p>The release includes several directions for future work that hint at where AI coding research may be heading.</p><p>Multi-turn reinforcement learning tops the list. Currently, the model receives only a final binary reward — pass or fail — after generating a solution. But competitive programming problems typically include public test cases that provide intermediate feedback: compilation errors, incorrect outputs, time limit violations. Training models to incorporate this feedback across multiple attempts could significantly improve performance.</p><p>Controlling response length also remains a challenge. The researchers found that incorrect solutions tended to be longer than correct ones, and response lengths quickly saturated available context windows during training — a pattern that various algorithmic modifications failed to resolve.</p><p>Perhaps most ambitiously, Li proposed &quot;problem generation and self-play&quot; — training models to both solve and create programming problems. This would address the data scarcity problem directly by enabling models to generate their own training curricula.</p><p>&quot;Humans are great at generating interesting and useful problems for other competitive programmers, but it appears that there still exists a significant gap in LLM capabilities in creative problem generation,&quot; Li wrote.</p><p>The model is <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">available now on Hugging Face</a> under an Apache 2.0 license. For researchers and developers who want to build on the work, Nous Research has published the complete <a href=\"https://github.com/NousResearch/atropos/pull/296\">Atropos training stack</a> alongside it.</p><p>What took Li two years of adolescent dedication to achieve—climbing from a 1600-level novice to a 2100-rated competitor on Codeforces—an AI replicated in 96 hours. He needed 1,000 problems. The model needed 24,000. But soon enough, these systems may learn to write their own problems, teach themselves, and leave human benchmarks behind entirely.</p><p>The question is no longer whether machines can learn to code. It&#x27;s whether they&#x27;ll soon be better teachers than we ever were.</p><p>\n</p>"
   },
   {
+    "id": "a7ac400f51a38c30",
+    "title": "Meet the lawyer who beat Elon Musk — twice",
+    "source": "The Verge AI",
+    "publication_date": "2026-06-30T08:00:00-04:00",
+    "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+    "article_text": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to trick me,\" [&#8230;]"
+  },
+  {
     "id": "024d61b386342a9f",
-    "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+    "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
     "source": "The Verge AI",
     "publication_date": "2026-06-29T15:47:35-04:00",
     "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
@@ -990,14 +998,6 @@
     "publication_date": "2026-06-26T20:33:44-04:00",
     "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
     "article_text": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class [&#8230;]"
-  },
-  {
-    "id": "7ec59b6a76d611d1",
-    "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-    "source": "The Verge AI",
-    "publication_date": "2026-06-26T13:00:00-04:00",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-    "article_text": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a [&#8230;]"
   },
   {
     "id": "20c0eff6a70c41ac",
@@ -1320,395 +1320,387 @@
     "article_text": "arXiv:2606.28661v1 Announce Type: new \nAbstract: People overthink; language models over-sample, and the extra effort can talk both into a worse answer. Reasoning systems answer a hard question by sampling it many times (test-time scaling), and the more they draw, the more often a correct answer turns up somewhere, so coverage, the fraction of problems with at least one correct try, climbs and appears to be progress. But a deployed system must return one answer, and choosing it, not knowing which try is right, is selection; selection is capped, and past a point extra samples only make the model surer of a confident mistake, even as every draw adds cost. The gap between climbing coverage and stalled selection, the identifiability gap, is the answer a model can produce but not pick. So the real question is not whether to sample but how far, and the answer is: not far. For picking an answer, the vote has already settled within a few dozen draws, the modal ceiling; for scoring a benchmark, sooner still, the correlation ceiling. Beyond that, extra draws cost compute and add nothing, and can even make the answer worse. This paper turns the cutoff into a single number, the effective number of samples, that any sampling run already reveals. The bottleneck is recognizing a right answer, not generating one."
   },
   {
-    "id": "4161df919bf33630",
-    "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillion Club by 2028",
+    "id": "fda68a1fbabeeb1b",
+    "title": "Why a collapse in $1 trillion AI spending boom could hit Bitcoin traders first",
+    "source": "CryptoSlate",
+    "publication_date": "2026-06-29T15:10:21Z",
+    "url": "https://cryptoslate.com/?p=544895",
+    "article_text": "Over the past year, the artificial intelligence trade has become one of the main pillars supporting global risk appetite.\r\nHowever, the Bank for International Settlements (BIS) is now warning that th… [+10501 chars]"
+  },
+  {
+    "id": "ee6915f5215f91c1",
+    "title": "Quanta NVIDIA RTX 500 Ada Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 Vibranium 64-bit",
+    "source": "Softpedia.com",
+    "publication_date": "2026-06-29T15:09:01Z",
+    "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-500-Ada-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-Vibranium-64-bit.shtml",
+    "article_text": "The package provides the installation files for Quanta NVIDIA RTX 500 Ada Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overw… [+2184 chars]"
+  },
+  {
+    "id": "cc32d748417f91db",
+    "title": "Airbnb Scams Are Up 30x. Criminals Are Coming for Hosts.",
+    "source": "Skift",
+    "publication_date": "2026-06-29T15:09:00Z",
+    "url": "https://skift.com/2026/06/29/airbnb-scams-are-up-30x-criminals-are-coming-for-hosts/",
+    "article_text": "Subscribe\r\n Apple Podcasts | Spotify | YouTube | RSS\r\nOn Monday’s Good Morning Hospitality, A Skift Podcast, Brandreth Canaley, Michael Goldin, and Jamie Lane break down who is actually winning in tr… [+25213 chars]"
+  },
+  {
+    "id": "c620ea90d9f22308",
+    "title": "Tech Giants Power Stock Gains After AI-Fueled Rout: Markets Wrap",
+    "source": "Financial Post",
+    "publication_date": "2026-06-29T15:08:25Z",
+    "url": "https://financialpost.com/pmn/business-pmn/tech-giants-power-stock-gains-after-ai-fueled-rout-markets-wrap",
+    "article_text": "(Bloomberg) A rally in several technology giants lifted stocks after last weeks artificial-intelligence selloff lured buyers betting the industrys investment boom will continue to support solid corpo… [+5490 chars]"
+  },
+  {
+    "id": "eddbda78206f543d",
+    "title": "Microsoft Stock Hitting New Lows Could Be a Long-Term Opportunity",
     "source": "Biztoc.com",
-    "publication_date": "2026-06-29T04:43:08Z",
-    "url": "https://biztoc.com/x/bce3175f4d97e9b9",
-    "article_text": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillion Club by 2028There are currently 16 companies that have crossed the $1 trillion market cap plateau, with two… [+145 chars]"
+    "publication_date": "2026-06-29T15:08:14Z",
+    "url": "https://biztoc.com/x/8aeb85330af9259b",
+    "article_text": "is a legacy tech player that has been in business for over 51 years. It develops software, cloud computing services, artificial intelligence (AI) platforms, business applications, gaming products, an… [+147 chars]"
   },
   {
-    "id": "b4807ebebb14855a",
-    "title": "Turing Award Laureate Joseph Sifakis Appointed Chief Scientific Advisor as CaoCao Accelerates AI Transformation",
-    "source": "GlobeNewswire",
-    "publication_date": "2026-06-29T04:42:00Z",
-    "url": "https://www.globenewswire.com/news-release/2026/06/29/3318638/0/en/Turing-Award-Laureate-Joseph-Sifakis-Appointed-Chief-Scientific-Advisor-as-CaoCao-Accelerates-AI-Transformation.html",
-    "article_text": "HANGZHOU, China, June 29, 2026 (GLOBE NEWSWIRE) -- On June 29, Joseph Sifakis, a world-renowned AI scientist and Turing Award laureate, was formally invited to serve as Chief Scientific Advisor of th… [+2218 chars]"
+    "id": "1131a5562c91325d",
+    "title": "Save $350 on Apple's 14-inch MacBook Pro M5 right now at Amazon",
+    "source": "AppleInsider",
+    "publication_date": "2026-06-29T15:07:45Z",
+    "url": "https://appleinsider.com/articles/26/06/29/save-350-on-apples-14-inch-macbook-pro-m5-right-now-at-amazon",
+    "article_text": "Amazon's month-end $350 discount brings the 1TB 14-inch MacBook Pro with an M5 chip down to $1,649.99. But supply may be limited after Apple raised prices last week.\r\nWith price increases announced b… [+1504 chars]"
   },
   {
-    "id": "c954be1eb1223fa4",
-    "title": "Lore – give your coding agent the decisions your team made",
-    "source": "Github.com",
-    "publication_date": "2026-06-29T04:40:35Z",
-    "url": "https://github.com/itsthelore/rac-core",
-    "article_text": "Quickstart ·\r\nHow it compares ·\r\nHow it works ·\r\nDocs ·\r\nCLI ·\r\nChangelog\r\nGive your coding agent the decisions your team already made so it stops re-doing things you ruled out.\r\nLore keeps your team… [+7015 chars]"
+    "id": "7a0479f26e2c1ff0",
+    "title": "5 WWDC features I’ll actually use more than Apple’s new Siri AI",
+    "source": "TechRadar",
+    "publication_date": "2026-06-29T15:07:07Z",
+    "url": "https://www.techradar.com/computing/macs/5-wwdc-features-ill-actually-use-more-than-apples-new-siri-ai",
+    "article_text": "At WWDC, Apple finally unveiled the long-delayed, genuinely rebuilt version of Siri — a more context-aware assistant that can understand what’s on your screen, use your personal data across apps, res… [+5002 chars]"
   },
   {
-    "id": "245337512a189ab2",
-    "title": "xgen-sdk 1.21.1",
+    "id": "032d1775f0cfab14",
+    "title": "Cipher Digital Stock Slips Nearly 4% Today Even as Wall Street Stays Bullish on Its Data Center Pivot",
+    "source": "Ibtimes.com.au",
+    "publication_date": "2026-06-29T15:06:31Z",
+    "url": "https://www.ibtimes.com.au/cipher-digital-strategic-shift-ai-data-centers-1871539",
+    "article_text": "Shares of Cipher Digital Inc., the company formerly known as Cipher Mining, fell sharply Monday, pulling back from levels near a 52-week high even as Wall Street analysts remain almost uniformly bull… [+6471 chars]"
+  },
+  {
+    "id": "aabc98427fa01b71",
+    "title": "Hope, AI, And Indie Ambition: The Contradictions That Defined Annecy 2026",
+    "source": "Cartoon Brew",
+    "publication_date": "2026-06-29T15:03:00Z",
+    "url": "https://www.cartoonbrew.com/festivals/annecy-2026-festival-wrap-263908.html",
+    "article_text": "The animation industry is still facing many of the same headwinds it was a year ago. Financing remains difficult, streaming has become more selective, AI is creating more problems than solutions, and… [+9384 chars]"
+  },
+  {
+    "id": "01643bb0cb1bf268",
+    "title": "Tata Motors says Iveco deal on track for Q2",
+    "source": "BusinessLine",
+    "publication_date": "2026-06-29T15:03:00Z",
+    "url": "https://www.thehindubusinessline.com/companies/tata-motors-says-iveco-deal-on-track-for-q2/article71160682.ece",
+    "article_text": "Tata Motors Ltd Chairman N Chandrasekaran on Monday said the proposed acquisition of Iveco Group is expected to be completed by the second quarter of FY27, subject to regulatory approvals and customa… [+3855 chars]"
+  },
+  {
+    "id": "8ab81eb17462faf1",
+    "title": "Milania Giudice Breaks Silence on Arrest, Slams AI Mugshot Rumors",
+    "source": "Eonline.com",
+    "publication_date": "2026-06-29T15:02:10Z",
+    "url": "https://www.eonline.com/news/1433437/milania-giudice-breaks-silence-on-arrest-says-mugshot-not-ai",
+    "article_text": "Milania Giudice is speaking out about her legal troubles.\r\nAfter Real Housewives of New Jersey star Teresa Giudices daughter was arrested for assault May 14, the 20-year-old broke her silence on the … [+786 chars]"
+  },
+  {
+    "id": "bbbd3da2d02ce2ea",
+    "title": "Open source maintainership in the age of AI (Kubernetes blog)",
+    "source": "Lwn.net",
+    "publication_date": "2026-06-29T15:01:17Z",
+    "url": "https://lwn.net/Articles/1080144/",
+    "article_text": "The Kubernetes project has published a blog\r\npost explaining its AI\r\npolicy:\r\nThe main problem is that AI has made generating code fast but there\r\nhas been very little improvement in maintaining code… [+710 chars]"
+  },
+  {
+    "id": "46a2c585c4903331",
+    "title": "WebGL Without a GPU",
+    "source": "Microlink.io",
+    "publication_date": "2026-06-29T15:01:15Z",
+    "url": "https://microlink.io/blog/webgl-without-a-gpu",
+    "article_text": "The following examples show how to use the Microlink API with CLI, cURL, JavaScript, Python, Ruby, PHP &amp; Golang, targeting 'https://threejs.org/examples/webgl_animation_skinning_blending' URL wit… [+2669 chars]"
+  },
+  {
+    "id": "03db86bbc4f6cc9d",
+    "title": "tau-coding-agent 0.4.6",
     "source": "Pypi.org",
-    "publication_date": "2026-06-29T04:39:42Z",
-    "url": "https://pypi.org/project/xgen-sdk/1.21.1/",
+    "publication_date": "2026-06-29T15:00:28Z",
+    "url": "https://pypi.org/project/tau-coding-agent/0.4.6/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "a5faac0c2ce04d76",
-    "title": "How to Implement AI-Driven Root Cause Detection in ASP.NET Core Applications",
-    "source": "C-sharpcorner.com",
-    "publication_date": "2026-06-29T04:39:25Z",
-    "url": "https://www.c-sharpcorner.com/article/how-to-implement-ai-driven-root-cause-detection-in-asp-net-core-applications/",
-    "article_text": "Introduction\r\nDiagnosing application failures is one of the most time-consuming tasks for modern engineering teams. In distributed systems, a single production issue may involve application logs, dat… [+9166 chars]"
+    "id": "db054216f261b458",
+    "title": "Assassin’s Creed Black Flag Resynced: PS5 Pro enhancements detailed",
+    "source": "Playstation.com",
+    "publication_date": "2026-06-29T15:00:27Z",
+    "url": "https://blog.playstation.com/2026/06/29/assassins-creed-black-flag-resynced-ps5-pro-enhancements-detailed/",
+    "article_text": "Released first on the PlayStation 3 and as a launch title for the PlayStation 4, Assassins Creed IV: Black Flag has remained a defining entry in the series for more than a decade. When we first explo… [+6129 chars]"
   },
   {
-    "id": "95ce5db600b2a7e6",
-    "title": "OpenAI delays GPT-5.6 release as US seeks early access to AI models",
+    "id": "8c5d1b5c4d04ef72",
+    "title": "Apple’s sweeping price hikes signal the true cost of the AI era, as touchscreen MacBook and M7 chips loom",
+    "source": "Macdailynews.com",
+    "publication_date": "2026-06-29T15:00:24Z",
+    "url": "https://macdailynews.com/2026/06/29/apples-sweeping-price-hikes-signal-the-true-cost-of-the-ai-era-as-touchscreen-macbook-and-m7-chips-loom/",
+    "article_text": "Apple is confronting customers with the financial realities of the artificial intelligence boom, implementing broad price increases across its Mac, iPad, and other hardware lines to offset skyrocketi… [+2736 chars]"
+  },
+  {
+    "id": "8474a130fca34713",
+    "title": "Gemini AI Officially Rolls Out To Android Automotive",
+    "source": "Ubergizmo",
+    "publication_date": "2026-06-29T15:00:10Z",
+    "url": "https://www.ubergizmo.com/2026/06/gemini-ai-officially-rolls-out-to-android-automotive/",
+    "article_text": "Google has officially begun deploying its Gemini artificial intelligence into vehicles equipped with Android Automotive OS. While the name is similar to Android Auto, which merely projects a smartpho… [+2092 chars]"
+  },
+  {
+    "id": "539796cde551711d",
+    "title": "Halliburton, Valero and 3 More Stocks Set Up for a Fragile Hormuz Truce",
+    "source": "OilPrice.com",
+    "publication_date": "2026-06-29T15:00:00Z",
+    "url": "https://oilprice.com/Energy/Energy-General/Halliburton-Valero-and-3-More-Stocks-Set-Up-for-a-Fragile-Hormuz-Truce.html",
+    "article_text": "The United States and China…\r\nAI-driven data center demand is…\r\nConstruction has begun on the…\r\nSet us as your preferred Google source\r\nBy Michael Kern - Jun 29, 2026, 10:00 AM CDTBrent crude has fal… [+9630 chars]"
+  },
+  {
+    "id": "d905bcade93a2dfc",
+    "title": "Can AI drain DeFi? Separating Claude Mythos hype from reality",
+    "source": "Cointelegraph",
+    "publication_date": "2026-06-29T15:00:00Z",
+    "url": "https://cointelegraph.com/learn/claude-mythos-defi-hacks-ai-security",
+    "article_text": "<ol><li>Claude Mythos and DeFi: Real threat or overblown fear?\r\n</li></ol>When Anthropic introduced Claude Mythos-class models as its most advanced AI system for cybersecurity, it drew the usual mix … [+10737 chars]"
+  },
+  {
+    "id": "593d2c8627e380b8",
+    "title": "Your Competitors Are Serving the Same Ads for 30% Less. The Difference Is the Server.",
+    "source": "Streamingmedia.com",
+    "publication_date": "2026-06-29T15:00:00Z",
+    "url": "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=175509",
+    "article_text": "Ad tech teams optimize the code. They rarely question the server. Here is what that costs—and what one platform changed to fix it.\r\nAT A GLANCE\r\n<ul><li>Shared cloud servers run other companies’ work… [+7654 chars]"
+  },
+  {
+    "id": "d4652bc8706ea46f",
+    "title": "Accelerate modern Linux workloads with Azure Files",
+    "source": "Microsoft.com",
+    "publication_date": "2026-06-29T15:00:00Z",
+    "url": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
+    "article_text": "In this article\r\nLinux workloads are evolving quickly as organizations modernize on-premises Linux applications, adopt cloud-native architectures, and build new AI and data-intensive pipelines in the… [+8641 chars]"
+  },
+  {
+    "id": "5691da10829f5d68",
+    "title": "(The Hacker News, 6/29)トeepL AI 荐 ...",
+    "source": "Ryukoku.ac.jp",
+    "publication_date": "2026-06-29T15:00:00Z",
+    "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/06.html#20260630__mustangpanda",
+    "article_text": "Last modified: Tue Jun 30 14:39:41 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019… [+13577 chars]"
+  },
+  {
+    "id": "88f94a50eca79150",
+    "title": "(ISC, 6/12贋)9.18 June 2026腟 9. ...",
+    "source": "Ryukoku.ac.jp",
+    "publication_date": "2026-06-29T15:00:00Z",
+    "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/06.html#20260630__bind9",
+    "article_text": "Last modified: Tue Jun 30 13:01:20 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019… [+13397 chars]"
+  },
+  {
+    "id": "c496870ee57866ac",
+    "title": "OpenAI Reveals GPT-5.6 Sol Cybersecurity Model, Restricts Early Access",
+    "source": "Infosecurity Magazine",
+    "publication_date": "2026-06-29T15:00:00Z",
+    "url": "https://www.infosecurity-magazine.com/news/openai-gpt-5-6-sol-limited-preview/",
+    "article_text": "OpenAI has previewed GPT-5.6 Sol, a new flagship model it describes as its \"most capable model yet for cybersecurity.\" Access however is restricted to a small group of vetted partners at the request … [+2440 chars]"
+  },
+  {
+    "id": "1430907bbca801e2",
+    "title": "(2026.06.30) (various)",
+    "source": "Ryukoku.ac.jp",
+    "publication_date": "2026-06-29T15:00:00Z",
+    "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/06.html#20260630_various",
+    "article_text": "Last modified: Tue Jun 30 15:59:59 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019… [+13818 chars]"
+  },
+  {
+    "id": "b4df564187f19b20",
+    "title": "、若 茫冴絽、潟ソ若ャ絖⒢сс若ｃゃ ...",
+    "source": "Ryukoku.ac.jp",
+    "publication_date": "2026-06-29T15:00:00Z",
+    "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/06.html#20260630__takaichi",
+    "article_text": "Last modified: Tue Jun 30 18:20:41 2026\r\n +0900 (JST)\r\nSecurity Watch \r\nSecurity Watch \r\n UNIXWindowsMac OS (priority ) \r\n1 \r\n 1 \r\n[ ]\r\n:\r\n2026 |\r\n2025 |\r\n2024 |\r\n2023 |\r\n2022 |\r\n2021 |\r\n2020 |\r\n2019… [+13895 chars]"
+  },
+  {
+    "id": "dd4020e40c6638f0",
+    "title": "sellerclaw-cli 0.36.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-29T14:58:47Z",
+    "url": "https://pypi.org/project/sellerclaw-cli/0.36.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "71ce5d4601287ce9",
+    "title": "inspect-ai 0.3.242",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-29T14:58:26Z",
+    "url": "https://pypi.org/project/inspect-ai/0.3.242/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "13eca184e4040617",
+    "title": "tau-by-clarity 0.56.1",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-29T14:58:17Z",
+    "url": "https://pypi.org/project/tau-by-clarity/0.56.1/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "451bccb8ac2e9853",
+    "title": "Prosus bets bigger on India as PayU turns profitable, expands startup portfolio",
+    "source": "BusinessLine",
+    "publication_date": "2026-06-29T14:54:55Z",
+    "url": "https://www.thehindubusinessline.com/companies/prosus-bets-bigger-on-india-as-payu-turns-profitable-expands-startup-portfolio/article71162211.ece",
+    "article_text": "Technology investor Prosus is doubling down on India after its fintech business PayU achieved profitability for the first time and the company expanded its local investment portfolio with bets on mob… [+2346 chars]"
+  },
+  {
+    "id": "a1a885c62814a5ea",
+    "title": "SpaceX Has Three AI Customers Paying $27.8 Billion a Year. How Big Can This Revenue Stream Get?",
+    "source": "Biztoc.com",
+    "publication_date": "2026-06-29T14:53:48Z",
+    "url": "https://biztoc.com/x/cb6736bc66bba687",
+    "article_text": "Space Exploration Technologies (NASDAQ: SPCX), better known as SpaceX, has three distinct parts of its business -- rocket launches, satellite internet, and the xAI artificial intelligence business. W… [+150 chars]"
+  },
+  {
+    "id": "1b9d927ef61e940a",
+    "title": "Tempus AI Stock Faces a Make-or-Break Moment After Its Recent Pullback",
+    "source": "Biztoc.com",
+    "publication_date": "2026-06-29T14:52:35Z",
+    "url": "https://biztoc.com/x/2376486385c610aa",
+    "article_text": "may be building one of healthcare's fastest-growing artificial intelligence (AI) platforms, but the stock hasnt given investors much to celebrate lately. Shares are down roughly 15% over the past yea… [+139 chars]"
+  },
+  {
+    "id": "a3b5ac0d6b04ffbf",
+    "title": "Quanta NVIDIA RTX 1000 Ada Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 11 version 25H2",
+    "source": "Softpedia.com",
+    "publication_date": "2026-06-29T14:52:01Z",
+    "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-1000-Ada-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-11-version-25H2.shtml",
+    "article_text": "The package provides the installation files for Quanta NVIDIA RTX 1000 Ada Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (over… [+2185 chars]"
+  },
+  {
+    "id": "3bd33bc43ad83cf9",
+    "title": "66 With $1.3 Million. Here Are 3 Hidden Gems to Target",
+    "source": "24/7 Wall St.",
+    "publication_date": "2026-06-29T14:51:03Z",
+    "url": "https://247wallst.com/investing/2026/06/29/66-with-1-3-million-here-are-3-hidden-gems-to-target/",
+    "article_text": "Quick Read\r\n<ul><li>BMY's 17 consecutive dividend raises and VZ's $20B in annual free cash flow make both the dependable income anchors of this trio.\r\n</li><li>Pfizer's free cash flow covered only 93… [+2950 chars]"
+  },
+  {
+    "id": "85ae40e29d54b31d",
+    "title": "zrt 0.1.1",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-29T14:50:16Z",
+    "url": "https://pypi.org/project/zrt/0.1.1/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "0b03586a978fbe20",
+    "title": "The Market’s Biggest Warning Signal in 23 Years Just Flashed — But Don’t Panic Yet",
+    "source": "24/7 Wall St.",
+    "publication_date": "2026-06-29T14:48:59Z",
+    "url": "https://247wallst.com/investing/2026/06/29/the-markets-biggest-warning-signal-in-23-years-just-flashed-but-dont-panic-yet/",
+    "article_text": "Quick Read\r\n<ul><li>The VXN-VIX spread hit a 23-year record of 12 points, signaling tech-specific anxiety rather than a broad market collapse.\r\n</li><li>CNN's Fear &amp; Greed Index crashed to 24.8, … [+5014 chars]"
+  },
+  {
+    "id": "c80c581986193648",
+    "title": "simplicio-cli 0.6.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-06-29T14:47:52Z",
+    "url": "https://pypi.org/project/simplicio-cli/0.6.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "5efe9f63f3516889",
+    "title": "SoftBank collaborates with OpenAI and Oracle on Stargate AI data center in Ohio",
     "source": "Crypto Briefing",
-    "publication_date": "2026-06-29T04:37:46Z",
-    "url": "https://cryptobriefing.com/openai-delays-gpt-56-release-as-us-seeks-early-access-to-ai-models/",
-    "article_text": "OpenAI has delayed the public release of its latest AI model, GPT-5.6, while the U.S. government seeks early access to frontier AI models. The decision comes amid a request from the government tied t… [+1317 chars]"
+    "publication_date": "2026-06-29T14:47:50Z",
+    "url": "https://cryptobriefing.com/softbank-openai-oracle-stargate-ohio-data-center/",
+    "article_text": "The Stargate initiative expands with five new US sites targeting nearly 7 GW of capacity, with a repurposed Ohio auto plant set to test advanced data center design SoftBank, OpenAI, and Oracle are tu… [+2744 chars]"
   },
   {
-    "id": "fe366d5eb85e8494",
-    "title": "Building AI-Powered Pull Request Summarization Systems with .NET",
-    "source": "C-sharpcorner.com",
-    "publication_date": "2026-06-29T04:36:15Z",
-    "url": "https://www.c-sharpcorner.com/article/building-ai-powered-pull-request-summarization-systems-with-net/",
-    "article_text": "Introduction\r\nAs development teams grow and repositories become larger, pull requests (PRs) often contain hundreds of lines of code changes spread across multiple files. Reviewing every change manual… [+7217 chars]"
+    "id": "5096d771a2dc5f75",
+    "title": "5 Things You Probably Didn't Know Xbox Game Bar Could Do",
+    "source": "BGR",
+    "publication_date": "2026-06-29T14:47:00Z",
+    "url": "https://www.bgr.com/2201657/xbox-game-bar-things-you-didnt-know-can-do/",
+    "article_text": "Unlike console gaming, PC gaming is something of a balancing act that requires you to regularly monitor your rig's components and their performance. Not every game works as well as you think it's goi… [+945 chars]"
   },
   {
-    "id": "36540f5e6100ae55",
-    "title": "Intel Arc Graphics Driver 31.0.101.5595 for Windows 11",
-    "source": "Softpedia.com",
-    "publication_date": "2026-06-29T04:33:01Z",
-    "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-31-0-101-5595-for-Windows-11.shtml",
-    "article_text": "The package provides the installation files for Intel Arc Graphics Driver version 31.0.101.5595 .If the driver is already installed on your system, updating (overwrite-installing) may fix various iss… [+2147 chars]"
+    "id": "2a41a83bfcd3313b",
+    "title": "ActBlue Asserts Strong Protections Against Foreign Money, as Documents Show Officials Thought it ‘Historically Too Strict’",
+    "source": "Daily Signal",
+    "publication_date": "2026-06-29T14:46:49Z",
+    "url": "https://www.dailysignal.com/2026/06/29/actblue-asserts-strong-protections-against-foreign-money-as-documents-show-officials-thought-it-historically-too-strict/",
+    "article_text": "Though ActBlue officials still claim the Democrat fundraising platform is secure, documents released through a congressional investigation suggest the group has had a lenient approach for policing il… [+4609 chars]"
   },
   {
-    "id": "641756c14133ff4d",
-    "title": "whichllm 0.5.14",
+    "id": "7809d562979a890c",
+    "title": "Annecy 2026: 10 Takeaways From Oscar Talk to Anime’s Sway, Big Hollywood Plays and Why a Short Became the Fest’s Most Talked About Film",
+    "source": "Variety",
+    "publication_date": "2026-06-29T14:44:06Z",
+    "url": "https://variety.com/2026/film/global/annecy-2026-10-takeaways-oscar-talk-anime-ricky-gervais-1236798354/",
+    "article_text": "The Annecy Animation Festival’s 2026 edition was one of records. Badge holders hit 19,100, an all time high and a signal of animation’s dramatic growth, up from 7,100 accredited attendees in 2013. \r\n… [+11688 chars]"
+  },
+  {
+    "id": "87b7ca75c6ad2053",
+    "title": "simplicio-loop 3.14.0",
     "source": "Pypi.org",
-    "publication_date": "2026-06-29T04:32:50Z",
-    "url": "https://pypi.org/project/whichllm/0.5.14/",
+    "publication_date": "2026-06-29T14:42:08Z",
+    "url": "https://pypi.org/project/simplicio-loop/3.14.0/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "39d007676a4a5bc5",
-    "title": "Companies keep bolting AI onto their products, and the security bill is coming due",
-    "source": "Help Net Security",
-    "publication_date": "2026-06-29T04:30:15Z",
-    "url": "https://www.helpnetsecurity.com/2026/06/29/products-ai-pentesting/",
-    "article_text": "Companies keep bolting AI and LLM features onto their products, and the security results are starting to show a pattern. The vulnerabilities those features create get rated high risk far more often t… [+6716 chars]"
-  },
-  {
-    "id": "9a653edd4e968f73",
-    "title": "DEBIX T62P-01 Raspberry Pi-like industrial SBC features TI AM62P SoC, dual GbE with TSN, multi-domain UART",
-    "source": "CNX Software",
-    "publication_date": "2026-06-29T04:30:08Z",
-    "url": "https://www.cnx-software.com/2026/06/29/debix-t62p-01-raspberry-pi-like-industrial-sbc-features-ti-am62p-soc-dual-gbe-with-tsn-multi-domain-uart/",
-    "article_text": "Polyhex Technology has introduced the DEBIX T62P-01, a compact industrial SBC built around Texas Instruments Sitara AM62P quad Cortex-A53/dual Cortex-R5F SoC designed for industrial IoT (IIoT), robot… [+4361 chars]"
-  },
-  {
-    "id": "8c74efff2072b9b3",
-    "title": "ITS, Nufibre extend UK broadband offerings",
-    "source": "ComputerWeekly.com",
-    "publication_date": "2026-06-29T04:30:00Z",
-    "url": "https://www.computerweekly.com/news/366644931/ITS-Nufibre-extend-UK-broadband-offerings",
-    "article_text": "With the UK independent broadband provider sector seeing increased business pressures, two altnets in the country ITS and Nufibre have announced steps to improve customer services.\r\nAs part of the ne… [+3459 chars]"
-  },
-  {
-    "id": "e1cdccd16f47b898",
-    "title": "Marine missing from USS Anchorage now focus of recovery mission off California coast",
-    "source": "Fox News",
-    "publication_date": "2026-06-29T04:27:05Z",
-    "url": "https://www.foxnews.com/us/marine-missing-from-uss-anchorage-now-focus-recovery-mission-off-california-coast",
-    "article_text": "Efforts to find a Marine who went missing from the USS Anchorage during integrated training off the coast of Southern California turned to a recovery mission, according to Navy officials.\r\nThe Marine… [+1438 chars]"
-  },
-  {
-    "id": "a5b136910b4440e1",
-    "title": "Fernando Machado Calls Out AI Homogenization of Marketing at Cannes Lions, ETBrandEquity",
-    "source": "The Times of India",
-    "publication_date": "2026-06-29T04:26:48Z",
-    "url": "https://brandequity.economictimes.indiatimes.com/news/marketing/fernando-machado-warns-generative-ai-will-homogenise-marketing-cannes-lions/132054351",
-    "article_text": "Fernando Machado onstage during Creativity Has to Strike Back at Cannes Lions 2026. (Photo by Xavi Torrent/Getty Images for Cannes Lions)\r\nSpeaking at the Cannes Lions International Festival of Creat… [+8065 chars]"
-  },
-  {
-    "id": "5be4cec77c10dab1",
-    "title": "roadmodel 0.2.11",
+    "id": "ae127a2c02550f6c",
+    "title": "llmtrim 0.5.0",
     "source": "Pypi.org",
-    "publication_date": "2026-06-29T04:24:18Z",
-    "url": "https://pypi.org/project/roadmodel/0.2.11/",
+    "publication_date": "2026-06-29T14:41:12Z",
+    "url": "https://pypi.org/project/llmtrim/0.5.0/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "b58a030e1ee4b4c4",
-    "title": "What they believe at M.M. (and Tsipras) about Maria K., PASOK, Theodora and the one vote, Aktor’s agreements and the FSRU",
-    "source": "Protothema.gr",
-    "publication_date": "2026-06-29T04:22:00Z",
-    "url": "https://en.protothema.gr/2026/06/29/what-they-believe-at-m-m-and-tsipras-about-maria-k-pasok-theodora-and-the-one-vote-aktors-agreements-and-the-fsru/",
-    "article_text": "Welcome to July, the most summery month of the year. Fortunately, despite Force 6 and 7 winds, we have so far avoided a major wildfire, although it is still early days. What we have not escapedthough… [+35005 chars]"
+    "id": "39206295ba6c3c88",
+    "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+    "source": "Internet",
+    "publication_date": "2026-06-29T14:41:07Z",
+    "url": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+    "article_text": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open.\r\nThe noise is not all noise, either. Fo… [+20540 chars]"
   },
   {
-    "id": "0b6c07fd2e07d5a9",
-    "title": "​ Brazil and Japan fans take over Houston before the clash",
-    "source": "Onefootball.com",
-    "publication_date": "2026-06-29T04:21:00Z",
-    "url": "https://onefootball.com/en/news/brazil-and-japan-fans-take-over-houston-before-the-clash-43070773",
-    "article_text": "On the eve of the massive clash between Brazil and Japan, the streets of Texas have been flooded by fans from both countries.\r\nOn one side, the South American revelry has taken over the atmosphere wi… [+415 chars]"
-  },
-  {
-    "id": "80cda03965e7a255",
-    "title": "reliable-ai-streams-py 0.22.0",
+    "id": "f69f336ee0ea065d",
+    "title": "aait 4.0.11",
     "source": "Pypi.org",
-    "publication_date": "2026-06-29T04:20:57Z",
-    "url": "https://pypi.org/project/reliable-ai-streams-py/0.22.0/",
+    "publication_date": "2026-06-29T14:41:07Z",
+    "url": "https://pypi.org/project/aait/4.0.11/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "3b44b77bb0eb6a5d",
-    "title": "Intel Arc Graphics Driver 31.0.101.5595 for Windows 10 version 1903 64-bit",
-    "source": "Softpedia.com",
-    "publication_date": "2026-06-29T04:19:02Z",
-    "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-31-0-101-5595-for-Windows-10-version-1903-64-bit.shtml",
-    "article_text": "The package provides the installation files for Intel Arc Graphics Driver version 31.0.101.5595 .If the driver is already installed on your system, updating (overwrite-installing) may fix various iss… [+2147 chars]"
-  },
-  {
-    "id": "2d2f83c1c15a93cb",
-    "title": "substrai-costsentinel 1.3.0",
+    "id": "133d444ededf5e01",
+    "title": "cz-eli-mcp added to PyPI",
     "source": "Pypi.org",
-    "publication_date": "2026-06-29T04:18:26Z",
-    "url": "https://pypi.org/project/substrai-costsentinel/1.3.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "publication_date": "2026-06-29T14:40:58Z",
+    "url": "https://pypi.org/project/cz-eli-mcp/",
+    "article_text": "An MCP server for the Czech e-Sbirka legal database (e-sbirka.gov.cz), the official\r\nCollection of Laws (Sbirka zakonu), via its open-data SPARQL endpoint. It searches acts and\r\nfetches their full co… [+2964 chars]"
   },
   {
-    "id": "91a4ebcdc7fe5003",
-    "title": "substrai-evalforge 1.5.0",
+    "id": "e2041a684d7a9f99",
+    "title": "dk-eli-mcp added to PyPI",
     "source": "Pypi.org",
-    "publication_date": "2026-06-29T04:18:21Z",
-    "url": "https://pypi.org/project/substrai-evalforge/1.5.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "publication_date": "2026-06-29T14:40:49Z",
+    "url": "https://pypi.org/project/dk-eli-mcp/",
+    "article_text": "An MCP server for the Danish Retsinformation legal database (retsinformation.dk). It\r\nfetches Danish legislation as LexDania 2.1 XML behind native ELI URIs, with verifiable\r\ncitations.\r\nPart of the M… [+2833 chars]"
   },
   {
-    "id": "a0f2b31c6e255536",
-    "title": "substrai-lambdallm 2.2.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-29T04:18:12Z",
-    "url": "https://pypi.org/project/substrai-lambdallm/2.2.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "2271a52674ed00d6",
-    "title": "prompt-linker 1.1.3",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-29T04:15:15Z",
-    "url": "https://pypi.org/project/prompt-linker/1.1.3/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "bb0b532a3e240e0f",
-    "title": "AI in fashion retail: A Computer Weekly Downtime Upload podcast",
-    "source": "ComputerWeekly.com",
-    "publication_date": "2026-06-29T04:13:00Z",
-    "url": "https://www.computerweekly.com/podcast/AI-in-fashion-retail-A-Computer-Weekly-Downtime-Upload-podcast",
-    "article_text": "Fashion retailer Asos has been working with Microsoft to fine-tune large language models (LLMs) specifically for fashion. The longer you engage, the more context the stylist understands, says Asos ch… [+2957 chars]"
-  },
-  {
-    "id": "715a9f507fa7599c",
-    "title": "Baidu shares jump 7% as AI chip arm Kunlunxin said to target $50 billion Hong Kong IPO",
-    "source": "Biztoc.com",
-    "publication_date": "2026-06-29T04:12:32Z",
-    "url": "https://biztoc.com/x/1ff1ed56a2f86bc3",
-    "article_text": "Hong Kong-listed shares of Baidu surged more than 7% Monday on reports that its artificial intelligence chip unit Kunlunxin is targeting an initial public offering in the city, which could value its … [+139 chars]"
-  },
-  {
-    "id": "125fb873ee642ddb",
-    "title": "cutlpk added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-29T04:11:03Z",
-    "url": "https://pypi.org/project/cutlpk/",
-    "article_text": "A scalable linear programming framework for solving K-Means, Fair K-Means, and Spectral Clustering problems. This project implements a cutting-plane algorithm that utilizing and LP relaxation to solv… [+4735 chars]"
-  },
-  {
-    "id": "216c534f43b47ed4",
-    "title": "ai2070-l0 0.21.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-29T04:09:40Z",
-    "url": "https://pypi.org/project/ai2070-l0/0.21.1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "09d99179c7e31993",
-    "title": "10 winners selected at 9th edition of Start-up Express",
-    "source": "Antaranews.com",
-    "publication_date": "2026-06-29T04:09:28Z",
-    "url": "https://en.antaranews.com/news/420724/10-winners-selected-at-9th-edition-of-start-up-express",
-    "article_text": "Hong Kong (ANTARA/ACN Newswire) -The ninth edition of Start-up Express, organised by the Hong Kong Trade Development Council (HKTDC), successfully concluded its Final Pitching Day today, with 10 winn… [+8235 chars]"
-  },
-  {
-    "id": "6792a67c870dad2c",
-    "title": "couplet-core 0.1.2",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-29T04:09:20Z",
-    "url": "https://pypi.org/project/couplet-core/0.1.2/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "2640f21e3ec6ea8b",
-    "title": "Baidu shares jump 7% as AI chip arm Kunlunxin said to target $50 billion Hong Kong IPO",
-    "source": "CNBC",
-    "publication_date": "2026-06-29T04:09:09Z",
-    "url": "https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html",
-    "article_text": "Hong Kong-listed shares of Baidu surged more than 7% Monday on reports that its artificial intelligence chip unit Kunlunxin is targeting an initial public offering in the city, which could value its … [+1497 chars]"
-  },
-  {
-    "id": "81ef74840ea90528",
-    "title": "AI hasn't changed marketing's role, only how it delivers: Publicis Sapient CMO",
-    "source": "The Times of India",
-    "publication_date": "2026-06-29T04:08:48Z",
-    "url": "https://economictimes.indiatimes.com/industry/services/advertising/ai-hasnt-changed-marketings-role-only-how-it-delivers-publicis-sapient-cmo/articleshow/132062594.cms",
-    "article_text": "Artificial intelligence is transforming how marketing teams work, but it has not changed marketing's core responsibility of driving growth, building customer relationships and shaping how brands show… [+4125 chars]"
-  },
-  {
-    "id": "89e9279471562d18",
-    "title": "reliable-ai-streams-py added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-29T04:07:27Z",
-    "url": "https://pypi.org/project/reliable-ai-streams-py/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "6184aa4d7021af74",
-    "title": "US Stock Market: Wall Street eyes jobs data as rate hike bets and tech volatility intensify",
-    "source": "The Times of India",
-    "publication_date": "2026-06-29T04:05:19Z",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-eyes-jobs-data-as-rate-hike-bets-and-tech-volatility-intensify/articleshow/132062565.cms",
-    "article_text": "US stock investors are set to closely monitor this week's employment data for fresh clues on the strength of the economy and the likely path of interest rates, with the outcome expected to influence … [+3283 chars]"
-  },
-  {
-    "id": "2bd2ca42d500b6a2",
-    "title": "Ford Values Human Expertise Over Machines",
-    "source": "Briansolis.com",
-    "publication_date": "2026-06-29T04:04:52Z",
-    "url": "https://briansolis.com/2026/06/ford-values-human-expertise-over-machines/",
-    "article_text": "Via Bloomberg\r\nFord rehired over 350 veteran engineers referred to internally as “gray beards” after an aggressive AI adoption strategy backfired.\r\nFord had been increasingly relying on AI-driven ins… [+1253 chars]"
-  },
-  {
-    "id": "d349c407d90336c8",
-    "title": "TeLLMgramBot 3.17.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-29T04:04:38Z",
-    "url": "https://pypi.org/project/tellmgrambot/3.17.1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "30f79ea6f98a75b5",
-    "title": "Global AI Boom Drives Strong Growth in Hong Kong's May Exports",
-    "source": "Antaranews.com",
-    "publication_date": "2026-06-29T04:04:21Z",
-    "url": "https://en.antaranews.com/news/420721/global-ai-boom-drives-strong-growth-in-hong-kongs-may-exports",
-    "article_text": "Hong Kong (ANTARA/ACN Newswire) -Hong Kong’s merchandise exports rose by 40.8% year-on-year to HK$611.2 billion in May, according to data released today by the Census and Statistics Department. For t… [+1963 chars]"
-  },
-  {
-    "id": "68ea3a5dd6779beb",
-    "title": "promptcanary added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-29T04:03:44Z",
-    "url": "https://pypi.org/project/promptcanary/",
-    "article_text": "Detect silent behavioral drift in LLM providers before it breaks production.\r\nLLM providers frequently update their models without changing the model string or announcing behavioral shifts. These cha… [+8895 chars]"
-  },
-  {
-    "id": "8406ffce5c60d712",
-    "title": "promptcanary 0.1.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-29T04:03:44Z",
-    "url": "https://pypi.org/project/promptcanary/0.1.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "2a6ad312ffc7ffa9",
-    "title": "Intel Arc Graphics Driver 31.0.101.5595 for Windows 10 version 21H2 64-bit",
-    "source": "Softpedia.com",
-    "publication_date": "2026-06-29T04:03:01Z",
-    "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-31-0-101-5595-for-Windows-10-version-21H2-64-bit.shtml",
-    "article_text": "The package provides the installation files for Intel Arc Graphics Driver version 31.0.101.5595 .If the driver is already installed on your system, updating (overwrite-installing) may fix various iss… [+2147 chars]"
-  },
-  {
-    "id": "c694cddf6e323a60",
-    "title": "Media Buying Briefing: The holdco tech heads expound on the ups and downs of building AI",
-    "source": "Digiday",
-    "publication_date": "2026-06-29T04:01:00Z",
-    "url": "http://digiday.com/media-buying/media-buying-briefing-the-holdco-tech-heads-expound-on-the-ups-and-downs-of-building-ai/",
-    "article_text": "Digiday covers the latest from marketing and media at the annual Cannes Lions International Festival of Creativity. More from the series →The topic of AI was inescapable no matter where you went duri… [+8216 chars]"
-  },
-  {
-    "id": "abb70b507c9d37a2",
-    "title": "How IAM providers are preparing for agentic AI",
-    "source": "ComputerWeekly.com",
-    "publication_date": "2026-06-29T04:00:00Z",
-    "url": "https://www.computerweekly.com/feature/How-IAM-providers-are-preparing-for-agentic-AI",
-    "article_text": "There is a very real sense that every organisation dabbling with artificial intelligence (AI) in particular, agentic AI is heading directly into an IT security catastrophe.\r\nRichard Wainwright, field… [+9055 chars]"
-  },
-  {
-    "id": "f6087667b78143a2",
-    "title": "VivaTech 2026 Hong Kong Tech Pavilion connects local start-ups with European opportunities",
-    "source": "Antaranews.com",
-    "publication_date": "2026-06-29T03:59:57Z",
-    "url": "https://en.antaranews.com/news/420720/vivatech-2026-hong-kong-tech-pavilion-connects-local-start-ups-with-european-opportunities",
-    "article_text": "Hong Kong (ANTARA/ACN Newswire) - Viva Technology (VivaTech) 2026, the annual technology and start-up extravaganza, successfully concluded in Paris, France last week. The Hong Kong Trade Development … [+11331 chars]"
-  },
-  {
-    "id": "a3e2d0a4971286cc",
-    "title": "proofbench added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-29T03:57:48Z",
-    "url": "https://pypi.org/project/proofbench/",
-    "article_text": "A config-driven eval harness that grades and self-improves headless agent skills against\r\nground-truth corpora. You plant tasks you already have the answers to, run an agent skill\r\nacross them, and g… [+3412 chars]"
-  },
-  {
-    "id": "ba20965d1a686051",
-    "title": "Nvidia's Next $1 Trillion Opportunity May Have Nothing to Do With GPUs",
-    "source": "Biztoc.com",
-    "publication_date": "2026-06-29T03:57:13Z",
-    "url": "https://biztoc.com/x/1f119a32b524b643",
-    "article_text": "Shortly after the launch of ChatGPT in late November 2022, big tech hyperscalers realized that chipsets known as graphics processing units (GPUs) could be used to develop next-generation applications… [+149 chars]"
-  },
-  {
-    "id": "174bd345f2e48e26",
-    "title": "Big Tech's $8 trillion AI bet is making consoles, cars, and electricity more expensive for everyone else",
-    "source": "Biztoc.com",
-    "publication_date": "2026-06-29T03:57:13Z",
-    "url": "https://biztoc.com/x/3b2d3d9f021cc5bd",
-    "article_text": "Bottom line: The rapid build-out of artificial-intelligence infrastructure is no longer just a software story; it is increasingly a supply-chain story, and it is beginning to show up in higher costs.… [+154 chars]"
-  },
-  {
-    "id": "541013ffc514c2a8",
-    "title": " Morocco fans take over the Macroplaza and spark wild scenes",
-    "source": "Onefootball.com",
-    "publication_date": "2026-06-29T03:57:00Z",
-    "url": "https://onefootball.com/en/news/morocco-fans-take-over-the-macroplaza-and-spark-wild-scenes-43070739",
-    "article_text": "The color, passion, and international folklore of the World Cup have completely taken over Nuevo León, Mexico.\r\nHundreds of fans flooded the city to put together a real celebration ahead of the clash… [+548 chars]"
-  },
-  {
-    "id": "9e9160323388d9ee",
-    "title": "guardrails-ai-llm-critic added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-29T03:56:54Z",
-    "url": "https://pypi.org/project/guardrails-ai-llm-critic/",
-    "article_text": "Download the file for your platform. If you're not sure which to choose, learn more about installing packages. \r\nSource Distribution \r\nBuilt Distribution \r\nFilter files by name, interpreter, ABI, and… [+144 chars]"
-  },
-  {
-    "id": "826fb28418881f1f",
-    "title": "guardrails-ai-llm-critic 0.1.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-06-29T03:56:54Z",
-    "url": "https://pypi.org/project/guardrails-ai-llm-critic/0.1.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "6741503c246ca3ad",
-    "title": "Intel Arc Graphics Driver 31.0.101.5595 for Windows 10 Vibranium 64-bit",
-    "source": "Softpedia.com",
-    "publication_date": "2026-06-29T03:56:02Z",
-    "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-31-0-101-5595-for-Windows-10-Vibranium-64-bit.shtml",
-    "article_text": "The package provides the installation files for Intel Arc Graphics Driver version 31.0.101.5595 .If the driver is already installed on your system, updating (overwrite-installing) may fix various iss… [+2147 chars]"
+    "id": "25b82f12478d6389",
+    "title": "Cloud VPN Explained: How It Works and Why It’s Essential for Businesses",
+    "source": "Addictivetips.com",
+    "publication_date": "2026-06-29T14:39:31Z",
+    "url": "https://www.addictivetips.com/vpn/cloud-vpn/",
+    "article_text": "A cloud VPN is a modern approach to secure remote connectivity. It allows users to access private networks and cloud resources from anywhere. Unlike traditional VPNs that rely on physical infrastruct… [+16905 chars]"
   }
 ]
