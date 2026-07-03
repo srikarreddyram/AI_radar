@@ -160,6 +160,14 @@
     "article_text": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
   },
   {
+    "id": "f6b3f809726c47bb",
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "source": "Google DeepMind",
+    "publication_date": "Fri, 03 Jul 2026 14:25:43 +0000",
+    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "article_text": ""
+  },
+  {
     "id": "270bf5aff18a95d1",
     "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
     "source": "Google DeepMind",
@@ -310,14 +318,6 @@
     "publication_date": "Sat, 16 May 2026 08:16:06 +0000",
     "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
     "article_text": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases."
-  },
-  {
-    "id": "4bb07558bb37c942",
-    "title": "Opening new paths in aging research",
-    "source": "Google DeepMind",
-    "publication_date": "Sat, 16 May 2026 08:08:44 +0000",
-    "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
-    "article_text": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research."
   },
   {
     "id": "ecd64ff302e50d36",
@@ -624,30 +624,6 @@
     "article_text": "In this post, we show you how PAR built a production-ready multi-tenant LLM analytics system that enforces row-level security through a three-layer architecture: cryptographic request signing with AWS SigV4, semantic validation on Amazon Bedrock, and programmatic data isolation via Split-Plane SQL. We demonstrate how each layer operates independently to reduce the risk of cross-tenant data exposure, even when the LLM itself is compromised or manipulated."
   },
   {
-    "id": "1ed367a47827cb9d",
-    "title": "Claude in Microsoft Foundry is now generally available",
-    "source": "Azure AI Blog",
-    "publication_date": "Mon, 29 Jun 2026 17:00:00 +0000",
-    "url": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
-    "article_text": "<p>Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/\">Claude in Microsoft Foundry is now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
-  },
-  {
-    "id": "599973d29f1df660",
-    "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
-    "source": "Azure AI Blog",
-    "publication_date": "Mon, 29 Jun 2026 15:15:00 +0000",
-    "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
-    "article_text": "<p>At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/\">The 2026 Agent Confidence Index: Where 300 builders see real momentum</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
-  },
-  {
-    "id": "d4652bc8706ea46f",
-    "title": "Accelerate modern Linux workloads with Azure Files",
-    "source": "Azure AI Blog",
-    "publication_date": "Mon, 29 Jun 2026 15:00:00 +0000",
-    "url": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
-    "article_text": "<p>Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/\">Accelerate modern Linux workloads with Azure Files</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
-  },
-  {
     "id": "432094af8571b3dd",
     "title": "From insight to action: The next phase of agentic cloud operations",
     "source": "Azure AI Blog",
@@ -702,6 +678,30 @@
     "publication_date": "Tue, 02 Jun 2026 16:00:00 +0000",
     "url": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/",
     "article_text": "<p>Build smarter agents with Microsoft Foundry IQ, unifying enterprise and external data into a secure, scalable knowledge layer for faster, higher-quality answers.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/\">Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "230c559d467deece",
+    "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
+    "source": "Azure AI Blog",
+    "publication_date": "Fri, 29 May 2026 14:46:32 +0000",
+    "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
+    "article_text": "<p>Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367\">Claude Opus 4.8 is now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "9ef8bfd2268454ef",
+    "title": "From commit to cloud: Powering what’s next for PostgreSQL",
+    "source": "Azure AI Blog",
+    "publication_date": "Wed, 13 May 2026 16:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
+    "article_text": "<p>PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a relentless focus on correctness and extensibility.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/\">From commit to cloud: Powering what’s next for PostgreSQL</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "dbc329a462ce56c6",
+    "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026",
+    "source": "Azure AI Blog",
+    "publication_date": "Tue, 12 May 2026 18:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
+    "article_text": "<p>Together, Microsoft and SAP are helping enterprises transform operations, decision-making, and innovation at scale on Azure.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/\">Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
   },
   {
     "id": "74b3c5e18682c7e7",
@@ -1320,387 +1320,403 @@
     "article_text": "arXiv:2607.01487v1 Announce Type: new \nAbstract: We propose a scaling law that takes into account model size and training data while explicitly splitting the latter into training steps and batch size (called three-term law). Fitting the proposed law on a large set of training runs, we find that it correctly recovers the scaling of the optimal batch size. Moreover, because it makes use of training runs with suboptimal batch size, our proposed law can be robustly fit with a significantly smaller amount of training runs. We further show that the three-term law can be used to derive scaling laws for suboptimal batch sizes, and that it matches previous empirical findings related to the critical batch size."
   },
   {
-    "id": "9e943e336be1d82e",
-    "title": "S. Korea's Lee vows to turn central region into AI hub",
+    "id": "66671cb4e4cc3c6e",
+    "title": "This stylish HP OmniDesk Ryzen 7 desktop just dropped to $790 — and I think it's one of the top tower PC deals around right now",
+    "source": "TechRadar",
+    "publication_date": "2026-07-02T14:40:08Z",
+    "url": "https://www.techradar.com/pro/this-stylish-hp-omnidesk-ryzen-7-desktop-just-dropped-to-usd790-and-i-think-its-one-of-the-top-tower-pc-deals-around-right-now",
+    "article_text": "I've spotted one of the best desktop PC deals I've seen, with the HP OmniDesk desktop now $790 (was $899) at Amazon. It's a solid pick for a home office setup, a family desktop, or anyone replacing a… [+1989 chars]"
+  },
+  {
+    "id": "2fa2c990ac9a42bc",
+    "title": "Forget Nvidia: Is Google Quietly About to Steal the Crown as the World’s Most Valuable Company?",
+    "source": "24/7 Wall St.",
+    "publication_date": "2026-07-02T14:39:59Z",
+    "url": "https://247wallst.com/investing/2026/07/02/forget-nvidia-is-google-quietly-about-to-steal-the-crown-as-the-worlds-most-valuable-company/",
+    "article_text": "Quick Read\r\n<ul><li>NVDA dropped 11% in June while GOOG's $4.31 trillion market cap quietly closes on NVDA's $4.85 trillion crown.\r\n</li><li>Google controls AI models, infrastructure, distribution, a… [+3670 chars]"
+  },
+  {
+    "id": "45f78ede95deb636",
+    "title": "joblet-mcp-server 1.1.4",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-02T14:39:23Z",
+    "url": "https://pypi.org/project/joblet-mcp-server/",
+    "article_text": "MCP server for Joblet job orchestration - enables AI assistants to manage distributed computing jobs through the Joblet platform.\r\nQuick Start\r\n# Install\r\npipinstalljoblet-mcp-server\r\n# Configure (~/… [+3193 chars]"
+  },
+  {
+    "id": "165884b2c7bf38a4",
+    "title": "Big win for humans! Ford rehired 350 'gray beards' after AI failed quality checks. Are replacement fears overblown?",
     "source": "Biztoc.com",
-    "publication_date": "2026-07-02T04:25:23Z",
-    "url": "https://biztoc.com/x/968284ccd9fb046c",
-    "article_text": "South Korea President Lee Jae-myung promised to transform the country's central-western Chungcheong region into a hub for artificial intelligence (AI) innovation, according to Yonhap News Agency.Spea… [+69 chars]"
+    "publication_date": "2026-07-02T14:38:34Z",
+    "url": "https://biztoc.com/x/deaee2f9bf8cee14",
+    "article_text": "Big win for humans! Ford rehired 350 'gray beards' after AI failed quality checks. Are replacement fears overblown?Moneywise and Yahoo Finance LLC may earn commission or revenue through links in the … [+141 chars]"
   },
   {
-    "id": "836306e3c416ab70",
-    "title": "Emergent Ventures India, 17th cohort",
-    "source": "Marginalrevolution.com",
-    "publication_date": "2026-07-02T04:22:49Z",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/emergent-ventures-india-17th-cohort.html",
-    "article_text": "This is all from Shruti:\r\nAryamman Bhatia is part of the team building HackerFab IITB, an open-source student-built chip microfabrication lab. He received his grant to build what he hopes will become… [+5009 chars]"
+    "id": "541e95ba718add0e",
+    "title": "Intel Stock Surges Over 160% in 2026 on AI Momentum and Foundry Progress as Q2 Earnings Loom",
+    "source": "Ibtimes.com.au",
+    "publication_date": "2026-07-02T14:38:24Z",
+    "url": "https://www.ibtimes.com.au/intel-2026-turnaround-ai-manufacturing-stock-surge-1871712",
+    "article_text": "SANTA CLARA, Calif. — Intel Corp. shares have delivered blockbuster gains in 2026, more than doubling in value amid renewed optimism around the chipmaker's turnaround efforts, artificial intelligence… [+6541 chars]"
   },
   {
-    "id": "86920c83207064d2",
-    "title": "SpaceX has a phone-like AI device prototype, and Musk says it’s fake news",
-    "source": "Intomobile.com",
-    "publication_date": "2026-07-02T04:20:36Z",
-    "url": "https://www.intomobile.com/2026/07/01/spacex-has-a-phone-like-ai-device-prototype-and-musk-says-its-fake-news/",
-    "article_text": "SpaceX has reportedly shown investors a prototype of an AI device that looks and feels like a slim smartphone, according to TechCrunch, which cited a Wall Street Journal report. The device is describ… [+2555 chars]"
+    "id": "a6aa7f1c4a181333",
+    "title": "Anthropic said to work on its own AI chip",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-02T14:35:32Z",
+    "url": "https://biztoc.com/x/65addaa4c41e779e",
+    "article_text": "Anthropic is working on its own AI chip, already holding talks with Samsung Electronics as a potential manufacturing partner, the Information reported on Thursday.The move comes soon after OpenAI rev… [+69 chars]"
   },
   {
-    "id": "a8f4e95050df5953",
-    "title": "Weird Al Yankovic Says He Turned Down ‘A Nice Pile of Money’ to Do an AI Ad: ‘I Can’t Be the Poster Boy’",
-    "source": "TheWrap",
-    "publication_date": "2026-07-02T04:20:05Z",
-    "url": "https://www.thewrap.com/industry-news/business/weird-al-yankovic-explains-why-he-turned-down-ai-ad/",
-    "article_text": "Weird Al Yankovic admitted he turned down “a nice pile of money” to appear in an AI ad because he wasn’t willing to be “the poster boy” for the technology.\r\nThe parody musician, known for his comedy … [+1928 chars]"
+    "id": "e7eeb47fadb8275c",
+    "title": "Minister urges youth to adapt as technological evolve",
+    "source": "Antaranews.com",
+    "publication_date": "2026-07-02T14:34:55Z",
+    "url": "https://en.antaranews.com/news/421360/minister-urges-youth-to-adapt-as-technological-evolve",
+    "article_text": "Jakarta (ANTARA) - Indonesian Minister of Manpower Yassierli has urged young people to remain adaptable and continuously develop relevant skills to keep pace with rapid technological advances and the… [+2872 chars]"
   },
   {
-    "id": "04db2dcd926aa43f",
-    "title": "OpenAI proposes giving Trump administration 5% equity stake: FT",
-    "source": "Seeking Alpha",
-    "publication_date": "2026-07-02T04:18:03Z",
-    "url": "https://seekingalpha.com/news/4609515-openai-proposes-giving-trump-administration-5-equity-stake-ft",
-    "article_text": "OpenAI (OPENAI) has discussed giving a 5% stake to the U.S. government as the $852B AI start-up seeks to clear political obstacles by securing financial buy-in from the Trump administration, the Fina… [+64 chars]"
+    "id": "85cb0d991c7a2b11",
+    "title": "Steam Machine alternative with Ryzen 9 available for under $850",
+    "source": "Notebookcheck.net",
+    "publication_date": "2026-07-02T14:34:00Z",
+    "url": "https://www.notebookcheck.net/Steam-Machine-alternative-with-Ryzen-9-available-for-under-850.1333400.0.html",
+    "article_text": "Some readers may remember our coverage of the Aoostar GODY. First launched in China, the mini-PC is now available to customers in other countries at a starting price of $849 (945). As it is sold as a… [+1106 chars]"
   },
   {
-    "id": "e8741f0ed64c58e4",
-    "title": "Luxury Shoppers Are Adopting AI Faster Than Brands Are Adapting, Study Says",
-    "source": "WWD",
-    "publication_date": "2026-07-02T04:17:29Z",
-    "url": "http://wwd.com/business-news/technology/luxury-shoppers-adopting-ai-faster-than-brands-1239049435/",
-    "article_text": "PARIS — Luxury brands may be accelerating their adoption of AI, but customers are way ahead.\r\nThat is the key finding of a new study titled “Winning Over the Customer in the Age of AI: A New Horizon … [+6770 chars]"
-  },
-  {
-    "id": "f24d5051dcee4749",
-    "title": "nobody-pentest-mcp added to PyPI",
+    "id": "8e801d9cf32a75f9",
+    "title": "moroccan_digital_factory added to PyPI",
     "source": "Pypi.org",
-    "publication_date": "2026-07-02T04:13:59Z",
-    "url": "https://pypi.org/project/nobody-pentest-mcp/",
-    "article_text": "MCP server yang menghubungkan Claude Code dengan Nobody AI Pentest Engine.\r\n Quick Setup (1 Command)\r\ncdmcp-pentest\r\npythonsetup.py--api-keysk-nobody-xxx\r\nScript akan otomatis:\r\n<ol><li> Install depe… [+2143 chars]"
+    "publication_date": "2026-07-02T14:33:28Z",
+    "url": "https://pypi.org/project/moroccan_digital_factory/",
+    "article_text": "A Phased Implementation Framework for Moroccan Digital and Knowledge Sovereignty\r\nFrom Regional Cloud Hosting to National Knowledge Sovereignty\r\nA Phased, Low-Capital-First Pathway to Moroccan Digita… [+12698 chars]"
   },
   {
-    "id": "988aeb2425102be2",
-    "title": "The surprising reason India's most expensive stocks often keep rising",
-    "source": "The Times of India",
-    "publication_date": "2026-07-02T04:13:20Z",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-surprising-reason-indias-most-expensive-stocks-often-keep-rising/articleshow/132128723.cms",
-    "article_text": "Indian equities are confronting a stark paradox that routinely defies conventional market logic: the countrys most expensive stocks, trading at seemingly exorbitant valuations, frequently continue to… [+9130 chars]"
-  },
-  {
-    "id": "118170f1cd5a3fcf",
-    "title": "araboja-shorts added to PyPI",
+    "id": "f3b1e19195004496",
+    "title": "vault-for-llm 0.7.27",
     "source": "Pypi.org",
-    "publication_date": "2026-07-02T04:12:19Z",
-    "url": "https://pypi.org/project/araboja-shorts/",
-    "article_text": "araboja-shorts is a Python pipeline for generating Korean short-form videos about ancient artifacts, archaeological sites, and ancient-civilization mysteries from topic selection to a finished, subti… [+4541 chars]"
+    "publication_date": "2026-07-02T14:33:15Z",
+    "url": "https://pypi.org/project/vault-for-llm/0.7.27/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "2612ca22fe43cbef",
-    "title": "OpenAI to hand over 5% stake to US government, Financial Times reports",
-    "source": "Crypto Briefing",
-    "publication_date": "2026-07-02T04:09:21Z",
-    "url": "https://cryptobriefing.com/openai-stake-us-government-public-wealth-fund/",
-    "article_text": "The proposed equity transfer could seed a public wealth fund designed to let Americans share in AI-driven economic gains OpenAI, the company behind ChatGPT and one of the most valuable private enterp… [+2802 chars]"
-  },
-  {
-    "id": "94d8d8e20707f489",
-    "title": "Mythos and the fight over America's most powerful AI",
-    "source": "The Times of India",
-    "publication_date": "2026-07-02T04:08:55Z",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mythos-and-the-fight-over-americas-most-powerful-ai/articleshow/132128586.cms",
-    "article_text": "After a US government greenlight, global access to Anthropic's powerful AI model Fable 5 -- along with restricted access to the even more powerful Mythos 5 -- has been restored, following a standoff … [+3840 chars]"
-  },
-  {
-    "id": "97884fb9927bc1bc",
-    "title": "The Dan Ives era at Wedbush is over. These are some of the calls — and colorful fits — people will remember.",
+    "id": "4727d5f943783252",
+    "title": "Companies are thinking smarter about how technology can drive business outcomes, says Bain's Erika Serow",
     "source": "Business Insider",
-    "publication_date": "2026-07-02T04:08:54Z",
-    "url": "https://www.businessinsider.com/dan-ives-wedbush-tech-calls-outfits-nvidia-microsoft-2026-7#article",
-    "article_text": "Dan Ives is leaving Wedbush as managing director and senior equity research analyst for his own venture.NASDAQ: ORBS)\r\n<ul><li>Dan Ives is leaving Wedbush to launch a merchant bank focusing on the te… [+3352 chars]"
+    "publication_date": "2026-07-02T14:32:51Z",
+    "url": "https://www.businessinsider.com/bain-cmo-erika-serow-cannes-lions-2026-7#article",
+    "article_text": "The CMO role boils down to three things, said Erica Serow, Bain's chief marketing officer, who was interviewed during the 2026 Cannes Lions Festival.\"It's about incredible creativity, it is about gre… [+554 chars]"
   },
   {
-    "id": "bd55fea8b91f084d",
-    "title": "Nvidia strikes revenue-sharing deals with Sharon AI, cloud partners to scale AI factories",
-    "source": "Seeking Alpha",
-    "publication_date": "2026-07-02T04:08:42Z",
-    "url": "https://seekingalpha.com/news/4609514-nvidia-strikes-revenue-sharing-deals-with-sharon-ai-cloud-partners-to-scale-ai-factories",
-    "article_text": "To ensure this doesnt happen in the future, please enable Javascript and cookies in your browser.\r\nIf you have an ad-blocker enabled you may be blocked from proceeding. Please disable your ad-blocker… [+12 chars]"
-  },
-  {
-    "id": "6141f95c3c1d6b90",
-    "title": "agent-assure added to PyPI",
+    "id": "1470beef51e4c75a",
+    "title": "tolokaforge 0.6.0",
     "source": "Pypi.org",
-    "publication_date": "2026-07-02T04:07:25Z",
-    "url": "https://pypi.org/project/agent-assure/",
-    "article_text": "Local-first process assurance for agentic AI pipelines.\r\nCore thesis: output equivalence is not process equivalence.\r\nA candidate agent pipeline can return the same final approval, denial,\r\nrecommend… [+14414 chars]"
-  },
-  {
-    "id": "cb6cdad4f794adf2",
-    "title": "mcp-knowledge-graph added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-02T04:03:17Z",
-    "url": "https://pypi.org/project/mcp-knowledge-graph/",
-    "article_text": "MCP server for enterprise knowledge graph retrieval over Neo4j. Client LLM generates Cypher; this server provides schema resources, validation, and read-only execution.\r\ndocs/MCP.md\r\nArchitecture\r\n<u… [+3946 chars]"
-  },
-  {
-    "id": "87ba6f2b32564ca8",
-    "title": "OpenAI Seeks Ad Format Innovation; Monetizing The Post-Click Web",
-    "source": "AdExchanger",
-    "publication_date": "2026-07-02T04:03:00Z",
-    "url": "http://www.adexchanger.com/daily-news-roundup/thursday-02072026/",
-    "article_text": "The AdExchanger office will be closed tomorrow for Independence Day, so we’ll see you back here bright and early Monday morning. \r\nEnjoy the weekend and holiday!\r\nInquire Within\r\nOpenAI’s ads busines… [+4928 chars]"
-  },
-  {
-    "id": "4de159b0edfbb510",
-    "title": "Media Briefing: ‘Surveillance pricing’ laws are coming for dynamic subscription strategies",
-    "source": "Digiday",
-    "publication_date": "2026-07-02T04:01:00Z",
-    "url": "http://digiday.com/media/media-briefing-surveillance-pricing-laws-are-coming-for-dynamic-subscription-strategies/",
-    "article_text": "This Media Briefing covers the latest in media trends for Digiday+ members and is distributed over email every Thursday at 10 a.m. ET. More from the series →\r\nThis week’s Media Briefing looks at whet… [+14792 chars]"
-  },
-  {
-    "id": "319f60e57d237394",
-    "title": "Final Aim、一般社団法人 人工知能学会に賛助会員として入会",
-    "source": "Prtimes.jp",
-    "publication_date": "2026-07-02T04:00:00Z",
-    "url": "https://prtimes.jp/main/html/rd/p/000000073.000070012.html",
-    "article_text": "Final Aim Final Aim \r\nFinal Aim2019122022AI\r\nFinal Design\r\nhttps://www.final-aim.com/jp/products/final-design-enterprise\r\nAI\r\n20261 CTO\r\nAIAI\r\n Final Aim CTO \r\nFinal AimFinal Aim\r\nThe Japanese Societ… [+440 chars]"
-  },
-  {
-    "id": "37557b724d135067",
-    "title": "☕️Breakfast FC: Kyks' mad dressing-room nickname, Messi meme",
-    "source": "Onefootball.com",
-    "publication_date": "2026-07-02T04:00:00Z",
-    "url": "https://onefootball.com/en/news/breakfast-fc-kyks-mad-dressing-room-nickname-messi-meme-43084996",
-    "article_text": "On Wednesday, internet users amusedly discovered the dictator nickname given to Kylian Mbappé in the France teams locker room...\r\nLionel Messis surprise appearance in the Spider-Man teaser inspired a… [+724 chars]"
-  },
-  {
-    "id": "70935dfd22564299",
-    "title": "nvidia-cutlass-operators 0.1.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-02T03:57:03Z",
-    "url": "https://pypi.org/project/nvidia-cutlass-operators/0.1.0/",
+    "publication_date": "2026-07-02T14:32:47Z",
+    "url": "https://pypi.org/project/tolokaforge/0.6.0/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "d3b6cdb4d27846d0",
-    "title": "DaVinci Resolve 21.0.2 Update",
-    "source": "Newsshooter",
-    "publication_date": "2026-07-02T03:56:11Z",
-    "url": "https://www.newsshooter.com/2026/07/01/davinci-resolve-21-0-2-update/",
-    "article_text": "By Matthew Allard ACS\r\n Matthew Allard is a multi-award-winning, ACS accredited freelance Director of Photography with over 35 years' of experience working in more than 50 countries around the world.… [+328 chars]"
-  },
-  {
-    "id": "f47bfe3fbe7a11ce",
-    "title": "LinqAlpha nears $22M in Series A funding round",
+    "id": "3dd64ab243500d42",
+    "title": "Memory chip stocks experience notable volatility as AI-fueled rally hits turbulence",
     "source": "Crypto Briefing",
-    "publication_date": "2026-07-02T03:55:55Z",
-    "url": "https://cryptobriefing.com/linqalpha-series-a-funding-round/",
-    "article_text": "The AI-focused fintech company is close to closing a significant capital raise as investor appetite for AI-driven financial tools continues to grow. LinqAlpha is approaching the close of a $22M Serie… [+1383 chars]"
+    "publication_date": "2026-07-02T14:32:46Z",
+    "url": "https://cryptobriefing.com/memory-chip-stocks-volatility-ai-rally/",
+    "article_text": "After a historic run that minted trillion-dollar companies, memory chipmakers saw their worst week since April 2025 as margin fears crept in. The memory chip sector just had the kind of week that mak… [+3030 chars]"
   },
   {
-    "id": "4dd83ca750017233",
-    "title": "Meta Exploring Option to Sell Spare Compute Capacity to Generate AI Revenue",
-    "source": "PCMag.com",
-    "publication_date": "2026-07-02T03:55:19Z",
-    "url": "https://me.pcmag.com/en/ai/37595/meta-exploring-option-to-sell-spare-compute-capacity-to-generate-ai-revenue",
-    "article_text": "Meta's next big adventure in AI will reportedly be selling access to extra compute power.\r\nAs Bloomberg reports, the move would be part of a new cloud infrastructure business that would compete with … [+1792 chars]"
-  },
-  {
-    "id": "b4bae5a31ce98b5b",
-    "title": "sampler-cli 0.4.2",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-02T03:53:14Z",
-    "url": "https://pypi.org/project/sampler-cli/0.4.2/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "49f046b4c5fa0087",
-    "title": "Microsoft partners with Singapore's Lightstorm to build India-Southeast Asia undersea cable",
-    "source": "The Times of India",
-    "publication_date": "2026-07-02T03:49:42Z",
-    "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-partners-with-singapores-lightstorm-to-build-india-southeast-asia-undersea-cable/articleshow/132128370.cms",
-    "article_text": "A consortium including Microsoft and telecom startup Lightstorm plans to build a new undersea cable linking India with Malaysia and Singapore as technology firms compete to expand AI and cloud infras… [+1778 chars]"
-  },
-  {
-    "id": "ab1bcf9d24f4f3f9",
-    "title": "Valar nuclear startup partners with Nvidia on data center aiming to conserve water",
-    "source": "The Times of India",
-    "publication_date": "2026-07-02T03:48:01Z",
-    "url": "https://economictimes.indiatimes.com/tech/technology/valar-nuclear-startup-partners-with-nvidia-on-data-center-aiming-to-conserve-water/articleshow/132128234.cms",
-    "article_text": "Valar Atomics, a nuclear power startup, said on Wednesday it is partnering with Nvidia to develop a small data center in Utah that the companies claim will show how computing facilities needed for AI… [+2483 chars]"
-  },
-  {
-    "id": "e18aff17c77d9fa8",
-    "title": "Nvidia develops motion tokenization method that lets humanoid robots learn to recover from falls",
-    "source": "Crypto Briefing",
-    "publication_date": "2026-07-02T03:46:56Z",
-    "url": "https://cryptobriefing.com/nvidia-motion-tokenization-robotics/",
-    "article_text": "The GPU giant's new approach treats human movement like language, training GPT-style models on motion data instead of text to create robots that can improvise physical behaviors. Nvidia has figured o… [+3204 chars]"
-  },
-  {
-    "id": "07d1bb775051d18f",
-    "title": "tridec 0.2.2",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-02T03:46:16Z",
-    "url": "https://pypi.org/project/tridec/0.2.2/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "3fe8cac6c61ea072",
-    "title": "Cloud, controlled: Nutanix tightens agentic AI governance & cost mechanisms",
-    "source": "ComputerWeekly.com",
-    "publication_date": "2026-07-02T03:45:54Z",
-    "url": "https://www.computerweekly.com/blog/CW-Developer-Network/Cloud-controlled-Nutanix-tightens-agentic-AI-governance-cost-mechanisms",
-    "article_text": "Cloud computing is for everyone, but not everything or so the cloud industrys mantra has variously specified over the years in an attempt to balance the -as-a-Service based model of software and data… [+6286 chars]"
-  },
-  {
-    "id": "7d7a875956cd8c79",
-    "title": "vault-for-llm 0.7.26",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-02T03:41:51Z",
-    "url": "https://pypi.org/project/vault-for-llm/0.7.26/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "f07a72b91fc9c804",
-    "title": "megflow-observability 0.5.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-02T03:40:07Z",
-    "url": "https://pypi.org/project/megflow-observability/0.5.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "366228e4edf15e33",
-    "title": "Takeda and Insilico strike AI-led drug discovery deal worth up to $600m",
-    "source": "Biztoc.com",
-    "publication_date": "2026-07-02T03:39:09Z",
-    "url": "https://biztoc.com/x/0cfde86c40019472",
-    "article_text": "HONG KONG -- Japanese pharmaceutical giant Takeda has reached a deal with Hong Kong-based Insilico Medicine to use the biotechnology company's artificial intelligence platform to identify potential n… [+134 chars]"
-  },
-  {
-    "id": "0a0d5471254ea739",
-    "title": "SoftBank renews talks for $10 billion loan against OpenAI stake, adds concessions, sources say",
+    "id": "20e817ce39b2f8d2",
+    "title": "Modi, Takaichi initiate deeper cooperation in AI, economic security, energy, defence",
     "source": "BusinessLine",
-    "publication_date": "2026-07-02T03:38:46Z",
-    "url": "https://www.thehindubusinessline.com/money-and-banking/softbank-renews-talks-for-10-billion-loan-against-openai-stake-adds-concessions-sources-say/article71172898.ece",
-    "article_text": "SoftBank Group has reopened talks with a consortium of lenders for a $10 billion loan backed by its stake in OpenAI, after earlier attempts to secure a loan stalled over concerns about the difficulty… [+3338 chars]"
+    "publication_date": "2026-07-02T14:32:25Z",
+    "url": "https://www.thehindubusinessline.com/economy/modi-takaichi-initiate-deeper-cooperation-in-ai-economic-security-energy-defence/article71174877.ece",
+    "article_text": "Prime Minister Narendra Modi and Japanese Prime Minister Sanae Takaichi on Thursday agreed to deepen cooperation in strengthening economic and energy security, artificial intelligence, resilient supp… [+3206 chars]"
   },
   {
-    "id": "f80e93e5f8f74f10",
-    "title": "Nvidia to share revenue with cloud providers under new AI compute partnership model",
-    "source": "Crypto Briefing",
-    "publication_date": "2026-07-02T03:37:29Z",
-    "url": "https://cryptobriefing.com/nvidia-revenue-share-cloud-ai-compute/",
-    "article_text": "The GPU giant is moving beyond hardware sales by taking a cut of cloud service revenue, starting with a six-year deal in Australia. Nvidia isn’t just selling shovels anymore. It wants a percentage of… [+1997 chars]"
+    "id": "addcf09788566a32",
+    "title": "100X Gains from Full Stack Co-Design. AI Value Justifies Big Spend. AI Boom is Real",
+    "source": "Next Big Future",
+    "publication_date": "2026-07-02T14:32:23Z",
+    "url": "https://www.nextbigfuture.com/2026/07/100x-gains-from-full-stack-co-design-ai-value-justifies-big-spend-ai-boom-is-real.html",
+    "article_text": "Sean from Sequoia introduces Dylan Patel and praises SemiAnalysis as the leading independent research firm in semiconductors, covering technical details, supply chains, and the big picture after semi… [+10732 chars]"
   },
   {
-    "id": "9bda420936d0775c",
-    "title": "terrella added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-02T03:35:31Z",
-    "url": "https://pypi.org/project/terrella/",
-    "article_text": "A terrella (\"little Earth\") is the small magnetized model of Earth that early scientists ran lab experiments on. This one is a homelab-scale AI stack born on a desktop PC named earth (ADR-0008 has th… [+3302 chars]"
-  },
-  {
-    "id": "8522a246c9a1a92d",
-    "title": "Venice AI becomes a unicorn as AI privacy concerns grow",
-    "source": "Cointelegraph",
-    "publication_date": "2026-07-02T03:31:39Z",
-    "url": "https://cointelegraph.com/news/venice-ai-becomes-a-unicorn-as-ai-privacy-concerns-grow",
-    "article_text": "The Erik Voorhees-founded Venice AI has achieved unicorn status after raising $65 million in Series A funding at a $1 billion valuation. \r\nLed by Dragonfly and with backing from Coinbase Ventures, F-… [+3315 chars]"
-  },
-  {
-    "id": "a31a79e3369f936b",
-    "title": "Memory price relief for PC brands is expected to be temporary",
-    "source": "Digitimes",
-    "publication_date": "2026-07-02T03:24:23Z",
-    "url": "https://www.digitimes.com/news/a20260702PD210/pc-price-hbm-demand-ddr.html",
-    "article_text": "Memory suppliers are renegotiating high-bandwidth memory contracts, and PC brands say price increases may slow later this year. For global buyers, that relief could be short-lived, as supply-chain so… [+59 chars]"
-  },
-  {
-    "id": "32e0094581d56197",
-    "title": "Socionext to develop TSMC A14 chiplet for AI data center SoCs",
-    "source": "Digitimes",
-    "publication_date": "2026-07-02T03:24:00Z",
-    "url": "https://www.digitimes.com/news/a20260702VL207/socionext-ai-data-center-soc-tsmc.html",
-    "article_text": "Keep me signed in\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the… [+288 chars]"
-  },
-  {
-    "id": "62a247d5dcb1a636",
-    "title": "Japanese and South Korean semiconductor stocks tumble after US selloff",
-    "source": "Crypto Briefing",
-    "publication_date": "2026-07-02T03:22:08Z",
-    "url": "https://cryptobriefing.com/japan-south-korea-semiconductor-stocks-tumble/",
-    "article_text": "SK Hynix, Samsung, and SoftBank lead the carnage as Asia's chip sector absorbs the shockwave from a brutal US tech rout The AI trade just got a reality check, and it echoed across the Pacific. Japane… [+2619 chars]"
-  },
-  {
-    "id": "2f88ac3875d9152a",
-    "title": "pf-core 0.2.3",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-02T03:19:03Z",
-    "url": "https://pypi.org/project/pf-core/0.2.3/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "2981dc02773f9782",
-    "title": "adj-ai 1.0.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-02T03:17:56Z",
-    "url": "https://pypi.org/project/adj-ai/1.0.1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "6c8fb5c7a8ac6fc2",
-    "title": "Show HN: Rust Backed Fast Dataloader",
-    "source": "Github.com",
-    "publication_date": "2026-07-02T03:16:17Z",
-    "url": "https://github.com/midhunharikumar/ferroload",
-    "article_text": "Pure-Rust implementation of the Ferroload multimodal dataset format and\r\nruntime, plus Python bindings. A fast, cloud-native dataset format for ML\r\ntraining: sharded tar data with a columnar, DuckDB-… [+8984 chars]"
-  },
-  {
-    "id": "1677591c8a277d34",
-    "title": "Wipro shares could crash 17% on Thursday if ADR is an indicator. What’s worrying investors?",
-    "source": "The Times of India",
-    "publication_date": "2026-07-02T03:14:36Z",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-shares-could-crash-17-on-thursday-if-adr-is-an-indicator-whats-worrying-investors/articleshow/132128043.cms",
-    "article_text": "Shares of IT major Wipro are likely to face heavy selling pressure on Thursday after its American Depository Receipts (ADRs) plunged as much as 17% overnight. The sharp decline reflects growing inves… [+3612 chars]"
-  },
-  {
-    "id": "e13ac6bc448d84a8",
-    "title": "Row in Senegal: he says he won’t play again until the coach goes",
-    "source": "Onefootball.com",
-    "publication_date": "2026-07-02T03:13:00Z",
-    "url": "https://onefootball.com/en/news/row-in-senegal-he-says-he-wont-play-again-until-the-coach-goes-43084952",
-    "article_text": "African football is reeling after Senegal's shock elimination from the World Cup. Villarreal midfielder Papé Gueye, one of the squad's standout players, set off a media bombshell by announcing his te… [+729 chars]"
-  },
-  {
-    "id": "0b14670f494db1d6",
-    "title": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it? - VentureBeat",
-    "source": "Slashdot.org",
-    "publication_date": "2026-07-02T03:12:36Z",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184264546",
-    "article_text": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-  },
-  {
-    "id": "5aea8184687d2f83",
-    "title": "Show HN: Meow – The 4th and final JavaScript runtime and toolchain",
-    "source": "Meow.style",
-    "publication_date": "2026-07-02T03:11:09Z",
-    "url": "https://meow.style",
-    "article_text": "// the parse-once pipelineInstead of forcing your runtime, package manager, linter and test runner to parse your\r\ncodebase independently over and over, meow brings them\r\nunder a single roof.\r\nPowered… [+171 chars]"
-  },
-  {
-    "id": "5d17d54b9675c079",
-    "title": "Japan’s Takaichi to Meet Modi on First Official India Visit",
+    "id": "993420adde56ac77",
+    "title": "Tesla Vehicle Sales Jump 25%, Far Exceeding Estimates",
     "source": "Financial Post",
-    "publication_date": "2026-07-02T03:10:34Z",
-    "url": "https://financialpost.com/pmn/business-pmn/japans-takaichi-to-meet-modi-on-first-official-india-visit",
-    "article_text": "(Bloomberg) Japanese Prime Minister Sanae Takaichi will hold talks with her Indian counterpart Narendra Modi in New Delhi on Thursday during her first official visit to the country, as the two sides … [+4027 chars]"
+    "publication_date": "2026-07-02T14:32:15Z",
+    "url": "https://financialpost.com/pmn/business-pmn/tesla-vehicle-sales-jump-25-far-exceeding-estimates",
+    "article_text": "(Bloomberg) Tesla Inc.s vehicles sales beat Wall Streets modest expectations by a wide margin, gaining in a slower-growing global market for plug-in cars.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ON… [+5116 chars]"
   },
   {
-    "id": "912c1705aa3108e0",
-    "title": "Guidelines for Respectful Use of AI",
-    "source": "Medium",
-    "publication_date": "2026-07-02T03:10:30Z",
-    "url": "https://skamille.medium.com/guidelines-for-respectful-use-of-ai-affcc85d7072",
-    "article_text": "As companies adopt AI tools, a lot of time is spent on thinking about AI policies from a security, compliance, or even cost-focused angle. But many leaders are neglecting to address how their teams s… [+6845 chars]"
+    "id": "ba0c805cb65b5039",
+    "title": "️ Enzo Fernández's agent speaks out: he likes Madrid",
+    "source": "Onefootball.com",
+    "publication_date": "2026-07-02T14:32:00Z",
+    "url": "https://onefootball.com/en/news/enzo-fernandezs-agent-speaks-out-he-likes-madrid-43087497",
+    "article_text": "Enzo Fernández remains determined to leave Chelsea this summer, as confirmed by his agent, Javier Pastore. The Argentine, currently away with the national team at the World Cup, has not hidden his de… [+1137 chars]"
+  },
+  {
+    "id": "cf71cf3e96ebe34d",
+    "title": "elengenix added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-02T14:31:30Z",
+    "url": "https://pypi.org/project/elengenix/",
+    "article_text": "Autonomous AI Agent Framework for Security Research\r\n[!IMPORTANT]\r\nLEGAL &amp; SECURITY DISCLAIMER: This framework is designed strictly for educational purposes, authorized security research, and def… [+8383 chars]"
+  },
+  {
+    "id": "c7a2ca112de38869",
+    "title": "squish-ai 9.34.11",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-02T14:30:29Z",
+    "url": "https://pypi.org/project/squish-ai/9.34.11/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "e0b6bd0b531c8820",
+    "title": "Hospital Procurement Expectations Outpace AI Regulation for Medical Device Manufacturers",
+    "source": "PRNewswire",
+    "publication_date": "2026-07-02T14:30:00Z",
+    "url": "https://www.prnewswire.com/news-releases/hospital-procurement-expectations-outpace-ai-regulation-for-medical-device-manufacturers-302816974.html",
+    "article_text": "As AI becomes embedded in medical technologies, manufacturers should prepare to demonstrate AI governance alongside cybersecurity\r\nSCHAUMBURG, Ill., July 2, 2026 /PRNewswire/ -- Medical device manufa… [+3637 chars]"
+  },
+  {
+    "id": "285ddebf7fd9ea8c",
+    "title": "Label Identification Technologies Market worth $2.87 billion by 2031 | MarketsandMarkets™",
+    "source": "PRNewswire",
+    "publication_date": "2026-07-02T14:30:00Z",
+    "url": "https://www.prnewswire.com/news-releases/label-identification-technologies-market-worth-2-87-billion-by-2031--marketsandmarkets-302816745.html",
+    "article_text": "DELRAY BEACH, Fla., July 2, 2026 /PRNewswire/ -- According to MarketsandMarkets, the Label Identification Technologies Market is projected to grow from about USD 2.04 billion in 2026 to USD 2.87 bill… [+7998 chars]"
+  },
+  {
+    "id": "4bddd30d9fc8e126",
+    "title": "Label Identification Technologies Market worth $2.87 billion by 2031 | MarketsandMarkets™",
+    "source": "PR Newswire UK",
+    "publication_date": "2026-07-02T14:30:00Z",
+    "url": "https://www.prnewswire.co.uk/news-releases/label-identification-technologies-market-worth-2-87-billion-by-2031--marketsandmarkets-302816746.html",
+    "article_text": "DELRAY BEACH, Fla., July 2, 2026 /PRNewswire/ -- According to MarketsandMarkets, the Label Identification Technologies Market is projected to grow from about USD 2.04 billion in 2026 to USD 2.87 bill… [+7982 chars]"
+  },
+  {
+    "id": "b9a08938430efd30",
+    "title": "bingo-ai 3.5.22",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-02T14:29:32Z",
+    "url": "https://pypi.org/project/bingo-ai/3.5.22/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "066725d48f70e74a",
+    "title": "Aecon Consortium Awarded Contract for Multibillion-Dollar Power Project Tied to Major Data Centre Development and AI Infrastructure in Alberta",
+    "source": "GlobeNewswire",
+    "publication_date": "2026-07-02T14:29:00Z",
+    "url": "https://www.globenewswire.com/news-release/2026/07/02/3321415/0/en/Aecon-Consortium-Awarded-Contract-for-Multibillion-Dollar-Power-Project-Tied-to-Major-Data-Centre-Development-and-AI-Infrastructure-in-Alberta.html",
+    "article_text": "TORONTO, July 02, 2026 (GLOBE NEWSWIRE) -- Aecon Group Inc. (TSX: ARE) (Aecon) announced today that TRA, a consortium with Técnicas Reunidas Alberta, Inc. in which Aecon holds a majority share, has b… [+9759 chars]"
+  },
+  {
+    "id": "385500dbaddf6ce6",
+    "title": "token-optimizer added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-02T14:28:28Z",
+    "url": "https://pypi.org/project/token-optimizer/",
+    "article_text": "Local-first context hygiene for AI coding sessions.\r\nno default networkno daemondry-run firstexplicit inputsApache-2.0\r\nToken Optimizer helps you inspect context bloat, summarize explicit files,\r\n ge… [+14139 chars]"
+  },
+  {
+    "id": "ae825295639988fc",
+    "title": "From OpenAI to Sarvam, governments may want skin in the AI game",
+    "source": "The Times of India",
+    "publication_date": "2026-07-02T14:28:04Z",
+    "url": "https://economictimes.indiatimes.com/news/international/global-trends/from-openai-to-sarvam-governments-may-want-skin-in-the-ai-game/articleshow/132140558.cms",
+    "article_text": "The idea would have sounded far-fetched even a year ago. Governments regulate companies, subsidise them and sometimes shield them from foreign competition. They do not usually ask for a seat on the t… [+8687 chars]"
+  },
+  {
+    "id": "b43d5ece93085c72",
+    "title": "Predictive Analytics and AI Tools Propel Revolution in Talent Acquisition Industry",
+    "source": "GlobeNewswire",
+    "publication_date": "2026-07-02T14:27:00Z",
+    "url": "https://www.globenewswire.com/news-release/2026/07/02/3321410/28124/en/Predictive-Analytics-and-AI-Tools-Propel-Revolution-in-Talent-Acquisition-Industry.html",
+    "article_text": "Dublin, July 02, 2026 (GLOBE NEWSWIRE) -- The \"AI in Talent Acquisition Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe AI in talent acquisition market is witnessing a r… [+25032 chars]"
+  },
+  {
+    "id": "3f5113a862e6a801",
+    "title": "Visa and BBVA Prove Today’s Rails Can Handle Agentic Payments",
+    "source": "pymnts.com",
+    "publication_date": "2026-07-02T14:26:17Z",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/visa-and-bbva-prove-todays-rails-can-handle-agentic-payments/",
+    "article_text": "Spain-based global financial group BBVA has completed its first artificial intelligence agent-initiated transaction in collaboration with Visa.The transaction was initiated by an AI agent on behalf o… [+2198 chars]"
+  },
+  {
+    "id": "4665739129ed715f",
+    "title": "BDO UK & Ireland plans to double Irish staff to over 1,100 over five years",
+    "source": "The Irish Times",
+    "publication_date": "2026-07-02T14:26:02Z",
+    "url": "https://www.irishtimes.com/business/2026/07/02/bdo-uk-ireland-plans-to-double-irish-staff-to-over-1100-over-five-years/",
+    "article_text": "BDO UK and BDO Ireland are on track to complete their merger this weekend, with the combined firm planning to double the size of its workforce in the Republic to more than 1,100 over the next five ye… [+2526 chars]"
+  },
+  {
+    "id": "240213cdc103ac4c",
+    "title": "Trump stopped talking about these media stocks, but his portfolio didn’t stop trading them",
+    "source": "Fortune",
+    "publication_date": "2026-07-02T14:24:28Z",
+    "url": "https://fortune.com/2026/07/02/trump-stopped-talking-warner-bros-comcast-portfolio-kept-trading/",
+    "article_text": "Of the seven Fortune 500 companies in President Trumps disclosed investment portfolio that also turn up somewhere in his public statements this year, five drew a clear 2026 comment from him: Apple, N… [+3763 chars]"
+  },
+  {
+    "id": "bbb206c2ad61620c",
+    "title": "Trump stopped talking about these media stocks, but his portfolio didn’t stop trading them",
+    "source": "Yahoo Entertainment",
+    "publication_date": "2026-07-02T14:24:28Z",
+    "url": "https://finance.yahoo.com/media-advertising/articles/trump-stopped-talking-media-stocks-142428079.html",
+    "article_text": "Of the seven Fortune 500 companies in President Trump's disclosed investment portfolio that also turn up somewhere in his public statements this year, five drew a clear 2026 comment from him: Apple, … [+3858 chars]"
+  },
+  {
+    "id": "6a80e4e44543a653",
+    "title": "Visa Lets Banks Access Its In-House Cybersecurity Capabilities",
+    "source": "pymnts.com",
+    "publication_date": "2026-07-02T14:23:45Z",
+    "url": "https://www.pymnts.com/cybersecurity/2026/visa-lets-banks-access-cybersecurity-capabilities/",
+    "article_text": "Visa debuted a solution designed to help financial institutions spot cyberthreats and prevent fraud, according to a Thursday (July 2) press release.The Visa Threat Intelligence Platform (VTIP) employ… [+2364 chars]"
+  },
+  {
+    "id": "851f266b2dcccee6",
+    "title": "CORSAIR’s FRAME 4500X bundle makes building an RGB gaming PC much cheaper at $125 (58% off)",
+    "source": "9to5Toys",
+    "publication_date": "2026-07-02T14:22:27Z",
+    "url": "http://9to5toys.com/2026/07/02/corsair-frame-4500x-bundle-at-125-58-off/",
+    "article_text": "We just spotted a deal at Amazon that drops CORSAIRs FRAME 4500X RS-R ARGB Bundle to $125 shipped. This is a regularly $300 package that includes the FRAME 4500X RS-R PC case, a Nautilus RS 360 AIO c… [+2716 chars]"
+  },
+  {
+    "id": "e19fc1893fa3c58a",
+    "title": "Customer service AI pricing just turned into the biggest shell game",
+    "source": "Techtarget.com",
+    "publication_date": "2026-07-02T14:22:00Z",
+    "url": "https://www.techtarget.com/searchcustomerexperience/opinion/Customer-service-AI-pricing-just-turned-into-the-biggest-shell-game",
+    "article_text": "Customer service is ground zero for agentic AI. This business unit has the most need for automation and operates on long-accepted performance metrics such as customer satisfaction and time to resolut… [+7980 chars]"
+  },
+  {
+    "id": "9ebdb0c1d2d46d87",
+    "title": "McKinsey chairs: Building a more resilient industrial base may require $2 trillion in investment",
+    "source": "Fortune",
+    "publication_date": "2026-07-02T14:21:52Z",
+    "url": "https://fortune.com/2026/07/02/us-manufacturing-resilience-2-trillion-investment-mckinsey/",
+    "article_text": "Intensifying technological competition and geopolitical risks have resurfaced a decades-old question with renewed urgency: Should the United States rebuild its industrial base?The United States impor… [+5002 chars]"
+  },
+  {
+    "id": "1d42026177f167b9",
+    "title": "German Drone Maker Quantum Systems Raises Funding at $8 Billion Valuation",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-02T14:20:31Z",
+    "url": "https://biztoc.com/x/817c5ad2becd535e",
+    "article_text": "Quantum Systems said it had raised $1.2 billion at a valuation of roughly $8 billion, bringing in fresh capital to expand drone production and invest in software for autonomous systems powered by art… [+74 chars]"
+  },
+  {
+    "id": "6b509de4ba201db1",
+    "title": "The ‘Michael Burry Bear Case’ for AI Chips Is Back, and This GPU Math Problem Won’t Go Away",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-02T14:19:10Z",
+    "url": "https://biztoc.com/x/e0724194bd9c8855",
+    "article_text": "The post The Michael Burry Bear Case for AI Chips Is Back, and This GPU Math Problem Wont Go Away appeared first on 24/7 Wall St.. \r\nA CNBC guest flagged a critical depreciation mismatch for AI hardw… [+138 chars]"
+  },
+  {
+    "id": "40079db1d138e694",
+    "title": "US government would get 5% stake in OpenAI under Sam Altman proposal: report",
+    "source": "New York Post",
+    "publication_date": "2026-07-02T14:19:00Z",
+    "url": "https://nypost.com/2026/07/02/business/us-government-would-get-5-stake-in-openai-under-sam-altman-proposal-report/",
+    "article_text": "OpenAI CEO Sam Altman is reportedly floating a proposal to hand the US government a 5% stake in the ChatGPT maker as the company looks to cement ties with the Trump administration and blunt mounting … [+3456 chars]"
+  },
+  {
+    "id": "234a2ab7b2327128",
+    "title": "'Something Has Gone Completely Wrong': Palantir's Alex Karp Goes Ballistic On OpenAI, Anthropic",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-02T14:18:54Z",
+    "url": "https://biztoc.com/x/ad962299dc4bde51",
+    "article_text": "'Something Has Gone Completely Wrong': Palantir's Alex Karp Goes Ballistic On OpenAI, Anthropic\r\nOn Wednesday, Palantir CEO Alex Karp delivered a blistering critique of frontier AI labs, accusing the… [+146 chars]"
+  },
+  {
+    "id": "b226b6f1e0c47671",
+    "title": "Titan Mini is a smaller Renesas RA8P1-based Edge AI board for RT-Thread RTOS development",
+    "source": "CNX Software",
+    "publication_date": "2026-07-02T14:18:08Z",
+    "url": "https://www.cnx-software.com/2026/07/02/titan-mini-smaller-renesas-ra8p1-based-edge-ai-board-for-rt-thread-rtos-development/",
+    "article_text": "The Titan Mini is a smaller and somewhat cheaper version of the RA8P1 Titan board introduced in 2025 for AIoT applications and RT-Thread RTOS development.\r\nIt still features a Renesas R7KA8P1 Cortex-… [+3468 chars]"
+  },
+  {
+    "id": "78b399b62cfb377e",
+    "title": "Ondo Finance debuts SEC-aligned tokenized stock model with BlackRock ETF, Micron shares",
+    "source": "CoinDesk",
+    "publication_date": "2026-07-02T14:16:02Z",
+    "url": "https://www.coindesk.com/business/2026/07/01/ondo-finance-debuts-sec-aligned-tokenized-stock-model-with-blackrock-etf-micron-shares",
+    "article_text": "\"Today's milestone shows we can tokenize securities in ways that meet both market and regulatory requirements, for U.S. and global investors and provides a strong foundation for our expanding access … [+1535 chars]"
+  },
+  {
+    "id": "43585e4600667249",
+    "title": "House IP Subcommittee, Witnesses Urge Action on Site Blocking Mechanism, NO FAKES",
+    "source": "IPWatchdog.com",
+    "publication_date": "2026-07-02T14:15:54Z",
+    "url": "https://ipwatchdog.com/2026/07/02/house-ip-subcommittee-witnesses-urge-action-on-site-blocking-mechanism-no-fakes/",
+    "article_text": "“NO FAKES is going to move under my watch.” – Darrell Issa\r\nDarrell Issa\r\nThe House Judiciary Committees Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet held … [+6461 chars]"
+  },
+  {
+    "id": "2ec1a76acef35566",
+    "title": "Explosive Growth in Edge AI Market: From $21.84 Billion in 2025 to $81.71 Billion by 2030",
+    "source": "GlobeNewswire",
+    "publication_date": "2026-07-02T14:15:00Z",
+    "url": "https://www.globenewswire.com/news-release/2026/07/02/3321399/28124/en/Explosive-Growth-in-Edge-AI-Market-From-21-84-Billion-in-2025-to-81-71-Billion-by-2030.html",
+    "article_text": "Dublin, July 02, 2026 (GLOBE NEWSWIRE) -- The \"Edge AI in Retail Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe edge artificial intelligence (AI) in retail market has w… [+27258 chars]"
+  },
+  {
+    "id": "1d9c3ce99e4e30b8",
+    "title": "Big win for humans! Ford rehired 350 'gray beards' after AI failed quality checks. Are replacement fears overblown?",
+    "source": "Yahoo Entertainment",
+    "publication_date": "2026-07-02T14:15:00Z",
+    "url": "https://finance.yahoo.com/technology/ai/articles/big-win-humans-ford-rehired-141500197.html",
+    "article_text": "Anna Moneymaker/ Getty Images\r\nMoneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nFor years now, Wall Street has embraced the idea that artificial int… [+9108 chars]"
+  },
+  {
+    "id": "5b52dba86ee8d57a",
+    "title": "Data Center Certification Market worth $3.05 billion by 2032 - Exclusive Report by MarketsandMarkets™",
+    "source": "PR Newswire UK",
+    "publication_date": "2026-07-02T14:15:00Z",
+    "url": "https://www.prnewswire.co.uk/news-releases/data-center-certification-market-worth-3-05-billion-by-2032---exclusive-report-by-marketsandmarkets-302816727.html",
+    "article_text": "DELRAY BEACH, Fla., July 2, 2026 /PRNewswire/ -- According to MarketsandMarkets, the data center certification market is projected to reach USD 3.05 billion by 2032 from an estimated USD 1.16 billion… [+10152 chars]"
+  },
+  {
+    "id": "8e8ac0cd6d71158b",
+    "title": "Data Center Certification Market worth $3.05 billion by 2032 - Exclusive Report by MarketsandMarkets™",
+    "source": "PRNewswire",
+    "publication_date": "2026-07-02T14:15:00Z",
+    "url": "https://www.prnewswire.com/news-releases/data-center-certification-market-worth-3-05-billion-by-2032---exclusive-report-by-marketsandmarkets-302816726.html",
+    "article_text": "DELRAY BEACH, Fla., July 2, 2026 /PRNewswire/ -- According to MarketsandMarkets, the data center certification market is projected to reach USD 3.05 billion by 2032 from an estimated USD 1.16 billion… [+10168 chars]"
+  },
+  {
+    "id": "c32f95d33a643ecd",
+    "title": "llm-latency-bench 0.2.1",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-02T14:14:36Z",
+    "url": "https://pypi.org/project/llm-latency-bench/0.2.1/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "c36faf0c1f4bfd61",
+    "title": "tensor-grep 1.17.23",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-02T14:14:22Z",
+    "url": "https://pypi.org/project/tensor-grep/1.17.23/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "ef02af6076de5e4e",
+    "title": "Ratepayer Protection Act would force AI companies to fund their own energy upgrades, and crypto miners should pay attention",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-07-02T14:14:05Z",
+    "url": "https://cryptobriefing.com/ratepayer-protection-act-ai-energy-crypto/",
+    "article_text": "A bipartisan bill targeting data centers consuming 100 megawatts or more could set a precedent for how energy-intensive industries, including crypto mining, bear infrastructure costs. Congress just t… [+2638 chars]"
+  },
+  {
+    "id": "2cf612d5260ecb19",
+    "title": "ai-synapse 4.2.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-02T14:14:00Z",
+    "url": "https://pypi.org/project/ai-synapse/4.2.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   }
 ]
