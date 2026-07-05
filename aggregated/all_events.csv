@@ -1280,6 +1280,101 @@ Abstract: Class imbalance poses a critical challenge in federated learning (FL),
 Abstract: We propose a scaling law that takes into account model size and training data while explicitly splitting the latter into training steps and batch size (called three-term law). Fitting the proposed law on a large set of training runs, we find that i...",How to Allocate Your Tokens? Scaling Laws with Training Steps and Batch Size,,
 9eda6a5b-bccf-47d4-96aa-6562776afa1c,"Fri, 03 Ju",OTHER,Google DeepMind,,,Google DeepMind,https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/,Google DeepMind and A24 announce first-of-its-kind research partnership,Google DeepMind and A24 announce first-of-its-kind research partnership,,
 5795fb40-1bcd-4cc4-90f1-b80d2cedeeba,2026-07-04,MODEL_RELEASE,AI,Claude,,The Verge AI,https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector,"Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire.",The fanfiction community is at war with AI — and itself,,
+fc2f1c78-7cb2-47bb-9f8f-456af443a017,2026-07-04,GPU_RELEASE,Intel,,,Softpedia.com,https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Core-i7-1255UL-CPU-Graphics-Driver-32-0-101-7088.shtml,"Intel has moved 11th - 14th Gen Intel Processor Graphics and related Intel Atom, Pentium, and Celeron processor graphics to a legacy software support model.The generic Intel driver provides users wit… [+3250 chars]",Intel Core i7-1255UL CPU Graphics Driver 32.0.101.7088,,
+f2743e35-c13f-447d-b5a5-17ce37b204f4,2026-07-04,OTHER,IIM,,,The Times of India,https://economictimes.indiatimes.com/industry/services/education/prof-arun-mohan-sherry-is-new-iim-shillong-director/articleshow/132174752.cms,"Lucknow, Prof Arun Mohan Sherry, the founding director of the Indian Institute of Information Technology (IIIT) Lucknow, has been appointed director of the IIM Shillong for a five-year term.The appoi… [+1768 chars]",Prof Arun Mohan Sherry is new IIM Shillong director,,
+a1ce50f2-0718-4ef4-98bd-b2f71aed30f3,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/hares/0.5.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",hares 0.5.0,,
+fba994d7-7ea7-4648-9722-92d85f2a0e5a,2026-07-04,MODEL_RELEASE,LLM,,,Pypi.org,https://pypi.org/project/hares/,"The kernel-enforced guard for multi-agent LLM workflows. ( Arabic for ""guard"" / ""guardian"".)
+One binary stands between your LLM agents and your machine enforcing what they can run, how much they can… [+34445 chars]",hares added to PyPI,,
+553331cb-e9c5-49b5-a952-a10fdaa017ef,2026-07-04,OTHER,The Tiny Android Tablet Built to,,,The Gadgeteer,https://the-gadgeteer.com/2026/07/03/redmagic-astra-2-gaming-tablet/,"If you buy something from a link in this article, we may earn a commission. Learn more
+For years, the fastest way to game seriously on Android meant buying a flagship phone and living with a cramped… [+7426 chars]",The Tiny Android Tablet Built to Survive Long Gaming Sessions,,
+d9674412-c550-469b-9839-b4305876d79c,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/nemotron-page-elements-v3/3.0.2.dev20260704042839/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",nemotron-page-elements-v3 3.0.2.dev20260704042839,,
+a4a5aded-0dca-4f04-80d1-4eb2b0ad6156,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/nemotron-graphic-elements-v1/1.0.1.dev20260704042839/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",nemotron-graphic-elements-v1 1.0.1.dev20260704042839,,
+abeaa794-93cb-4bae-96ad-a9b1d3852b85,2026-07-04,SERVICE_UPDATE,Black Cat,,Preview,Bleeding Cool News,https://bleedingcool.com/comics/black-cat-12-preview-punisher-crashes-felicias-party/,"Posted in: Comics, Marvel Comics, Preview | Tagged: black cat
+Black Cat #12 hits stores this Wednesday! Felicia's luck runs out when the Punisher comes calling.",Black Cat #12 Preview: Punisher Crashes Felicia's Party,,
+608c7de9-058c-4783-89b3-f1cb8f03e0ae,2026-07-04,OTHER,TeLLMgramBot 3.18.3,,,Pypi.org,https://pypi.org/project/tellmgrambot/3.18.3/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",TeLLMgramBot 3.18.3,,
+069cab75-5940-4777-8c7d-e213f19660d2,2026-07-04,OTHER,,,Haaland,Onefootball.com,https://onefootball.com/en/news/round-of-16-draw-messi-salah-cr7-yamal-haaland-brazil-best-side-43094450,"From Canada-Morocco to Portugal-Spain, via Brazil-Norway and Argentina-Egypt: the World Cup is entering its hottest phase. France and Spain start as the frontrunners, but the new format has already s… [+2891 chars]","Round of 16 draw! Messi-Salah, CR7-Yamal, Haaland-Brazil: best side?",,
+e6825c7d-a966-4edc-ab08-d3f1bb34994a,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/cje-eval/0.4.2/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",cje-eval 0.4.2,,
+2719a529-fd4e-4953-bfa8-71e6c6af0561,2026-07-04,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/distil-llm/1.8.3/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",distil-llm 1.8.3,,
+1ec06b7a-53cd-4a24-ba12-e118e1fe4840,2026-07-04,OTHER,Deschamps,,France,Onefootball.com,https://onefootball.com/en/news/world-cup-one-of-deschamps-key-men-out-for-paraguay-43094432,"A major blow for the France team. Just a few hours before kickoff of their 2026 World Cup round-of-16 match, the France team now has to deal with some very bad news.", World Cup: one of Deschamps' key men out for Paraguay!,,
+20c0698f-d17e-4491-810f-a9938cf3b66c,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/k8s-mcp-bilbilmyc/0.2.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",k8s-mcp-bilbilmyc 0.2.0,,
+187bc48a-4112-4029-a9a4-c42be6846ec9,2026-07-04,OTHER,AP,,Mexico,Yahoo Entertainment,https://sports.yahoo.com/articles/mexico-fans-dream-more-wins-040357299.html,"MEXICO CITY (AP) The Mexican dream at this World Cup can be summed up in a phrase: ""And what if we do?""
+The question omits the ending and what if we do win? but captures the hope of two generations … [+4612 chars]","Mexico fans dream of more wins in the World Cup, singing 'What if we do?'",,
+36efd748-7720-457f-90e4-01f1fb0d55d3,2026-07-04,GPU_RELEASE,Intel,,,Softpedia.com,https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Core-i7-1185G7-CPU-Graphics-Driver-32-0-101-7088.shtml,"Intel has moved 11th - 14th Gen Intel Processor Graphics and related Intel Atom, Pentium, and Celeron processor graphics to a legacy software support model.The generic Intel driver provides users wit… [+3250 chars]",Intel Core i7-1185G7 CPU Graphics Driver 32.0.101.7088,,
+2a16a251-20a7-450d-aba2-aa1090b50301,2026-07-04,DATACENTER_EXPANSION,the U.S. Industry,,China,Lewrockwell.com,https://www.lewrockwell.com/2026/07/no_author/why-chinas-open-source-ai-will-crush-the-u-s-industry-and-collapse-the-semiconductor-bubble/,"I am an accomplished AI platform developer. I’ve used all the popular models, and I run a 48-workstation mini data center with various GPUs, running open source models for a variety of tasks.",Why China’s Open Source AI Will Crush the U.S. Industry and Collapse the Semiconductor Bubble,,
+a4cf7422-4ddb-415e-84a6-a4555a55011a,2026-07-04,GPU_RELEASE,Y-Combinator,,San Francisco,The Irish Times,https://www.irishtimes.com/business/2026/07/04/im-trying-to-build-the-next-stripe-irish-start-ups-accepted-into-top-silicon-valley-programme/,Two Irish start-ups have been accepted into the high-profile Silicon Valley Y-Combinator accelerator programme. The three-month programme in San Francisco runs four times a year and provides persona… [+2322 chars],‘I’m trying to build the next Stripe’: Irish start-ups accepted into top Silicon Valley programme,,
+a86679a8-3329-41a2-901e-6d452c98cc56,2026-07-04,OUTAGE,Anthropic,,,Biztoc.com,https://biztoc.com/x/c3999a65625743cd,"On June 12, Amazon engineers handed a report to the U.S. Commerce Department.",Anthropic just landed its biggest win of 2026 so far,,
+189c24da-0ce8-421b-8348-b0bb745aa61b,2026-07-04,OTHER,output bytes &gt,,,Getswiftapi.com,https://getswiftapi.com/void-test,"Verify the patented method yourself. Six frontier flagships, three labs, two null concepts, two controls.","Show HN: Void test: 6 frontier LLMs go silent on ""Be silence."" Live proof",,
+71b45bd6-d970-4a5b-ad97-0ed9d63e7671,2026-07-04,GPU_RELEASE,NVIDIA,,,Biztoc.com,https://biztoc.com/x/96eb7aabb59ef502,"Michael Burry, the Scion Asset Management founder popularized in The Big Short, disclosed a new short position against Micron Technology (NASDAQ:MU | MU Price Prediction) in a Substack post dated Jul… [+152 chars]","Michael Burry Shorts Micron, Adding to His NVIDIA and Applied Materials Short Bets Against Chip Stocks",,
+25b3e84e-edd8-4670-aee1-c4a43da1493f,2026-07-04,OTHER,sec,,,Seclists.org,https://seclists.org/oss-sec/2026/q3/23,"oss-sec
+mailing list archives
+From: h &lt;h () h wer ee&gt;Date: Fri, 3 Jul 2026 20:35:57 -0700
+On 7/3/26 7:50 PM, Solar Designer wrote:
+Hi,
+I first wrote the below thinking I'd include xylove21… [+2795 chars]",Re: Wasm OCI Image Fetcher Bearer Realm SSRF Bypass,,
+f0b312ab-ad0c-4566-b4a9-48ba2df10ee6,2026-07-04,MODEL_RELEASE,OpenAI,GPT-5,,Pypi.org,https://pypi.org/project/codexcomp/,"English · 
+A tiny local Responses proxy for the OpenAI Codex CLI that cures the gpt-5.5
+""516"" reasoning-truncation degradation while leaving your model_provider
+untouched, so session grouping, rem… [+9741 chars]",codexcomp 0.3.0,,
+45044c2e-b127-4187-acf1-2489e6c21900,2026-07-04,OTHER,SmolSignal,,,Github.com,https://github.com/SmolNero/SmolSignal,"SmolSignal is an AI signal copilot for Flipper Zero users. It turns Flipper capture files into plain-English explanations, classifies safety risk, can ask real local/cloud models for richer explanati… [+11586 chars]",Show HN: SmolSignal – signal copilot for Flipper Zero files,,
+277e5ca6-99f0-4fa4-84b8-367facc37de9,2026-07-04,OTHER,LL,,,Pypi.org,https://pypi.org/project/ragradar-evaluate/,"Scores captured runs. Two tasks, one discovery helper:
+<table><tr><th>Task</th><th>Call</th><th>Cost</th></tr>
+<tr><td>""Is this run healthy?""</td><td>check(run_id)</td><td>free deterministic, no LL… [+5010 chars]",ragradar-evaluate added to PyPI,,
+2ba94589-038e-4e04-ac0d-b830469a032f,2026-07-04,OTHER,PyPI Developer,,,Pypi.org,https://pypi.org/project/ragradar-capture/,"Developer-side SDK that instruments a RAG or agentic pipeline at key
+stages and writes structured run records to a local SQLite store
+(~/.ragradar/runs.db). Capturing is the verb the stored data ar… [+7245 chars]",ragradar-capture added to PyPI,,
+7089eae9-84f8-4590-b73c-d487eb836d23,2026-07-04,OTHER,"Paraguay - France
+<",,Ghana,Onefootball.com,https://onefootball.com/en/news/round-of-16-set-all-ties-have-now-been-confirmed-43094366,"With Colombias victory over Ghana, the Round of 32 has come to an end, and we now have the full bracket for the Round of 16 of this FIFA World Cup 2026. <ul><li>07/04: Paraguay - France
+</li><li>07… [+415 chars]",Bracket set: all last-16 ties confirmed,,
+80fdaa71-4bab-4897-97e2-0a340af022fb,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/nexus-agentos/1.16.43/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",nexus-agentos 1.16.43,,
+aeaefeab-c47c-4a00-9f37-6dd8b8711780,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/nexus-agentos/1.16.42/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",nexus-agentos 1.16.42,,
+cd2d85e1-ed74-4355-a74e-63039da75d2a,2026-07-04,OTHER,,,,The Irish Times,https://www.irishtimes.com/culture/books/review/2026/07/04/a-sudden-flicker-of-light-a-revisionist-history-of-the-movies-big-screen-questions/,"A Sudden Flicker of Light: A Revisionist History of the Movies
+How often do you imagine yourself on a movie screen? Soundtracked, dramatically lit, richly silent or uttering snappy dialogue?",A Sudden Flicker of Light: A Revisionist History of the Movies – big screen questions,,
+4d590975-824e-4270-8970-f096082e9821,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/nexus-agentos/1.16.41/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",nexus-agentos 1.16.41,,
+b0208d0c-af5e-41c3-9d1d-f3487c857c74,2026-07-04,OTHER,,,Egypt,Onefootball.com,https://onefootball.com/en/news/brazilian-goal-and-stunning-save-last-16-spot-sealed-43094358,Now 16 teams remain alive in pursuit of the trophy at the 2026 FIFA World Cup. After Egypt and Argentina advanced and will face each other Colombia vs Ghana decided the last spot in the round of 16.… [+2069 chars], ‘Brazilian’ goal and stunning save! Last 16 spot sealed,,
+c51cdbd2-43fc-4c8c-a71f-b3ea3db3c2db,2026-07-04,OTHER,m2m-vector-search,,,Pypi.org,https://pypi.org/project/m2m-vector-search/2.3.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",m2m-vector-search 2.3.0,,
+7e31c8d9-7130-482b-9fb5-ff2636b10446,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/lorewiki/0.8.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",lorewiki 0.8.0,,
+9ebe9d39-e14e-463f-aa94-174f9ce06ddf,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/sparrow-engine/0.1.18/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",sparrow-engine 0.1.18,,
+fc4fbf0b-88d9-45fa-81e0-92c15bc5cfc9,2026-07-04,GPU_RELEASE,,,,Pypi.org,https://pypi.org/project/sparrow-engine-gpu/0.1.18/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",sparrow-engine-gpu 0.1.18,,
+2f23e618-4126-4b0c-b123-9550ae72b720,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/tensor-grep/1.22.1/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",tensor-grep 1.22.1,,
+1cd2f0a8-8b4d-4cca-9257-0e1f313d6cb9,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/roadmodel/0.2.15/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",roadmodel 0.2.15,,
+d1d58b6f-8bfe-446e-bded-90dca0a70c71,2026-07-04,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/distil-llm/1.8.2/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",distil-llm 1.8.2,,
+11a818e6-f660-4450-a55e-615ff5385a85,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/tesserakit-skills/0.4.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",tesserakit-skills 0.4.0,,
+533fd5e0-edaa-4f50-99e6-29e0af27baa7,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/tesserakit-skills/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",tesserakit-skills added to PyPI,,
+cd4daaf3-895c-4178-afe3-f5bded8a1543,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/jammi-server-cu12/0.33.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",jammi-server-cu12 0.33.0,,
+54224bfc-9ed6-4d73-8cdc-8117b43e2ed6,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/nexus-agentos/1.16.40/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",nexus-agentos 1.16.40,,
+dfda5d42-5618-46f6-9d38-feb180f2f935,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/nexus-agentos/1.16.39/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",nexus-agentos 1.16.39,,
+a11736d9-c812-4921-bd86-036c8fa52fe5,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/nexus-agentos/1.16.38/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",nexus-agentos 1.16.38,,
+691eb462-28b1-4ab1-92f3-7479ab109315,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/nexus-agentos/1.16.37/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",nexus-agentos 1.16.37,,
+0f23e289-1cd5-4e2f-a325-ce5ed5470afc,2026-07-04,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/cat-llm/3.2.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",cat-llm 3.2.0,,
+b56313d3-b0ce-47cd-90a7-dbcdaa12b3d1,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/nexus-agentos/1.16.35/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",nexus-agentos 1.16.35,,
+0144e2c8-8324-4a7e-9a60-f2b4fb39b364,2026-07-04,OTHER,,,,Pypi.org,https://pypi.org/project/nexus-agentos/1.16.34/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",nexus-agentos 1.16.34,,
 af11b6d1-12da-4947-b73c-12552ba3e5b8,2026-07-03,MODEL_RELEASE,Anthropic,Claude,,The Verge AI,https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development,"At the event ""The Briefing: AI for Science"" earlier this week, Anthropic announced Claude Science, a new ""AI workbench for scientists"" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular codi...",Anthropic wants to develop its own drugs,,
 77802976-607e-4fa3-b971-2bb77391e83a,2026-07-03,OTHER,Midjourney,Midjourney,,The Verge AI,https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video,Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works.,A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered,,
 e870f6a6-7d17-4397-9edc-363686dc864f,2026-07-03,OTHER,,,,Pypi.org,https://pypi.org/project/conexus/6.2.0/,"A required part of this site couldnt load. This may be due to a browser
