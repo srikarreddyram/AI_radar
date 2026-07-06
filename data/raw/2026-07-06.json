@@ -320,6 +320,14 @@
     "article_text": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases."
   },
   {
+    "id": "1573c2cb36b94c42",
+    "title": "How Nations Are Deploying AI for Strategic Priorities",
+    "source": "NVIDIA Blog",
+    "publication_date": "Mon, 06 Jul 2026 15:00:25 +0000",
+    "url": "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/",
+    "article_text": "Nations have long invested in domestic infrastructure to advance their economies, protect and use their data, and take advantage of technology opportunities in areas such as transportation, communications, commerce, entertainment and healthcare. AI, the most important technology of our time, is turbocharging innovation across every facet of society. Countries are investing in AI capabilities so [&#8230;]"
+  },
+  {
     "id": "ecd64ff302e50d36",
     "title": "Joyride Through July With 12 Games Coming to GeForce NOW",
     "source": "NVIDIA Blog",
@@ -454,14 +462,6 @@
     "publication_date": "Mon, 22 Jun 2026 13:00:38 +0000",
     "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
     "article_text": "For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management.  NVIDIA contributed to the NAIRR pilot through a cloud-based resource that gives researchers dedicated access to a [&#8230;]"
-  },
-  {
-    "id": "a4f16ee0c4efb136",
-    "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-    "source": "NVIDIA Blog",
-    "publication_date": "Mon, 22 Jun 2026 13:00:20 +0000",
-    "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-    "article_text": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.  The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that [&#8230;]"
   },
   {
     "id": "8c0da16f4610af7f",
@@ -624,6 +624,38 @@
     "article_text": "In this post, we show you how PAR built a production-ready multi-tenant LLM analytics system that enforces row-level security through a three-layer architecture: cryptographic request signing with AWS SigV4, semantic validation on Amazon Bedrock, and programmatic data isolation via Split-Plane SQL. We demonstrate how each layer operates independently to reduce the risk of cross-tenant data exposure, even when the LLM itself is compromised or manipulated."
   },
   {
+    "id": "2e0442baa84f7c5a",
+    "title": "Meet Brain: The AI system behind Azure reliability",
+    "source": "Azure AI Blog",
+    "publication_date": "Thu, 02 Jul 2026 16:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+    "article_text": "<p>Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/\">Meet Brain: The AI system behind Azure reliability</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "1ed367a47827cb9d",
+    "title": "Claude in Microsoft Foundry is now generally available",
+    "source": "Azure AI Blog",
+    "publication_date": "Mon, 29 Jun 2026 17:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
+    "article_text": "<p>Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/\">Claude in Microsoft Foundry is now generally available</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "599973d29f1df660",
+    "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
+    "source": "Azure AI Blog",
+    "publication_date": "Mon, 29 Jun 2026 15:15:00 +0000",
+    "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
+    "article_text": "<p>At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/\">The 2026 Agent Confidence Index: Where 300 builders see real momentum</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "d4652bc8706ea46f",
+    "title": "Accelerate modern Linux workloads with Azure Files",
+    "source": "Azure AI Blog",
+    "publication_date": "Mon, 29 Jun 2026 15:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
+    "article_text": "<p>Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/\">Accelerate modern Linux workloads with Azure Files</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
     "id": "432094af8571b3dd",
     "title": "From insight to action: The next phase of agentic cloud operations",
     "source": "Azure AI Blog",
@@ -670,38 +702,6 @@
     "publication_date": "Tue, 02 Jun 2026 16:00:00 +0000",
     "url": "https://devblogs.microsoft.com/foundry/build-2026-foundry-models/",
     "article_text": "<p>Microsoft Foundry helps teams move beyond model access to operate AI at scale—selecting, evaluating, optimizing, and governing models across the full lifecycle.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/foundry/build-2026-foundry-models/\">A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
-  },
-  {
-    "id": "c803d55ec7c78b7d",
-    "title": "Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval",
-    "source": "Azure AI Blog",
-    "publication_date": "Tue, 02 Jun 2026 16:00:00 +0000",
-    "url": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/",
-    "article_text": "<p>Build smarter agents with Microsoft Foundry IQ, unifying enterprise and external data into a secure, scalable knowledge layer for faster, higher-quality answers.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/\">Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
-  },
-  {
-    "id": "230c559d467deece",
-    "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
-    "source": "Azure AI Blog",
-    "publication_date": "Fri, 29 May 2026 14:46:32 +0000",
-    "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
-    "article_text": "<p>Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work.</p>\n<p>The post <a href=\"https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367\">Claude Opus 4.8 is now available in Microsoft Foundry</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
-  },
-  {
-    "id": "9ef8bfd2268454ef",
-    "title": "From commit to cloud: Powering what’s next for PostgreSQL",
-    "source": "Azure AI Blog",
-    "publication_date": "Wed, 13 May 2026 16:00:00 +0000",
-    "url": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/",
-    "article_text": "<p>PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a relentless focus on correctness and extensibility.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/\">From commit to cloud: Powering what’s next for PostgreSQL</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
-  },
-  {
-    "id": "dbc329a462ce56c6",
-    "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026",
-    "source": "Azure AI Blog",
-    "publication_date": "Tue, 12 May 2026 18:00:00 +0000",
-    "url": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/",
-    "article_text": "<p>Together, Microsoft and SAP are helping enterprises transform operations, decision-making, and innovation at scale on Azure.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/\">Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
   },
   {
     "id": "74b3c5e18682c7e7",
@@ -920,6 +920,14 @@
     "article_text": "<p><a href=\"https://nousresearch.com/\">Nous Research</a>, the open-source artificial intelligence startup backed by crypto venture firm <a href=\"https://www.paradigm.xyz/\">Paradigm</a>, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia&#x27;s latest <a href=\"https://www.nvidia.com/en-us/data-center/dgx-b200/\">B200 graphics processors</a>.</p><p>The model, called <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a>, is another entry in a crowded field of AI coding assistants, but arrives at a particularly charged moment: <a href=\"https://claude.com/product/claude-code\">Claude Code</a>, the agentic programming tool from rival Anthropic, has dominated social media discussion since New Year&#x27;s Day, with developers posting <a href=\"https://x.com/0xDesigner/status/2008202211738648767?s=20\">breathless</a> <a href=\"https://x.com/hayesdev_/status/2008043379805048948\">testimonials</a> <a href=\"https://x.com/0xDesigner/status/2008202211738648767?s=20\">about its capabilities</a>. The simultaneous developments underscore how quickly AI-assisted software development is evolving — and how fiercely companies large and small are competing to capture what many believe will become a foundational technology for how software gets written.</p><p><span>type: <!-- -->embedded-entry-inline<!-- --> id: <!-- -->74cSyrq6OUrp9SEQ5zOUSl</span></p><p><a href=\"https://nousresearch.com/nouscoder-14b-a-competitive-olympiad-programming-model/\">NousCoder-14B</a> achieves a 67.87 percent accuracy rate on <a href=\"https://livecodebench.github.io/\">LiveCodeBench v6</a>, a standardized evaluation that tests models on competitive programming problems published between August 2024 and May 2025. That figure represents a 7.08 percentage point improvement over the base model it was trained from, Alibaba&#x27;s <a href=\"https://huggingface.co/Qwen/Qwen3-14B\">Qwen3-14B</a>, according to Nous Research&#x27;s technical report published alongside the release.</p><p>&quot;I gave Claude Code a description of the problem, it generated what we built last year in an hour,&quot; <a href=\"https://www.reddit.com/r/OpenAI/comments/1q2uuil/google_engineer_im_not_joking_and_this_isnt_funny/\">wrote Jaana Dogan</a>, a principal engineer at Google responsible for the Gemini API, in a viral post on X last week that captured the prevailing mood around AI coding tools. Dogan was describing a distributed agent orchestration system her team had spent a year developing — a system Claude Code approximated from a three-paragraph prompt.</p><p>The juxtaposition is instructive: while Anthropic&#x27;s <a href=\"https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are\">Claude Code has captured imaginations</a> with demonstrations of end-to-end software development, Nous Research is betting that open-source alternatives trained on verifiable problems can close the gap — and that transparency in how these models are built matters as much as raw capability.</p><hr /><h2><b>How Nous Research built an AI coding model that anyone can replicate</b></h2><p>What distinguishes the <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a> release from many competitor announcements is its radical openness. Nous Research published not just the <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">model weights</a> but the <a href=\"https://github.com/NousResearch/atropos/pull/296\">complete reinforcement learning environment</a>, benchmark suite, and training harness — built on the company&#x27;s <a href=\"https://github.com/NousResearch/atropos/pull/296\">Atropos framework </a>— enabling any researcher with sufficient compute to <a href=\"https://wandb.ai/jli505/qwen14b/reports/HermesCoder-14B--VmlldzoxNTQ5Nzc0MQ?accessToken=4pt3stwyh4x83zqe2jgoo5j9b7j07jbe5omf2n40lray3tih17vfkavjootvnw8o\">reproduce or extend the work</a>.</p><p>&quot;Open-sourcing the Atropos stack provides the necessary infrastructure for reproducible olympiad-level reasoning research,&quot; <a href=\"https://x.com/o_mega___/status/2008907268700475450?s=20\">noted one observer on X</a>, summarizing the significance for the academic and open-source communities.</p><p>The model was trained by <a href=\"https://x.com/JoeLi5050\">Joe Li</a>, a researcher in residence at Nous Research and a former competitive programmer himself. Li&#x27;s <a href=\"https://nousresearch.com/nouscoder-14b-a-competitive-olympiad-programming-model/\">technical report </a>reveals an unexpectedly personal dimension: he compared the model&#x27;s improvement trajectory to his own journey on Codeforces, the competitive programming platform where participants earn ratings based on contest performance.</p><p>Based on rough estimates mapping LiveCodeBench scores to Codeforces ratings, Li calculated that NousCoder-14B&#x27;s improvemen t— from approximately the 1600-1750 rating range to 2100-2200 — mirrors a leap that took him nearly two years of sustained practice between ages 14 and 16. The model accomplished the equivalent in four days.</p><p>&quot;Watching that final training run unfold was quite a surreal experience,&quot; Li wrote in the technical report.</p><p>But Li was quick to note an important caveat that speaks to broader questions about AI efficiency: he solved roughly 1,000 problems during those two years, while the model required 24,000. Humans, at least for now, remain dramatically more sample-efficient learners.</p><hr /><h2><b>Inside the reinforcement learning system that trains on 24,000 competitive programming problems</b></h2><p><a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a>&#x27;s training process offers a window into the increasingly sophisticated techniques researchers use to improve AI reasoning capabilities through reinforcement learning.</p><p>The approach relies on what researchers call &quot;verifiable rewards&quot; — a system where the model generates code solutions, those solutions are executed against test cases, and the model receives a simple binary signal: correct or incorrect. This feedback loop, while conceptually straightforward, requires significant infrastructure to execute at scale.</p><p>Nous Research used <a href=\"https://modal.com/\">Modal</a>, a cloud computing platform, to run sandboxed code execution in parallel. Each of the 24,000 training problems contains hundreds of test cases on average, and the system must verify that generated code produces correct outputs within time and memory constraints — 15 seconds and 4 gigabytes, respectively.</p><p>The training employed a technique called <a href=\"https://dapo-sia.github.io/\">DAPO (Dynamic Sampling Policy Optimization)</a>, which the researchers found performed slightly better than alternatives in their experiments. A key innovation involves &quot;dynamic sampling&quot; — discarding training examples where the model either solves all attempts or fails all attempts, since these provide no useful gradient signal for learning.</p><p>The researchers also adopted &quot;iterative context extension,&quot; first training the model with a 32,000-token context window before expanding to 40,000 tokens. During evaluation, extending the context further to approximately 80,000 tokens produced the best results, with accuracy reaching 67.87 percent.</p><p>Perhaps most significantly, the training pipeline overlaps inference and verification — as soon as the model generates a solution, it begins work on the next problem while the previous solution is being checked. This pipelining, combined with asynchronous training where multiple model instances work in parallel, maximizes hardware utilization on expensive GPU clusters.</p><hr /><h2><b>The looming data shortage that could slow AI coding model progress</b></h2><p>Buried in Li&#x27;s <a href=\"https://nousresearch.com/nouscoder-14b-a-competitive-olympiad-programming-model/\">technical report</a> is a finding with significant implications for the future of AI development: the training dataset for NousCoder-14B encompasses &quot;a significant portion of all readily available, verifiable competitive programming problems in a standardized dataset format.&quot;</p><p>In other words, for this particular domain, the researchers are approaching the limits of high-quality training data.</p><p>&quot;The total number of competitive programming problems on the Internet is roughly the same order of magnitude,&quot; Li wrote, referring to the 24,000 problems used for training. &quot;This suggests that within the competitive programming domain, we have approached the limits of high-quality data.&quot;</p><p>This observation echoes growing concern across the AI industry about data constraints. While compute continues to scale according to well-understood economic and engineering principles, training data is &quot;increasingly finite,&quot; as Li put it.</p><p>&quot;It appears that some of the most important research that needs to be done in the future will be in the areas of synthetic data generation and data efficient algorithms and architectures,&quot; he concluded.</p><p>The challenge is particularly acute for competitive programming because the domain requires problems with known correct solutions that can be verified automatically. Unlike natural language tasks where human evaluation or proxy metrics suffice, code either works or it doesn&#x27;t — making synthetic data generation considerably more difficult.</p><p>Li identified one potential avenue: training models not just to solve problems but to generate solvable problems, enabling a form of self-play similar to techniques that proved successful in game-playing AI systems. &quot;Once synthetic problem generation is solved, self-play becomes a very interesting direction,&quot; he wrote.</p><hr /><h2><b>A $65 million bet that open-source AI can compete with Big Tech</b></h2><p>Nous Research has carved out a distinctive position in the AI landscape: a company committed to <a href=\"https://nousresearch.com/\">open-source releases</a> that compete with — and sometimes exceed — proprietary alternatives.</p><p>The company raised<a href=\"https://fortune.com/crypto/2025/04/25/paradigm-nous-research-crypto-ai-venture-capital-deepseek-openai-blockchain/\"> $50 million in April 2025</a> in a round led by Paradigm, the cryptocurrency-focused venture firm founded by Coinbase co-founder Fred Ehrsam. Total funding reached $65 million, according to some reports. The investment reflected growing interest in decentralized approaches to AI training, an area where Nous Research has developed its <a href=\"https://psyche.network/\">Psyche platform</a>.</p><p>Previous releases include <a href=\"https://hermes4.nousresearch.com/\">Hermes 4</a>, a family of models that we reported &quot;<a href=\"https://venturebeat.com/ai/nous-research-drops-hermes-4-ai-models-that-outperform-chatgpt-without-content-restrictions\">outperform ChatGPT without content restrictions</a>,&quot; and DeepHermes-3, which the company described as the first &quot;<a href=\"https://venturebeat.com/ai/personalized-unrestricted-ai-lab-nous-research-launches-first-toggle-on-reasoning-model-deephermes-3\">toggle-on reasoning model</a>&quot; — allowing users to activate extended thinking capabilities on demand.</p><p>The company has cultivated a distinctive aesthetic and community, prompting some skepticism about whether style might overshadow substance. &quot;Ofc i&#x27;m gonna believe an anime pfp company. stop benchmarkmaxxing ffs,&quot; <a href=\"https://x.com/shydev69/status/2008654826356535510?s=20\">wrote one critic on X</a>, referring to Nous Research&#x27;s anime-style branding and the industry practice of optimizing for benchmark performance.</p><p>Others raised technical questions. &quot;<a href=\"https://x.com/yehor_smoliakov/status/2008659681489940757?s=20\">Based on the benchmark, Nemotron is better</a>,&quot; noted one commenter, referring to Nvidia&#x27;s family of language models. Another asked whether <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a> is &quot;agentic focused or just &#x27;one shot&#x27; coding&quot; — a distinction that matters for practical software development, where iterating on feedback typically produces better results than single attempts.</p><hr /><h2><b>What researchers say must happen next for AI coding tools to keep improving</b></h2><p>The release includes several directions for future work that hint at where AI coding research may be heading.</p><p>Multi-turn reinforcement learning tops the list. Currently, the model receives only a final binary reward — pass or fail — after generating a solution. But competitive programming problems typically include public test cases that provide intermediate feedback: compilation errors, incorrect outputs, time limit violations. Training models to incorporate this feedback across multiple attempts could significantly improve performance.</p><p>Controlling response length also remains a challenge. The researchers found that incorrect solutions tended to be longer than correct ones, and response lengths quickly saturated available context windows during training — a pattern that various algorithmic modifications failed to resolve.</p><p>Perhaps most ambitiously, Li proposed &quot;problem generation and self-play&quot; — training models to both solve and create programming problems. This would address the data scarcity problem directly by enabling models to generate their own training curricula.</p><p>&quot;Humans are great at generating interesting and useful problems for other competitive programmers, but it appears that there still exists a significant gap in LLM capabilities in creative problem generation,&quot; Li wrote.</p><p>The model is <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">available now on Hugging Face</a> under an Apache 2.0 license. For researchers and developers who want to build on the work, Nous Research has published the complete <a href=\"https://github.com/NousResearch/atropos/pull/296\">Atropos training stack</a> alongside it.</p><p>What took Li two years of adolescent dedication to achieve—climbing from a 1600-level novice to a 2100-rated competitor on Codeforces—an AI replicated in 96 hours. He needed 1,000 problems. The model needed 24,000. But soon enough, these systems may learn to write their own problems, teach themselves, and leave human benchmarks behind entirely.</p><p>The question is no longer whether machines can learn to code. It&#x27;s whether they&#x27;ll soon be better teachers than we ever were.</p><p>\n</p>"
   },
   {
+    "id": "3b35e07d1ddd6387",
+    "title": "Microsoft is laying off 4,800 employees",
+    "source": "The Verge AI",
+    "publication_date": "2026-07-06T09:30:00-04:00",
+    "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+    "article_text": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts are in Microsoft's commercial sales business or the company's Xbox division. [&#8230;]"
+  },
+  {
     "id": "62797d7741b41a29",
     "title": "Some of the nation’s rich are letting AI teach their kids",
     "source": "The Verge AI",
@@ -992,411 +1000,403 @@
     "article_text": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google details Australia's unsuccessful war [&#8230;]"
   },
   {
-    "id": "b9b64ef9482c360a",
-    "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-    "source": "The Verge AI",
-    "publication_date": "2026-06-30T13:19:15-04:00",
-    "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-    "article_text": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI fakes, the voiceover is AI-generated. Deadline [&#8230;]"
-  },
-  {
-    "id": "fab6708e0fc2f966",
-    "title": "TeaLow 1.0.0",
+    "id": "461c2c3827009d04",
+    "title": "resdag 0.9.0",
     "source": "Pypi.org",
-    "publication_date": "2026-07-05T04:48:53Z",
-    "url": "https://pypi.org/project/tealow/1.0.0/",
+    "publication_date": "2026-07-05T15:59:08Z",
+    "url": "https://pypi.org/project/resdag/0.9.0/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "792dcfdb661e078e",
-    "title": "kuant 0.3.2",
+    "id": "bceb23c258d5b0d5",
+    "title": "Alex Karp, frontier models and the real fight for Enterprise AI",
+    "source": "SiliconANGLE News",
+    "publication_date": "2026-07-05T15:59:07Z",
+    "url": "https://siliconangle.com/2026/07/05/alex-karp-frontier-models-real-fight-enterprise-ai/",
+    "article_text": "Palantir Technologies Inc. Chief Executive Alex Karps recent broadside against the frontier model vendors put a knife to the throat of the central enterprise artificial intelligence debate.\r\nKarps ar… [+23376 chars]"
+  },
+  {
+    "id": "626a9efbefa836ea",
+    "title": "openinvest 0.19.1",
     "source": "Pypi.org",
-    "publication_date": "2026-07-05T04:48:13Z",
-    "url": "https://pypi.org/project/kuant/0.3.2/",
+    "publication_date": "2026-07-05T15:58:19Z",
+    "url": "https://pypi.org/project/openinvest/0.19.1/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "feb5d89ecb88cab5",
-    "title": "tofu-search 0.4.2",
+    "id": "16e2dc42a3adb8ff",
+    "title": "git-cai-cli 0.15.4",
     "source": "Pypi.org",
-    "publication_date": "2026-07-05T04:47:14Z",
-    "url": "https://pypi.org/project/tofu-search/0.4.2/",
+    "publication_date": "2026-07-05T15:57:33Z",
+    "url": "https://pypi.org/project/git-cai-cli/0.15.4/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "3cb08787fcf8204c",
-    "title": "Intel Arc Graphics Driver 31.0.101.3430 for Windows 10 64-bit",
-    "source": "Softpedia.com",
-    "publication_date": "2026-07-05T04:43:01Z",
-    "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-31-0-101-3430-for-Windows-10-64-bit.shtml",
-    "article_text": "The package provides the installation files for Intel Arc Graphics Driver version 31.0.101.3430  .If the driver is already installed on your system, updating (overwrite-installing) may fix various is… [+2148 chars]"
-  },
-  {
-    "id": "7b0feae56ce7809d",
-    "title": "nemotron-page-elements-v3 3.0.2.dev20260705044105",
+    "id": "038aa2bf401c1109",
+    "title": "tesserae 0.15.0",
     "source": "Pypi.org",
-    "publication_date": "2026-07-05T04:41:37Z",
-    "url": "https://pypi.org/project/nemotron-page-elements-v3/3.0.2.dev20260705044105/",
+    "publication_date": "2026-07-05T15:49:42Z",
+    "url": "https://pypi.org/project/tesserae/0.15.0/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "71b928ed60116676",
-    "title": "nemotron-graphic-elements-v1 1.0.1.dev20260705044105",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T04:41:32Z",
-    "url": "https://pypi.org/project/nemotron-graphic-elements-v1/1.0.1.dev20260705044105/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "id": "dbcb084e453eeeeb",
+    "title": "Fake Mac Clipboard App Delivers New Password-Stealing Malware",
+    "source": "Decrypt",
+    "publication_date": "2026-07-05T15:46:01Z",
+    "url": "https://decrypt.co/372743/fake-mac-clipboard-app-delivers-password-stealing-malware",
+    "article_text": "In brief\r\n<ul><li>Jamf Threat Labs identified a new Rust-based macOS infostealer posing as the Maccy clipboard manager.</li><li>The malware validates victims' passwords through macOS PAM before steal… [+4125 chars]"
   },
   {
-    "id": "b3ea0426fe71c4b2",
-    "title": "SK Telecom Pursues 15GW AI Data Center Buildout, Aiming to Become Asia's AI Infrastructure Hub",
-    "source": "Associated Press",
-    "publication_date": "2026-07-05T04:34:19Z",
-    "url": "https://apnews.com/press-release/pr-newswire/press-release-eee5220486f58cfad953246f5aab8059",
-    "article_text": "<ul><li>Ulsan AI Data Center to expand to GW scale; 5GW to be activated in stages from 2029, reaching 15GW in total</li><li>SK Group brings together full-stack AI infrastructure capabilities; SKT to … [+9103 chars]"
+    "id": "9d2129c31363044f",
+    "title": "Beyond prompts: AI loops power next generation of autonomous agents",
+    "source": "BusinessLine",
+    "publication_date": "2026-07-05T15:45:46Z",
+    "url": "https://www.thehindubusinessline.com/info-tech/beyond-prompts-ai-loops-power-next-generation-of-autonomous-agents/article71185399.ece",
+    "article_text": "As enterprises adopt AI agents for increasingly complex workflows, experts say the future of AI will rely less on repeated human prompting and more on loopsself-directed cycles that allow AI systems … [+3440 chars]"
   },
   {
-    "id": "4d9be88519b96c55",
-    "title": "\"Big Short\" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried?",
+    "id": "8816997d80dfd375",
+    "title": "‘Crimes against humanity’: The CIA’s sickest secret may finally be exposed",
+    "source": "RT",
+    "publication_date": "2026-07-05T15:44:47Z",
+    "url": "https://www.rt.com/news/642511-crimes-against-humanity-cia-mkultra/",
+    "article_text": "A decorated US Air Force serviceman with no history of violence suddenly abducted, raped and murdered a three-year-old girl.\r\nWhen a search party found Jimmy Shaver wandering near San Antonio, Texas,… [+13823 chars]"
+  },
+  {
+    "id": "48654299632588f2",
+    "title": "Show HN: Glyph a blockchain where the proof-of-work is neural network inference",
+    "source": "Github.com",
+    "publication_date": "2026-07-05T15:44:04Z",
+    "url": "https://github.com/raphaelwkago69-create/GLYPH",
+    "article_text": "Every claim in this repo is a runnable script. Don't believe me attack it.\r\nResearch written and developed by Claude Fable 5, from an original\r\ncompression algorithm by the Glyph founder.\r\nThis is a … [+6313 chars]"
+  },
+  {
+    "id": "1d4a58dbf85548b0",
+    "title": "From Dutch ovens to TVs: Fourth of July deals worth shopping",
     "source": "Biztoc.com",
-    "publication_date": "2026-07-05T04:33:32Z",
-    "url": "https://biztoc.com/x/391c5386d8998af8",
-    "article_text": "\"Big Short\" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried?Michael Burry spent this week putting entry prices on a bet against the artificial intellige… [+151 chars]"
+    "publication_date": "2026-07-05T15:43:15Z",
+    "url": "https://biztoc.com/x/63dfe04c416203ab",
+    "article_text": "Scrolling your phone, walking through *** store, or just grabbing one extra thing at checkout. Impulse buying can happen almost anywhere. What is the last thing you impulse buy? I bought *** new GPU … [+148 chars]"
   },
   {
-    "id": "ceeb9af8d1c4be16",
-    "title": "kuant 0.3.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T04:33:03Z",
-    "url": "https://pypi.org/project/kuant/0.3.1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "12cf024b42a87af0",
-    "title": "ddg-agent-services-mcp 0.3.2",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T04:32:30Z",
-    "url": "https://pypi.org/project/ddg-agent-services-mcp/0.3.2/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "136fed5031678e73",
-    "title": "abstract-hugpy-dev 0.1.133",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T04:25:27Z",
-    "url": "https://pypi.org/project/abstract-hugpy-dev/0.1.133/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "1ebbd9520ab95013",
-    "title": "Intel Arc Graphics Driver 31.0.101.3430 for Windows 10 Vibranium 64-bit",
-    "source": "Softpedia.com",
-    "publication_date": "2026-07-05T04:23:01Z",
-    "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-31-0-101-3430-for-Windows-10-Vibranium-64-bit.shtml",
-    "article_text": "The package provides the installation files for Intel Arc Graphics Driver version 31.0.101.3430  .If the driver is already installed on your system, updating (overwrite-installing) may fix various is… [+2148 chars]"
-  },
-  {
-    "id": "16a7a3ef8e2f7659",
-    "title": "kuant 0.3.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T04:18:48Z",
-    "url": "https://pypi.org/project/kuant/0.3.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "91986adecaf0962a",
-    "title": "US companies that will define the next 250 years",
+    "id": "7cca727cfb523bd6",
+    "title": "Sentiment Could Be Turning Sour on Nvidia. Here’s Where 1 Analyst Thinks NVDA Stock Is Headed Next",
     "source": "Biztoc.com",
-    "publication_date": "2026-07-05T04:17:12Z",
-    "url": "https://biztoc.com/x/2d8b6756e843d835",
-    "article_text": "In 1776, no one could have predicted that in 250 years, Nvidia, a graphics processing unit manufacturer, would be the worlds most valuable company by market cap (okay, Benjamin Franklin probably did)… [+148 chars]"
+    "publication_date": "2026-07-05T15:43:14Z",
+    "url": "https://biztoc.com/x/2a13fe87402bba0a",
+    "article_text": "Perhaps the most important stock in the market, Nvidia (NVDA) remains a top stock I continue to watch closely.There are a few reasons for this. Of course, as the world's largest semiconductor company… [+141 chars]"
   },
   {
-    "id": "524b83819aa8f7ec",
-    "title": "pystatistics 4.6.5",
+    "id": "e7db58a034d6dae4",
+    "title": "bingo-ai 5.0.7",
     "source": "Pypi.org",
-    "publication_date": "2026-07-05T04:14:36Z",
-    "url": "https://pypi.org/project/pystatistics/4.6.5/",
+    "publication_date": "2026-07-05T15:42:22Z",
+    "url": "https://pypi.org/project/bingo-ai/5.0.7/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "f714171645f51e1e",
-    "title": "qcheck-quantum 0.9.0",
+    "id": "91263846e67e5737",
+    "title": "justllms 2.1.10",
     "source": "Pypi.org",
-    "publication_date": "2026-07-05T04:12:31Z",
-    "url": "https://pypi.org/project/qcheck-quantum/0.9.0/",
+    "publication_date": "2026-07-05T15:41:45Z",
+    "url": "https://pypi.org/project/justllms/2.1.10/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "6257bb3c124d8b68",
-    "title": "Investors looking for shelter from AI storm are turning to India",
-    "source": "The Times of India",
-    "publication_date": "2026-07-05T04:10:45Z",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/investors-looking-for-shelter-from-ai-storm-are-turning-to-india/articleshow/132190604.cms",
-    "article_text": "After losing out big on the global AI rally, Indian equities are regaining the attention of investors seeking to weather the latest market turbulence.With the artificial intelligence frenzy roiling b… [+3628 chars]"
-  },
-  {
-    "id": "aef59a76563375a9",
-    "title": "rolling-cost-cap 0.1.0",
+    "id": "65e9cbb946ccdc96",
+    "title": "modelstudio 0.0.1a0",
     "source": "Pypi.org",
-    "publication_date": "2026-07-05T04:10:02Z",
-    "url": "https://pypi.org/project/rolling-cost-cap/0.1.0/",
+    "publication_date": "2026-07-05T15:41:32Z",
+    "url": "https://pypi.org/project/modelstudio/0.0.1a0/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "fd15f09a6da2eaf7",
-    "title": "rolling-cost-cap added to PyPI",
+    "id": "4b74378c7e87eaf1",
+    "title": "modelstudio added to PyPI",
     "source": "Pypi.org",
-    "publication_date": "2026-07-05T04:09:53Z",
-    "url": "https://pypi.org/project/rolling-cost-cap/",
+    "publication_date": "2026-07-05T15:41:32Z",
+    "url": "https://pypi.org/project/modelstudio/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "9e05bab3cebfc66a",
-    "title": "tensor-grep 1.30.4",
+    "id": "7a890efc3d05d3ae",
+    "title": "Apolosign 32-inch Smart Portable TV review: An implausible 4K fusion of an Android tablet on wheels for presentations, signage, and marketing",
+    "source": "TechRadar",
+    "publication_date": "2026-07-05T15:40:00Z",
+    "url": "https://www.techradar.com/pro/apolosign-32-inch-smart-portable-tv-review",
+    "article_text": "Why you can trust TechRadar\r\nWe spend hours testing every product or service we review, so you can be sure you're buying the best. Find out more about how we test.Apolosign 32-inch Smart Portable TV:… [+17964 chars]"
+  },
+  {
+    "id": "70b7d2430833288c",
+    "title": "tensor-grep 1.36.0",
     "source": "Pypi.org",
-    "publication_date": "2026-07-05T04:06:36Z",
-    "url": "https://pypi.org/project/tensor-grep/1.30.4/",
+    "publication_date": "2026-07-05T15:36:35Z",
+    "url": "https://pypi.org/project/tensor-grep/1.36.0/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "ebbdcfa3c780ca51",
-    "title": "beeweave added to PyPI",
+    "id": "e7bb4c8645934b9e",
+    "title": "codedoc-ai 0.11.6",
     "source": "Pypi.org",
-    "publication_date": "2026-07-05T04:04:37Z",
-    "url": "https://pypi.org/project/beeweave/",
-    "article_text": "English | \r\nBeeWeave is an agent-native creation workbench for building a data flywheel\r\naround your creative process: collect source material, create with agents,\r\ndistill what matters into durable … [+11669 chars]"
-  },
-  {
-    "id": "bae2a5bb81d07b4e",
-    "title": "Intel Arc Graphics Driver 31.0.101.3490 for Windows 11 version 22H2",
-    "source": "Softpedia.com",
-    "publication_date": "2026-07-05T04:02:01Z",
-    "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-31-0-101-3490-for-Windows-11-version-22H2.shtml",
-    "article_text": "The package provides the installation files for Intel Arc Graphics Driver version 31.0.101.3490 .If the driver is already installed on your system, updating (overwrite-installing) may fix various iss… [+2147 chars]"
-  },
-  {
-    "id": "534f90fd033bd68e",
-    "title": "Elon Musk’s answer to mortality",
-    "source": "Americanthinker.com",
-    "publication_date": "2026-07-05T04:00:00Z",
-    "url": "https://www.americanthinker.com/blog/2026/07/elon-musk-s-answer-to-mortality/",
-    "article_text": "Ask most Silicon Valley billionaires what they think about death, and you’ll get some version of a declaration of war. Peter Thiel has funded life-extension research for years and has spoken openly a… [+4730 chars]"
-  },
-  {
-    "id": "0fe85f0a795dbc20",
-    "title": "viewlyt 0.1.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T03:58:27Z",
-    "url": "https://pypi.org/project/viewlyt/0.1.1/",
+    "publication_date": "2026-07-05T15:32:56Z",
+    "url": "https://pypi.org/project/codedoc-ai/0.11.6/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "a59e1bf5e0d8501c",
-    "title": "Intel Arc Graphics Driver 31.0.101.3490 for Windows 11",
-    "source": "Softpedia.com",
-    "publication_date": "2026-07-05T03:49:02Z",
-    "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-31-0-101-3490-for-Windows-11.shtml",
-    "article_text": "The package provides the installation files for Intel Arc Graphics Driver version 31.0.101.3490 .If the driver is already installed on your system, updating (overwrite-installing) may fix various iss… [+2147 chars]"
+    "id": "dc163c0a9400351c",
+    "title": "helix-adapter 1.7.2",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-05T15:31:47Z",
+    "url": "https://pypi.org/project/helix-adapter/1.7.2/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "f72692a6daa11b10",
-    "title": "India regains favor as investors seek shelter from AI-driven market swings",
+    "id": "97c9f77331ab5c36",
+    "title": "Shaq Spent $70K At Walmart One Night, But His Amex Got Declined Assuming It Was Stolen — ‘I Ain’t Got No Towels. I Ain’t Got No Pots And Pans’",
+    "source": "Yahoo Entertainment",
+    "publication_date": "2026-07-05T15:31:26Z",
+    "url": "https://finance.yahoo.com/small-business/articles/shaq-spent-70k-walmart-one-153126263.html",
+    "article_text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nYou ever move into a new place and realize you don't even own a fork? Now imagine that feelingbut… [+10083 chars]"
+  },
+  {
+    "id": "30f90043bfd2d728",
+    "title": "langset 0.7.1",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-05T15:30:37Z",
+    "url": "https://pypi.org/project/langset/0.7.1/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "519600beec2c55ce",
+    "title": "Sentiment Could Be Turning Sour on Nvidia. Here’s Where 1 Analyst Thinks NVDA Stock Is Headed Next.",
+    "source": "Yahoo Entertainment",
+    "publication_date": "2026-07-05T15:30:02Z",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_00a60252-c2b7-4747-97ff-58a2ffd401fd",
+    "article_text": "If you click 'Accept all', we and our partners, including 249 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+  },
+  {
+    "id": "6dacfecf2ef66a91",
+    "title": "China Insight: China’s Fashion Industry Enters the AI Era, From a Search Economy to Machine-led Discovery",
     "source": "Biztoc.com",
-    "publication_date": "2026-07-05T03:47:36Z",
-    "url": "https://biztoc.com/x/c08279d1cf0706cb",
-    "article_text": "Investing.com -- Indian equities are attracting renewed interest from global investors as concerns over the sustainability of the artificial intelligence-driven rally prompt a shift toward markets vi… [+145 chars]"
+    "publication_date": "2026-07-05T15:29:17Z",
+    "url": "https://biztoc.com/x/210d15f4366f7dce",
+    "article_text": "China Insight: Chinas Fashion Industry Enters the AI Era, From a Search Economy to Machine-led DiscoveryA structural reset is underway in the global fashion system. Artificial intelligence is no long… [+151 chars]"
   },
   {
-    "id": "3e748fae6ec0427a",
-    "title": "Investors looking for shelter from AI storm are turning to India",
-    "source": "Bloomberg",
-    "publication_date": "2026-07-05T03:46:11Z",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-05/investors-looking-for-shelter-from-ai-storm-are-turning-to-india",
-    "article_text": "After losing out big on the global AI rally, Indian equities are regaining the attention of investors seeking to weather the latest market turbulence.\r\nWith the artificial intelligence frenzy roiling… [+3747 chars]"
+    "id": "432ad0662fb1658f",
+    "title": "Lean Software Scaling Laws",
+    "source": "Gwern.net",
+    "publication_date": "2026-07-05T15:29:00Z",
+    "url": "https://gwern.net/lean-scaling",
+    "article_text": "Research proposal for measuring how coding LLM perplexity scales with codebase context size, using Lean as a test case for whether formal languages have better predictability exponents and could lead… [+16381 chars]"
   },
   {
-    "id": "59d664d82e390ef5",
-    "title": "autourgos-hcix added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T03:37:21Z",
-    "url": "https://pypi.org/project/autourgos-hcix/",
-    "article_text": "Human Cognitive Interrupt (HCIx) middleware for Autourgos agents.\r\nPress a global shortcut during a long-running agent task, type a high-priority instruction, and the middleware injects that instruct… [+4876 chars]"
+    "id": "3d45c9b36b309f8b",
+    "title": "Morgan Stanley warns AI may not lead to lower policy rates",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-07-05T15:28:10Z",
+    "url": "https://cryptobriefing.com/morgan-stanley-warns-ai-may-not-lead-to-lower-policy-rates/",
+    "article_text": "Morgan Stanley has issued a statement suggesting that expectations of artificial intelligence reducing policy rates should be reassessed. The financial institution argues that the state of the busine… [+1544 chars]"
   },
   {
-    "id": "c623034f444904f7",
-    "title": "assevra 0.1.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T03:36:04Z",
-    "url": "https://pypi.org/project/assevra/0.1.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "44d2d9d8c820e63e",
-    "title": "assevra added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T03:36:04Z",
-    "url": "https://pypi.org/project/assevra/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "3c3d48dc4a6f4678",
-    "title": "Intel Arc Graphics Driver 31.0.101.3490 for Windows 10 version 21H2 64-bit",
-    "source": "Softpedia.com",
-    "publication_date": "2026-07-05T03:31:01Z",
-    "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Intel-Arc-Graphics-Driver-31-0-101-3490-for-Windows-10-version-21H2-64-bit.shtml",
-    "article_text": "The package provides the installation files for Intel Arc Graphics Driver version 31.0.101.3490 .If the driver is already installed on your system, updating (overwrite-installing) may fix various iss… [+2147 chars]"
-  },
-  {
-    "id": "702b3ecd79653d96",
-    "title": "BiSheng-CompilerClaw 3.1.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T03:23:41Z",
-    "url": "https://pypi.org/project/bisheng-compilerclaw/3.1.1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "1b619910ce441ab0",
-    "title": "power-loop 3.11.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T03:23:27Z",
-    "url": "https://pypi.org/project/power-loop/3.11.1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "925e6957350b12b5",
-    "title": "slot-flight 0.2.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T03:22:52Z",
-    "url": "https://pypi.org/project/slot-flight/0.2.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "b16787d5f80b80a4",
-    "title": "tensor-grep 1.30.3",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T03:19:58Z",
-    "url": "https://pypi.org/project/tensor-grep/1.30.3/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "078d80948b6ca217",
-    "title": "rag-llm-infra 0.1.2",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T03:18:16Z",
-    "url": "https://pypi.org/project/rag-llm-infra/0.1.2/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "cfd7f213e542957e",
-    "title": "iPhone 17 Pro Max buried in America’s 250th anniversary time capsule: to be opened in 2276",
-    "source": "9to5Mac",
-    "publication_date": "2026-07-05T03:07:08Z",
-    "url": "https://9to5mac.com/2026/07/04/iphone-17-pro-max-included-in-america-250-time-capsule/",
-    "article_text": "In celebration of America’s 250th anniversary, a gigantic time capsule has been buried with numerous items from every state to commemorate our current era – one of them being an iPhone 17 Pro Max in … [+1269 chars]"
-  },
-  {
-    "id": "7e806f9107c5b5d1",
-    "title": "token-budget-orchestrator added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T03:02:43Z",
-    "url": "https://pypi.org/project/token-budget-orchestrator/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "4301398e89c706db",
-    "title": "token-budget-orchestrator 0.1.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T03:02:43Z",
-    "url": "https://pypi.org/project/token-budget-orchestrator/0.1.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "77e5a189ad7c0156",
-    "title": "Intel Arc Graphics Driver 31.0.101.3490 for Windows 10 Vibranium 64-bit",
-    "source": "Softpedia.com",
-    "publication_date": "2026-07-05T03:02:01Z",
-    "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-31-0-101-3490-for-Windows-10-Vibranium-64-bit.shtml",
-    "article_text": "The package provides the installation files for Intel Arc Graphics Driver version 31.0.101.3490 .If the driver is already installed on your system, updating (overwrite-installing) may fix various iss… [+2147 chars]"
-  },
-  {
-    "id": "8ce076f8a6ceb859",
-    "title": "kuant 0.2.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T03:00:23Z",
-    "url": "https://pypi.org/project/kuant/0.2.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "146fbd2a6d8effba",
-    "title": "The Log Is the Agent",
-    "source": "Arxiv.org",
-    "publication_date": "2026-07-05T02:57:38Z",
-    "url": "https://arxiv.org/abs/2605.21997",
-    "article_text": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce… [+257 chars]"
-  },
-  {
-    "id": "c6e281bf7c518767",
-    "title": "quill-sort 7.4.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T02:54:41Z",
-    "url": "https://pypi.org/project/quill-sort/7.4.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "4cb5379f02544b64",
-    "title": "qector-decoder-v3 0.5.9",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T02:50:32Z",
-    "url": "https://pypi.org/project/qector-decoder-v3/0.5.9/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "76e4a0ab75775f4e",
-    "title": "Advantest and OpenLight join forces on silicon photonics test platform for mass production",
-    "source": "Digitimes",
-    "publication_date": "2026-07-05T02:43:28Z",
-    "url": "https://www.digitimes.com/news/a20260703PD236/advantest-siph-testing-demand-production.html",
-    "article_text": "Keep me signed in\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the… [+288 chars]"
-  },
-  {
-    "id": "12682212a16f0ccb",
-    "title": "CSCC advances carbon materials for AI data center BBU supply chain",
-    "source": "Digitimes",
-    "publication_date": "2026-07-05T02:43:04Z",
-    "url": "https://www.digitimes.com/news/a20260703PD225/materials-data-center-graphite-supply-chain-high-end.html",
-    "article_text": "Keep me signed in\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the… [+288 chars]"
-  },
-  {
-    "id": "5e6e7e8d0f736a70",
-    "title": "delfos added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T02:42:35Z",
-    "url": "https://pypi.org/project/delfos/",
-    "article_text": "A graph-memory MCP server for codebases. Delfos implements the active\r\nreconstruction model from \"Memory is Reconstructed, Not Retrieved: Graph\r\nMemory for LLM Agents\" (arXiv 2606.06036)\r\nover a code… [+4033 chars]"
-  },
-  {
-    "id": "b64accb189e1d218",
-    "title": "Intel Arc Graphics Driver 31.0.101.3688 for Windows 11 version 22H2",
-    "source": "Softpedia.com",
-    "publication_date": "2026-07-05T02:38:01Z",
-    "url": "https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Intel-Arc-Graphics-Driver-31-0-101-3688-for-Windows-11-version-22H2.shtml",
-    "article_text": "The package provides the installation files for Intel Arc Graphics Driver version 31.0.101.3688 .If the driver is already installed on your system, updating (overwrite-installing) may fix various iss… [+2147 chars]"
-  },
-  {
-    "id": "7cd23ce62b410220",
-    "title": "tensor-grep 1.30.2",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-05T02:31:48Z",
-    "url": "https://pypi.org/project/tensor-grep/1.30.2/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "81fb5b218a5d3608",
-    "title": "Michael Burry doubles down on AI chip bubble with Micron short",
+    "id": "705839a79e82a7fe",
+    "title": "$750 Billion AI Spending Wave: Should You Buy These 3 AI Infrastructure Stocks?",
     "source": "Biztoc.com",
-    "publication_date": "2026-07-05T02:30:50Z",
-    "url": "https://biztoc.com/x/e0a1003d044bf7a6",
-    "article_text": "Michael Burry made his name betting against the housing market before the 2008 crash. Now, \"The Big Short\" investor is turning that same skepticism toward artificial intelligence, and Micron Technolo… [+151 chars]"
+    "publication_date": "2026-07-05T15:27:52Z",
+    "url": "https://biztoc.com/x/a7edbf42ed4817e3",
+    "article_text": "The NumberThree companies. One buildout.$750 billion is the round-number scale the market now attaches to the AI infrastructure wave rolling through NVIDIA (NASDAQ:NVDA | NVDA Price Prediction), Alph… [+152 chars]"
+  },
+  {
+    "id": "c7f930edd79c4903",
+    "title": "The CEO who vowed to ‘fire anyone who doesn’t use AI’ admits that the technology can’t replace her executive assistant as the role evolves",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-05T15:27:37Z",
+    "url": "https://biztoc.com/x/3794f36184840802",
+    "article_text": "With their numbers already in decline, secretaries and administrative assistants face another growing threat: artificial intelligence tools like ChatGPT and Claude that can accomplish aspects of thei… [+135 chars]"
+  },
+  {
+    "id": "25773164b391af0c",
+    "title": "bingo-ai 5.0.5",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-05T15:26:49Z",
+    "url": "https://pypi.org/project/bingo-ai/5.0.5/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "b1ec041748eccc79",
+    "title": "WTF - England set to use Viagra to combat altitude?",
+    "source": "Onefootball.com",
+    "publication_date": "2026-07-05T15:26:00Z",
+    "url": "https://onefootball.com/en/news/wtf-england-ready-to-use-viagra-to-combat-altitude-43100021",
+    "article_text": "It's the WTF rumor of the day.\r\nOn the night from Sunday to Monday, England is getting ready to play the most perilous match of its World Cup.\r\nThe Three Lions are heading into the fortress of the Az… [+707 chars]"
+  },
+  {
+    "id": "95a29ea8377cf99f",
+    "title": "asfops 0.2.3",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-05T15:23:45Z",
+    "url": "https://pypi.org/project/asfops/0.2.3/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "334a0dc395423e8d",
+    "title": "g2n-enterprise 1.8.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-05T15:22:06Z",
+    "url": "https://pypi.org/project/g2n-enterprise/1.8.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "e16297c705731f92",
+    "title": "repatch 0.2.19",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-05T15:21:08Z",
+    "url": "https://pypi.org/project/repatch/0.2.19/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "7722514a95ebce0a",
+    "title": "minima-cli 0.7.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-05T15:19:41Z",
+    "url": "https://pypi.org/project/minima-cli/0.7.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "018bc19a5198c993",
+    "title": "structured-eval 0.1.1",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-05T15:19:14Z",
+    "url": "https://pypi.org/project/structured-eval/0.1.1/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "5888faa0aa66390b",
+    "title": "numfast added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-05T15:15:02Z",
+    "url": "https://pypi.org/project/numfast/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "3b0787a96ea69e32",
+    "title": "numfast 0.0.1",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-05T15:15:02Z",
+    "url": "https://pypi.org/project/numfast/0.0.1/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "00df29993c0254a7",
+    "title": "From drunkard to folk hero: he's already the World Cup's big winner",
+    "source": "Onefootball.com",
+    "publication_date": "2026-07-05T15:15:00Z",
+    "url": "https://onefootball.com/en/news/from-drunkard-to-folk-hero-hes-already-the-world-cups-big-winner-43099992",
+    "article_text": "Just a few years ago, Julian Quinones was making headlines mainly off the pitch. Today, however, he is the man making an entire nation dream. At Mexicos home World Cup, the 29-year-old has emerged as… [+2602 chars]"
+  },
+  {
+    "id": "8225257e3d34838e",
+    "title": "Anthropic Faces a New $75 Million Lawsuit for Pirating Books to Train Claude AI",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-05T15:14:16Z",
+    "url": "https://biztoc.com/x/2e398c61077a895d",
+    "article_text": "Anthropic faces a new $75 million lawsuit from authors who claim the company pirated copyrighted books to train Claude. The fresh case adds to mounting legal pressure on the AI developer.The suit sig… [+148 chars]"
+  },
+  {
+    "id": "39efaf7c5f975e6f",
+    "title": "gede 0.4.25",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-05T15:12:40Z",
+    "url": "https://pypi.org/project/gede/0.4.25/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "8c9552dedeccb3f6",
+    "title": "power-loop 3.13.1",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-05T15:12:20Z",
+    "url": "https://pypi.org/project/power-loop/3.13.1/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "7feadc13ed82a4f1",
+    "title": "Show HN: Contextrot– Analyze where Claude Code degrades from its own session log",
+    "source": "Github.com",
+    "publication_date": "2026-07-05T15:11:37Z",
+    "url": "https://github.com/Priyanshu-byte-coder/contextrot",
+    "article_text": "Your coding agent gets worse as its context fills.contextrot proves it on your own sessions and tells you exactly what to change.\r\nor, with plain pip (Python 3.9+ including the stock python3 on macOS… [+6075 chars]"
+  },
+  {
+    "id": "17093d86844b007c",
+    "title": "Anthropic faces $75M lawsuit for pirating books to train Claude AI",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-07-05T15:10:52Z",
+    "url": "https://cryptobriefing.com/anthropic-75m-lawsuit-pirating-books-claude/",
+    "article_text": "Over 100 authors are suing the AI company for allegedly downloading more than 500 copyrighted books from shadow libraries, raising fresh questions about data provenance and blockchain-based IP soluti… [+2276 chars]"
+  },
+  {
+    "id": "123181a2d4a91389",
+    "title": "grendel-redteam 0.1.4",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-05T15:08:41Z",
+    "url": "https://pypi.org/project/grendel-redteam/0.1.4/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "c1e49cdb5379dc63",
+    "title": "Global Emissions Hit A New Record As U.S. Emissions Rebounded",
+    "source": "Forbes",
+    "publication_date": "2026-07-05T15:08:36Z",
+    "url": "https://www.forbes.com/sites/rrapier/2026/07/05/global-emissions-hit-a-new-record-as-us-emissions-rebounded/",
+    "article_text": "STONE RIDGE, VIRGINIA - JULY 17: In an aerial view, an Amazon Web Services data center is shown situated near single-family homes on July 17, 2024 in Stone Ridge, Virginia. Northern Virginia is the l… [+9547 chars]"
+  },
+  {
+    "id": "4d6ee3c2358e504b",
+    "title": "bingo-ai 5.0.4",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-05T15:07:07Z",
+    "url": "https://pypi.org/project/bingo-ai/5.0.4/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "34b40c888ff203ae",
+    "title": "ai-synapse 4.3.4",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-05T15:06:45Z",
+    "url": "https://pypi.org/project/ai-synapse/4.3.4/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "77a519212745c8ae",
+    "title": "pfix 0.1.77",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-05T15:05:38Z",
+    "url": "https://pypi.org/project/pfix/0.1.77/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "d9acffe1bee524af",
+    "title": "Europe’s richest man Bernard Arnault told to pay nearly ₹245 crore in taxes – How much is net worth of LVMH founder?",
+    "source": "Livemint",
+    "publication_date": "2026-07-05T15:04:16Z",
+    "url": "https://www.livemint.com/companies/people/europes-richest-man-bernard-arnault-told-to-pay-nearly-245-crore-in-taxes-how-much-is-net-worth-of-lvmh-founder-11783260479069.html",
+    "article_text": "French billionaire Bernard Arnault and his wife have been ordered to pay nearly 22.5 million (approximately 245 crore) in additional taxes following a ruling by the Paris Administrative Court of Appe… [+3417 chars]"
+  },
+  {
+    "id": "21a6c2f8cc1d9c74",
+    "title": "Train and run transformers directly on Apple's Neural Engine",
+    "source": "Github.com",
+    "publication_date": "2026-07-05T15:02:43Z",
+    "url": "https://github.com/christopherkarani/Espresso",
+    "article_text": "Direct Neural Engine inference for transformers on Apple Silicon 4.76x faster than CoreML.\r\nEspresso compiles MIL programs straight to ANE silicon through reverse-engineered private APIs (_ANEClient,… [+7421 chars]"
+  },
+  {
+    "id": "79e86940dea5574a",
+    "title": "Oracle Stock's Worst Month Since 1990: What's Breaking Larry Ellison's Empire?",
+    "source": "Yahoo Entertainment",
+    "publication_date": "2026-07-05T15:01:15Z",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stocks-worst-month-since-150115654.html",
+    "article_text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nOracle Corp. just gave back everything, and then some.\r\nThe stock plunged about 35% in June, its … [+9575 chars]"
   }
 ]
