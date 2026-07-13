@@ -8,12 +8,28 @@
     "article_text": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
   },
   {
+    "id": "aa67bf587bd0c123",
+    "title": "Getting started with ChatGPT",
+    "source": "OpenAI Blog",
+    "publication_date": "Fri, 10 Jul 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/getting-started",
+    "article_text": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
+  },
+  {
     "id": "b98a594ec40e8f26",
     "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "source": "OpenAI Blog",
     "publication_date": "Thu, 09 Jul 2026 13:00:00 GMT",
     "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
     "article_text": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work."
+  },
+  {
+    "id": "07aa5a8a45a2217e",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "source": "OpenAI Blog",
+    "publication_date": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "article_text": "Details about the OpenAI Bio Bounty program"
   },
   {
     "id": "e19fbb75eb44457e",
@@ -30,14 +46,6 @@
     "publication_date": "Thu, 09 Jul 2026 10:00:00 GMT",
     "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "article_text": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work."
-  },
-  {
-    "id": "07aa5a8a45a2217e",
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "source": "OpenAI Blog",
-    "publication_date": "Thu, 09 Jul 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/bio-bug-bounty",
-    "article_text": "Details about the OpenAI Bio Bounty program"
   },
   {
     "id": "e00d55023af7c16f",
@@ -96,14 +104,6 @@
     "article_text": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
   },
   {
-    "id": "f1f7d4f8001b4288",
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "source": "OpenAI Blog",
-    "publication_date": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "article_text": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
-  },
-  {
     "id": "0b8dc2473cab870c",
     "title": "Introducing GeneBench-Pro",
     "source": "OpenAI Blog",
@@ -118,6 +118,14 @@
     "publication_date": "Tue, 30 Jun 2026 00:00:00 GMT",
     "url": "https://openai.com/index/genebench-pro/case-studies",
     "article_text": ""
+  },
+  {
+    "id": "f1f7d4f8001b4288",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "source": "OpenAI Blog",
+    "publication_date": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "article_text": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
   },
   {
     "id": "247324a6d137edef",
@@ -150,14 +158,6 @@
     "publication_date": "Thu, 25 Jun 2026 02:00:00 GMT",
     "url": "https://openai.com/index/how-agents-are-transforming-work",
     "article_text": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles."
-  },
-  {
-    "id": "855db08b75f6ecde",
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "source": "OpenAI Blog",
-    "publication_date": "Wed, 24 Jun 2026 06:00:00 GMT",
-    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "article_text": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
   },
   {
     "id": "f6b3f809726c47bb",
@@ -920,6 +920,14 @@
     "article_text": "<p><a href=\"https://nousresearch.com/\">Nous Research</a>, the open-source artificial intelligence startup backed by crypto venture firm <a href=\"https://www.paradigm.xyz/\">Paradigm</a>, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia&#x27;s latest <a href=\"https://www.nvidia.com/en-us/data-center/dgx-b200/\">B200 graphics processors</a>.</p><p>The model, called <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a>, is another entry in a crowded field of AI coding assistants, but arrives at a particularly charged moment: <a href=\"https://claude.com/product/claude-code\">Claude Code</a>, the agentic programming tool from rival Anthropic, has dominated social media discussion since New Year&#x27;s Day, with developers posting <a href=\"https://x.com/0xDesigner/status/2008202211738648767?s=20\">breathless</a> <a href=\"https://x.com/hayesdev_/status/2008043379805048948\">testimonials</a> <a href=\"https://x.com/0xDesigner/status/2008202211738648767?s=20\">about its capabilities</a>. The simultaneous developments underscore how quickly AI-assisted software development is evolving — and how fiercely companies large and small are competing to capture what many believe will become a foundational technology for how software gets written.</p><p><span>type: <!-- -->embedded-entry-inline<!-- --> id: <!-- -->74cSyrq6OUrp9SEQ5zOUSl</span></p><p><a href=\"https://nousresearch.com/nouscoder-14b-a-competitive-olympiad-programming-model/\">NousCoder-14B</a> achieves a 67.87 percent accuracy rate on <a href=\"https://livecodebench.github.io/\">LiveCodeBench v6</a>, a standardized evaluation that tests models on competitive programming problems published between August 2024 and May 2025. That figure represents a 7.08 percentage point improvement over the base model it was trained from, Alibaba&#x27;s <a href=\"https://huggingface.co/Qwen/Qwen3-14B\">Qwen3-14B</a>, according to Nous Research&#x27;s technical report published alongside the release.</p><p>&quot;I gave Claude Code a description of the problem, it generated what we built last year in an hour,&quot; <a href=\"https://www.reddit.com/r/OpenAI/comments/1q2uuil/google_engineer_im_not_joking_and_this_isnt_funny/\">wrote Jaana Dogan</a>, a principal engineer at Google responsible for the Gemini API, in a viral post on X last week that captured the prevailing mood around AI coding tools. Dogan was describing a distributed agent orchestration system her team had spent a year developing — a system Claude Code approximated from a three-paragraph prompt.</p><p>The juxtaposition is instructive: while Anthropic&#x27;s <a href=\"https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are\">Claude Code has captured imaginations</a> with demonstrations of end-to-end software development, Nous Research is betting that open-source alternatives trained on verifiable problems can close the gap — and that transparency in how these models are built matters as much as raw capability.</p><hr /><h2><b>How Nous Research built an AI coding model that anyone can replicate</b></h2><p>What distinguishes the <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a> release from many competitor announcements is its radical openness. Nous Research published not just the <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">model weights</a> but the <a href=\"https://github.com/NousResearch/atropos/pull/296\">complete reinforcement learning environment</a>, benchmark suite, and training harness — built on the company&#x27;s <a href=\"https://github.com/NousResearch/atropos/pull/296\">Atropos framework </a>— enabling any researcher with sufficient compute to <a href=\"https://wandb.ai/jli505/qwen14b/reports/HermesCoder-14B--VmlldzoxNTQ5Nzc0MQ?accessToken=4pt3stwyh4x83zqe2jgoo5j9b7j07jbe5omf2n40lray3tih17vfkavjootvnw8o\">reproduce or extend the work</a>.</p><p>&quot;Open-sourcing the Atropos stack provides the necessary infrastructure for reproducible olympiad-level reasoning research,&quot; <a href=\"https://x.com/o_mega___/status/2008907268700475450?s=20\">noted one observer on X</a>, summarizing the significance for the academic and open-source communities.</p><p>The model was trained by <a href=\"https://x.com/JoeLi5050\">Joe Li</a>, a researcher in residence at Nous Research and a former competitive programmer himself. Li&#x27;s <a href=\"https://nousresearch.com/nouscoder-14b-a-competitive-olympiad-programming-model/\">technical report </a>reveals an unexpectedly personal dimension: he compared the model&#x27;s improvement trajectory to his own journey on Codeforces, the competitive programming platform where participants earn ratings based on contest performance.</p><p>Based on rough estimates mapping LiveCodeBench scores to Codeforces ratings, Li calculated that NousCoder-14B&#x27;s improvemen t— from approximately the 1600-1750 rating range to 2100-2200 — mirrors a leap that took him nearly two years of sustained practice between ages 14 and 16. The model accomplished the equivalent in four days.</p><p>&quot;Watching that final training run unfold was quite a surreal experience,&quot; Li wrote in the technical report.</p><p>But Li was quick to note an important caveat that speaks to broader questions about AI efficiency: he solved roughly 1,000 problems during those two years, while the model required 24,000. Humans, at least for now, remain dramatically more sample-efficient learners.</p><hr /><h2><b>Inside the reinforcement learning system that trains on 24,000 competitive programming problems</b></h2><p><a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a>&#x27;s training process offers a window into the increasingly sophisticated techniques researchers use to improve AI reasoning capabilities through reinforcement learning.</p><p>The approach relies on what researchers call &quot;verifiable rewards&quot; — a system where the model generates code solutions, those solutions are executed against test cases, and the model receives a simple binary signal: correct or incorrect. This feedback loop, while conceptually straightforward, requires significant infrastructure to execute at scale.</p><p>Nous Research used <a href=\"https://modal.com/\">Modal</a>, a cloud computing platform, to run sandboxed code execution in parallel. Each of the 24,000 training problems contains hundreds of test cases on average, and the system must verify that generated code produces correct outputs within time and memory constraints — 15 seconds and 4 gigabytes, respectively.</p><p>The training employed a technique called <a href=\"https://dapo-sia.github.io/\">DAPO (Dynamic Sampling Policy Optimization)</a>, which the researchers found performed slightly better than alternatives in their experiments. A key innovation involves &quot;dynamic sampling&quot; — discarding training examples where the model either solves all attempts or fails all attempts, since these provide no useful gradient signal for learning.</p><p>The researchers also adopted &quot;iterative context extension,&quot; first training the model with a 32,000-token context window before expanding to 40,000 tokens. During evaluation, extending the context further to approximately 80,000 tokens produced the best results, with accuracy reaching 67.87 percent.</p><p>Perhaps most significantly, the training pipeline overlaps inference and verification — as soon as the model generates a solution, it begins work on the next problem while the previous solution is being checked. This pipelining, combined with asynchronous training where multiple model instances work in parallel, maximizes hardware utilization on expensive GPU clusters.</p><hr /><h2><b>The looming data shortage that could slow AI coding model progress</b></h2><p>Buried in Li&#x27;s <a href=\"https://nousresearch.com/nouscoder-14b-a-competitive-olympiad-programming-model/\">technical report</a> is a finding with significant implications for the future of AI development: the training dataset for NousCoder-14B encompasses &quot;a significant portion of all readily available, verifiable competitive programming problems in a standardized dataset format.&quot;</p><p>In other words, for this particular domain, the researchers are approaching the limits of high-quality training data.</p><p>&quot;The total number of competitive programming problems on the Internet is roughly the same order of magnitude,&quot; Li wrote, referring to the 24,000 problems used for training. &quot;This suggests that within the competitive programming domain, we have approached the limits of high-quality data.&quot;</p><p>This observation echoes growing concern across the AI industry about data constraints. While compute continues to scale according to well-understood economic and engineering principles, training data is &quot;increasingly finite,&quot; as Li put it.</p><p>&quot;It appears that some of the most important research that needs to be done in the future will be in the areas of synthetic data generation and data efficient algorithms and architectures,&quot; he concluded.</p><p>The challenge is particularly acute for competitive programming because the domain requires problems with known correct solutions that can be verified automatically. Unlike natural language tasks where human evaluation or proxy metrics suffice, code either works or it doesn&#x27;t — making synthetic data generation considerably more difficult.</p><p>Li identified one potential avenue: training models not just to solve problems but to generate solvable problems, enabling a form of self-play similar to techniques that proved successful in game-playing AI systems. &quot;Once synthetic problem generation is solved, self-play becomes a very interesting direction,&quot; he wrote.</p><hr /><h2><b>A $65 million bet that open-source AI can compete with Big Tech</b></h2><p>Nous Research has carved out a distinctive position in the AI landscape: a company committed to <a href=\"https://nousresearch.com/\">open-source releases</a> that compete with — and sometimes exceed — proprietary alternatives.</p><p>The company raised<a href=\"https://fortune.com/crypto/2025/04/25/paradigm-nous-research-crypto-ai-venture-capital-deepseek-openai-blockchain/\"> $50 million in April 2025</a> in a round led by Paradigm, the cryptocurrency-focused venture firm founded by Coinbase co-founder Fred Ehrsam. Total funding reached $65 million, according to some reports. The investment reflected growing interest in decentralized approaches to AI training, an area where Nous Research has developed its <a href=\"https://psyche.network/\">Psyche platform</a>.</p><p>Previous releases include <a href=\"https://hermes4.nousresearch.com/\">Hermes 4</a>, a family of models that we reported &quot;<a href=\"https://venturebeat.com/ai/nous-research-drops-hermes-4-ai-models-that-outperform-chatgpt-without-content-restrictions\">outperform ChatGPT without content restrictions</a>,&quot; and DeepHermes-3, which the company described as the first &quot;<a href=\"https://venturebeat.com/ai/personalized-unrestricted-ai-lab-nous-research-launches-first-toggle-on-reasoning-model-deephermes-3\">toggle-on reasoning model</a>&quot; — allowing users to activate extended thinking capabilities on demand.</p><p>The company has cultivated a distinctive aesthetic and community, prompting some skepticism about whether style might overshadow substance. &quot;Ofc i&#x27;m gonna believe an anime pfp company. stop benchmarkmaxxing ffs,&quot; <a href=\"https://x.com/shydev69/status/2008654826356535510?s=20\">wrote one critic on X</a>, referring to Nous Research&#x27;s anime-style branding and the industry practice of optimizing for benchmark performance.</p><p>Others raised technical questions. &quot;<a href=\"https://x.com/yehor_smoliakov/status/2008659681489940757?s=20\">Based on the benchmark, Nemotron is better</a>,&quot; noted one commenter, referring to Nvidia&#x27;s family of language models. Another asked whether <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">NousCoder-14B</a> is &quot;agentic focused or just &#x27;one shot&#x27; coding&quot; — a distinction that matters for practical software development, where iterating on feedback typically produces better results than single attempts.</p><hr /><h2><b>What researchers say must happen next for AI coding tools to keep improving</b></h2><p>The release includes several directions for future work that hint at where AI coding research may be heading.</p><p>Multi-turn reinforcement learning tops the list. Currently, the model receives only a final binary reward — pass or fail — after generating a solution. But competitive programming problems typically include public test cases that provide intermediate feedback: compilation errors, incorrect outputs, time limit violations. Training models to incorporate this feedback across multiple attempts could significantly improve performance.</p><p>Controlling response length also remains a challenge. The researchers found that incorrect solutions tended to be longer than correct ones, and response lengths quickly saturated available context windows during training — a pattern that various algorithmic modifications failed to resolve.</p><p>Perhaps most ambitiously, Li proposed &quot;problem generation and self-play&quot; — training models to both solve and create programming problems. This would address the data scarcity problem directly by enabling models to generate their own training curricula.</p><p>&quot;Humans are great at generating interesting and useful problems for other competitive programmers, but it appears that there still exists a significant gap in LLM capabilities in creative problem generation,&quot; Li wrote.</p><p>The model is <a href=\"https://huggingface.co/NousResearch/NousCoder-14B\">available now on Hugging Face</a> under an Apache 2.0 license. For researchers and developers who want to build on the work, Nous Research has published the complete <a href=\"https://github.com/NousResearch/atropos/pull/296\">Atropos training stack</a> alongside it.</p><p>What took Li two years of adolescent dedication to achieve—climbing from a 1600-level novice to a 2100-rated competitor on Codeforces—an AI replicated in 96 hours. He needed 1,000 problems. The model needed 24,000. But soon enough, these systems may learn to write their own problems, teach themselves, and leave human benchmarks behind entirely.</p><p>The question is no longer whether machines can learn to code. It&#x27;s whether they&#x27;ll soon be better teachers than we ever were.</p><p>\n</p>"
   },
   {
+    "id": "49e268ec4efd02cb",
+    "title": "Waze is getting a bunch of new AI-powered features",
+    "source": "The Verge AI",
+    "publication_date": "2026-07-13T05:00:00-04:00",
+    "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+    "article_text": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first introduced in 2024, [&#8230;]"
+  },
+  {
     "id": "1dbb10ceec9d2e3e",
     "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
     "source": "The Verge AI",
@@ -990,14 +998,6 @@
     "publication_date": "2026-07-09T19:24:04-04:00",
     "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
     "article_text": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she had taken on the [&#8230;]"
-  },
-  {
-    "id": "c5fb8971261eb082",
-    "title": "The ChatGPT browser is already dead",
-    "source": "The Verge AI",
-    "publication_date": "2026-07-09T16:34:05-04:00",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-    "article_text": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is targeting an [&#8230;]"
   },
   {
     "id": "af1432abcf281b9b",
@@ -1320,403 +1320,403 @@
     "article_text": "arXiv:2607.08946v1 Announce Type: new \nAbstract: A transformer can be built from operators that are legible by construction -- bounded, named units that read as fuzzy set operations rather than dense activations -- but legibility must be pressed for during training, and the pressure has a failure mode. A crispness penalty meant to sharpen a bounded operator into a decisive detector instead collapses it into a dead constant. An identity, E[v(1-v)] = mu(1-mu) - var, shows why -- the penalty is a variance-minimizer blind to the difference between a live detector and a constant -- and names the fix: a per-channel variance floor, the target legibility metric written as a loss, which recovers both legibility and quality. A learned per-unit fraction then retires the hand-set reserved-GELU partition of prior work: given the choice the model keeps no unit as pure GELU and routes 87% of its load-bearing computation through crisp operators. The result is the most legible transformer we have built -- 78% of its feed-forward operands and 50% of its attention value channels are crisp-and-contextual detectors, and per-head legibility rises from 18% in shallow layers to 78% in deep ones. Read in the correct rotated per-layer frame, these units separate a clean detection (what a unit responds to) from a harder naming (what its output decodes to); and because the objective makes each unit crisp and sparse, edits to them are far more local -- 50-184x in the deep layers where the edit sites concentrate -- and can target explicit conjunctions a single neuron cannot express. Finally, a between-unit decorrelation pressure exposes a legibility dial: it trades a circuit's reuse for independence at no quality cost, turning concepts into single, surgically editable units and a prediction into a short explanation read off a handful of named operations. Quality holds at parity with a conventional baseline throughout."
   },
   {
-    "id": "afa8b77e964e4544",
-    "title": "Korea’s world-beating stocks are now trading cheaper than ever",
-    "source": "The Times of India",
-    "publication_date": "2026-07-12T04:07:23Z",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-world-beating-stocks-are-now-trading-cheaper-than-ever/articleshow/132340495.cms",
-    "article_text": "South Koreas blistering stock rally has left investors facing an unlikely backdrop: equities trading at record-low valuations.The Kospi has climbed around 80% this year to a series of record highs, y… [+4038 chars]"
-  },
-  {
-    "id": "0dabe079a5971b1e",
-    "title": " Official: World Cup semi-finals confirmed",
-    "source": "Onefootball.com",
-    "publication_date": "2026-07-12T04:06:00Z",
-    "url": "https://onefootball.com/en/news/official-world-cup-semi-finals-confirmed-43128026",
-    "article_text": "The quarter-finals are over! After intense battles, the nations that will contest the World Cup semi-finals have finally been decided.\r\nSpain return to a World Cup semi-final after 16 years, and they… [+464 chars]"
-  },
-  {
-    "id": "56be2544ddc9421f",
-    "title": "Show HN: Chameleon – shows Claude a real file from your repo before it edits",
-    "source": "Github.com",
-    "publication_date": "2026-07-12T04:04:19Z",
-    "url": "https://github.com/crisnahine/chameleon",
-    "article_text": "\"Code that blends in.\"\r\nYour AI writes code that works, and it reads wrong. Chameleon shows the model your repo's own conventions at the moment it types, then reviews the turn's diff before you do.\r\n… [+20223 chars]"
-  },
-  {
-    "id": "d91a1e4d25c74b9a",
-    "title": "project-guide 2.18.0",
+    "id": "794ef1fcb5deee20",
+    "title": "five-mcp 1.1.1",
     "source": "Pypi.org",
-    "publication_date": "2026-07-12T04:04:14Z",
-    "url": "https://pypi.org/project/project-guide/2.18.0/",
+    "publication_date": "2026-07-12T15:20:51Z",
+    "url": "https://pypi.org/project/five-mcp/1.1.1/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "808d259898140ec4",
-    "title": "chimera-agent 0.18.4",
+    "id": "0469cadf43a3dbaa",
+    "title": "personal-model added to PyPI",
     "source": "Pypi.org",
-    "publication_date": "2026-07-12T04:03:59Z",
-    "url": "https://pypi.org/project/chimera-agent/0.18.4/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "publication_date": "2026-07-12T15:17:50Z",
+    "url": "https://pypi.org/project/personal-model/",
+    "article_text": "The local-first Personal Model Runtime for macOS. Persome observes the apps\r\nyou already use, turns cross-app activity into an inspectable model of a real\r\nperson, and serves that model to MCP agents… [+20298 chars]"
   },
   {
-    "id": "a9b2dc87b49db493",
-    "title": "tensor-grep 1.64.2",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T03:58:20Z",
-    "url": "https://pypi.org/project/tensor-grep/1.64.2/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "id": "53d14b562e0e5fee",
+    "title": "A tiny London startup built a CUDA compiler that reportedly beats AMD's own tools on AMD hardware",
+    "source": "TechSpot",
+    "publication_date": "2026-07-12T15:16:00Z",
+    "url": "https://www.techspot.com/news/113081-tiny-london-startup-built-cuda-compiler-reportedly-beats.html",
+    "article_text": "Highly anticipated: CUDA has become so embedded in high-performance computing that most developers treat it as inseparable from Nvidia hardware. A small London startup is trying to change that by mak… [+4752 chars]"
   },
   {
-    "id": "8f6ed8baa28ffbcf",
-    "title": "egressweave added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T03:57:40Z",
-    "url": "https://pypi.org/project/egressweave/",
-    "article_text": "SSRF- and DNS-rebinding-safe outbound HTTP for Python.\r\negressweave validates an outbound URL against an explicit host allowlist,\r\nrefuses any target that resolves to a non-globally-routable address,… [+3542 chars]"
-  },
-  {
-    "id": "e1865101f2318100",
-    "title": "Late-stage cheques go big at $86 million average this year",
-    "source": "The Times of India",
-    "publication_date": "2026-07-12T03:54:34Z",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/late-stage-cheques-go-big-at-86-million-average-this-year/articleshow/132340434.cms",
-    "article_text": "Late-stage private market funding in India averaged about $86 million per deal in the first half of the year, more than double the average size seen in the previous two six-month periods. Capital con… [+3545 chars]"
-  },
-  {
-    "id": "92473ae0dcd3d103",
-    "title": "geny-executor 2.50.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T03:48:45Z",
-    "url": "https://pypi.org/project/geny-executor/2.50.1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "e5e4e750c4b68eb6",
-    "title": "Will Nifty, Sensex extend gains on Monday? Q1, oil among 5 major factors investors must track",
-    "source": "The Times of India",
-    "publication_date": "2026-07-12T03:47:13Z",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-gains-on-monday-q1-oil-among-5-major-factors-investors-must-track/articleshow/132340394.cms",
-    "article_text": "Benchmark indices Sensex and Nifty are headed into a crucial week as investors brace for a heavy earnings calendar, monitor escalating tensions in the Middle East after the United States and Iran res… [+5373 chars]"
-  },
-  {
-    "id": "e1e1d5c2806534da",
-    "title": "stratum-py 0.2.110",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T03:47:06Z",
-    "url": "https://pypi.org/project/stratum-py/0.2.110/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "9f17cdd02af623e2",
-    "title": " Worldie saves it in extra time, and Argentina face England in semi",
-    "source": "Onefootball.com",
-    "publication_date": "2026-07-12T03:45:00Z",
-    "url": "https://onefootball.com/en/news/worldie-saves-it-in-extra-time-and-argentina-face-england-in-semi-43127984",
-    "article_text": "Late on Saturday night (11), already in the early hours of Sunday (12), Argentina beat Switzerland 3-1 in extra time and qualified for the semifinals of the 2026 FIFA World Cup.\r\nThe match was not ex… [+1613 chars]"
-  },
-  {
-    "id": "2160f0184ce6c3cf",
-    "title": "chimera-agent 0.18.3",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T03:44:52Z",
-    "url": "https://pypi.org/project/chimera-agent/0.18.3/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "7ab57fe7efc14304",
-    "title": "Show HN: Dgxtop: Rust Monitor for DGX or need to monitor GPU status",
-    "source": "Github.com",
-    "publication_date": "2026-07-12T03:42:21Z",
-    "url": "https://github.com/DennySORA/dgxtop",
-    "article_text": "| | \r\nHigh-performance, interactive system monitor for NVIDIA DGX systems with real-time GPU, CPU, memory, disk capacity/I/O, and network monitoring.\r\ndgxtop is a comprehensive system monitoring tool… [+9682 chars]"
-  },
-  {
-    "id": "2aecf1bee62148d1",
-    "title": "eval-doctor added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T03:39:59Z",
-    "url": "https://pypi.org/project/eval-doctor/",
-    "article_text": "Know what you are not testing before you ship.\r\nEval Doctor is a CLI that helps AI builders find blind spots in their eval suite a linter for AI evals.\r\nMost AI projects start with architecture and i… [+4783 chars]"
-  },
-  {
-    "id": "f2ef2c3deb7cdfdb",
-    "title": "rapid-mlx 0.10.9",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T03:36:09Z",
-    "url": "https://pypi.org/project/rapid-mlx/0.10.9/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "005c3f46c95b1c12",
-    "title": "stratum-py 0.2.109",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T03:34:40Z",
-    "url": "https://pypi.org/project/stratum-py/0.2.109/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "718b7151c19f5409",
-    "title": "Artificial Intelligence is Reshaping the US Financial Market; EX DeFi Launches AI-Driven Trading Technology",
-    "source": "GlobeNewswire",
-    "publication_date": "2026-07-12T03:33:00Z",
-    "url": "https://www.globenewswire.com/news-release/2026/07/12/3325837/0/en/Artificial-Intelligence-is-Reshaping-the-US-Financial-Market-EX-DeFi-Launches-AI-Driven-Trading-Technology.html",
-    "article_text": "New York City, NY, July 11, 2026 (GLOBE NEWSWIRE) -- Recently, the US financial market has been undergoing a new round of structural changes. With the continued surge in investment in artificial inte… [+5409 chars]"
-  },
-  {
-    "id": "dbe64e5e580b3a92",
-    "title": "pawpado added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T03:32:48Z",
-    "url": "https://pypi.org/project/pawpado/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "d8b5f6bbdac352c8",
-    "title": "Author Dave Eggers on AI, staying creative and the daily role of Sinéad O’Connor in his life",
-    "source": "The Irish Times",
-    "publication_date": "2026-07-12T03:29:00Z",
-    "url": "https://www.irishtimes.com/culture/books/2026/07/12/author-dave-eggers-on-ai-staying-creative-and-the-daily-role-of-sinead-oconnor-in-his-life/",
-    "article_text": "Dave Eggers is not a man hemmed in by an undue adherence to convention. Over the phone from his book tour in England (current stop: London), Eggers explains how he keeps things creatively stimulating… [+9916 chars]"
-  },
-  {
-    "id": "ccc4181064d23df9",
-    "title": "spolm-tracer added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T03:23:29Z",
-    "url": "https://pypi.org/project/spolm-tracer/",
-    "article_text": "Official Spolm SDK for Python trace, simulate, and verify AI agent runs.\r\nspolm-tracer instruments your agent so its runs appear in Spolm, where they're\r\nclustered into failure patterns, turned into … [+2317 chars]"
-  },
-  {
-    "id": "52aa799144d98fe9",
-    "title": "Oracle’s stock split history explained",
+    "id": "69385e28ea91a0ab",
+    "title": "Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
     "source": "Biztoc.com",
-    "publication_date": "2026-07-12T03:23:20Z",
-    "url": "https://biztoc.com/x/778e574d837c3c7e",
-    "article_text": "Oracle's stock performance from the 1980s pushed the tech giant to split its shares. Its fortunes rose and fell during the dot-com era, and then picked up again in recent years with the popularity of… [+148 chars]"
+    "publication_date": "2026-07-12T15:15:12Z",
+    "url": "https://biztoc.com/x/d74353c3894a8d0e",
+    "article_text": "Dow Jones futures will open Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The U.S. and Iran traded new attacks over the Strait of Hormuz. Taiwan Semiconductor, Goldman Sachs, JPM… [+148 chars]"
   },
   {
-    "id": "28a0cf1ca663a04e",
-    "title": "The new literary detective: Hunting AI in every sentence",
-    "source": "The Times of India",
-    "publication_date": "2026-07-12T03:19:56Z",
-    "url": "https://economictimes.indiatimes.com/news/india/the-new-literary-detective-hunting-ai-in-every-sentence/articleshow/132340184.cms",
-    "article_text": "They called her Zoongie. Maybe it was a name; maybe rain took a shape and decided to keep it. She had the kind of walking that made benches become men. Hair tumbling wild, a dress that caught and rel… [+7590 chars]"
-  },
-  {
-    "id": "9c8f55c1a3be4c41",
-    "title": " Norway fume over English goal, Haaland's dad hits out, Fifa acts",
-    "source": "Onefootball.com",
-    "publication_date": "2026-07-12T03:18:00Z",
-    "url": "https://onefootball.com/en/news/norway-fume-over-english-goal-haalands-dad-hits-out-fifa-acts-43127955",
-    "article_text": "On Saturday (11), England came from behind to beat Norway 2-1 in extra time and advanced to the semifinals of the 2026 FIFA World Cup.\r\nThe match, however, featured some controversy and complaints fr… [+1893 chars]"
-  },
-  {
-    "id": "fc2e7ff37f68d59a",
-    "title": "How integrated digital ecosystems are transforming India’s agricultural value chain",
-    "source": "BusinessLine",
-    "publication_date": "2026-07-12T03:16:54Z",
-    "url": "https://www.thehindubusinessline.com/economy/agri-business/how-integrated-digital-ecosystems-are-transforming-indias-agricultural-value-chain/article71210651.ece",
-    "article_text": "For years, the agricultural sector has been talking about digital transformation. Today, the conversation has evolved.\r\nThe next phase of Indias agricultural growth will not be driven by another app,… [+4110 chars]"
-  },
-  {
-    "id": "7dc1411a2c10664b",
-    "title": "Alibaba Investor News: If You Have Suffered Losses in Alibaba Group Holding Limited (NYSE: BABA), You Are Encouraged to Contact The Rosen Law Firm About Your Rights",
-    "source": "GlobeNewswire",
-    "publication_date": "2026-07-12T03:16:00Z",
-    "url": "https://www.globenewswire.com/news-release/2026/07/12/3325835/673/en/Alibaba-Investor-News-If-You-Have-Suffered-Losses-in-Alibaba-Group-Holding-Limited-NYSE-BABA-You-Are-Encouraged-to-Contact-The-Rosen-Law-Firm-About-Your-Rights.html",
-    "article_text": "NEW YORK, July 11, 2026 (GLOBE NEWSWIRE) -- \r\nWHY: Rosen Law Firm, a global investor rights law firm, announces an investigation of potential securities claims on behalf of shareholders of Alibaba Gr… [+2738 chars]"
-  },
-  {
-    "id": "81a8fd033d8b7733",
-    "title": " Messi bloodied above the eye, treated on the touchline ",
-    "source": "Onefootball.com",
-    "publication_date": "2026-07-12T03:16:00Z",
-    "url": "https://onefootball.com/en/news/messi-bloodied-above-the-eye-treated-on-the-touchline-43127951",
-    "article_text": "Among the images Messi has left us from his World Cup, there will also be the one of his bloodied eye during the hydration break in the second half of Argentina-Switzerland.\r\nAfter a collision with G… [+374 chars]"
-  },
-  {
-    "id": "18b9ac6bb667e092",
-    "title": "chp-adapter-local-llm 0.22.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T03:11:49Z",
-    "url": "https://pypi.org/project/chp-adapter-local-llm/0.22.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "beea70c6dba47c93",
-    "title": "Renewable energy supporters want clean energy to power data sources",
-    "source": "Wokv.com",
-    "publication_date": "2026-07-12T03:09:22Z",
-    "url": "https://www.wokv.com/news/business/gas-plants-rise/XBTLUPFYME4VRN5OKW75XL36EM/",
-    "article_text": "HARRISBURG, Pa. — As the explosive energy demand of artificial intelligence spurs a renaissance for fossil fuels, renewable energy allies are trying to ensure that massive data centers will be powere… [+6202 chars]"
-  },
-  {
-    "id": "29526f02003442be",
-    "title": "Tech stocks capture China’s elderly retail investors amid faith in nation’s tech sector",
+    "id": "2536c1221873d5ac",
+    "title": "Nvidia partner sued over five critical products",
     "source": "Biztoc.com",
-    "publication_date": "2026-07-12T03:06:35Z",
-    "url": "https://biztoc.com/x/665d02f9e24187e1",
-    "article_text": "Technology stocks have become the new darlings of Chinas retail investors who are betting their savings on chipmakers and artificial intelligence (AI) developers amid belief in the countrys technolog… [+136 chars]"
+    "publication_date": "2026-07-12T15:13:39Z",
+    "url": "https://biztoc.com/x/21ef01c15ac25689",
+    "article_text": "Navitas Semiconductor (NVTS) built its 2026 comeback around AI data centers, and those who bought into its business are now watching it fight a major legal battle. NVTS shares had climbed sharply thi… [+132 chars]"
   },
   {
-    "id": "3d4672461543ba96",
-    "title": "augmem.hermes 0.1.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T03:06:34Z",
-    "url": "https://pypi.org/project/augmem.hermes/",
-    "article_text": "Cortext memory provider for Hermes Agent.\r\n<table><tr><th></th><th></th></tr>\r\n<tr><td>PyPI / import</td><td>augmem.hermes</td></tr><tr><td>Hermes provider id</td><td>cortext</td></tr><tr><td>CLI</td… [+9030 chars]"
+    "id": "9951be9ad653ea63",
+    "title": "Ireland’s data centers consumed nearly as much electricity as every home in the country combined in 2025 — server farms gulped 23% of national power despite years of grid restrictions",
+    "source": "Tom's Hardware UK",
+    "publication_date": "2026-07-12T15:12:09Z",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/irelands-data-centers-consumed-nearly-as-much-electricity-as-every-home-in-the-country-combined-in-2025-server-farms-gulped-23-percent-of-national-power-despite-years-of-grid-restrictions",
+    "article_text": "Data centers accounted for 23% of Ireland's total electricity consumption in 2025, according to data released by the country's Central Statistics Office last week. The report revealed that data cente… [+4200 chars]"
   },
   {
-    "id": "e32d008596493f17",
-    "title": "llmtrim 0.9.4",
+    "id": "1195722644ac0d4e",
+    "title": "plane-ce-mcp added to PyPI",
     "source": "Pypi.org",
-    "publication_date": "2026-07-12T03:04:11Z",
-    "url": "https://pypi.org/project/llmtrim/0.9.4/",
+    "publication_date": "2026-07-12T15:11:13Z",
+    "url": "https://pypi.org/project/plane-ce-mcp/",
+    "article_text": "Unofficial MCP server for self-hosted Plane (Community Edition).\r\nA Model Context Protocol server exposing Plane's project management API as MCP tools,\r\nbuilt for people who run Plane themselves. Bas… [+22666 chars]"
+  },
+  {
+    "id": "92302db7ff8da8e6",
+    "title": "Meta spent a year being punished for its AI spending. Then it told investors how it would get the money back.",
+    "source": "The Next Web",
+    "publication_date": "2026-07-12T15:09:36Z",
+    "url": "https://thenextweb.com/news/meta-stock-best-week-ai-cloud-compute/",
+    "article_text": "TL;DR\r\nMetas stock rose about 6% on Friday and roughly 15% on the week, its best week since early 2024, after the company gave investors a concrete plan to monetise its AI infrastructure via Meta Com… [+3125 chars]"
+  },
+  {
+    "id": "92d68ca10ad77d5f",
+    "title": "vapoursynth-nnedi3vk added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-12T15:07:22Z",
+    "url": "https://pypi.org/project/vapoursynth-nnedi3vk/",
+    "article_text": "NNEDI3 is an intra-field only deinterlacer. It takes in a frame, throws away one field, and then interpolates the missing pixels using only information from the kept field. It has same rate and doubl… [+4466 chars]"
+  },
+  {
+    "id": "41356a8c7e762ab9",
+    "title": "Trinidad and Tobago signs deals with U.S. companies for data centers, despite history of chronic water shortages and intermittent supply",
+    "source": "Fortune",
+    "publication_date": "2026-07-12T15:04:01Z",
+    "url": "https://fortune.com/2026/07/12/trinidad-and-tobago-deals-data-centers-chronic-water-shortages-intermittent-supply/",
+    "article_text": "Trinidad and Tobago has signed agreements paving the way for U.S. companies to begin groundwork for installing large data centers in the Caribbean nation, sparking concerns about potential energy con… [+3145 chars]"
+  },
+  {
+    "id": "a5bae25685036ded",
+    "title": "The AI race has quietly stopped being about who has the biggest model",
+    "source": "The Next Web",
+    "publication_date": "2026-07-12T15:02:04Z",
+    "url": "https://thenextweb.com/news/ai-race-shifts-bigger-models-to-cheaper-systems/",
+    "article_text": "TL;DR\r\nThe assumption that the biggest AI model wins is breaking down, with enterprises now choosing models by task, cost, and control rather than leaderboard rank. Driving it are model bills running… [+2439 chars]"
+  },
+  {
+    "id": "2197f55f85e08692",
+    "title": "Dycom Industries Says Fiber, Data Center Demand Gives Backlog ‘Staying Power’",
+    "source": "Yahoo Entertainment",
+    "publication_date": "2026-07-12T15:02:04Z",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_80449f42-20af-45ab-9104-fce40f9fc2bf",
+    "article_text": "If you click 'Accept all', we and our partners, including 249 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]"
+  },
+  {
+    "id": "0b0e6d615e6f9d08",
+    "title": "OpenAI Is Shutting Down Its Browser That Was Supposed to Change Everything",
+    "source": "Futurism",
+    "publication_date": "2026-07-12T15:01:00Z",
+    "url": "https://futurism.com/artificial-intelligence/openai-shutting-down-browser",
+    "article_text": "Can’t-miss innovations from the bleeding edge of science and tech\r\nIn October, OpenAI unveiled an AI browser dubbed Atlas, purportedly designed to help you “understand your world” and “achieve your g… [+2536 chars]"
+  },
+  {
+    "id": "d3f4dd9c2ac88414",
+    "title": "NJ electric bills have been spiking, but $25 worth of relief is on the way",
+    "source": "Gothamist",
+    "publication_date": "2026-07-12T15:00:48Z",
+    "url": "https://gothamist.com/news/nj-electric-bills-have-been-spiking-but-25-worth-of-relief-is-on-the-way",
+    "article_text": "New Jersey electric customers will soon get a modest break on their power bills.\r\nEvery electric customer in the Garden State will receive a one-time $25 credit on their August bill, Gov. Mikie Sherr… [+3548 chars]"
+  },
+  {
+    "id": "77adcf0f92d63c1b",
+    "title": "First Leaked Look at Samsung Galaxy Z Fold 8 Wide Impresses",
+    "source": "Geeky Gadgets",
+    "publication_date": "2026-07-12T15:00:35Z",
+    "url": "https://www.geeky-gadgets.com/samsung-galaxy-z-fold-8-first-look/",
+    "article_text": "Samsung has officially unveiled its latest flagship device, the Galaxy Z Fold 8, a smartphone designed to push the boundaries of foldable technology. With a wider design, a slimmer profile, and innov… [+6156 chars]"
+  },
+  {
+    "id": "799a8d7a686a89d2",
+    "title": "Why HBO Max Abruptly Cancelled Raised By Wolves Season 3 Finally Revealed",
+    "source": "Screen Rant",
+    "publication_date": "2026-07-12T15:00:20Z",
+    "url": "https://screenrant.com/ridley-scott-raised-by-wolves-hbo-max-cancellation-sudden-explained-zucker/",
+    "article_text": "David W. Zucker is still heartbroken over HBO Max's sudden cancellation of Raised by Wolves. \r\nExecutive produced by Zucker and Ridley Scott through their Scott Free Productions banner, the sci-fi se… [+10553 chars]"
+  },
+  {
+    "id": "611c9aa75c6d9af6",
+    "title": "rab Coding Agent",
+    "source": "Euptera.com",
+    "publication_date": "2026-07-12T15:00:00Z",
+    "url": "https://marko.euptera.com/posts/rab.html",
+    "article_text": "Having too many moving parts evolve in parallel - the TUI layer, the agentic loop, provider-specific quirks, tool dispatch ordering, cost tracking - made the whole experience less pleasant than it sh… [+1012 chars]"
+  },
+  {
+    "id": "6018e698bbf01677",
+    "title": "Chamath Palihapitiya Says the AI Boom May Be Hiding Biggest Capital Allocation Mistake in History",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-12T14:58:16Z",
+    "url": "https://biztoc.com/x/fdb354a372998543",
+    "article_text": "The post Chamath Palihapitiya Says the AI Boom May Be Hiding Biggest Capital Allocation Mistake in History appeared first on 24/7 Wall St..Artificial intelligence has completely changed the narrative… [+144 chars]"
+  },
+  {
+    "id": "08ad0c993bd2d0ec",
+    "title": "caprock 0.1.25",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-12T14:55:26Z",
+    "url": "https://pypi.org/project/caprock/0.1.25/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "ed01303db07ec3db",
-    "title": "Samsung Electronics accelerates opening of Yongin chip plant to 2029",
+    "id": "379c5a70eb5c4989",
+    "title": "Biwin Opal DW100 RGB DDR5 48 GB (2 x 24 GB) 6000 MT/s CL28 EXPO ULL Memory Kit Review – Solid EXPO Kit But Way Overpriced Right Now",
+    "source": "Wccftech",
+    "publication_date": "2026-07-12T14:55:22Z",
+    "url": "https://wccftech.com/review/biwin-opal-dw100-rgb-ddr5-48-gb-2-x-24-gb-6000-mt-s-cl28-expo-ull-memory-kit-review-solid-expo-kit-but-way-overpriced-right-now/",
+    "article_text": "Product Info\r\nIn 2026, we live in the worst kind of memory crisis that the consumer market has ever faced. Some people call it the RAMmageddon, and others call it the RAMpocalypse. Whichever way you … [+8536 chars]"
+  },
+  {
+    "id": "c402b52e5e76cb5b",
+    "title": "Biwin Opal DW100 RGB DDR5 48 GB (2 x 24 GB) 6000 MT/s CL28 EXPO Memory Kit Review – Solid EXPO Kit But Way Overpriced Right Now",
+    "source": "Wccftech",
+    "publication_date": "2026-07-12T14:55:22Z",
+    "url": "https://wccftech.com/review/biwin-opal-dw100-rgb-ddr5-48-gb-2-x-24-gb-6000-mt-s-cl28-expo-memory-kit-review-solid-expo-kit-but-way-overpriced-right-now/",
+    "article_text": "Product Info\r\nIn 2026, we live in the worst kind of memory crisis that the consumer market has ever faced. Some people call it the RAMmageddon, and others call it the RAMpocalypse. Whichever way you … [+8536 chars]"
+  },
+  {
+    "id": "f8f019b643121ba9",
+    "title": "dhis2w-mcp-router added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-12T14:52:34Z",
+    "url": "https://pypi.org/project/dhis2w-mcp-router/",
+    "article_text": "A domain-neutral MCP router: front many upstream MCP servers behind two meta-tools so an agent gets\r\nlazy, searchable tool discovery instead of a huge up-front tool payload.\r\nIt is the portable, MCP-… [+3107 chars]"
+  },
+  {
+    "id": "1c011e6f8aaed6e0",
+    "title": "Apple’s Chipset Development Is Unparalleled As Company Is Already Working On The M8, Flaunting Superior AI Capabilities Not To Mention Enhanced Efficiency",
+    "source": "Wccftech",
+    "publication_date": "2026-07-12T14:51:48Z",
+    "url": "https://wccftech.com/apple-working-on-m8-with-superior-ai-and-efficiency-features/",
+    "article_text": "In the AI race, Apple isnt the first name that youd expect to be ahead of its rivals, but when it comes to chipsets that are tailor-made to tackle the aforementioned workloads, we doubt other names c… [+2000 chars]"
+  },
+  {
+    "id": "1c30cc686867ca1d",
+    "title": "tensor-grep 1.66.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-12T14:51:40Z",
+    "url": "https://pypi.org/project/tensor-grep/1.66.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "c499f727b290227c",
+    "title": "Silicon Valley VC giant Vinod Khosla and family to buy Seattle Seahawks for $9.6 billion and must relinquish stake in the San Francisco 49ers",
+    "source": "Fortune",
+    "publication_date": "2026-07-12T14:49:23Z",
+    "url": "https://fortune.com/2026/07/12/silicon-valley-vc-vinod-khosla-seattle-seahawks-deal-san-francisco-49ers-stake/",
+    "article_text": "The Seattle Seahawks are being sold to the Khosla family, including Vinod Khosla, in accordance with the wishes of late team owner Paul Allen, the team announced on Saturday.The Khosla family entered… [+2693 chars]"
+  },
+  {
+    "id": "c4aff839b4c1c9d5",
+    "title": "AI Tools Sweep Into Anime Production",
+    "source": "Newsonjapan.com",
+    "publication_date": "2026-07-12T14:48:48Z",
+    "url": "https://newsonjapan.com/article/149951.php",
+    "article_text": "TOKYO -\r\n Japan's anime industry, one of the country's leading cultural exports, is beginning to confront the arrival of artificial intelligence in production as studios grapple with labor shortages,… [+7591 chars]"
+  },
+  {
+    "id": "1ea427fb41ef5c4f",
+    "title": "Catch up: Iran’s top diplomat holds talks in Oman; Apple sues OpenAI",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-12T14:43:45Z",
+    "url": "https://biztoc.com/x/894b4bf198178f01",
+    "article_text": "The world in briefCatch up: Irans top diplomat holds talks in Oman; Apple sues OpenAIAbbas Araghchi, Irans foreign minister, held talks with his Omani counterpart about the future of the Strait of Ho… [+147 chars]"
+  },
+  {
+    "id": "76dbd211c895de64",
+    "title": "Chamath Palihapitiya Says the AI Boom May Be Hiding Biggest Capital Allocation Mistake in History",
+    "source": "24/7 Wall St.",
+    "publication_date": "2026-07-12T14:43:19Z",
+    "url": "https://247wallst.com/investing/2026/07/12/chamath-palihapitiya-says-the-ai-boom-may-be-hiding-biggest-capital-allocation-mistake-in-history/",
+    "article_text": "Quick Read\r\n<ul><li>Palihapitiya argues just 0-2% of the S&amp;P 493's recent earnings growth stems from AI productivity, with inflation and buybacks driving the rest.\r\n</li><li>A PwC 2026 survey fou… [+6767 chars]"
+  },
+  {
+    "id": "99ef8222c8a27008",
+    "title": "10 Things to Know About SK Hynix's Historic US Nasdaq IPO Listing as Regular Trading Officially Begins Monday",
+    "source": "Ibtimes.com.au",
+    "publication_date": "2026-07-12T14:43:08Z",
+    "url": "https://www.ibtimes.com.au/sk-hynix-nasdaq-debut-ai-memory-chips-1872165",
+    "article_text": "South Korean memory chipmaker SK Hynix completed its historic debut on the Nasdaq last week, and regular trading under its permanent ticker begins Monday, marking a milestone moment for the AI-driven… [+6285 chars]"
+  },
+  {
+    "id": "d0b80a662b6b9a91",
+    "title": "More biases of AI models",
+    "source": "Whyevolutionistrue.com",
+    "publication_date": "2026-07-12T14:40:02Z",
+    "url": "https://whyevolutionistrue.com/2026/07/12/more-biases-of-ai-models/",
+    "article_text": "Last week I reported on the “progressive” biases of ChatGPT (compared to Grok), but a new Economist article compares the biases of various AI models with those of “regular” people, and the biases are… [+10721 chars]"
+  },
+  {
+    "id": "84597a8e4b875aa7",
+    "title": "podcastgen 0.1.6",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-12T14:37:48Z",
+    "url": "https://pypi.org/project/podcastgen/0.1.6/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "f661b992d7929d06",
+    "title": "Show HN: Introducing: Zotfile Agents",
+    "source": "Www.zot.sh",
+    "publication_date": "2026-07-12T14:34:33Z",
+    "url": "https://www.zot.sh/docs/zotfiles",
+    "article_text": "A zotfile is an agent you can share like a file. It packages an agent's persona and standing instructions, reusable skills, requirements, and enforced tool permissions into one portable .zot artifact… [+7770 chars]"
+  },
+  {
+    "id": "ed1e04e28157e0b4",
+    "title": "llm-security-scanner 0.7.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-12T14:33:55Z",
+    "url": "https://pypi.org/project/llm-security-scanner/0.7.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "17cc6ef8426a9a56",
+    "title": "AI bosses say demand is ‘almost unlimited’. The market is no longer taking their word for it.",
+    "source": "The Next Web",
+    "publication_date": "2026-07-12T14:32:00Z",
+    "url": "https://thenextweb.com/news/ai-demand-unlimited-chip-stock-volatility/",
+    "article_text": "TL;DR\r\nAI executives insist demand is almost unlimited, with Pat Gelsinger naming energy as the only real limiter and Lumentum reporting products sold out five years ahead. Yet chip and data-centre s… [+2779 chars]"
+  },
+  {
+    "id": "974d85c455d003b2",
+    "title": "conservation-enforcer 0.2.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-12T14:27:13Z",
+    "url": "https://pypi.org/project/conservation-enforcer/0.2.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "6c293d77a9a33bf1",
+    "title": " Milan seal Rabiot, Juve-Pellegrino, Zeballos-Napoli : deals ",
+    "source": "Onefootball.com",
+    "publication_date": "2026-07-12T14:20:00Z",
+    "url": "https://onefootball.com/en/news/milan-seal-rabiot-juve-pellegrino-zeballos-napoli-deals-43129686",
+    "article_text": "Yesterday, the quarter-finals came to an end with Argentinas win over Switzerland, and now the World Cup gets even more exciting with the two blockbuster semi-final clashes: France-Spain and Argentin… [+4693 chars]"
+  },
+  {
+    "id": "5ced408417b2fb81",
+    "title": "Spectrum makes significant decision as customer losses mount",
+    "source": "TheStreet",
+    "publication_date": "2026-07-12T14:17:00Z",
+    "url": "https://www.thestreet.com/technology/spectrum-lays-off-107-employees-as-customer-losses-mount",
+    "article_text": "Spectrum, which is owned by Charter Communications, has decided to make another significant workforce change as it continues to battle mounting customer losses in its cable TV and internet business.\r… [+5640 chars]"
+  },
+  {
+    "id": "ff1b1eda3e4a912a",
+    "title": "Earnings season kicks off and a wave of inflation data: What to watch this week",
+    "source": "Yahoo Entertainment",
+    "publication_date": "2026-07-12T14:16:28Z",
+    "url": "https://finance.yahoo.com/news/earnings-season-kicks-off-and-a-wave-of-inflation-data-what-to-watch-this-week-141628682.html",
+    "article_text": "Coming off a relatively staid past week in the markets, investors step into a packed five-day stretch as second quarter earnings kick off in force, with a healthy selection of economic data releases … [+8342 chars]"
+  },
+  {
+    "id": "3ece94937fc91325",
+    "title": "Nvidia Stock Just Did Something for the First Time in 7 Years. Here's What History Says Happens Next",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-12T14:15:32Z",
+    "url": "https://biztoc.com/x/66ac14fccd4e20a3",
+    "article_text": "Nvidia Stock Just Did Something for the First Time in 7 Years. Here's What History Says Happens Next.The artificial intelligence (AI) revolution turned Nvidia (NASDAQ: NVDA) into a household name vir… [+151 chars]"
+  },
+  {
+    "id": "19cc2147d1332e12",
+    "title": "Piyush Goyal To Attend The India-EU Business Roundtable and TTC plenary",
+    "source": "Deccan Chronicle",
+    "publication_date": "2026-07-12T14:14:19Z",
+    "url": "https://www.deccanchronicle.com/business/economics/piyush-goyal-to-attend-the-india-eu-business-roundtable-and-ttc-plenary-1970362",
+    "article_text": "Commerce and industry minister Piyush Goyal on Sunday will embark on a five-day visit to three countries -- Spain, Belgium, and Finland to discuss ways to boost trade and investments between India an… [+2222 chars]"
+  },
+  {
+    "id": "96578445705b5292",
+    "title": "Atlético CEO gives update on move for Fred",
+    "source": "Onefootball.com",
+    "publication_date": "2026-07-12T14:13:00Z",
+    "url": "https://onefootball.com/en/news/atletico-ceo-gives-update-on-move-for-fred-43129661",
+    "article_text": "The negotiations involving Atlético-MG and midfielder Fred have entered a new chapter, but there is still no imminent outcome for the Atlético fans.\r\nThe CEO of the Minas Gerais club, Pedro Daniel, s… [+1547 chars]"
+  },
+  {
+    "id": "5369ec12f66f3dd6",
+    "title": "AI giants learn what everyone else on the modern internet already knows",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-12T14:12:45Z",
+    "url": "https://biztoc.com/x/8eb54371d3451c56",
+    "article_text": "Anthropic CEO Dario AmodeiBloomberg/Getty ImagesA version of this story originally appeared in the BI Tech Memo newsletter.Sign up for the weekly BI Tech Memo newsletter here.Here's some delicious AI… [+147 chars]"
+  },
+  {
+    "id": "764c5f93d4e232fa",
+    "title": "conservation-enforcer added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-12T14:11:34Z",
+    "url": "https://pypi.org/project/conservation-enforcer/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "cd0e9dcde6e83055",
+    "title": "Chinese developers are climbing the firewall to pay more for GPT-5.6, and doing the maths on why",
+    "source": "The Next Web",
+    "publication_date": "2026-07-12T14:11:00Z",
+    "url": "https://thenextweb.com/news/china-users-gpt-5-6-token-efficiency/",
+    "article_text": "TL;DR\r\nOpenAIs GPT-5.6 release (Sol, Terra, Luna) is winning praise from users in mainland China who reach the blocked service via VPNs, despite costing several times more per token than Zhipus GLM-5… [+3926 chars]"
+  },
+  {
+    "id": "948077cf8a72825b",
+    "title": "Small models can solve big problems",
+    "source": "Jonudell.net",
+    "publication_date": "2026-07-12T14:09:38Z",
+    "url": "https://blog.jonudell.net/2026/07/12/small-models-can-solve-big-problems/",
+    "article_text": "In this snapshot of the Bloomington calendar you can see that events are neatly categorized. \r\nThis was an intractable problem a dozen years ago. Should the county fair land in community / social or … [+1290 chars]"
+  },
+  {
+    "id": "93adf19ebfde6a6f",
+    "title": "Apple rewrites its Mac chip roadmap to go all-in on artificial intelligence",
     "source": "Crypto Briefing",
-    "publication_date": "2026-07-12T03:03:43Z",
-    "url": "https://cryptobriefing.com/samsung-yongin-chip-plant-2029/",
-    "article_text": "South Korea's semiconductor giant pulls its mega-fab timeline forward by at least a year as AI chip demand reshapes global production strategy Samsung Electronics is pushing to get its first fabricat… [+1813 chars]"
+    "publication_date": "2026-07-12T14:07:09Z",
+    "url": "https://cryptobriefing.com/apple-mac-chip-roadmap-ai-integration/",
+    "article_text": "The company is skipping its usual Pro and Max chip variants to fast-track an AI-optimized M7 generation, while locking in a $30 billion deal for US-made chips. Apple just did something it almost neve… [+2514 chars]"
   },
   {
-    "id": "21c5610d9ffa6174",
-    "title": "Lenovo Legion Pro 7 gaming laptop with RTX 5080 discounted by 24%",
-    "source": "Notebookcheck.net",
-    "publication_date": "2026-07-12T03:03:00Z",
-    "url": "https://www.notebookcheck.net/Lenovo-Legion-Pro-7-gaming-laptop-with-RTX-5080-discounted-by-24.1339795.0.html",
-    "article_text": "High-end gaming laptops might be considered expensive toys, especially in times of sky-high memory and SSD prices. Since this situation is unlikely to change anytime soon, passionate gamers might sti… [+2059 chars]"
+    "id": "1700febca7594c85",
+    "title": "Mark Cuban has strong words on AI companies and job losses",
+    "source": "TheStreet",
+    "publication_date": "2026-07-12T14:07:00Z",
+    "url": "https://www.thestreet.com/employment/mark-cuban-has-strong-words-on-ai-companies-and-job-losses-layoffs-communities",
+    "article_text": "Oracle's annual filing cited AI adoption among the drivers of 21,000 job cuts in fiscal 2026. Snap cut 1,000 people and the CEO said rapid AI advances meant a smaller team could do the same work. At … [+4421 chars]"
   },
   {
-    "id": "fee78ed51f8a562d",
-    "title": "vault-for-llm 0.10.2",
+    "id": "455e763f3f0c7caa",
+    "title": "The PE Software Backlog: Will 1,000+ Unicorns Ever Get Sold or Go Public?",
+    "source": "Saastr.com",
+    "publication_date": "2026-07-12T14:06:57Z",
+    "url": "https://www.saastr.com/the-pe-software-backlog-will-1000-unicorns-ever-get-sold/",
+    "article_text": "Per the Wall Street this week, private equity will need about nine years to clear its backlog of unsold portfolio companies.\r\nAnd that’s the conservative version. Bain’s 2026 Global Private Equity Re… [+7774 chars]"
+  },
+  {
+    "id": "98efdf76cb52f4f0",
+    "title": "tensor-grep 1.65.6",
     "source": "Pypi.org",
-    "publication_date": "2026-07-12T03:02:36Z",
-    "url": "https://pypi.org/project/vault-for-llm/0.10.2/",
+    "publication_date": "2026-07-12T14:06:17Z",
+    "url": "https://pypi.org/project/tensor-grep/1.65.6/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "8148eea3e34bc61c",
-    "title": "tensor-grep 1.64.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T02:58:18Z",
-    "url": "https://pypi.org/project/tensor-grep/1.64.1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "924ea64c3d485ec8",
-    "title": "Who is Vinod Khosla? Indian-American billionaire behind record $9.6 billion Seattle Seahawks purchase",
-    "source": "The Times of India",
-    "publication_date": "2026-07-12T02:55:35Z",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/who-is-vinod-khosla-indian-american-billionaire-behind-record-9-6-billion-seattle-seahawks-purchase/articleshow/132340091.cms",
-    "article_text": "The Seattle Seahawks have been sold to a family-led ownership group headed by Indian-American billionaire Vinod Khosla and his wife, Neeru Khosla, in a deal valued at $9.6 billion, the highest sale p… [+3866 chars]"
-  },
-  {
-    "id": "00effee187a5d06f",
-    "title": "spolm-checks added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T02:47:02Z",
-    "url": "https://pypi.org/project/spolm-checks/",
-    "article_text": "Checks-as-code for AI agents. Define an invariant once enforce it in replay\r\n(CI regression), simulation (certification), and inline at runtime (action gate).\r\nDeterministic first: predicate (CEL san… [+869 chars]"
-  },
-  {
-    "id": "4d1054cfced115c2",
-    "title": " New rule sees red in Switzerland v Argentina; player distraught",
-    "source": "Onefootball.com",
-    "publication_date": "2026-07-12T02:47:00Z",
-    "url": "https://onefootball.com/en/news/new-rule-sees-red-in-switzerland-v-argentina-player-distraught-43127930",
-    "article_text": "In Kansas City (USA), Argentina and Switzerland are drawing 1-1 this Saturday (11) in the quarterfinals of the 2026 FIFA World Cup.\r\nThe winner will face England in the semifinals next Thursday (15).… [+1090 chars]"
-  },
-  {
-    "id": "c5aa4ee538e1f656",
-    "title": " He bursts into tears straight away: Switzerland star sent off for diving!",
-    "source": "Onefootball.com",
-    "publication_date": "2026-07-12T02:45:00Z",
-    "url": "https://onefootball.com/en/news/he-bursts-into-tears-straight-away-switzerland-star-sent-off-for-diving-43127919",
-    "article_text": "Around the 70th minute, dramatic scenes unfolded in the World Cup quarter-final in Kansas City!\r\nSwitzerland had just equalized at 1-1 through Dan Ndoye, once again putting world champions Argentina … [+746 chars]"
-  },
-  {
-    "id": "6843330127e3ca2a",
-    "title": "login-with-chatgpt 0.1.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T02:44:18Z",
-    "url": "https://pypi.org/project/login-with-chatgpt/0.1.1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "b93d13e5d36eb885",
-    "title": "arize-phoenix-client 2.13.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T02:40:54Z",
-    "url": "https://pypi.org/project/arize-phoenix-client/2.13.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "fd35adb57a091364",
-    "title": "pollux-ai 2.0.0rc2",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T02:40:14Z",
-    "url": "https://pypi.org/project/pollux-ai/2.0.0rc2/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "63acc3fb8fcd89c2",
-    "title": "Celebrating the world’s robotics guru Barth Nnaji @70",
-    "source": "Vanguard",
-    "publication_date": "2026-07-12T02:38:56Z",
-    "url": "https://www.vanguardngr.com/2026/07/celebrating-the-worlds-robotics-guru-barth-nnaji-70/",
-    "article_text": "By Chukwudi EnekweChi (JP)\r\nI recall with nostalgia my visit to Professor Barth Nnaji at the University of Pittsburg, United States of America sometimes in November of 2000. As I was transiting from … [+4719 chars]"
-  },
-  {
-    "id": "f86feb04c5152a56",
-    "title": "stratum-py 0.2.108",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-12T02:38:41Z",
-    "url": "https://pypi.org/project/stratum-py/0.2.108/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "91b008e9e9f1d848",
-    "title": "When Dead SIMs Died: How the NCC clean-up made Nigerian telecoms more honest",
-    "source": "Vanguard",
-    "publication_date": "2026-07-12T02:37:37Z",
-    "url": "https://www.vanguardngr.com/2026/07/when-dead-sims-died-how-the-ncc-clean-up-made-nigerian-telecoms-more-honest-2/",
-    "article_text": "By Lanre Basamta\r\nThere are moments in the life of an industry when progress does not look like growth. It looks like a subtraction. It looks like pain. It looks like a sudden fall in numbers that on… [+11424 chars]"
-  },
-  {
-    "id": "e7c4a800d185b183",
-    "title": "Infinitix signs Sarawak AI pact to expand Southeast Asia cloud services",
-    "source": "Digitimes",
-    "publication_date": "2026-07-12T02:32:51Z",
-    "url": "https://www.digitimes.com/news/a20260710PD221/infrastructure-asia-government-software-gpu.html",
-    "article_text": "Keep me signed in\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the… [+288 chars]"
-  },
-  {
-    "id": "8ffe02c9c8c4e439",
-    "title": "SmartSens targets 2027 commercialization of Micro LED optical interconnects for AI infrastructure",
-    "source": "Digitimes",
-    "publication_date": "2026-07-12T02:31:40Z",
-    "url": "https://www.digitimes.com/news/a20260709PD217/expansion-language-data-center-photonics-demand.html",
-    "article_text": "Keep me signed in\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the… [+288 chars]"
-  },
-  {
-    "id": "3df82090e258f76c",
-    "title": "InP supply crunch leaves South Korea exposed",
-    "source": "Digitimes",
-    "publication_date": "2026-07-12T02:31:06Z",
-    "url": "https://www.digitimes.com/news/a20260710VL216/inp-coherent-substrate-capacity-production.html",
-    "article_text": "Keep me signed in\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the… [+288 chars]"
-  },
-  {
-    "id": "99e07ca81f143904",
-    "title": " Is that Morita? Mexican caught doing the Viking row",
-    "source": "Onefootball.com",
-    "publication_date": "2026-07-12T02:20:00Z",
-    "url": "https://onefootball.com/en/news/is-that-morita-mexican-caught-doing-the-viking-row-43127900",
-    "article_text": "Gilberto Mora is enjoying his vacation after Mexicos elimination from the World Cup and was spotted at the match between England and Norway.\r\nThe Xolos player attended the quarterfinal at Miami Stadi… [+318 chars]"
+    "id": "3169b44dc557c312",
+    "title": "Meta Platforms Inc. (META) Is A Top AI Stock In D. E. Shaw’s Holdings",
+    "source": "Yahoo Entertainment",
+    "publication_date": "2026-07-12T14:04:50Z",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-inc-meta-top-140450076.html",
+    "article_text": "Meta Platforms Inc. (NASDAQ:META) is one of the 10 Best Stocks to Buy in 2026 According to Billionaire D.E. Shaw.\r\nSocial media giant Meta Platforms Inc. (NASDAQ:META) has been in the news lately due… [+1574 chars]"
   }
 ]
