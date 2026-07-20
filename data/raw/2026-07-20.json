@@ -320,6 +320,14 @@
     "article_text": "We're expanding our tools to help you understand how content was created and edited across the web."
   },
   {
+    "id": "af4560cf6a7ce28d",
+    "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+    "source": "NVIDIA Blog",
+    "publication_date": "Mon, 20 Jul 2026 10:59:23 +0000",
+    "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+    "article_text": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it. And they’re doubling down. BMS announced today it is deploying its second NVIDIA DGX SuperPOD, this one built on [&#8230;]"
+  },
+  {
     "id": "260f280164f72924",
     "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
     "source": "NVIDIA Blog",
@@ -454,14 +462,6 @@
     "publication_date": "Tue, 30 Jun 2026 15:00:57 +0000",
     "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
     "article_text": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and systems, and strengthened by a broad open source ecosystem, NVIDIA’s [&#8230;]"
-  },
-  {
-    "id": "f45efe482dc8c305",
-    "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
-    "source": "NVIDIA Blog",
-    "publication_date": "Tue, 30 Jun 2026 15:00:49 +0000",
-    "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
-    "article_text": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot&#8217;s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind [&#8230;]"
   },
   {
     "id": "0d091d7935d64a41",
@@ -920,6 +920,14 @@
     "article_text": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.</p><p><a href=\"https://tq.vc/\">TQ Ventures</a> led the round, with participation from <a href=\"https://fpvventures.com/\">FPV Ventures</a>, <a href=\"https://www.redpoint.com/\">Redpoint</a>, and <a href=\"https://www.unusual.vc/\">Unusual Ventures</a>. The investment values Railway as one of the most significant infrastructure startups to emerge during the AI boom, capitalizing on developer frustration with the complexity and cost of traditional platforms like <a href=\"https://aws.amazon.com/\">Amazon Web Services</a> and <a href=\"https://cloud.google.com/\">Google Cloud</a>.</p><p>&quot;As AI models get better at writing code, more and more people are asking the age-old question: where, and how, do I run my applications?&quot; said Jake Cooper, Railway&#x27;s 28-year-old founder and chief executive, in an exclusive interview with VentureBeat. &quot;The last generation of cloud primitives were slow and outdated, and now with AI moving everything faster, teams simply can&#x27;t keep up.&quot;</p><p>The funding is a dramatic acceleration for a company that has charted an unconventional path through the cloud computing industry. Railway raised just $24 million in total before this round, including a <a href=\"https://techcrunch.com/2022/05/31/railway-snags-20m-to-streamline-the-process-of-deploying-apps-and-services/\">$20 million Series A</a> from Redpoint in 2022. The company now processes more than 10 million deployments monthly and handles over one trillion requests through its edge network — metrics that rival far larger and better-funded competitors.</p><h2><b>Why three-minute deploy times have become unacceptable in the age of AI coding assistants</b></h2><p>Railway&#x27;s pitch rests on a simple observation: the tools developers use to deploy and manage software were designed for a slower era. A standard build-and-deploy cycle using <a href=\"https://station.railway.com/feedback/terraform-provider-954567d7\">Terraform</a>, the industry-standard infrastructure tool, takes two to three minutes. That delay, once tolerable, has become a critical bottleneck as AI coding assistants like <a href=\"https://claude.ai/login\">Claude</a>, <a href=\"https://chatgpt.com/\">ChatGPT</a>, and <a href=\"https://cursor.com/\">Cursor</a> can generate working code in seconds.</p><p>&quot;When godly intelligence is on tap and can solve any problem in three seconds, those amalgamations of systems become bottlenecks,&quot; Cooper told VentureBeat. &quot;What was really cool for humans to deploy in 10 seconds or less is now table stakes for agents.&quot;</p><p>The company claims its platform delivers deployments in under one second — fast enough to keep pace with AI-generated code. Customers report a tenfold increase in developer velocity and up to 65 percent cost savings compared to traditional cloud providers.</p><p>These numbers come directly from enterprise clients, not internal benchmarks. Daniel Lobaton, chief technology officer at G2X, a platform serving 100,000 federal contractors, measured deployment speed improvements of seven times faster and an 87 percent cost reduction after migrating to Railway. His infrastructure bill dropped from $15,000 per month to approximately $1,000.</p><p>&quot;The work that used to take me a week on our previous infrastructure, I can do in Railway in like a day,&quot; Lobaton said. &quot;If I want to spin up a new service and test different architectures, it would take so long on our old setup. In Railway I can launch six services in two minutes.&quot;</p><h2><b>Inside the controversial decision to abandon Google Cloud and build data centers from scratch</b></h2><p>What distinguishes <a href=\"https://railway.com/\">Railway</a> from competitors like <a href=\"https://render.com/\">Render</a> and <a href=\"http://fly.io\">Fly.io</a> is the depth of its vertical integration. In 2024, the company made the unusual decision to abandon Google Cloud entirely and build its own data centers, a move that echoes the famous Alan Kay maxim: &quot;People who are really serious about software should make their own hardware.&quot;</p><p>&quot;We wanted to design hardware in a way where we could build a differentiated experience,&quot; Cooper said. &quot;Having full control over the network, compute, and storage layers lets us do really fast build and deploy loops, the kind that allows us to move at &#x27;agentic speed&#x27; while staying 100 percent the smoothest ride in town.&quot;</p><p>The approach paid dividends during recent <a href=\"https://restofworld.org/2026/cloud-outages-2025-global-business-impact/\">widespread outages</a> that affected major cloud providers — Railway remained online throughout.</p><p>This soup-to-nuts control enables pricing that undercuts the hyperscalers by roughly 50 percent and newer cloud startups by three to four times. Railway charges by the second for actual compute usage: $0.00000386 per gigabyte-second of memory, $0.00000772 per vCPU-second, and $0.00000006 per gigabyte-second of storage. There are no charges for idle virtual machines — a stark contrast to the traditional cloud model where customers pay for provisioned capacity whether they use it or not.</p><p>&quot;The conventional wisdom is that the big guys have economies of scale to offer better pricing,&quot; Cooper noted. &quot;But when they&#x27;re charging for VMs that usually sit idle in the cloud, and we&#x27;ve purpose-built everything to fit much more density on these machines, you have a big opportunity.&quot;</p><h2><b>How 30 employees built a platform generating tens of millions in annual revenue</b></h2><p><a href=\"https://railway.com/\">Railway</a> has achieved its scale with a team of just 30 employees generating tens of millions in annual revenue — a ratio of revenue per employee that would be exceptional even for established software companies. The company grew revenue 3.5 times last year and continues to expand at 15 percent month-over-month.</p><p>Cooper emphasized that the fundraise was strategic rather than necessary. &quot;We&#x27;re default alive; there&#x27;s no reason for us to raise money,&quot; he said. &quot;We raised because we see a massive opportunity to accelerate, not because we needed to survive.&quot;</p><p>The company hired its first salesperson only last year and employs just two solutions engineers. Nearly all of Railway&#x27;s two million users discovered the platform through word of mouth — developers telling other developers about a tool that actually works.</p><p>&quot;We basically did the standard engineering thing: if you build it, they will come,&quot; Cooper recalled. &quot;And to some degree, they came.&quot;</p><h2><b>From side projects to Fortune 500 deployments: Railway&#x27;s unlikely corporate expansion</b></h2><p>Despite its grassroots developer community, Railway has made significant inroads into large organizations. The company claims that 31 percent of Fortune 500 companies now use its platform, though deployments range from company-wide infrastructure to individual team projects.</p><p>Notable customers include <a href=\"https://www.biltrewards.com/\">Bilt</a>, the loyalty program company; Intuit&#x27;s <a href=\"https://www.goco.io/\">GoCo</a> subsidiary; TripAdvisor&#x27;s <a href=\"https://www.cruisecritic.com/\">Cruise Critic</a>; and <a href=\"https://www.mgmresorts.com/en.html\">MGM Resorts</a>. <a href=\"https://www.ycombinator.com/companies/kernel\">Kernel</a>, a Y Combinator-backed startup providing AI infrastructure to over 1,000 companies, runs its entire customer-facing system on Railway for $444 per month.</p><p>&quot;At my previous company Clever, which sold for $500 million, I had six full-time engineers just managing AWS,&quot; said Rafael Garcia, Kernel&#x27;s chief technology officer. &quot;Now I have six engineers total, and they all focus on product. Railway is exactly the tool I wish I had in 2012.&quot;</p><p>For enterprise customers, <a href=\"https://railway.com/\">Railway</a> offers security certifications including SOC 2 Type 2 compliance and HIPAA readiness, with business associate agreements available upon request. The platform provides single sign-on authentication, comprehensive audit logs, and the option to deploy within a customer&#x27;s existing cloud environment through a &quot;bring your own cloud&quot; configuration.</p><p>Enterprise pricing starts at custom levels, with specific add-ons for extended log retention ($200 monthly), HIPAA BAAs ($1,000), enterprise support with SLOs ($2,000), and dedicated virtual machines ($10,000).</p><h2><b>The startup&#x27;s bold strategy to take on Amazon, Google, and a new generation of cloud rivals</b></h2><p>Railway enters a crowded market that includes not only the hyperscale cloud providers—Amazon Web Services, Microsoft Azure, and Google Cloud Platform—but also a growing cohort of developer-focused platforms like Vercel, Render, Fly.io, and Heroku.</p><p>Cooper argues that Railway&#x27;s competitors fall into two camps, neither of which has fully committed to the new infrastructure model that AI demands.</p><p>&quot;The hyperscalers have two competing systems, and they haven&#x27;t gone all-in on the new model because their legacy revenue stream is still printing money,&quot; he observed. &quot;They have this mammoth pool of cash coming from people who provision a VM, use maybe 10 percent of it, and still pay for the whole thing. To what end are they actually interested in going all the way in on a new experience if they don&#x27;t really need to?&quot;</p><p>Against startup competitors, Railway differentiates by covering the full infrastructure stack. &quot;We&#x27;re not just containers; we&#x27;ve got VM primitives, stateful storage, virtual private networking, automated load balancing,&quot; Cooper said. &quot;And we wrap all of this in an absurdly easy-to-use UI, with agentic primitives so agents can move 1,000 times faster.&quot;</p><p>The platform supports databases including PostgreSQL, MySQL, MongoDB, and Redis; provides up to 256 terabytes of persistent storage with over 100,000 input/output operations per second; and enables deployment to four global regions spanning the United States, Europe, and Southeast Asia. Enterprise customers can scale to 112 vCPUs and 2 terabytes of RAM per service.</p><h2><b>Why investors are betting that AI will create a thousand times more software than exists today</b></h2><p>Railway&#x27;s fundraise reflects broader investor enthusiasm for companies positioned to benefit from the AI coding revolution. As tools like <a href=\"https://github.com/features/copilot\">GitHub Copilot</a>, <a href=\"https://cursor.com/agents\">Cursor</a>, and <a href=\"https://claude.ai/login\">Claude</a> become standard fixtures in developer workflows, the volume of code being written — and the infrastructure needed to run it — is expanding dramatically.</p><p>&quot;The amount of software that&#x27;s going to come online over the next five years is unfathomable compared to what existed before — we&#x27;re talking a thousand times more software,&quot; Cooper predicted. &quot;All of that has to run somewhere.&quot;</p><p>The company has already integrated directly with AI systems, building what Cooper calls &quot;loops where Claude can hook in, call deployments, and analyze infrastructure automatically.&quot; Railway released a Model Context Protocol server in August 2025 that allows AI coding agents to deploy applications and manage infrastructure directly from code editors.</p><p>&quot;The notion of a developer is melting before our eyes,&quot; Cooper said. &quot;You don&#x27;t have to be an engineer to engineer things anymore — you just need critical thinking and the ability to analyze things in a systems capacity.&quot;</p><h2><b>What Railway plans to do with $100 million and zero marketing experience</b></h2><p><a href=\"https://railway.com/\">Railway</a> plans to use the new capital to expand its global data center footprint, grow its team beyond 30 employees, and build what Cooper described as a proper go-to-market operation for the first time in the company&#x27;s five-year history.</p><p>&quot;One of my mentors said you raise money when you can change the trajectory of the business,&quot; Cooper explained. &quot;We&#x27;ve built all the required substrate to scale indefinitely; what&#x27;s been holding us back is simply talking about it. 2026 is the year we play on the world stage.&quot;</p><p>The company&#x27;s investor roster reads like a who&#x27;s who of developer infrastructure. Angel investors include <a href=\"https://tom.preston-werner.com/\">Tom Preston-Werner,</a> co-founder of GitHub; <a href=\"https://rauchg.com/about\">Guillermo Rauch</a>, chief executive of Vercel; <a href=\"https://www.cockroachlabs.com/author/spencer-kimball/\">Spencer Kimball</a>, chief executive of Cockroach Labs; <a href=\"https://www.datadoghq.com/about/leadership/\">Olivier Pomel</a>, chief executive of Datadog; and <a href=\"https://sequoiacap.com/founder/jori-lallo/\">Jori Lallo</a>, co-founder of Linear.</p><p>The timing of Railway&#x27;s expansion coincides with what many in Silicon Valley view as a fundamental shift in how software gets made. Coding assistants are no longer experimental curiosities — they have become essential tools that millions of developers rely on daily. Each line of AI-generated code needs somewhere to run, and the incumbents, by Cooper&#x27;s telling, are too wedded to their existing business models to fully capitalize on the moment.</p><p>Whether <a href=\"https://railway.com/\">Railway</a> can translate developer enthusiasm into sustained enterprise adoption remains an open question. The cloud infrastructure market is littered with promising startups that failed to break the grip of Amazon, Microsoft, and Google. But Cooper, who previously worked as a software engineer at <a href=\"https://www.wolframalpha.com/\">Wolfram Alpha</a>, <a href=\"https://www.bloomberg.com/\">Bloomberg</a>, and <a href=\"https://www.uber.com/\">Uber</a> before founding Railway in 2020, seems unfazed by the scale of his ambition.</p><p>&quot;In five years, Railway [will be] the place where software gets created and evolved, period,&quot; he said. &quot;Deploy instantly, scale infinitely, with zero friction. That&#x27;s the prize worth playing for, and there&#x27;s no bigger one on offer.&quot;</p><p>For a company that built a $100 million business by doing the opposite of what conventional startup wisdom dictates — no marketing, no sales team, no venture hype—the real test begins now. Railway spent five years proving that developers would find a better mousetrap on their own. The next five will determine whether the rest of the world is ready to get on board.</p>"
   },
   {
+    "id": "28429de772d3a99f",
+    "title": "China delivers a one-two punch to America’s AI dominance",
+    "source": "The Verge AI",
+    "publication_date": "2026-07-20T06:16:33-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+    "article_text": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming [&#8230;]"
+  },
+  {
     "id": "c8c3ec20e26996aa",
     "title": "I hate that I don’t hate this song made with Suno",
     "source": "The Verge AI",
@@ -990,14 +998,6 @@
     "publication_date": "2026-07-16T08:06:51-04:00",
     "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
     "article_text": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have [&#8230;]"
-  },
-  {
-    "id": "508bcec38cc5ad68",
-    "title": "Computer cops",
-    "source": "The Verge AI",
-    "publication_date": "2026-07-16T07:00:00-04:00",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
-    "article_text": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told me [&#8230;]"
   },
   {
     "id": "993de2c70a2af8af",
@@ -1320,395 +1320,403 @@
     "article_text": "arXiv:2607.15524v1 Announce Type: new \nAbstract: Under model--harness co-evolution, harnesses are not merely inference-time scaffolds but data-generating components whose execution traces can shape future foundation models. This motivates harness-in-the-loop learning: optimizing harnesses for both immediate agent performance and the quality of traces used for future model training. However, continually updating provider-built scaffolds is costly and labor-intensive. We therefore investigate whether optimizing user-constructed harnesses in a task-specific manner can improve execution-trace quality while remaining computationally lightweight and requiring only a few update iterations. To this end, we introduce Recursive Harness Self-Improvement (RHI), which represents the harness as a prompt-level specification of the agent loop and iteratively refines it using pairwise feedback over its own revision history. Across 30 synthetic machine-learning research tasks spanning quantitative finance, robotics, and pharmacy, a few RHI iterations suffice to substantially raise the performance ceiling of low-reasoning-effort agents, exceeding the corresponding maximum-reasoning-effort setting while reducing inference cost by up to 60%. We show that these gains arise primarily from improved task-specific context management through more effective inter-agent information flow rather than longer reasoning traces. Finally, we formalize this behavior as an information-theoretic hypothesis for RHI's implicit optimization objective, suggesting RHI as a practical algorithm for continual learning within the paradigm of model--harness co-evolution."
   },
   {
-    "id": "46beecf2055968bc",
-    "title": "nabla-cli 0.8.0",
+    "id": "a5c507c218f9076a",
+    "title": "fabri 0.16.4",
     "source": "Pypi.org",
-    "publication_date": "2026-07-19T04:09:51Z",
-    "url": "https://pypi.org/project/nabla-cli/0.8.0/",
+    "publication_date": "2026-07-19T14:37:29Z",
+    "url": "https://pypi.org/project/fabri/0.16.4/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "029c6c3418f064f5",
-    "title": "compshare-cli 0.3.3",
+    "id": "7d9d9730729cf075",
+    "title": "NVIDIA RTX Spark Gets First Developer Drivers as Native Windows on Arm Support Arrives Ahead of Fall Launch",
+    "source": "Wccftech",
+    "publication_date": "2026-07-19T14:35:11Z",
+    "url": "https://wccftech.com/nvidia-rtx-spark-first-driver-ahead-of-launch-native-windows-on-arm-support/",
+    "article_text": "NVIDIA's RTX Spark launches this fall, and the company has released the first preview of its native Windows on Arm drivers as a preview release.\r\nNVIDIA's RTX Spark superchip for AI PCs is rolling ou… [+3753 chars]"
+  },
+  {
+    "id": "eec07ce311f81fc1",
+    "title": "(VIDEO) iPhone 18 Pro Leaks Reveal Dark Cherry Color, Bigger Battery and A20 Pro Chip Ahead of Launch",
+    "source": "Ibtimes.com.au",
+    "publication_date": "2026-07-19T14:34:31Z",
+    "url": "https://www.ibtimes.com.au/iphone-18-pro-leaks-dark-cherry-battery-camera-upgrades-1872599",
+    "article_text": "Fresh leaks surrounding Apple's next-generation iPhone 18 Pro have offered an early look at what the company's flagship device could bring when it debuts later this year, pointing to a new signature … [+6561 chars]"
+  },
+  {
+    "id": "51febda3deb24623",
+    "title": "Think QQQ Is Concentrated? This Nasdaq ETF Bets Even Harder on Big Tech (And It’s Winning)",
+    "source": "24/7 Wall St.",
+    "publication_date": "2026-07-19T14:32:37Z",
+    "url": "https://247wallst.com/investing/etf/2026/07/19/think-qqq-is-concentrated-this-nasdaq-etf-bets-even-harder-on-big-tech-and-its-winning/",
+    "article_text": "Quick Read\r\n<ul><li>QTOP beat QQQ over the past year by three points (30% versus 27%) by stripping out the bottom 70 Nasdaq-100 names that dragged the broader index lower.\r\n</li><li>Alphabet surged 9… [+5290 chars]"
+  },
+  {
+    "id": "53b2c3c35600a332",
+    "title": "esperanto 2.25.1",
     "source": "Pypi.org",
-    "publication_date": "2026-07-19T04:07:59Z",
-    "url": "https://pypi.org/project/compshare-cli/0.3.3/",
+    "publication_date": "2026-07-19T14:31:50Z",
+    "url": "https://pypi.org/project/esperanto/2.25.1/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "3023e78f8ac05578",
-    "title": "Waze rolls out Motorcycle Mode, Philippines among first markets to get it",
-    "source": "Yugatech.com",
-    "publication_date": "2026-07-19T03:58:29Z",
-    "url": "https://www.yugatech.com/news/waze-motorcycle-mode-philippines/",
-    "article_text": "TL;DR: Waze has announced a new Motorcycle Mode designed specifically for riders, with the Philippines included among the first countries to receive the feature.\r\n<ul><li>Waze has announced a new Mot… [+3068 chars]"
-  },
-  {
-    "id": "72af10a0f28aa407",
-    "title": "Exclusive: Next-gen Snapdragon 4-series data sheet reveals a new Adreno GPU and TSMC 4 nm process",
-    "source": "Notebookcheck.net",
-    "publication_date": "2026-07-19T03:56:00Z",
-    "url": "https://www.notebookcheck.net/Exclusive-Next-gen-Snapdragon-4-series-data-sheet-reveals-a-new-Adreno-GPU-and-TSMC-4-nm-process.1346519.0.html",
-    "article_text": "A confidential Qualcomm data sheet obtained by NotebookCheck details the SM4875, codenamed Poros, an unreleased Snapdragon chip that appears to succeed the Snapdragon 4 Gen 5 (SM4850, codenamed Aldab… [+2332 chars]"
-  },
-  {
-    "id": "edf2e689ee39cac4",
-    "title": "Exclusive: Snapdragon 4 Gen 6 data sheet reveals a new Adreno GPU and TSMC 4 nm process",
-    "source": "Notebookcheck.net",
-    "publication_date": "2026-07-19T03:56:00Z",
-    "url": "https://www.notebookcheck.net/Exclusive-Snapdragon-4-Gen-6-data-sheet-reveals-a-new-Adreno-GPU-and-TSMC-4-nm-process.1346519.0.html",
-    "article_text": "Snapdragon 4 Gen 6 (AI Generated)\r\nA leaked Qualcomm data sheet details the unreleased SM4875 Poros, a next-generation Snapdragon 4-series chip, tentatively named 4 Gen 6, featuring an Adreno 6-serie… [+2789 chars]"
-  },
-  {
-    "id": "b9efa19953ce131d",
-    "title": "punt-vox 4.12.4",
+    "id": "ac5cf363aadd5f7d",
+    "title": "flatask 0.1.0",
     "source": "Pypi.org",
-    "publication_date": "2026-07-19T03:52:41Z",
-    "url": "https://pypi.org/project/punt-vox/4.12.4/",
+    "publication_date": "2026-07-19T14:31:46Z",
+    "url": "https://pypi.org/project/flatask/0.1.0/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "e200337f03a53754",
-    "title": "nabla-cli 0.7.2",
+    "id": "7af7c19edf11170a",
+    "title": "flatask added to PyPI",
     "source": "Pypi.org",
-    "publication_date": "2026-07-19T03:50:54Z",
-    "url": "https://pypi.org/project/nabla-cli/0.7.2/",
+    "publication_date": "2026-07-19T14:31:41Z",
+    "url": "https://pypi.org/project/flatask/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "9b35e971e74a2f55",
-    "title": "cigate 0.2.0",
+    "id": "2c7f0072ac5cd904",
+    "title": "pagent 0.7.10",
     "source": "Pypi.org",
-    "publication_date": "2026-07-19T03:46:49Z",
-    "url": "https://pypi.org/project/cigate/0.2.0/",
+    "publication_date": "2026-07-19T14:29:43Z",
+    "url": "https://pypi.org/project/pagent/0.7.10/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "da8332c819baa3ab",
-    "title": "litellm 1.92.1",
+    "id": "3e7a839de911cfc1",
+    "title": "arian added to PyPI",
     "source": "Pypi.org",
-    "publication_date": "2026-07-19T03:44:00Z",
-    "url": "https://pypi.org/project/litellm/1.92.1/",
+    "publication_date": "2026-07-19T14:28:50Z",
+    "url": "https://pypi.org/project/arian/",
+    "article_text": "Build optimized LLM-ready context from source code repositories. Arian scans a codebase, classifies files by architectural role, analyzes supported languages, applies token-aware compression strategi… [+3803 chars]"
+  },
+  {
+    "id": "3b24452c6b07e23d",
+    "title": "arian 0.5.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-19T14:28:50Z",
+    "url": "https://pypi.org/project/arian/0.5.0/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "f97d1402a99e41a2",
-    "title": "annapurna-meter 0.3.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T03:40:42Z",
-    "url": "https://pypi.org/project/annapurna-meter/0.3.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "id": "57aa8c4b9657c922",
+    "title": "Show HN: Self-serve confidential GPU compute",
+    "source": "Enclave.host",
+    "publication_date": "2026-07-19T14:26:51Z",
+    "url": "https://enclave.host/",
+    "article_text": "<li>01Hardware root of trust\r\nThe CPU (AMD SEV-SNP on today's fleet) and the NVIDIA GPU hold keys fused at manufacture. Enclave can't extract or forge them. The silicon vendor (AMD or NVIDIA, Intel o… [+1507 chars]"
   },
   {
-    "id": "c471eef2339aee44",
-    "title": "polygate 0.1.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T03:40:33Z",
-    "url": "https://pypi.org/project/polygate/0.1.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "id": "5eb9543348129b38",
+    "title": "The labor market has not yet recovered from the war",
+    "source": "The Jerusalem Post",
+    "publication_date": "2026-07-19T14:23:48Z",
+    "url": "https://www.jpost.com/business-and-innovation/all-news/article-902984",
+    "article_text": "The Israeli labor market is showing a steady recovery from the impact of the fighting, but the latest data make it clear that a full return to prewar levels remains a distant goal. Figures released t… [+4010 chars]"
   },
   {
-    "id": "9e065593dd18513d",
-    "title": "polygate added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T03:40:33Z",
-    "url": "https://pypi.org/project/polygate/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "1b0df3d6a5656606",
-    "title": "Show HN: Synapse – local codebase indexer and MCP server for Claude Code",
-    "source": "Github.com",
-    "publication_date": "2026-07-19T03:35:20Z",
-    "url": "https://github.com/nrkoka786/synapse",
-    "article_text": "Synapse\r\nGive Claude instant knowledge of your codebase local, private, no cloud.\r\nYou open Claude Code and ask: \"Add retry logic to my API client.\"\r\nWithout Synapse: Claude asks what your stack is. … [+5211 chars]"
-  },
-  {
-    "id": "f7f228f614b676c9",
-    "title": "Apple surpasses Nvidia as most valuable company amid AI market shift",
-    "source": "Crypto Briefing",
-    "publication_date": "2026-07-19T03:34:02Z",
-    "url": "https://cryptobriefing.com/apple-surpasses-nvidia-as-most-valuable-company-amid-ai-market-shift/",
-    "article_text": "Apple has overtaken Nvidia as the most valuable publicly traded company, reflecting a shift in investor preference toward consumer-facing AI companies. Apple achieved a market capitalization of $4.88… [+1503 chars]"
-  },
-  {
-    "id": "96ee7da3877c144c",
-    "title": "'Dr. Doom' Nouriel Roubini says we're headed for universal basic income or 'some form of socialism' as AI revolutionizes work—He calls that optimistic",
-    "source": "Biztoc.com",
-    "publication_date": "2026-07-19T03:32:45Z",
-    "url": "https://biztoc.com/x/96d45300ef3b9512",
-    "article_text": "Top economist Nouriel Roubini, who was among the first to predict the 2008 financial crash, earned the nickname Dr. Doom for his stark warnings, though he has been more upbeat lately.And when it come… [+149 chars]"
-  },
-  {
-    "id": "3b2a86a9e3c0749a",
-    "title": "langchain-serpdive added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T03:32:42Z",
-    "url": "https://pypi.org/project/langchain-serpdive/",
-    "article_text": "The official LangChain integration for SERPdive, the AI Search API: your agent asks a question, the tool returns answer-ready web content that is extracted, cleaned, and sized for an LLM. On a public… [+1523 chars]"
-  },
-  {
-    "id": "8486e58fa89dcf89",
-    "title": "praval 0.8.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T03:27:08Z",
-    "url": "https://pypi.org/project/praval/0.8.1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "ebc55087600f2c41",
-    "title": "The 1 AI Chip Stock I'd Buy Hand Over Fist in This Sell-Off -- and It Isn't Nvidia",
-    "source": "Biztoc.com",
-    "publication_date": "2026-07-19T03:18:58Z",
-    "url": "https://biztoc.com/x/263e13fbd674edb9",
-    "article_text": "The AI chip trade has cracked this month. Micron Technology has dropped about 32% in three weeks. Broadcom sits roughly 24% below its 52-week high. Even Nvidia (NASDAQ: NVDA), which has held up bette… [+146 chars]"
-  },
-  {
-    "id": "673291b0c14aa0b8",
-    "title": "Kimi K3 writes H100 CUDA kernel 14.82x faster than PyTorch, intensifying US-China AI race",
-    "source": "Crypto Briefing",
-    "publication_date": "2026-07-19T03:17:47Z",
-    "url": "https://cryptobriefing.com/kimi-k3-cuda-kernel-faster-pytorch/",
-    "article_text": "Moonshot AI's 2.8-trillion-parameter open-weight model is challenging the best American labs at GPU kernel optimization, and it's doing it at a fraction of the cost. A Chinese AI startup just dropped… [+1531 chars]"
-  },
-  {
-    "id": "39f4f37ce47f33ce",
-    "title": "nabla-cli 0.7.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T03:04:28Z",
-    "url": "https://pypi.org/project/nabla-cli/0.7.1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "8f332ae45cfc2ba2",
-    "title": "The Cult Of LLMs",
-    "source": "Freethoughtblogs.com",
-    "publication_date": "2026-07-19T03:01:00Z",
-    "url": "https://freethoughtblogs.com/reprobate/2026/07/18/the-cult-of-llms/",
-    "article_text": "There’s a line in Minority Report that’s stuck with me. After looking over the crime scene, the detective character turns to another cop. “This is what we’d call an orgy of evidence. Know how many or… [+13654 chars]"
-  },
-  {
-    "id": "07f5a8b759bc3db1",
-    "title": "nabla-cli 0.7.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T02:57:45Z",
-    "url": "https://pypi.org/project/nabla-cli/0.7.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "6bf9f86a23e2c6c7",
-    "title": "gpuops added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T02:52:27Z",
-    "url": "https://pypi.org/project/gpuops/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "4d4047e36eadcfac",
-    "title": "gpuops 0.1.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T02:52:27Z",
-    "url": "https://pypi.org/project/gpuops/0.1.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "72fa153e1f13511c",
-    "title": "India's IT model is out of date. Can the industry reinvent itself?",
+    "id": "bb442f5fbda7d748",
+    "title": "Who is Uday Ruddarraju? Indian-origin techie who left Elon Musk’s xAI to power OpenAI’s next big push",
     "source": "The Times of India",
-    "publication_date": "2026-07-19T02:45:13Z",
-    "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indias-it-model-is-out-of-date-can-the-industry-reinvent-itself/articleshow/132489178.cms",
-    "article_text": "For decades it seemed Indian IT could only grow. The Y2K bug turbocharged their initial expansion in the late 1990s, and though later waves of changing technologies brought down other companies (reme… [+10140 chars]"
+    "publication_date": "2026-07-19T14:19:06Z",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/who-is-uday-ruddarraju-indian-origin-techie-who-left-elon-musks-xai-to-power-openais-next-big-push/articleshow/132495898.cms",
+    "article_text": "OpenAI has elevated Indian-origin technology executive Uday Ruddarraju to the role of Chief Technology Officer (CTO) of Compute, marking a significant rise for the infrastructure specialist roughly a… [+5561 chars]"
   },
   {
-    "id": "610dc37a6ca0e1b7",
-    "title": "swm-gpu 0.2.8",
+    "id": "68b3337515a10cc2",
+    "title": "campaign-rpg-engine 1.5.1",
     "source": "Pypi.org",
-    "publication_date": "2026-07-19T02:32:32Z",
-    "url": "https://pypi.org/project/swm-gpu/0.2.8/",
+    "publication_date": "2026-07-19T14:16:52Z",
+    "url": "https://pypi.org/project/campaign-rpg-engine/1.5.1/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "bbda21bb6bfebac4",
-    "title": "codex-pal 0.1.6",
+    "id": "e875fb1d2aca4489",
+    "title": "llmlint-cli 0.3.23",
     "source": "Pypi.org",
-    "publication_date": "2026-07-19T02:30:19Z",
-    "url": "https://pypi.org/project/codex-pal/0.1.6/",
+    "publication_date": "2026-07-19T14:16:20Z",
+    "url": "https://pypi.org/project/llmlint-cli/0.3.23/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "12dbe040477f2206",
-    "title": "This Cheap Accessory Can Protect Your Nvidia GPU From Serious Damage",
-    "source": "BGR",
-    "publication_date": "2026-07-19T02:17:00Z",
-    "url": "https://www.bgr.com/2215269/nvidia-gpu-cheap-amazon-accessory-protect-from-damage/",
-    "article_text": "Medium-sized cards and even some heavier models are already designed to combat sagging naturally. The card makers calculate and evenly distribute the weight across the card frame to improve support. … [+1422 chars]"
+    "id": "2568593d6a6b14b6",
+    "title": "US semiconductor ETFs attract record $46B in inflows in 2026",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-07-19T14:14:14Z",
+    "url": "https://cryptobriefing.com/us-semiconductor-etfs-record-inflows-2026/",
+    "article_text": "Chip funds have quadrupled in size as AI spending pulls capital away from crypto and into silicon Investors have poured over $46 billion into US semiconductor ETFs in 2026, shattering every previous … [+2701 chars]"
   },
   {
-    "id": "e384598e788bc70c",
-    "title": "webfetch-llm 0.1.2",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T02:16:19Z",
-    "url": "https://pypi.org/project/webfetch-llm/0.1.2/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "id": "3336617e6df3624f",
+    "title": "5 Uranium ETFs to Buy Before Nuclear Demand Triples by 2050",
+    "source": "24/7 Wall St.",
+    "publication_date": "2026-07-19T14:11:37Z",
+    "url": "https://247wallst.com/investing/2026/07/19/5-uranium-etfs-to-buy-before-nuclear-demand-triples-by-2050/",
+    "article_text": "Quick Read\r\n<ul><li>URA dilutes uranium price beta with utility exposure, while URNM concentrates 47% of assets in three positions for a direct commodity call.\r\n</li><li>Global uranium mine supply co… [+7131 chars]"
   },
   {
-    "id": "2c6944917fabb481",
-    "title": "nousergon-lib 0.124.7",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T02:16:16Z",
-    "url": "https://pypi.org/project/nousergon-lib/0.124.7/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "e4398a08f19fa77e",
-    "title": "litellm 1.90.6",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T02:14:14Z",
-    "url": "https://pypi.org/project/litellm/1.90.6/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "ea6719563f256c7c",
-    "title": "dslint added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T02:05:36Z",
-    "url": "https://pypi.org/project/dslint/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "5cb85d99f039531c",
-    "title": "mcpwright added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T02:05:11Z",
-    "url": "https://pypi.org/project/mcpwright/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "3dbcda8fcd90eb57",
-    "title": "mcpwright 0.1.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T02:05:11Z",
-    "url": "https://pypi.org/project/mcpwright/0.1.1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "028c8126d6a1aa6c",
-    "title": "How to Address Bias in AI Marketing Tools: Proven Approaches | Hyper-Advertiser Blog",
-    "source": "Hyper-advertiser.com",
-    "publication_date": "2026-07-19T02:04:20Z",
-    "url": "https://hyper-advertiser.com/blog/how-to-address-bias-in-ai-marketing-tools-proven-approaches/",
-    "article_text": "Exploring Bias in AI Marketing Tools: A Comprehensive Overview\r\nDefining Bias and Its Varieties\r\nBias in AI marketing tools signifies systematic inaccuracies that result in unfair outcomes during tar… [+32036 chars]"
-  },
-  {
-    "id": "5bccaa7aec9d6352",
-    "title": "How to spot AI images: A fact-checker's guide",
-    "source": "Snopes.com",
-    "publication_date": "2026-07-19T02:00:00Z",
-    "url": "https://www.snopes.com//articles/471427/spot-ai-images-guide/",
-    "article_text": "People have lied on the internet for as long as it has existed. That's why Snopes has been around for so many years. \r\nThe rise of generative artificial intelligence tools in recent years has meant w… [+15941 chars]"
-  },
-  {
-    "id": "7691e3a4afb58255",
-    "title": "codex-pal 0.1.5",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T01:47:25Z",
-    "url": "https://pypi.org/project/codex-pal/0.1.5/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "bf5016488186b55a",
-    "title": "Mark Zuckerberg's Meta and Other Hyperscalers Face a Major Bottleneck. Here Are 2 Industrial Stocks That Will Benefit",
+    "id": "90dfa73ab4c42bc7",
+    "title": "Apple Intelligence Just Got the Green Light in China. What That Means for AAPL Stock",
     "source": "Biztoc.com",
-    "publication_date": "2026-07-19T01:47:07Z",
-    "url": "https://biztoc.com/x/cbdea39a1038cca6",
-    "article_text": "Mark Zuckerberg's Meta and Other Hyperscalers Face a Major Bottleneck. Here Are 2 Industrial Stocks That Will BenefitIn October 2025, Mark Zuckerberg's Meta (NASDAQ: META) announced plans to build a … [+151 chars]"
+    "publication_date": "2026-07-19T14:10:51Z",
+    "url": "https://biztoc.com/x/d7d2fae96575b639",
+    "article_text": "has cleared one of the biggest obstacles to its artificial intelligence (AI) strategy. After months of regulatory delays, Chinas cyberspace regulator has approved Apple Intelligence for launch in the… [+140 chars]"
   },
   {
-    "id": "20d992952d534647",
-    "title": "wyoming-openai-gateway 0.2.1",
+    "id": "bfd37040504192c6",
+    "title": "Why Worried Investors Should Buy Apple Over Amazon for the Rest of 2026",
+    "source": "24/7 Wall St.",
+    "publication_date": "2026-07-19T14:10:48Z",
+    "url": "https://247wallst.com/investing/2026/07/19/why-worried-investors-should-buy-apple-over-amazon-for-the-rest-of-2026/",
+    "article_text": "Quick Read\r\n<ul><li>Apple's 32% operating margin, $100B buyback, and eight straight EPS beats make AAPL the stronger defensive pick over AMZN heading into December 2026.\r\n</li><li>Amazon's free cash … [+3627 chars]"
+  },
+  {
+    "id": "9b8601623ce377c1",
+    "title": "Crowded AI Trades Trigger Losses for Hedge Funds as Volatility Hits Market Leaders",
+    "source": "Advfn.com",
+    "publication_date": "2026-07-19T14:10:00Z",
+    "url": "https://investorshub.advfn.com/market-news/article/32101/crowded-ai-trades-trigger-losses-for-hedge-funds-as-volatility-hits-market-leaders",
+    "article_text": "Artificial intelligence in hand ©Shutterstock\r\nSeveral hedge funds have recorded their weakest trading performance in nearly a year after being caught in heavily crowded artificial intelligence (AI) … [+2069 chars]"
+  },
+  {
+    "id": "ace8c7e9c4eec1b1",
+    "title": "Apple’s trade secrets lawsuit against OpenAI deliberately leaves out designer Jony Ive",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-07-19T14:08:39Z",
+    "url": "https://cryptobriefing.com/apple-lawsuit-openai-omits-jony-ive/",
+    "article_text": "The $6.5 billion question: why did Apple spare its former design chief while targeting OpenAI and two ex-employees over alleged poaching of 400+ staff? Apple just filed a trade secrets lawsuit agains… [+3051 chars]"
+  },
+  {
+    "id": "0e93aa9613813f2d",
+    "title": " Estupiñán-Milan latest, Juve eye 2️⃣ keepers and Meret  Napoli? ",
+    "source": "Onefootball.com",
+    "publication_date": "2026-07-19T14:08:00Z",
+    "url": "https://onefootball.com/en/news/estupinan-milan-latest-juve-eye-2-keepers-and-meret-napoli-43158748",
+    "article_text": "There are only a few hours left until the World Cup final between Spain and Argentina after last nights third-place playoff between France and England delivered plenty of entertainment. But the eyes … [+5551 chars]"
+  },
+  {
+    "id": "41aaa01c58eea2ed",
+    "title": "Current AI wants to build a free World Wide Web for artificial intelligence, and it has $400 million to start",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-07-19T14:06:11Z",
+    "url": "https://cryptobriefing.com/current-ai-free-world-wide-web/",
+    "article_text": "The non-profit backed by Google, Salesforce, and the French government is betting that open-source AI can challenge Big Tech's walled gardens, with potential ripple effects across the decentralized t… [+3455 chars]"
+  },
+  {
+    "id": "c374da01fca6e468",
+    "title": "Argentina’s mentality monster? Spain’s ultimate antidote",
+    "source": "Onefootball.com",
+    "publication_date": "2026-07-19T14:02:00Z",
+    "url": "https://onefootball.com/en/news/argentinas-mentality-monster-spains-ultimate-antidote-43158718",
+    "article_text": "When the World Cup final kicks off today, the football world will be watching the usual suspects. On one side, of course, Lionel Messi, and on the other his designated heir, Lamine Yamal.\r\nBut the re… [+4838 chars]"
+  },
+  {
+    "id": "990fa243b146f3dd",
+    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all | TechCrunch",
+    "source": "TechCrunch",
+    "publication_date": "2026-07-19T14:01:31Z",
+    "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "article_text": "A farmer in rural India takes a photo of a dying plant. She wants to research it on the internet but she doesn’t speak English. She shouldn’t have to.\r\nThat’s the type of problem a nonprofit called C… [+5490 chars]"
+  },
+  {
+    "id": "385a909ced13ee0b",
+    "title": "Fact check: Spotting AI-generated 'historical' images",
+    "source": "DW (English)",
+    "publication_date": "2026-07-19T13:59:00Z",
+    "url": "https://www.dw.com/en/fact-check-spotting-ai-generated-historical-images/a-77969109",
+    "article_text": "In Italy's Pompeii, archaeologists have, for the first time, used artificial intelligence to reconstruct\r\nthe image of a victim of the volcanic eruption in 79 C.E.\r\nAI is increasingly being used to g… [+5509 chars]"
+  },
+  {
+    "id": "52938bb30f18a5cc",
+    "title": "Copilot in Power BI: Your AI Assistant for Faster, Smarter Reports",
+    "source": "C-sharpcorner.com",
+    "publication_date": "2026-07-19T13:57:43Z",
+    "url": "https://www.c-sharpcorner.com/article/copilot-in-power-bi-your-ai-assistant-for-faster-smarter-reports/",
+    "article_text": "Introduction\r\nFor years, getting answers from business data followed the same slow path: someone asks a question, an analyst builds a report, the report gets reviewed, revised, and finally shared, of… [+10249 chars]"
+  },
+  {
+    "id": "fbf3e4d198d1ac60",
+    "title": "loopd added to PyPI",
     "source": "Pypi.org",
-    "publication_date": "2026-07-19T01:46:25Z",
-    "url": "https://pypi.org/project/wyoming-openai-gateway/0.2.1/",
+    "publication_date": "2026-07-19T13:55:59Z",
+    "url": "https://pypi.org/project/loopd/",
+    "article_text": "An autonomous coding loop that only ships changes it can prove. A persistent planner\r\ndirects disposable developer sessions, and every step is verified by deterministic checks\r\noutside the model befo… [+9069 chars]"
+  },
+  {
+    "id": "1e18af8605c75075",
+    "title": "Show HN: Knowledge graph skill for Claude/Kimi Code",
+    "source": "Org-edge.com",
+    "publication_date": "2026-07-19T13:45:01Z",
+    "url": "https://www.org-edge.com/sysedge.html",
+    "article_text": "One defect. Four things the graph caught that code review didn't.\r\nWe cloned Formbricks from GitHub and ran SysEdge against it cold no prior knowledge of the codebase. The defect: DEF-FBK-001 survey … [+4753 chars]"
+  },
+  {
+    "id": "31851d02d7e579c6",
+    "title": "Who's really making money from the AI boom? Follow the cash behind OpenAI, Nvidia & Big Tech",
+    "source": "Livemint",
+    "publication_date": "2026-07-19T13:44:39Z",
+    "url": "https://www.livemint.com/companies/news/whos-really-making-money-from-the-ai-boom-follow-the-cash-behind-openai-nvidia-and-big-tech-11784435410944.html",
+    "article_text": "The AI boom has unleashed an unprecedented wave of spending, with technology companies committing hundreds of billions of dollars to AI infrastructure, data centres, chips, and startups. But amid thi… [+3233 chars]"
+  },
+  {
+    "id": "b5988ef78e787db0",
+    "title": "GMKtec K8 Plus mini PC with 32 GB RAM and 8-core Ryzen 7 APU scores 23% price cut",
+    "source": "Notebookcheck.net",
+    "publication_date": "2026-07-19T13:43:00Z",
+    "url": "https://www.notebookcheck.net/GMKtec-K8-Plus-mini-PC-with-32-GB-RAM-and-8-core-Ryzen-7-APU-scores-23-price-cut.1346672.0.html",
+    "article_text": "Folks on the lookout for a new mini PC will be pleased to note that the GMKtec K8 Plus is now available with a lucrative discount on Amazon, valid only for Prime members. Available for just around $6… [+2248 chars]"
+  },
+  {
+    "id": "a3d7676b93112cf1",
+    "title": "pybinaryguard added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-19T13:42:42Z",
+    "url": "https://pypi.org/project/pybinaryguard/",
+    "article_text": "Binary Compatibility Intelligence for PythonDetect incompatibilities before they crash your program.\r\nQuick StartWhy?FeaturesCLIPython APIAgent SDKArchitecture\r\nOrigin Story\r\nBack in college, I was w… [+23843 chars]"
+  },
+  {
+    "id": "3d63a36750aadaef",
+    "title": "bingo-ai 6.2.214",
+    "source": "Pypi.org",
+    "publication_date": "2026-07-19T13:40:53Z",
+    "url": "https://pypi.org/project/bingo-ai/6.2.214/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "4c016525964beed9",
-    "title": "anycode-py 0.8.2",
+    "id": "53d8aa0dfce05a90",
+    "title": "Frontier AI Labs Are Renting Compute From Their Competitors",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-19T13:40:50Z",
+    "url": "https://biztoc.com/x/61656dd856e3484b",
+    "article_text": "Anthropic reportedly proposed buying up to $10 billion in computing capacity from Meta over two years, and Meta was still weighing the offer as of July 17, 2026. Meta develops Llama and competes dire… [+145 chars]"
+  },
+  {
+    "id": "bc9bd296c4e34d05",
+    "title": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-19T13:40:23Z",
+    "url": "https://biztoc.com/x/c3270ad692dfe1f0",
+    "article_text": "Apple, Amazon, Nvidia and peers are quietly coming back to life, and that could easily jolt this sleepy stock market back into gear.\r\nThis story appeared on marketwatch.com, 2026-07-19 12:00:00."
+  },
+  {
+    "id": "6fdc4da0724f4eb6",
+    "title": "Saga over! Klopp agrees to coach national team, details ⚠️",
+    "source": "Onefootball.com",
+    "publication_date": "2026-07-19T13:39:00Z",
+    "url": "https://onefootball.com/en/news/saga-over-klopp-agrees-to-coach-national-team-details-43158643",
+    "article_text": "Negotiations for Jürgen Klopp to take over as head coach of the German national team appear to have reached the final stretch.\r\nAccording to information first reported by Sky journalist Florian Plett… [+1166 chars]"
+  },
+  {
+    "id": "508d0c63e4c0e10d",
+    "title": "agent-replay-py added to PyPI",
     "source": "Pypi.org",
-    "publication_date": "2026-07-19T01:46:14Z",
-    "url": "https://pypi.org/project/anycode-py/0.8.2/",
+    "publication_date": "2026-07-19T13:34:54Z",
+    "url": "https://pypi.org/project/agent-replay-py/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "c161c5e52d1d601a",
-    "title": "inspect-robots-franka added to PyPI",
+    "id": "06283260014f1a5b",
+    "title": "agent-replay-py 0.1.0",
     "source": "Pypi.org",
-    "publication_date": "2026-07-19T01:40:06Z",
-    "url": "https://pypi.org/project/inspect-robots-franka/",
-    "article_text": "Note:\r\nThis project is in early development. Pin a version before depending on its API.\r\nInspect Robots has two swappable inputs: a Policy and an Embodiment. This\r\npackage provides both sides of a Fr… [+11807 chars]"
-  },
-  {
-    "id": "e5b50774e7d015de",
-    "title": "OpenAI Acknowledges GPT-5.6 May Accidentally Delete Files, Calls It 'Honest Mistake'",
-    "source": "Slashdot.org",
-    "publication_date": "2026-07-19T01:34:00Z",
-    "url": "https://developers.slashdot.org/story/26/07/19/0129228/openai-acknowledges-gpt-56-may-accidentally-delete-files-calls-it-honest-mistake",
-    "article_text": "Reports of the flagship LLMs deleting files emerged shortly after the company launched them earlier this month, with investor Matt Shumer taking to X to report that GPT-5.6-Sol had \"just accidentally… [+1518 chars]"
-  },
-  {
-    "id": "862d7d809904630a",
-    "title": "Deepsec",
-    "source": "Github.com",
-    "publication_date": "2026-07-19T01:33:32Z",
-    "url": "https://github.com/vercel-labs/deepsec",
-    "article_text": "deepsec an agent-powered vulnerability scanner that you can run in your own infrastructure, optimized to perform on-demand review of all code in existing\r\nlarge-scale repos.\r\ndeepsec is designed to s… [+5772 chars]"
-  },
-  {
-    "id": "c4f22151503ac737",
-    "title": "What Mr. Jambo and Levi's Can Teach Us About Listening to Customers",
-    "source": "Kellblog.com",
-    "publication_date": "2026-07-19T01:31:40Z",
-    "url": "https://www.kellblog.com/what-mr-jambo-and-levis-can-teach-us-about-listening-to-customers/",
-    "article_text": "Founders, chief product officers (CPOs), and chief marketing officers (CMOs) spend a lot of time talking with and listening to customers. As they should.\r\nAnd, by and large, they do it well. But ther… [+6265 chars]"
-  },
-  {
-    "id": "de6b25f09d2182dc",
-    "title": "inspect-robots-agent 0.12.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T01:27:35Z",
-    "url": "https://pypi.org/project/inspect-robots-agent/0.12.0/",
+    "publication_date": "2026-07-19T13:34:54Z",
+    "url": "https://pypi.org/project/agent-replay-py/0.1.0/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "be5ea3af6a5d582b",
-    "title": "Emdoor Launches \"Ailyn\" AI Hub at WAIC 2026: Unifying Intelligence Across Every Device",
-    "source": "PRNewswire",
-    "publication_date": "2026-07-19T01:26:00Z",
-    "url": "https://www.prnewswire.com/news-releases/emdoor-launches-ailyn-ai-hub-at-waic-2026-unifying-intelligence-across-every-device-302829098.html",
-    "article_text": "SHANGHAI, July 18, 2026 /PRNewswire/ -- Emdoor, a leading provider of intelligent computing devices, unveiled its latest innovation Ailyn, an integrated software-hardware AI hub at the World Artifici… [+4739 chars]"
-  },
-  {
-    "id": "487b5bfcfffa144e",
-    "title": "opc-agents 0.4.0",
+    "id": "24a870f21297b515",
+    "title": "bioma-framework 1.2.0",
     "source": "Pypi.org",
-    "publication_date": "2026-07-19T01:19:20Z",
-    "url": "https://pypi.org/project/opc-agents/0.4.0/",
+    "publication_date": "2026-07-19T13:34:37Z",
+    "url": "https://pypi.org/project/bioma-framework/1.2.0/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "a945d369a6080807",
-    "title": "fsr-playbooks 0.4.31",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T01:18:59Z",
-    "url": "https://pypi.org/project/fsr-playbooks/0.4.31/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "id": "1a8bc9819733ab54",
+    "title": "Nvidia may have RTX 5000 Super GPUs ready, but costly 3GB GDDR7 is holding them back",
+    "source": "TechSpot",
+    "publication_date": "2026-07-19T13:33:00Z",
+    "url": "https://www.techspot.com/news/113167-nvidia-may-have-rtx-5000-super-cards-ready.html",
+    "article_text": "Rumor mill: The RTX 5000 series is real according to reports, an Nvidia board partner already has one of the cards in its possession. However, a familiar problem is preventing them from being release… [+2987 chars]"
   },
   {
-    "id": "537389d5e14e55c4",
-    "title": "wyoming-openai-gateway 0.2.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-19T01:13:19Z",
-    "url": "https://pypi.org/project/wyoming-openai-gateway/0.2.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "id": "3e29f4504f1cd188",
+    "title": "I started self-hosting LLMs and absolutely loved it",
+    "source": "XDA Developers",
+    "publication_date": "2026-07-19T13:32:11Z",
+    "url": "https://www.xda-developers.com/i-started-self-hosting-llms-and-absolutely-loved-it/",
+    "article_text": "Ive never been fully comfortable using cloud-based LLMs. Most of them require sending your data to remote servers, which raises obvious privacy concerns. On top of that, many AI tools are locked behi… [+5264 chars]"
+  },
+  {
+    "id": "5ff72131add66d37",
+    "title": "AI may make you 'boring' at work, Columbia Business School professor says: How it can hurt your career",
+    "source": "CNBC",
+    "publication_date": "2026-07-19T13:30:01Z",
+    "url": "https://www.cnbc.com/2026/07/19/how-using-ai-at-work-can-hurt-your-career.html",
+    "article_text": "Using artificial intelligence can make people \"boring,\" according to Sandra Matz, a professor at Columbia Business School. Her research on the topic indicates two direct consequences for workers: sta… [+4383 chars]"
+  },
+  {
+    "id": "a76515971d2e4997",
+    "title": "Alphabet and Tesla earnings this week could ripple through crypto markets",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-07-19T13:25:36Z",
+    "url": "https://cryptobriefing.com/alphabet-tesla-earnings-crypto-impact/",
+    "article_text": "Tesla's 11,509 BTC treasury and Alphabet's $80 billion AI raise make this week's megacap earnings uniquely relevant to digital asset investors. Two of the most watched companies on the planet report … [+2899 chars]"
+  },
+  {
+    "id": "c43335706222ac4c",
+    "title": "Why Analysts Still See Nvidia as the Top Chip Stock to Buy for Q2 Earnings Season",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-19T13:25:07Z",
+    "url": "https://biztoc.com/x/ba89999b8469d37e",
+    "article_text": ", the famous Silicon Valley chipmaker powering much of todays artificial intelligence (AI) infrastructure boom, has become one of Wall Streets biggest market stars. The company has reinvented itself … [+144 chars]"
+  },
+  {
+    "id": "9178b421f193033a",
+    "title": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-19T13:25:00Z",
+    "url": "https://biztoc.com/x/f96ee64774a1a0a8",
+    "article_text": "Nvidia (NASDAQ: NVDA) is a $5.1 trillion company, roughly six times the size of AMD (NASDAQ: AMD). But in the $45 billion iShares Semiconductor ETF (NASDAQ: SOXX), the chipmaker no longer sits on top… [+145 chars]"
+  },
+  {
+    "id": "ce17e9a79bb4b585",
+    "title": "Quote of the day by Priyanka Chopra Jonas, 'Any transition is easier if you believe in yourself and your talent' offers timeless life lesson on how to build careers in the era of AI, teaches powerful psychology that every meaningful achievement begins with a transition",
+    "source": "The Times of India",
+    "publication_date": "2026-07-19T13:24:58Z",
+    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-priyanka-chopra-jonas-any-transition-is-easier-if-you-believe-in-yourself-and-your-talent-offers-timeless-life-lesson-on-how-to-build-careers-in-the-era-of-ai-teaches-powerful-psychology-that-every-meaningful-achievement-begins-with-a-transition/articleshow/132495164.cms",
+    "article_text": "Quote of the day by Priyanka Chopra, \"Any transition is easier if you believe in yourself and your talent offers inspiring words of wisdom that resonates with millions of people facing change. Whethe… [+5963 chars]"
+  },
+  {
+    "id": "e0e6cac86cb64a6b",
+    "title": "The combined XI for the Spain-Argentina final ⚔️",
+    "source": "Onefootball.com",
+    "publication_date": "2026-07-19T13:23:00Z",
+    "url": "https://onefootball.com/en/news/the-combined-xi-for-the-spain-argentina-final-43158589",
+    "article_text": "Just hours before the World Cup final between Argentina and Spain, its time for the traditional combined XI.\r\nBut this time, only one criterion guided our choices: individual performances during this… [+444 chars]"
+  },
+  {
+    "id": "da98bb9b0b51592e",
+    "title": "MIT AI expert warns automating Gen Z entry-level jobs could backfire—and cost companies their future workforce",
+    "source": "Fortune",
+    "publication_date": "2026-07-19T13:21:41Z",
+    "url": "https://fortune.com/article/automating-gen-z-entry-level-jobs-could-backfire-mit-ai-researcher-andrew-mcafee-talent-career-pipelines-at-risk/",
+    "article_text": "Companies betting against entry-level Gen Z talent by automating their roles may be making a costly long-term mistake.Thats the warning from MIT research scientist Andrew McAfee, who co-leads the sch… [+4635 chars]"
+  },
+  {
+    "id": "3071f179ac604350",
+    "title": "Show HN: CallBro – Granola, but Powered by Codex, Claude Code, or Your Local LLM",
+    "source": "Callbro.ai",
+    "publication_date": "2026-07-19T13:19:43Z",
+    "url": "https://callbro.ai/",
+    "article_text": "CallBro transcribes your calls locally.Codex, Claude Code, or a local LLM creates summaries and action items.\r\nFree · No account required\r\nTranscript\r\nMy Note\r\nEnhanced Note\r\nMaya\r\nOkay top priority … [+3229 chars]"
+  },
+  {
+    "id": "e83735ed8e97efbc",
+    "title": "A decade after the ‘Godfather of AI’ said radiologists were obsolete, their salaries are up to $571K and demand is growing fast",
+    "source": "Fortune",
+    "publication_date": "2026-07-19T13:19:00Z",
+    "url": "https://fortune.com/article/ai-godfather-radiologists-obsolete-salaries-up-to-571k-demand-growing/",
+    "article_text": "In 2016, the Godfather of AI, Geoffrey Hinton, stood onstage at a machine learning conference in Toronto and declared AI would soon kill the radiology profession.At the time, he said people should ev… [+6932 chars]"
   }
 ]
