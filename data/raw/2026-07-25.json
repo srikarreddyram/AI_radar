@@ -136,20 +136,20 @@
     "article_text": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
   },
   {
-    "id": "578b3bdf5cbf1347",
-    "title": "How data science teams use ChatGPT Work",
-    "source": "OpenAI Blog",
-    "publication_date": "Tue, 14 Jul 2026 00:00:00 GMT",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "article_text": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
-  },
-  {
     "id": "0090139282200a1d",
     "title": "How sales teams use ChatGPT Work",
     "source": "OpenAI Blog",
     "publication_date": "Tue, 14 Jul 2026 00:00:00 GMT",
     "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "article_text": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
+  },
+  {
+    "id": "578b3bdf5cbf1347",
+    "title": "How data science teams use ChatGPT Work",
+    "source": "OpenAI Blog",
+    "publication_date": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "article_text": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
   },
   {
     "id": "521cb8f5727237af",
@@ -1000,715 +1000,403 @@
     "article_text": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday. The news of [&#8230;]"
   },
   {
-    "id": "14bb5cb09c84b27f",
-    "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20452",
-    "article_text": "arXiv:2607.20452v1 Announce Type: new \nAbstract: Modern software quality assurance demands intelligent, autonomous systems capable of adaptive decision-making across distributed cloud environments. This paper presents AINTMA (Agentic Intelligent Test Management Architecture), a multi-agent agentic AI system that transforms traditional test management into an autonomous quality intelligence ecosystem. AINTMA deploys six specialized AI agents (Test Discovery, Risk Assessment, Reinforcement Learning Prioritization, Execution Orchestration, Generative Quality Intelligence, and Cloud Security Monitor) coordinated through a secure multi-agent communication framework over a cloud-native microservices infrastructure. The Generative Quality Intelligence agent employs large language models to produce plain language quality narratives, defect risk summaries, and data-augmented test recommendations. The RL Prioritization agent models test selection as a Markov Decision Process, learning contextual policies from large-scale historical test execution data (47 features, rolling 36-month window). Secure cloud communication is enforced through a zero-trust API gateway with OAuth2/JWT authentication, encrypted inter-agent messaging, and multi-tenant isolation. Evaluation across 12 heterogeneous software projects over 18 months demonstrates: 88.4% test prioritization accuracy (APFD, vs. 51.2% random, 82.1% best commercial baseline); 43% test cycle time reduction; defect escape rate reduced from 8.3% to 2.1%; 340% ROI at 9-month payback. The agentic architecture scales to 50,000+ test cases with sub-400ms response time, and the generative intelligence module achieves 4.3/5.0 developer usefulness rating. AINTMA demonstrates that agentic AI, combining autonomous multi-agent coordination, generative intelligence and secure smart connectivity, can fundamentally advance software quality management in cloud-scale enterprise environments."
+    "id": "2a9d5a52b9604531",
+    "title": "Trump shocks by blasting 'cherry-red' MAGA towns as not 'smart'",
+    "source": "Raw Story",
+    "publication_date": "2026-07-24T14:07:57Z",
+    "url": "https://www.rawstory.com/trump-data-centers-2677267272/",
+    "article_text": "Days after his own supporters organized\r\n 142 demonstrations against artificial intelligence\r\n data centers in 42 states, President Donald Trump\r\n claimed that smart communities across the U.S. reall… [+2925 chars]"
   },
   {
-    "id": "b7df8dbfcc50ba6b",
-    "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20462",
-    "article_text": "arXiv:2607.20462v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly integrated into clinical workflows, stressing the need for reliable traceability of model-generated output with watermarking. Yet, most watermarks are evaluated on general-purpose benchmarks, leaving domains like medicine, where small token-level perturbations can result in significant semantic changes, underexplored. In this work, we present the first rigorous study of how LLM watermarks affect medical performance, benchmarking 5 watermarking schemes across 11 LLMs and 7 VLMs on various tasks spanning unimodal and multimodal clinical reasoning. Importantly, we complement existing evaluations by introducing a human-expert-validated pipeline for systematically auditing medical reasoning quality, terminological precision, and induced hallucinations. Our results reveal that watermarking can induce substantial degradation across multiple failure modes, including lexical corruption, hallucinated terminology, and amplified misattribution or omission of image findings. Notably, we find that the absence of domain-specific analyses, combined with aggregate metrics that miss failures inherent to clinical text, can systematically obscure practical watermark-induced degradations. Our findings establish domain-specific evaluation as a prerequisite for the safe deployment of watermarked models in medicine, where current benchmarks can otherwise mask clinically consequential failures."
+    "id": "a84308b4de245513",
+    "title": "Trump’s Ratepayer Protection Pledge faces skepticism as data centers devour the grid",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-07-24T14:07:30Z",
+    "url": "https://cryptobriefing.com/trump-data-center-power-pledge-skepticism/",
+    "article_text": "A voluntary commitment covering 80% of US electricity delivery sounds impressive until you notice the word 'voluntary' The White House wants AI data centers to pay for their own electricity appetite … [+3542 chars]"
   },
   {
-    "id": "204181a2c41faf8b",
-    "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20463",
-    "article_text": "arXiv:2607.20463v1 Announce Type: new \nAbstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditional detection, the application employs a hybrid machine learning architecture that combines transformer-based embeddings with linguistically motivated features and a custom \"baitness\" score. After evaluating various natural language processing techniques -- from classic vectorizers to large language model (LLM) embeddings -- an XGBoost-based model was developed that achieves an F1-score of 91% on the open combined dataset. Most importantly, the tool can warn users before and after they access a clickbait article. After opening an article, the user receives a percentage score indicating the likelihood that it is clickbait. The prediction is explained based on the analyzed metrics, including those specifically developed within the proposed system. The browser extension also provides a clickbait spoiler -- a one- to two-sentence summary of the entire article. Demo video:https://www.youtube.com/watch?v=IJ1gkQV82C4}{https://www.youtube.com/watch?v=IJ1gkQV82C4"
+    "id": "891cc936f07ed294",
+    "title": "The RTX 3060 Is Back With Improved Performance, But That Doesn't Mean You Should Buy It",
+    "source": "PCMag.com",
+    "publication_date": "2026-07-24T14:07:19Z",
+    "url": "https://uk.pcmag.com/graphics-cards/166344/the-rtx-3060-is-back-with-improved-performance-but-that-doesnt-mean-you-should-buy-it",
+    "article_text": "Nvidia's RTX 3060 is an old, out-of-date card, but it's made a comeback in 2026, and it holds up better than you might expect, according to VideoCardz.\r\nThe RTX 3060 12GB was originally released over… [+2358 chars]"
   },
   {
-    "id": "699ff66f39358a41",
-    "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20464",
-    "article_text": "arXiv:2607.20464v1 Announce Type: new \nAbstract: When a language model gives different answers on repeated runs, does that variation reveal what it does not know? Self-consistency turns the variation into a per-question uncertainty estimate via majority voting. But does the same variation reveal cross-question structure -- related questions flipping together, the way a diverse ensemble does? We compare two regimes on the same questions: one model run $100$ times at $\\tau=1$ versus an ensemble of $24$ LLMs run once each at $\\tau=0$. A Marchenko--Pastur random-matrix test separates signal from sampling noise on both sides. Within any single model, at most one dimension rises above noise across five families and three benchmarks (MMLU, HellaSwag, GSM8K). Across the ensemble, four eigenvalues clear the noise edge, while a matched-difficulty Bernoulli null produces at most one in $500$ Monte Carlo draws. Self-consistency gives accurate per-question uncertainty but no detectable cross-question structure; only a diverse ensemble surfaces what a model does not know."
+    "id": "a07672cb4ce8bf21",
+    "title": "Why Investors are Bullish on Solaris Energy Infrastructure (SEI)?",
+    "source": "Yahoo Entertainment",
+    "publication_date": "2026-07-24T14:04:28Z",
+    "url": "https://finance.yahoo.com/energy/articles/why-investors-bullish-solaris-energy-140428580.html",
+    "article_text": "ClearBridge Investments, a global equity manager, recently published second-quarter 2026 commentary for its \"Small Cap Growth Strategy\". A copy of the letter can be downloaded here. The Russell 2000 … [+2834 chars]"
   },
   {
-    "id": "d904fbdf305a1839",
-    "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20466",
-    "article_text": "arXiv:2607.20466v1 Announce Type: new \nAbstract: Rigorous benchmarks have driven progress in autonomous GPU kernel performance optimization by establishing a shared target to hillclimb on, but no equivalent exists for TPUs. We present JAXBench, a TPU-native benchmark suite for AI-generated kernel optimization on Google Cloud TPUs. JAXBench comprises 50 JAX workloads that are both relevant and provide headroom for optimization. We extract 17 production ML operators from architectures in the public MaxText library such as Llama-3.1, DeepSeek-V3, Mixtral, Mamba-2, and AlphaFold2, and translate 33 operators from KernelBench that are validated for correctness and set with new problem sizes that achieve high TPU v6e MXU utilization. Eight of the 17 production operators ship with hand-optimized Pallas kernels from the public Tokamax library and block-size tuned to establish an expert upper-bound baseline. We evaluate four feedback-driven methods on generating candidate Pallas kernels for JAXBench. Across the full suite with Gemini 3 Flash, we find that target-specific context matters more than model scale on a sparsely-documented DSL like Pallas. Conditioning on curated TPU documentation raises per-sample correctness from 5.8% to 37.3% and solves 48 of 50 benchmarks at a 1.28x geomean speedup. Search structure yields significant gains once correctness is achieved, with Autocomp's beam-search pipeline reaching a 1.36x geomean speedup over XLA. On the 8 hand-tuned kernels, Autocomp reaches 1.60x geomean over XLA, recovering most of the 2.08x Tokamax upper bound but trailing on the specialized paged and ragged attention operators. High-quality TPU kernel optimization remains a challenging task, and we release the JAXBench benchmark, evaluation harness, and baseline results to support open source contributions."
+    "id": "b5d8bbaaf325ebd1",
+    "title": "American Express Sinks 6% After Q2 Earnings Beat as Visa, Mastercard Hold Steady",
+    "source": "24/7 Wall St.",
+    "publication_date": "2026-07-24T14:04:03Z",
+    "url": "https://247wallst.com/investing/2026/07/24/american-express-sinks-6-after-q2-earnings-beat-as-visa-mastercard-hold-steady/",
+    "article_text": "Quick Read\r\n<ul><li>American Express beat estimates with $4.53 EPS but chose to reinvest the upside into growth rather than book it; AXP shares declined 6%.\r\n</li><li>Visa and Mastercard shares held … [+4850 chars]"
   },
   {
-    "id": "25fae2497241ff04",
-    "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20467",
-    "article_text": "arXiv:2607.20467v1 Announce Type: new \nAbstract: While parallel decoding is central to the efficiency of Diffusion Large Language Models (dLLMs), current strategies are often hindered by overly conservative confidence thresholds. These thresholds, necessitated by the Joint Probability Dependence Error (JPDE), result in redundant denoising iterations and suboptimal inference speeds. To overcome this, we propose DC-Leap, a training-free framework that enables reliable acceleration of dLLMs in the moderate-confidence regime. DC-Leap introduces a Dynamic Contiguous Verification strategy that integrates strictly-ordered causal constraints into the parallel decoding process. By progressively validating token dependencies, this mechanism effectively neutralizes the JPDE, enabling reliable acceleration with comparable performance. Furthermore, DC-Leap incorporates the draft-guided decoding mechanism, where the draft helps extend the context by leaping forward across multiple tokens, providing look-ahead context and retaining the structural benefits of bidirectional attention during inference. Extensive experiments on standard benchmarks demonstrate that DC-Leap achieves substantial speedups, up to 53.19x on MBPP for long-sequence generation, and up to 105.02x when combined with KV-Cache with comparable generation quality. Code is available at https://github.com/ffh-wyls/DC-Leap ."
+    "id": "db1d040b9cab2fc5",
+    "title": "AI-Powered Wound Care Market Poised for Revolutionary Disruption as Investment Activity Surges",
+    "source": "GlobeNewswire",
+    "publication_date": "2026-07-24T14:04:00Z",
+    "url": "https://www.globenewswire.com/news-release/2026/07/24/3332903/0/en/AI-Powered-Wound-Care-Market-Poised-for-Revolutionary-Disruption-as-Investment-Activity-Surges.html",
+    "article_text": "Boston, July 24, 2026 (GLOBE NEWSWIRE) -- Artificial intelligence is fundamentally transforming the biologic therapies landscape for wound care, with corporate AI investment reaching $252.3 billion i… [+4568 chars]"
   },
   {
-    "id": "f9a633fcefc99f94",
-    "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20468",
-    "article_text": "arXiv:2607.20468v1 Announce Type: new \nAbstract: AI agents are increasingly used to automate research and development tasks, yet existing benchmarks typically evaluate them on prescribed workflows or narrow action spaces. Even nominally open-ended tasks can often be solved by retrieving a well-known recipe and tuning a few hyperparameters, making it unclear whether strong results reflect genuine optimization or memorized solutions. We introduce InferenceBench, where an agent must deploy an OpenAI-compatible inference server and optimize the speed of LLM inference. Each agent receives a target LLM, one H100 GPU, an optimization scenario, and a wall-clock time budget of two hours. Three optimization scenarios isolate distinct bottlenecks of inference (prefill latency, decode latency, and concurrent request throughput) and a fourth balances all three at the same time. Across 15 frontier agent configurations, agents reliably improve over a naive PyTorch baseline (up to $8.08\\times$) and often match or exceed serving engines with default settings ($4.05\\times$ for vLLM), but still fall below a simple hyperparameter search under the same time budget (up to $11.53\\times$). Qualitative analysis of agent trajectories shows that although agents enumerate many relevant optimization techniques, they overwhelmingly converge on a single inference framework. They test only a few distinct configurations and spend the remaining budget re-measuring, repairing, or optimizing hyperparameters rather than exploring substantially different strategies. This suggests the bottleneck is not domain knowledge, but the ability to propose diverse configurations, evaluate them systematically, and submit the best identified solution. Overall, InferenceBench reflects the ability of agents to operate in an open-ended AI engineering setting, where memorized solutions lead to limited improvements."
+    "id": "ac51cbf629b9889d",
+    "title": "Booz Allen Hamilton Q1 Earnings Call Highlights",
+    "source": "MarketBeat",
+    "publication_date": "2026-07-24T14:03:53Z",
+    "url": "https://www.marketbeat.com/instant-alerts/booz-allen-hamilton-q1-earnings-call-highlights-2026-07-24/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+    "article_text": "Key Points\r\n<ul><li>Interested in Booz Allen Hamilton Holding Corporation? Here are five stocks we like better.\r\n</li><li>Revenue fell 4.2% to $2.8 billion in Q1 fiscal 2027, as a 1% rise in national… [+8355 chars]"
   },
   {
-    "id": "6d09d84b509752b5",
-    "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20469",
-    "article_text": "arXiv:2607.20469v1 Announce Type: new \nAbstract: Large language models (LLMs) handle many tasks with one set of parameters, but under KV-cached inference it is unclear what task-general structure, if any, is used at decode time rather than during prefill. We propose DecodeShare, a protocol that identifies a low-dimensional subspace consistently shared across tasks in decode-time hidden states, and then tests its causal role by removing that subspace only during decoding. In our experiments, disturbing the discovered shared subspace degrades decision performance far more than disturbing either a prefill-derived or random subspace under the same intervention budget. We further show this decode-shared subspace has practical consequences for activation steering: common steering directions can overlap the task-general decode channel. Projecting out this shared subspace directly separates the functional roles of the two components, while evaluating steering vectors at decode-time yields more reliable signal for downstream deployment than prefill-based proxies. Despite its compactness, the shared subspace can serve as a high-leverage causal channel at decode time. Code is available at: https://github.com/Zishan-Shao/decodeshare.git."
+    "id": "79cf5100950d38ef",
+    "title": "Customers Bancorp Q2 Earnings Call Highlights",
+    "source": "MarketBeat",
+    "publication_date": "2026-07-24T14:03:53Z",
+    "url": "https://www.marketbeat.com/instant-alerts/customers-bancorp-q2-earnings-call-highlights-2026-07-24/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+    "article_text": "Key Points\r\n<ul><li>Interested in Customers Bancorp, Inc? Here are five stocks we like better.\r\n</li><li>Customers Bancorp reported Q2 2026 EPS of $2.05, up 4% from last quarter and 18% from a year a… [+7881 chars]"
   },
   {
-    "id": "b0997b256da24fd1",
-    "title": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20470",
-    "article_text": "arXiv:2607.20470v1 Announce Type: new \nAbstract: Enhancing the task-specific capabilities of Large Language Models (LLMs) primarily requires substantial instruction-tuning datasets. However, the sheer volume of such data imposes a considerable annotation cost, and a lack of optimization methods for tailoring LLMs to specific tasks. To address the above issues, we propose a \\textbf{Plan}ning framework for constructing \\textbf{E}xtractive-based LLMs called \\textbf{PlanE}, which includes data decomposition, instruction tuning, and prompt inference. Additionally, we introduce a Data-Tuning-Inference (DTI) planner, aimed at selecting the optimal base-LLM and its DTI combinations for specific datasets to improve construction efficiency. The experimental results demonstrate the effectiveness of our PlanE from two views: (1) across different datasets using the same base-LLM, and (2) on the same dataset using different base-LLMs. Furthermore, we validate the generalizability of the proposed DTI planner under different optimization objectives. The codes are publicly available at https://github.com/gugugu-469/PlanE."
-  },
-  {
-    "id": "812ea669f5ba5ea7",
-    "title": "Benchmarking the Personalization Capabilities of Large Language Models",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20471",
-    "article_text": "arXiv:2607.20471v1 Announce Type: new \nAbstract: Personalization, the act of varying a message to induce action from a specific receiver while keeping sender, channel, and time fixed, has a long tradition in psychology and marketing as a two-party problem in which sender and receiver have independent objectives. Large language models remove the bounded-inventory constraint of classical retrieval-and-ranking approaches by generating a continuum of message variants conditioned on inferred receiver state, raising the question of how well current models perform personalization in the classical sense. Existing LLM personalization benchmarks measure sender-side adaptation, in which the receiver is the same user the model is serving. The two-party question, whether a generated message induces its intended action in a third party, has been investigated only through A/B tests and small-scale human studies that cannot be re-run against a new model on demand. We adapt the Bayesian Persuasion framework of Kamenica and Gentzkow (2011) to generative agents and instantiate the formulation in sales, where receiver actions are routinely logged against the outreach that induced them. We release SDR-Bench, a public corpus of 6,279 customer success stories spanning 22 industries and approximately 200 enterprises, served through a temporally constrained simulation that prevents future-data leakage. Across frontier LLMs and deep-research agents, we observe a consistent personalization plateau and on a Fortune 100 tech cohort no model statistically separates successful from unsuccessful outreach. A field deployment with 12 professional sales representatives validates the framework, with 48 percent of model-generated content rated immediately useful and senior-expert agreement at Pearson 0.82. We release SDR-Arena and SDR-Bench publicly to support reproducible study of generative personalization at scale."
-  },
-  {
-    "id": "a5aae859b278a5d0",
-    "title": "Robust Critics: Defending LLMs Against Multi-Turn Attacks",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20472",
-    "article_text": "arXiv:2607.20472v1 Announce Type: new \nAbstract: When a user asks a language model something harmful, is it a genuine attack or a misunderstood but well-meaning question? This ambiguity is one of the central challenges of LLM safety. A model that assumes the worst harms legitimate users; one that assumes the best is easily exploited. The problem is compounded in multi-turn dialogue, where an attacker's true intent may only reveal itself gradually across many exchanges, yet existing safety frameworks apply a contextual bandit treatment, ignoring the trajectory of the conversation.\n  To that end, we propose Dialogue Critic Guided Sampling (DCGS), a framework that addresses this by inferring user intent at every turn of dialogue. Instead of applying a fixed rule about what is or is not safe, DCGS learns what the user's intent is likely to be based on the full conversational history and generates responses accordingly. Formally, we model adversarial dialogue as a Markov Decision Process and learn value and regret-based critics at both the individual token and utterance (full response) levels, scoring candidate responses via an action-value critic. We prove that this inference-time reweighting approximates exponential tilting of the base policy, guaranteeing improvement in expected return for any finite candidate pool, a property that group-relative objectives do not exhibit. Evaluated on CARES-18k, WildJailbreak, Redbench, and Harmbench, DCGS outperforms strong robust baselines and frontier models on adversarial dialogue tasks. DCGS also transfers to frontier models, improving their robustness without fine-tuning."
-  },
-  {
-    "id": "2a8016a702ec39d4",
-    "title": "Incomplete Prompt Jailbreaks in Large Language Models",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20473",
-    "article_text": "arXiv:2607.20473v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly released as open-weight models with safeguards against harmful requests. Nevertheless, sentence completion remains vulnerable to incomplete harmful prompts. In this work, we formalize this phenomenon as incomplete prompt jailbreaks (IPJ) and provide a systematic empirical characterization of when and how incomplete prompts elicit harmful continuations. We analyze diverse attractor types associated with incomplete sentence continuation and show that LLMs systematically delay refusal until sentence termination. We further demonstrate that training models to refuse incomplete harmful prompts via parameter tuning is insufficient, failing to generalize across both content domains and attractor types. To enable fine-grained control, we identify two functional neurons: termination and continuation neurons. By clarifying their roles in sentence completion, we highlight the potential of neuron-level interventions for more precise and robust IPJ defenses."
-  },
-  {
-    "id": "5af124f9bccf7721",
-    "title": "VeriSimpl: Robust Optimization Modeling from Natural Language using Simplification-based Verification",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20474",
-    "article_text": "arXiv:2607.20474v1 Announce Type: new \nAbstract: Natural language interfaces can greatly benefit the accessibility and usability of optimization modeling, and recent advances in large language models (LLMs) show promise in automatically translating textual problem descriptions into executable solver formulations. However, a key challenge for existing approaches is to ensure that the inferred formulation correctly implements the intended task, even if it may execute without errors. We introduce VeriSimpl, a solver LLM framework for robust natural-language-to-optimization formalization. Our approach is based on the idea of simplification-based verification, where the optimization solver is leveraged to generate simplified diagnostic queries about a candidate formulation to allow the LLM to tractably reason about the correctness of the formulation with respect to the task description. We present such simplification strategies along different dimensions with respect to problem constraints and decision variables, which allow the LLM to reason locally under fixed global contexts. Evaluations on a range of optimization benchmarks show how our approach provides consistent improvements in accuracy over existing methods, while also providing a novel high-precision self-verification signal."
-  },
-  {
-    "id": "ef0cecd2eb6e2089",
-    "title": "SonicSampler: Unified Tile-Aware Kernels for LLM Sampling and Speculative Verification",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20475",
-    "article_text": "arXiv:2607.20475v1 Announce Type: new \nAbstract: Sampling in LLM inference comprises a combinatorial set of logit processing, token selection, and verification operations for speculative decoding. However, existing implementations either accelerate only subsets of this pipeline, rely on multiple kernel launches, or assume homogeneous sampling behavior across a batch, limiting support for dynamic serving workloads and preventing efficient CUDA Graph execution. We present $\\textbf{SonicSampler}$, a unified suite of tile-aware Triton kernels that vertically fuses the complete sampling pipeline into a fixed, workload-aware execution model. Our kernels support dynamic per-request sampling behaviors, including grammar-constrained decoding, repetition, frequency and presence penalties, logit bias, temperature scaling, top-$k$ / top-$p$ / min-$p$ filtering, and speculative verification - within a single batched kernel while remaining fully CUDA Graph-compatible. Central to our approach is a novel hierarchical two-stage top-$k$ algorithm that achieves up to $\\textbf{10x speedup}$ over competitive baselines and exploits the low-entropy structure of LLM outputs to enable efficient selection over large vocabularies. Across heterogeneous speculative decoding workloads, SonicSampler achieves up to $\\textbf{16x speedup}$ over state-of-the-art baselines while preserving flexible batched execution."
-  },
-  {
-    "id": "9fd348ab280ae0de",
-    "title": "Benchmarking Large Language Models on Multi-Sensor Physical Hazard Assessment",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20476",
-    "article_text": "arXiv:2607.20476v1 Announce Type: new \nAbstract: We present an empirical benchmark evaluating how five large language models assess multisensor physical hazard data. Testing 60 scenarios across three categories - multi-sensor joint assessment, response proportionality, and pattern disambiguation - with 1,800 API calls at temperature 0.0, we find that all tested models consistently produced no precautionary warning signal across the tested scenarios where multiple sensors are simultaneously elevated below their individual safety limits, while achieving near-perfect accuracy on single-sensor threshold violations. All five models (ChatGPT-4o, Gemini 2.5 Flash, DeepSeek, Kimi, Llama 3.1 8B) score near zero on Category A multi-sensor scenarios (Q2: 0.000-0.208; Q3: 0.000-0.592) compared to strong performance on single-sensor scenarios (Category B Q1: 0.975-1.000). Structured tabular formatting shows no consistent advantage over plain prose; ChatGPT-4o performs significantly better under prose (p = 0.001). These findings have direct implications for practitioners deploying the tested models in physical safety monitoring systems."
-  },
-  {
-    "id": "92062eb201ae7076",
-    "title": "Semi-Supervised Text-Attributed Graph Distillation",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20477",
-    "article_text": "arXiv:2607.20477v1 Announce Type: new \nAbstract: {\\em Text-Attributed Graphs} (TAGs) have emerged as an expressive data model for integrating graph topology with rich textual semantics. Existing representation learning methods over TAGs suffer from severe scalability bottlenecks, particularly together with {\\em Large Language Models} (LLMs). While data distillation offers a promising data-centric solution, existing methods fail to capture the complex interplay between graph and text modalities, struggle with the label scarcity inherent in semi-supervised settings, and lack the ability to produce the human-readable textual attributes required for downstream LLM-based tasks.\n  To address these challenges, we propose \\algo{}, a unified semi-supervised framework guided by the {\\em Wasserstein Distance} (WSD). Grounded in our empirical findings on real TAGs, \\algo{} introduces a graph-text collaborative encoding module that utilizes dual-pathway encoders (graph-aware and -free) within a collaborative self-training scheme to harvest reliable pseudo-labels and fuse complementary graph-text features. Furthermore, we develop a theoretically grounded WSD-based graph sketching algorithm and a cost-effective LLM text synthesis module, which leverages cluster-based keyword extraction to generate coherent, human-readable summaries for condensed nodes. Extensive experiments on benchmark datasets demonstrate that \\algo{} achieves a state-of-the-art performance-compression trade-off in terms of both GNN- and LLM-based downstream tasks, enabling effective and efficient TAG learning or analytics."
-  },
-  {
-    "id": "519c77dc17cf8263",
-    "title": "Beyond Liars' Bench: The Impact of Lie Typology, Depth, and Sparsity on Deception Detection in LLMs",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20479",
-    "article_text": "arXiv:2607.20479v1 Announce Type: new \nAbstract: Training probes to detect deceptive outputs from large language models is still an open problem. Recent work has demonstrated that detection probes fail especially in out-of-domain scenarios -- training on one type of lie does not transfer well to deception scenarios involving other types of lies. In this work, we conduct a systematic study on how various factors impact detection performance: representation depth, probe expressivity, sparse feature representations, and the lie typology of the training data. To this end, we augment standard benchmark training data with a supplementary dataset containing diverse types of deception, including fabrication, omission, and exaggeration examples. Analyzing these factors across seven probe types, our experimental results show that the optimal representation depth is highly dataset-dependent, more expressive probes provide only selective gains over linear baselines, and sparse autoencoder features perform similarly to dense hidden states. Ultimately, we demonstrate that the choice of training data and lie typology substantially changes detectability, highlighting that deception detection is a highly representation-dependent problem."
-  },
-  {
-    "id": "9e850eb1562af9b6",
-    "title": "Enabling Scalable Topology Inference in Distribution Systems via Constrained Multi-Source Inference",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20480",
-    "article_text": "arXiv:2607.20480v1 Announce Type: new \nAbstract: Accurate distribution system topology is essential for outage localization, voltage analytics, and operation of distribution grids, yet maintaining reliable connectivity records remains challenging in practice due to heterogeneous and imperfect utility data. Existing topology identification methods often rely primarily on electrical similarity or spatial records alone, which become unreliable in dense feeders and under inconsistent metadata conditions. This paper formulates distribution topology identification as a constrained inference problem that refines a utility-provided base topology using heterogeneous evidence while enforcing spatial feasibility and physical operational constraints. Instead of reconstructing connectivity from scratch, the proposed framework detects inconsistent assignments, performs localized reconnection within constrained neighborhoods to ensure scalability, and iteratively enforces physical feasibility to produce operationally consistent topology estimates. In addition, a falsification-driven reliability metric evaluates how strongly each inferred connection is supported relative to alternative feasible assignments, enabling utilities to prioritize verification efforts while preserving system-wide observability. The framework is validated using operational data from three feeders comprising more than $8{,}000$ AMI meters in collaboration with a large U.S. utility. Results demonstrate over $95\\%$ topology reconstruction accuracy while significantly reducing computational effort compared with global inference approaches. The study further shows that correlation-based methods alone produce ambiguous assignments in dense urban feeders, whereas combining electrical measurements with spatial and operational constraints enables robust and scalable topology recovery under realistic deployment conditions."
-  },
-  {
-    "id": "5dec79c2e3fcfdd1",
-    "title": "Routing Without Training: Controllable-Ratio LLM Offloading via Reliability Gating",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20481",
-    "article_text": "arXiv:2607.20481v1 Announce Type: new \nAbstract: Local-cloud collaboration is a practical way to deploy large language models under resource constraints, but existing methods often rely on trained routers or collaboration-aware finetuning that tie routing behavior to a particular operating regime. In this work, we show that such training may be unnecessary: the local model's own inference-time agreement across sampled responses already provides a strong signal for deciding when to trust local execution and when to offload to a stronger cloud model. We propose CARGO, a training-free routing framework that estimates this agreement through prompt-varied sampling, applies Bayesian early stopping for sample-efficient uncertainty control, and supports arbitrary target collaboration ratios through lightweight deployment-time calibration. Across diverse reasoning and question-answering tasks, multiple local LLM families and scales, and both pretrained and finetuned local models, CARGO consistently outperforms other training-free baselines and in several settings surpasses supervised learned routers. These results suggest that effective and adaptable local-cloud collaboration can emerge directly from the local model's intrinsic response behavior, without requiring an additional trained router."
-  },
-  {
-    "id": "33e11c2e3fe1b4cf",
-    "title": "PersonaTrail: Benchmarking Personalized Web Agents through Browsing Trails",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20482",
-    "article_text": "arXiv:2607.20482v1 Announce Type: new \nAbstract: Recent advances in large language models have enabled web agents to autonomously execute complex tasks. In practice, users frequently provide underspecified instructions, requiring agents to infer the missing context from their raw browsing histories. Existing benchmarks fail to capture this form of personalization, as they either restrict tasks to fully explicit prompts or abstract web interaction history into simplified forms. To bridge this gap, we introduce PersonaTrail, a benchmark for personalized web agents operating in a managed open web environment. By leveraging realistic browsing trajectories as user history, PersonaTrail evaluates an agent's ability to infer user preferences and recall information from past browsing sessions. We further propose Preference-Aware Contextual Memory (PACMem), a framework that decomposes raw browsing histories into two types of structured memory: factual memories that summarize individual sessions and preference memories that distill recurring behavioral patterns. At inference time, the agent retrieves the most relevant entries from these memories to guide personalized navigation. Extensive experiments show that PACMem consistently outperforms existing memory-based baselines on both tasks."
-  },
-  {
-    "id": "4160d5bdec5c1f5e",
-    "title": "DataPrep-Bench: Benchmarking LLMs as Training Data Preparators",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20465",
-    "article_text": "arXiv:2607.20465v1 Announce Type: new \nAbstract: The quality of training data fundamentally determines the capabilities of large language models (LLMs), yet no unified benchmark exists to measure how well LLMs, agents, and data-centric workflows actually prepare training data end to end. We view LLM-driven data preparation as comprising two complementary capabilities: data construction, which transforms raw sources into supervised training data, and data quality evaluation, which predicts the training value of candidate datasets before downstream training; throughout, \"quality\" refers to downstream training utility rather than surface-level textual properties. We introduce DataPrep-Bench, the first unified benchmark that jointly evaluates both capabilities under a shared downstream-grounded protocol over six domains and multiple base models. For data construction, methods consume identical raw sources and are scored by fine-tuning a base model on their outputs jointly with Dolly-15k; alongside this track we release Data-Construction-Skill, a skill-guided agent that lifts the Dolly-only baseline by nearly 20 points absolute on Llama-3.1-8B Finance and is competitive with the strongest agent- and DataFlow-based methods in knowledge-extraction-dense domains. For data quality evaluation, scoring functions are scored by Pearson correlation with downstream performance on a shared candidate pool; we release the Distributional Alignment Score (DAS), a distribution-based evaluator that uses MMD between a candidate dataset and a domain proxy. DAS attains the strongest cross-model correlation in four of six domains and is the only metric clearing r > 0.70 simultaneously in Math, Science, and Medical, outperforming existing quality-, diversity-, and heuristic-based evaluators. DataPrep-Bench provides a unified, downstream-grounded framework for measuring progress on both capabilities as co-equal targets of LLM-driven data preparation."
-  },
-  {
-    "id": "5c0f72e329cd2e2d",
-    "title": "PhantomFill: When the Form Demands an Answer, Language Models Invent One",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20492",
-    "article_text": "arXiv:2607.20492v1 Announce Type: new \nAbstract: Language models in production do not write prose. They fill forms: JSON fields, function arguments, extraction templates. We show that the form itself causes hallucination.\n  We ask thirteen models the same question about the same input and change only the answer format. The inputs are built so the question cannot be answered: a viral post showing 12,400 likes but no visible replies, a support ticket whose call was never transcribed. In free text, GPT-5.5 answers honestly. It says there is no reply data, 98% of the time. Given a required JSON field for sentiment, the same model invents an answer 40 times out of 40. It fabricates the mood of crowds it never saw and quotes customers it never heard.\n  The pattern holds with force. Required fields drive fabrication to 100% in ten of thirteen models. An explicit \"insufficient evidence\" option rescues only the frontier: all nine open-weight models ignore it. A direct instruction, do not infer sentiment, is overridden by the schema in four of six models. Resistance does not come with scale: within a single model family, the smallest model refuses, the mid-sized model fabricates, the largest refuses again. Honesty under format pressure is a training outcome that no one is measuring.\n  The fabrication hides exactly where hedging is impossible: in required enums and minimum-count arrays, fields where no disclaimer fits. We release PhantomFill, a benchmark with deterministic scoring and two reportable numbers: the Coerced Fabrication Rate and the Escape Utilization Rate. The fix we test is one line of schema. The failure we measure is everywhere."
-  },
-  {
-    "id": "694d0dd50c45bfdd",
-    "title": "The Active Ingredient in Muon's Grokking",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20512",
-    "article_text": "arXiv:2607.20512v1 Announce Type: new \nAbstract: The Muon optimizer reaches the grokking threshold on modular arithmetic faster than AdamW. Prior work attributes this to \"spectral-norm constraints plus orthogonalized momentum\" but does not isolate which mechanism matters. To better understand Moun's behavior, we run multi-seed and multi-learning-rate sweeps to decompose and stress-test the effect. First, an ablation shows the speedup comes from orthogonalization (the Newton-Schulz iteration): orthogonalize-only matches full Muon, whereas spectral-only is no faster than AdamW and is unreliable, and this verdict holds across learning rates. Second, a mechanistic analysis finds that orthogonalizing optimizers reach generalization at roughly 3x lower spectral norm and, controlling for how much the embedding actually moves, settle into a lower-norm solution rather than simply perturbing the embedding less. Third, reducing the Newton-Schulz iteration count from five to one accelerates reaching the threshold but makes the grokked solution fragile, prone to transient collapse, with fragility that grows with learning rate; a single iteration is fast and stable only at small learning rate, while the canonical five iterations are the learning-rate-robust choice. We also show spectral scaling can be dropped at no measured cost. A methodological thread runs throughout: under a stability-aware metric, \"faster\" claims about grokking optimizers can invert, so we report both first-crossing and sustained-grok times. To support reproducibility, we release our full training and analysis code at https://github.com/louiswang524/muon-grokking-frontier"
-  },
-  {
-    "id": "757d0b6656c29d60",
-    "title": "Scaling Closed-Loop Feature Channel Configuration with LLMs",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20516",
-    "article_text": "arXiv:2607.20516v1 Announce Type: new \nAbstract: Promising initial results in closed-loop large-language-model-based channel-configuration search demonstrated that neural-network widths can be optimized directly through executable code generation and accuracy feedback. However, those results were obtained from a relatively sparse set of valid evaluations, leaving open whether the observed optimization behavior transfers to a denser sampling regime and whether additional architectural regularities emerge when more generated networks are evaluated. To test this, the same search setting is scaled to 250 candidate networks per fine-tuning cycle. The analysis covers 2000 generated candidates from 8 complete cycles, yielding 462 verified CIFAR-100 evaluations after task and metadata filtering. Per-cycle mean accuracy exhibits a positive linear trend with slope 9.87e-4 (p=0.043), while the high-performing frontier improves more strongly: the best observed accuracy increases from 0.3144 to 0.3676, and both the top-5 and top-10 cycle-level means exhibit positive trends. The scaled run also reveals improved parameter efficiency. The best model reaches 0.3676 with 11.8M parameters, compared with an early high-performing model at 0.3144 with 166.5M parameters. Beyond accuracy, the larger sample exposes architectural regularities that were difficult to assess from sparse observations. Non-power-of-two channel widths occur in 41.8% of verified candidates, and the strongest models share structured channel-allocation patterns characterized by moderate early widths and expanded middle or later blocks. These findings indicate that the channel-search signal observed in the initial study transfers"
-  },
-  {
-    "id": "eaae8ce89f76c7e4",
-    "title": "Multimodal CoLRAG-TF: Triple-Filtered Retrieval for Complex PDFs",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20517",
-    "article_text": "arXiv:2607.20517v1 Announce Type: new \nAbstract: Retrieval-augmented generation (RAG) over heterogeneous PDF collections remains challenging due to multimodal content, domain-specific terminology, and the need for multi-hop reasoning across dispersed evidence. We present Multimodal CoLRAG-TF, a four-axis fusion architecture that integrates dense text embeddings, BM25 keyword matching, knowledge-graph triple filtering, and image-based similarity for robust retrieval over complex documents. Our system constructs a multimodal index of 2,403 blocks extracted from 43 Japanese disaster lesson PDFs, supported by a hybrid OCR pipeline and LLM-based caption generation. To enhance compositional reasoning, we extract 11,414 OpenIE triples and index them with FAISS, enabling sub-second triple lookup and hierarchical propagation of relevance signals. A HippoRAG2-inspired coarse-to-fine retriever (volume $\\to$ chapter $\\to$ block) narrows the search space before final fusion scoring. Bayesian optimization over fusion weights reveals that the triple axis must dominate ($\\alpha_\\text{triple} = 0.44$) to counteract lexical bias and sustain multi-hop retrieval quality. Evaluated on a 457-pair benchmark, Multimodal CoLRAG-TF achieves a Retrieval Recall of 0.9909 and a 71.6$\\%$ improvement in multi-hop answer similarity over single-hop queries. An image-to-lesson pipeline using a vision LLM further demonstrates the applicability of the approach to visual inputs. These results show that triple-filtered multimodal fusion is essential for structured reasoning over noisy, heterogeneous PDFs and provides a general framework applicable beyond the disaster domain."
-  },
-  {
-    "id": "193182843eb514a0",
-    "title": "Adaptive Depth in Looped Transformers: Diagnosing Learned Halting Gates and Trajectory Readouts",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20519",
-    "article_text": "arXiv:2607.20519v1 Announce Type: new \nAbstract: Looped Transformers increase test-time computation by repeatedly applying a shared recurrent block. Learned halting objectives in looped Transformers typically use a single exit distribution both as the inference-time stopping rule and as the training-time weighting of per-depth losses. This entangles exit selection with trajectory formation: the gate not only chooses which recurrent state to use, but also determines how strongly each intermediate state is supervised. Consequently, poor adaptive-compute performance can arise from the readout, the induced trajectory, or their interaction. We study adaptive depth in looped Transformers through this trajectory--readout lens, across controlled synthetic tasks (modular arithmetic and binary parity) and large-scale Ouro-1.4B and 2.6B checkpoints. We find that fixed-prior depth supervision, which shapes the trajectory without an input-dependent halting policy, produces difficulty-aware trajectories whose intermediate states expose useful stopping signals, and that simple post-hoc confidence readouts often match or outperform learned linear and MLP gates. Fitting gates on frozen trajectories localizes the failure: it appears to stem mainly from the trajectory induced by joint gate training rather than from limited gate expressivity. The same pattern is present in Ouro evaluations, where pretrained ponder gates are competitive but not uniformly Pareto-optimal, and measured latency confirms that the resulting reductions in average exit depth translate into practical inference-time savings. Our systematic diagnostic evaluation reframes adaptive depth in looped Transformers as a joint problem of trajectory formation and exit readout, rather than gate learning alone, highlighting a distinction that prior learned-halting work has often left implicit."
-  },
-  {
-    "id": "43b4dc739011934f",
-    "title": "Generative Bayesian Filtering for State Estimation",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20521",
-    "article_text": "arXiv:2607.20521v1 Announce Type: new \nAbstract: The state of a dynamic system evolves over time, switching among several latent modes that govern its observable behavior. Filtering methods infer the latent state from observations. Classical filtering approaches, including Kalman filters, typically rely on simple observation models, such as linear-Gaussian models, that are incapable of characterizing the increasingly nonlinear and heterogeneous patterns in high-dimensional sensor signals. To tackle the challenge, we propose Generative Bayesian Filtering (GBF), a filtering framework that replaces restrictive observation models with pretrained conditional generative models parametrized by conditional variational autoencoders (CVAE). For online inference, GBF performs a Bayesian prediction-update recursion in which the measurement update is formulated as a posterior sampling problem that combines the dynamical prior with the CVAE-induced likelihood. The resulting filtering problem is then transformed into a score-based sampling problem, which naturally inherits the flexibility from generative models and the uncertainty quantification capabilities from ensembling. Experiments on synthetic datasets and real-world applications involving manufacturing system monitoring and arrhythmia diagnosis demonstrate that GBF improves state estimation accuracy and robustness relative to baseline approaches."
-  },
-  {
-    "id": "fada4de3d3bd3dc9",
-    "title": "Do Active SAE Feature Planes Carry More Holonomy? A Preregistered Reversal in Gemma",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20522",
-    "article_text": "arXiv:2607.20522v1 Announce Type: new \nAbstract: This paper tests whether holonomy concentrates on active sparse-autoencoder (SAE) feature planes in Gemma 2 2B, a concrete operationalization of the broader semantic-concentration prediction. Holonomy is measured at the final-token layer-12 to layer-13 residual-stream readout by carrying a local frame around small loops using the instrument's restricted-Jacobian transport rule, then normalizing the resulting rotation by enclosed area. The design, materiality threshold, analysis, and verdict rules were preregistered and frozen before the analysed measurements were inspected. The prediction was falsified in reverse: active-feature planes carried less holonomy than matched mixed-feature controls, with an adjusted log contrast of -0.29439 and 95% interval [-0.43989, -0.14889]. A magnitude-only explanation was not supported in this design, while the three-way ordering across random, mixed-feature, and active-feature planes was undefined at matched magnitude because common support failed. Post-freeze diagnostics at the same readout supported the area law on a small validation subset, bounded matched-center displacement under a simple paired regression, and identified transport distortion as a live mechanism or confound. The result is therefore a narrow, auditable operational reversal, not a causal claim that meaning suppresses holonomy. The cause remains open, with activation-strength geometry, degree of feature engagement, dictionary geometry, matched-center displacement, activation-manifold proximity, and transport shear as live alternatives."
-  },
-  {
-    "id": "1cafe80782f9d6e1",
-    "title": "Uncertainty-Aware Trust Estimation for Multi-LLM Systems via Structured Expert Judgement",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20529",
-    "article_text": "arXiv:2607.20529v1 Announce Type: new \nAbstract: Large Language Model (LLM) ensembles are increasingly used to improve reliability by combining predictions from multiple LLMs. However, existing aggregation methods typically assume that all models are equally trustworthy, overlooking differences in uncertainty quality. This assumption is poorly suited to heterogeneous LLMs, whose reliability and capability vary significantly, making naive aggregation vulnerable to unreliable or adversarial experts. In this work, we formulate multi-LLM aggregation as a problem of uncertainty-aware trust estimation. We adapt structured expert judgment from decision theory, using context-aware calibration questions to estimate expert reliability based on the quality of its probabilistic predictions. Specifically, we employ Cooke-style log weighting, which penalises overconfident incorrect predictions and favours well-calibrated experts. We evaluate our approach on MMLU and MMLU-Pro across homogeneous, heterogeneous, and contaminated expert panels. Results show that while aggregation methods perform similarly in homogeneous settings, Cooke weighting becomes critical under heterogeneity and contamination. It achieves a superior accuracy-reliability balance and remains robust when unreliable experts are introduced. These findings suggest that Multi-LLM aggregation requires not just combining predictions, but calibrating trust under uncertainty."
-  },
-  {
-    "id": "fad2c749356dc212",
-    "title": "CLOE: Christoffel Loss Autoencoder for Anomaly Detection",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20530",
-    "article_text": "arXiv:2607.20530v1 Announce Type: new \nAbstract: Semi-supervised anomaly detection plays a key role in diverse fields such as process monitoring, healthcare, and finance. However, lightweight methods often struggle with high-dimensional data and typically require careful tuning of multiple hyperparameters. Among existing approaches, Christoffel Function--based methods are attractive due to their simplicity, requiring at most a single hyperparameter. They also benefit from a well-established theoretical foundation that yields several interesting results for data science. However, their main limitation is poor scalability to high-dimensional settings. In this paper, we introduce CLOE, a new method that combines an autoencoder for dimensionality reduction with a Christoffel Function--based detector applied in the latent space. To better align representation learning with anomaly detection, we design a novel loss function that leverages the Christoffel Function to guide the autoencoder toward representations that better capture the support of the normal data distribution. We further propose a principled procedure to set the detection threshold and an efficient strategy to tune the single remaining hyperparameter. Experiments on multiple high-dimensional tabular anomaly detection benchmarks demonstrate that CLOE achieves superior performance compared to existing methods, while preserving the lightweight and low-tuning advantages of Christoffel Function--based approaches."
-  },
-  {
-    "id": "e784bee33862211e",
-    "title": "Position: Stop Reactively Patching Your Model Every Time and Start Proactive Test-Driven AI Development",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20532",
-    "article_text": "arXiv:2607.20532v1 Announce Type: new \nAbstract: Many modern AI systems are designed to operate under diverse, open-ended, use-cases. To help generalize deployed systems, many deployed-system maintenance pipelines use a reactive AI flywheel that observes emerging feedback from user behavior (errors) and patches the model accordingly. However, when used as the primary maintenance mechanism, these flywheels often ignore the broader context of these errors within the system's objectives, failing to preempt potential future edge cases, which leads to more unnecessary flywheel iterations. Also, it is statistically increasingly difficult to collect remaining errors due to the long-tail nature of open-world use-cases. This position paper argues that a proactive test-driven flywheel is required to address reactive flywheel's limitations and to approach a generalizable system. We advocate for creating a \"test space\" to technically map feedback data to task objectives, evolving the flywheel from reactive to proactive. We augment our position by mathematically proving a proactive one achieves better long-term scaling with fewer iterations than the reactive flywheel."
-  },
-  {
-    "id": "8d4149d3b5c8787e",
-    "title": "Grounding Investor Views: Neural Predicates in the Black-Litterman Model",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20533",
-    "article_text": "arXiv:2607.20533v1 Announce Type: new \nAbstract: Portfolio construction under the Black-Litterman model requires investors to specify views on asset returns alongside explicit uncertainty estimates -- a process that remains largely subjective and difficult to scale. We propose a formal approach in which neural predicates serve as a structured, probabilistic mechanism for view generation. In our formulation, structured financial analysis data is processed through a compositional hierarchy of neural predicates whose outputs -- probability distributions over market stances -- are mapped to the pick matrix $\\mathbf{P}$, the view return vector $\\mathbf{q}$, and the view uncertainty matrix $\\boldsymbol{\\Omega}$ of the Black-Litterman model. View confidence is derived from predicate output distributions, providing a data-driven alternative to subjective uncertainty elicitation. The resulting approach is interpretable, in the sense that any portfolio weight can be traced back through the predicate's logical chain to the underlying data, and fully differentiable, enabling end-to-end learning."
-  },
-  {
-    "id": "2bf277aec56c5053",
-    "title": "A Graph Neural Network approach to zero-shot Digital Twins",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20535",
-    "article_text": "arXiv:2607.20535v1 Announce Type: new \nAbstract: Traditional Predictive Digital Twins often remain geometrically rigid, requiring extensive retraining or fine-tuning whenever the underlying physical domain or boundary conditions change. To overcome this limitation, we present a novel framework for \\textit{Zero-Shot Digital Twins} that seamlessly couples real-time visual perception with a geometry-agnostic, physics-informed reasoning engine. At the core of our architecture is the Thermodynamics-Informed Graph Neural Network architecture, a Geometric Deep Learning solver grounded in a metriplectic thermodynamic formalism that enforces energy conservation and non-negative entropy production locally through graph message passing. The framework integrates an auxiliary Graph Neural Network to infer unobservable fields (such as stress tensors or velocity and energy distributions) directly from sparse initial visual boundaries, mitigating numerical start-up transients. To bridge the sim-to-real gap, we implement a continuous closed-loop data assimilation mechanism; the pipeline tracks macroscopic deformations and free-surface fluid boundaries in real-time using deep segmentation networks combined with sparse optical flow, dynamically correcting the autoregressive simulation rollout and eliminating numerical drift. To test the validity of our approach, we demonstrate the extreme generalization capabilities of our approach across two disparate physical regimes: the large deformations of a viscoelastic beam and the non-linear sloshing of a viscous fluid. In both scenarios, the unified framework instantiates physically accurate simulations on novel, unseen geometries without case-specific retraining, operating well within real-time latency budgets (approximately 25 ms per frame) and enabling the direct projection of latent mechanical variables via Augmented Reality."
-  },
-  {
-    "id": "ba1f1116a8ceb2fc",
-    "title": "ReliableTableQA:How Much Supervision Does Reliability Annotation Need?",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20537",
-    "article_text": "arXiv:2607.20537v1 Announce Type: new \nAbstract: We introduce ReliableTableQA, a framework for training an LLM to annotate the statistical reliability of tabular QA results, not whether the query is answerable, but whether the computed answer is statistically meaningful. In real enterprise analytics, a syntactically correct SQL query can return a value that is based on too small a sample, has an excessively wide confidence interval, or is too confounded to support action. Existing systems answer confidently in all such cases, a failure we quantify as the Unreliable Confident Answer Rate (UCAR). We contribute (1) a ten-category reliability taxonomy (R1-R10) covering hazards such as small-sample aggregates, multiple-comparison inflation, and distribution-tail mismatch; (2) a program-first data pipeline that generates 50,000 reliability-labeled training examples from a context-free grammar over public retail schemas, with schema-stratified SFT/GRPO splits; and (3) a controlled study of how much supervision calibrated reliability annotation actually requires. We find that a small, schema-stratified SFT set is remarkably sufficient: 200 examples raise reliability-flag F1 from 0.61 to 0.98 and parse rate from 0.52 to 1.00, drive UCAR to zero, and yield a model that generalizes to an unseen retail domain (Rel-F1 0.997 on held-out H&amp;M). Against this strong SFT baseline, GRPO, commonly assumed to be essential, helps only when SFT is under-trained (+0.06-0.16 exact-flag-set match at 100 examples, in- and out-of-distribution) and provides no measurable benefit once SFT is adequate, a null result we confirm across a hard compound-flag slice, a strict exact-match metric, and out-of-distribution evaluation. Our findings reframe reliability annotation as a data-efficiency problem and delineate precisely when reinforcement fine-tuning does and does not pay off."
-  },
-  {
-    "id": "2e000e3f32ef81cd",
-    "title": "Codec-Gauge: Learning Compression-Friendly Gauges for Transformer KV Caches",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20538",
-    "article_text": "arXiv:2607.20538v1 Announce Type: new \nAbstract: Long-context Transformer inference increasingly relies on KV-cache compression or quantization. Prior rotation and transform-coding results suggest that the channel basis of each key/value vector affects how faithfully a fixed backend preserves model behavior. We introduce Codec-Gauge, a post-training cache-coordinate layer that learns small orthogonal channel transforms around existing compression and quantization backends. Its frequency-distribution objective combines a token-channel DCT spectral-centroid loss with a smooth rate proxy to concentrate KV energy in low-frequency codec-facing layouts. We evaluate actual compression and decompression using measured bytes and rolling compressed-history scoring. Across six models at $3$, $4$, and $6$ bits/value, learned gauges reduce zfp KL divergence by $44.0\\%$ on average relative to raw coordinates and outperform random, Hadamard, DCT, and PCA/KLT controls. The same gauges improve quality preservation for block-uniform and KIVI-style quantization. Experiments on a 27B model and long-context task prompts reproduce the quality trend, while serial storage and timing measurements validate the implemented compressed-cache paths. These results establish cache-coordinate geometry as a practical post-training variable for improving compression fidelity without changing model weights, attention semantics, or backend coding rules."
-  },
-  {
-    "id": "4904b9ea3fbc73a4",
-    "title": "Leveraging Biokinetic Knowledge Priors for Data-Scarce Bioprocess Modeling",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20539",
-    "article_text": "arXiv:2607.20539v1 Announce Type: new \nAbstract: While deep learning has accelerated drug discovery, its impact on biomanufacturing has been considerably more limited. The reason is data scarcity. Bioreactor experiments are high-cost, take days to weeks, and are rarely shared in public form, leaving each research work with only a handful of experiments. The domain itself, however, is rich in prior knowledge. Biokinetic ordinary differential equation (ODE) models have described microbial growth for decades, yet how to inject this knowledge into a neural network has not been studied systematically. We present the first systematic study of how to inject this ODE knowledge into a neural network, comparing a data-level prior that pre-trains a generic decoder on simulated ODE curves against an architecture-level prior that embeds the ODE inside the decoder. Both consistently outperform no-prior baselines across 11 datasets and 7 microbial species. Our central finding is that the two are substitutable. A generic decoder pre-trained on simulation matches a fully bio-structured decoder trained on real data. Simulation pre-training therefore offers a simple, data-efficient recipe for deep learning under bioprocess data scarcity."
-  },
-  {
-    "id": "ea4f0dd469ea32e9",
-    "title": "From Atoms to Entropy: Optimal Noise Allocation for Diffusion Training in the Convex Regime",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20540",
-    "article_text": "arXiv:2607.20540v1 Announce Type: new \nAbstract: How should a diffusion model decide which noise levels to train on, and how much? Despite the importance of this choice, current noise schedules are based largely on heuristics or empirical tuning. Here, we develop a general statistical framework for studying asymptotically optimal noise-level allocation in diffusion training. Our first main result concerns the fully coupled regime, where information can spread between different time points. Under convexity or Polyak-Lojasiewicz-type assumptions, we show that the optimized training schedule admits an atomic minimizer, concentrated on finitely many noise levels. Our second main result specializes this framework to an idealized independent-learner regime, intended to model temporal specialization in neural networks. Under an additional feature-noise decoupling condition, a random-matrix analysis leads to an information-theoretic proxy: the decoupled sampling density is proportional to the square root of the generative entropy rate, the rate at which conditional entropy grows along the forward process. We test these predictions in controlled settings where the coupled objective can be optimized directly, including Dirac mixtures, low-dimensional manifolds, and MNIST. In these settings, the optimized schedules are consistently finite-support, while the smooth entropic proxy closely tracks the atomic optimum in neural-network models and breaks down mainly in the fully coupled parametric case, as the theory suggests. We then evaluate the entropic schedule in larger-scale experiments, where full schedule optimization is currently intractable. The results indicate that square-root entropy scheduling can substantially improve training efficiency on discrete domains and remains competitive with standard EDM-style heuristics on continuous images."
-  },
-  {
-    "id": "0d3eaab4944ebbc6",
-    "title": "HypNO: A Graph-Based Neural Operator with Physics-Informed Message Passing for Hyperbolic Conservation Laws",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20541",
-    "article_text": "arXiv:2607.20541v1 Announce Type: new \nAbstract: We introduce HypNO, a graph-based neural operator for scalar hyperbolic conservation laws. HypNO operates directly on a space-time graph of finite-volume cells and uses adjacency-factored, physics-informed message passing to respect upwinding and entropy admissibility near shocks. We benchmark the architecture on the Lighthill-Whitham-Richards (LWR) and Aw-Rascle-Zhang (ARZ) traffic-flow models, a stress test for operator-learning methods because of their simultaneous global transport and shock formation. HypNO predicts solution snapshots accurately across a range of initial conditions while capturing the shocks and discontinuities of the solution."
-  },
-  {
-    "id": "d1d4c4c24ff38b41",
-    "title": "Improving Access to Essential Medicines via Decision-Aware Machine Learning",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20542",
-    "article_text": "arXiv:2607.20542v1 Announce Type: new \nAbstract: A critical challenge in healthcare systems in low- and middle-income countries (LMICs) is the efficient and equitable allocation of scarce resources, particularly essential medicines. This problem is complicated by limited high-quality data, which restricts the applicability of traditional data-driven techniques. We propose a novel decision-aware machine learning framework for essential medicines allocation, which additionally leverages multi-task learning to ensure sample efficiency and catalytic priors to ensure equitable allocation. In collaboration with the Sierra Leone national government, we performed a staggered, nationwide deployment of our system as a decision support tool. Our econometric evaluation finds an estimated 19% increase in consumption of allocated products in treated districts, demonstrating its efficacy at improving access to essential medicines. Our tool was subsequently scaled nationwide, covering an estimated 2 million women and children under five. Our work demonstrates how machine learning methods can improve efficiency at very low cost in resource-constrained global health settings."
-  },
-  {
-    "id": "4ce57dfb01768393",
-    "title": "When RLVR Shrinks the Reasoning Boundary: Diagnosing Pass@k Inversion",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 24 Jul 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2607.20543",
-    "article_text": "arXiv:2607.20543v1 Announce Type: new \nAbstract: Reinforcement learning with verifiable rewards (RLVR) can improve one-sample accuracy while making a model worse under repeated sampling. We study this pass@k inversion: after training, the policy may solve fewer distinct problems than its base model at large $k$. The failure concentrates on boundary prompts, where the base model contains rare correct trajectories that are recoverable by sampling but too sparse to reliably appear in finite RLVR rollout groups. We argue that a two-mode account explains this as an absence-of-evidence failure: rare correct trajectories may disappear before RLVR samples and reinforces them often enough. The main contribution is this diagnostic and mechanistic framing. Per-Problem Base Anchoring (PBA) is a deliberately simple proof-of-concept: sharpen prompts with sufficient frozen-base correct evidence, and anchor risky prompts to the base distribution. Across three training seeds on Omni-MATH-Test, with MATH500 as a secondary high-coverage validation benchmark, PBA improves both \\PassK{1} and high-budget coverage over matched GRPO. A 3000-prompt regime-controlled diagnostic study is consistent across seeds with the expected signature: ordinary GRPO loses base-solvable boundary prompts, while PBA preserves rare verifier-positive trajectories. We use mathematical verifiers as a controlled testbed for verifier-guided optimization; the same pass@k inversion risk applies to ECCV-relevant vision-language agents when repeated visual, spatial, or chart-reasoning attempts are checked by external tools or verifiers. Reasoning post-training should decide not only how strongly to optimize, but which prompts are safe to optimize."
-  },
-  {
-    "id": "bafb88912c9368fa",
-    "title": "allschills 1.6.1",
+    "id": "2fa3362bf1383fcb",
+    "title": "tensor-grep 1.98.1",
     "source": "Pypi.org",
-    "publication_date": "2026-07-24T03:39:37Z",
-    "url": "https://pypi.org/project/allschills/1.6.1/",
+    "publication_date": "2026-07-24T14:03:38Z",
+    "url": "https://pypi.org/project/tensor-grep/1.98.1/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "82af8365014770d2",
-    "title": "distil-llm 1.26.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T03:39:30Z",
-    "url": "https://pypi.org/project/distil-llm/1.26.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "id": "a8ad9bfd7576230b",
+    "title": "Netanyahu vows to turn Israel into an AI superpower, but can he?",
+    "source": "Haaretz",
+    "publication_date": "2026-07-24T14:03:11Z",
+    "url": "https://www.haaretz.com/israel-news/2026-07-24/ty-article/.premium/netanyahu-vows-to-turn-israel-into-an-ai-superpower-but-can-he/0000019f-8f03-df92-a7ff-af837f820000",
+    "article_text": "When Prime Minister Benjamin Netanyahu vowed last September to make Israel independent of foreign supplies of arms and ammunition, to turn itself in to what he called a \"super-Sparta,\" he elicited a … [+163 chars]"
   },
   {
-    "id": "538be44983167a25",
-    "title": "Malaysia sells first dollar bonds in 5 years as fuel subsidy bill rises",
-    "source": "The Straits Times",
-    "publication_date": "2026-07-24T03:39:00Z",
-    "url": "https://www.straitstimes.com/business/malaysia-sells-first-dollar-bonds-in-5-years-as-fuel-subsidy-bill-rises",
-    "article_text": "KUALA LUMPUR Malaysia raised US$1.5 billion (S$1.9 billion) in its first dollar bond sale in five years, bolstering funding as the South-east Asian nation grapples with a fuel subsidy bill that is li… [+2124 chars]"
+    "id": "9676325be3a315d6",
+    "title": "(PR) MiTAC Computing Advances Agentic AI Infrastructure with 6th Gen AMD EPYC Server CPUs",
+    "source": "Techpowerup.com",
+    "publication_date": "2026-07-24T14:02:46Z",
+    "url": "https://www.techpowerup.com/351059/mitac-computing-advances-agentic-ai-infrastructure-with-6th-gen-amd-epyc-server-cpus",
+    "article_text": "MiTAC Computing Technology Corp., a global leader in high-performance, energy-efficient server solutions and a subsidiary of MiTAC Holdings Corporation (TWSE:3706), is highlighting its latest agentic… [+6148 chars]"
   },
   {
-    "id": "37673efc6f17f283",
-    "title": "allschills 1.6.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T03:38:02Z",
-    "url": "https://pypi.org/project/allschills/1.6.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "id": "e7cb89f5913a6dec",
+    "title": "Ohio Small Business, TheNumbers.com, East Texas Data Center, More: ResearchBuzz AI Update, July 24, 2026",
+    "source": "Researchbuzz.me",
+    "publication_date": "2026-07-24T14:02:32Z",
+    "url": "https://researchbuzz.me/2026/07/24/ohio-small-business-thenumbers-com-east-texas-data-center-more-researchbuzz-ai-update-july-24-2026/",
+    "article_text": "AI PROBLEMS \r\nSpectrum News: Ohio business says inaccurate Google AI summary of store is hurting sales. “About a week ago, [Chanel Bush] said a customer told her that the Google AI summary of the sto… [+6488 chars]"
   },
   {
-    "id": "3cf59b28874640be",
-    "title": "sixtytwo-cli 0.3.34",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T03:37:28Z",
-    "url": "https://pypi.org/project/sixtytwo-cli/0.3.34/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "id": "d7843c9853b78a5b",
+    "title": "Best Galaxy Z Fold 8 Ultra upgrades that make a real difference",
+    "source": "SamMobile",
+    "publication_date": "2026-07-24T14:01:56Z",
+    "url": "https://www.sammobile.com/news/best-samsung-galaxy-z-fold-8-ultra-features/",
+    "article_text": "Samsung has launched its new flagship smartphone with a book-style foldable display, the Galaxy Z Fold 8 Ultra. While the device brings many improvements over its predecessor, the Galaxy Z Fold 7, th… [+6270 chars]"
   },
   {
-    "id": "c6ad904decf8f2a0",
-    "title": "x-chem2smi-utils 0.1.3",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T03:36:49Z",
-    "url": "https://pypi.org/project/x-chem2smi-utils/0.1.3/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "id": "0077fd6a07513284",
+    "title": "Xometry (XMTR) Gains from Increased Growth and Profitability",
+    "source": "Yahoo Entertainment",
+    "publication_date": "2026-07-24T14:01:11Z",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/xometry-xmtr-gains-increased-growth-140111694.html",
+    "article_text": "ClearBridge Investments, a global equity manager, recently published second-quarter 2026 commentary for its \"Small Cap Growth Strategy\". A copy of the letter can be downloaded here. The Russell 2000 … [+2574 chars]"
   },
   {
-    "id": "890f9fcbe8455b31",
-    "title": "Microsoftが画像生成AI「MAI-Image-2.5-Pro」をリリース、独自開発AIをOffice製品などに統合して他社への依存を減らす",
-    "source": "Livedoor.com",
-    "publication_date": "2026-07-24T03:32:00Z",
-    "url": "https://news.livedoor.com/article/detail/31901109/",
-    "article_text": "MicrosoftAIMAI-Image-2.5-Pro\r\nIntroducing MAI-Image-2.5-Pro and MAI-Voice-2-Flash | Microsoft AI\r\nhttps://microsoft.ai/news/introducing-mai-image-2-5-pro-and-mai-voice-2-flash/\r\nMAI-Image-2.5-Pro | A… [+537 chars]"
+    "id": "29cf8850175497ec",
+    "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
+    "source": "BleepingComputer",
+    "publication_date": "2026-07-24T14:01:11Z",
+    "url": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
+    "article_text": "Three attacks, three names, and one identical flaw: AI coding agents treat a hallucinated identifier as a verified command.\r\nBy Shane Warden, Principal Architect, ActiveState\r\nAsk an AI coding agent … [+9700 chars]"
   },
   {
-    "id": "576cc989badc53b5",
-    "title": "oneopen-ml-studio added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T03:31:13Z",
-    "url": "https://pypi.org/project/oneopen-ml-studio/",
-    "article_text": "Open-source, local-first ML data platformFrom raw data annotation validated versions training-ready datasets models.\r\nProduct definition\r\nAn open-source, local-first and self-hosted collaborative mac… [+3661 chars]"
+    "id": "231af4cd7a424531",
+    "title": "Network Detection and Response (NDR) Market worth $7.29 billion by 2031 - Report by MarketsandMarkets™",
+    "source": "PR Newswire UK",
+    "publication_date": "2026-07-24T14:01:00Z",
+    "url": "https://www.prnewswire.co.uk/news-releases/network-detection-and-response-ndr-market-worth-7-29-billion-by-2031---report-by-marketsandmarkets-302833999.html",
+    "article_text": "DELRAY BEACH, Fla., July 24, 2026 /PRNewswire/ -- According to MarketsandMarkets, the Network Detection and Response (NDR) Market is projected to grow from USD 4.34 billion in 2026 to USD 7.29 billio… [+8503 chars]"
   },
   {
-    "id": "637b7335f70155f3",
-    "title": "All bad news is priced in, but don't call it a bull market yet: SAMCO MF CEO Viraj Gandhi",
-    "source": "The Times of India",
-    "publication_date": "2026-07-24T03:30:00Z",
-    "url": "https://economictimes.indiatimes.com/markets/expert-view/all-bad-news-is-priced-in-but-dont-call-it-a-bull-market-yet-samco-mf-ceo-viraj-gandhi/articleshow/132574723.cms",
-    "article_text": "Indias stock market may have absorbed the worst of geopolitical tensions, weak IT earnings and rupee pressure, but Viraj Gandhi, CEO of SAMCO Mutual Fund, says it is still too early to declare a bull… [+7866 chars]"
+    "id": "f9ec1f5381d05d8d",
+    "title": "Higher Images Helps Pittsburgh Small Businesses Prepare for AI-Powered Local Search",
+    "source": "GlobeNewswire",
+    "publication_date": "2026-07-24T14:01:00Z",
+    "url": "https://www.globenewswire.com/news-release/2026/07/24/3332901/0/en/Higher-Images-Helps-Pittsburgh-Small-Businesses-Prepare-for-AI-Powered-Local-Search.html",
+    "article_text": "PITTSBURGH, PA., July 24, 2026 (GLOBE NEWSWIRE) -- Higher Images\r\n, an award-winning, full-service digital marketing and advertising agency, is helping Pittsburgh-area small businesses prepare for a … [+9318 chars]"
   },
   {
-    "id": "e17d9e7294a70631",
-    "title": "AI agents, Haskell, and the stubbornness of developers",
-    "source": "Szabo.link",
-    "publication_date": "2026-07-24T03:29:39Z",
-    "url": "https://mauricio.szabo.link/blog/2026/07/24/ai-agents-and-haskell-and-the-stubbornness-of-developers/",
-    "article_text": "Recently, I found an article about a member of the Haskell Foundation who was moving his company away from Haskell. The company built a hardware product with Haskell, and they were moving away reluct… [+6592 chars]"
-  },
-  {
-    "id": "dbb0dd6b4162eb33",
-    "title": "Galaxy Digital Inc. Announces Pricing of $3.507 Billion of Senior Secured Notes",
+    "id": "d49b6c565c7b9d94",
+    "title": "Network Detection and Response (NDR) Market worth $7.29 billion by 2031 - Report by MarketsandMarkets™",
     "source": "PRNewswire",
-    "publication_date": "2026-07-24T03:29:00Z",
-    "url": "https://www.prnewswire.com/news-releases/galaxy-digital-inc-announces-pricing-of-3-507-billion-of-senior-secured-notes-302833899.html",
-    "article_text": "NEW YORK, July 23, 2026 /PRNewswire/ -- Galaxy Digital Inc. (NASDAQ: GLXY) (\"Galaxy\" or the \"Company\"), a global leader in digital assets and data center infrastructure, today announced that its indi… [+5119 chars]"
+    "publication_date": "2026-07-24T14:01:00Z",
+    "url": "https://www.prnewswire.com/news-releases/network-detection-and-response-ndr-market-worth-7-29-billion-by-2031---report-by-marketsandmarkets-302833997.html",
+    "article_text": "DELRAY BEACH, Fla., July 24, 2026 /PRNewswire/ -- According to MarketsandMarkets, the Network Detection and Response (NDR) Market is projected to grow from USD 4.34 billion in 2026 to USD 7.29 billio… [+8519 chars]"
   },
   {
-    "id": "dcaa8d671defc208",
-    "title": "Trump Draws Blood in the Data Center Electricity Wars: Big Tech Pays, Not You",
-    "source": "Freerepublic.com",
-    "publication_date": "2026-07-24T03:25:52Z",
-    "url": "https://freerepublic.com/focus/f-news/4389163/posts",
-    "article_text": "Skip to comments.\r\nTrump Draws Blood in the Data Center Electricity Wars: Big Tech Pays, Not YouRed State ^\r\n | 07/23/2026\r\n | Teri Christoph\r\nPosted on 07/23/2026 8:25:52 PM PDT by SeekAndFind\r\nThe … [+6555 chars]"
+    "id": "da9ef9e078cee538",
+    "title": "This Week in Security: AI is a Mess, Hacking Car Chargers, an OpenSSL DoS, and Factories Under Attack",
+    "source": "Hackaday",
+    "publication_date": "2026-07-24T14:00:46Z",
+    "url": "https://hackaday.com/2026/07/24/this-week-in-security-ai-is-a-mess-hacking-car-chargers-an-openssl-dos-and-factories-under-attack/",
+    "article_text": "[Ayush Paul] posts about extracting data from Claude agents while it accesses web data to fulfill user requests.\r\nBut it wasn’t that easy. [Ayush] discovered that Anthropic anticipated many of the at… [+9721 chars]"
   },
   {
-    "id": "60088a37c326b55e",
-    "title": "Nick Sirianni Predicted to Become Bengals Head Coach in 2027",
+    "id": "798ef38e48a0ea61",
+    "title": "AI token spending is 'going through the roof': SAP CFO",
     "source": "Biztoc.com",
-    "publication_date": "2026-07-24T03:23:00Z",
-    "url": "https://biztoc.com/x/dfbe2f82849ef01c",
-    "article_text": "Earlier this week, The Athletic's Zach Berman reported that Philadelphia Eagles head coach Nick Sirianni \"discovered ChatGPT this offseason\" and has relied on artificial intelligence to revamp how he… [+142 chars]"
+    "publication_date": "2026-07-24T14:00:44Z",
+    "url": "https://biztoc.com/x/8c20b6166861dc89",
+    "article_text": "SAP CFO Dominik Asam says companies don't always need the most expensive AI modeland sometimes don't need one at all.\r\nThis story appeared on youtube.com, 2026-07-24 13:45:17."
   },
   {
-    "id": "1946cf6fb73c8460",
-    "title": "STMicroelectronics lifts data center target as AI optical demand outruns supply, but margin recovery waits on 2027 reshaping",
-    "source": "Digitimes",
-    "publication_date": "2026-07-24T03:21:30Z",
-    "url": "https://www.digitimes.com/news/a20260724VL204/stmicroelectronics-data-center-recovery-revenue-2027.html",
-    "article_text": "Keep me signed in\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the… [+288 chars]"
+    "id": "0b7e6c1fa6918248",
+    "title": "As agentic AI inference surges, tokenomics becomes the enterprise’s defining budget constraint",
+    "source": "SiliconANGLE News",
+    "publication_date": "2026-07-24T14:00:09Z",
+    "url": "https://siliconangle.com/2026/07/24/tokenomics-defines-agentic-ai-economics-amdadvancingai/",
+    "article_text": "The transition from chatbots to autonomous agents is changing the shape of demand itself, and tokenomics the economics of AI token consumption is emerging as the defining constraint on enterprise bud… [+4865 chars]"
   },
   {
-    "id": "438a51621a00d365",
-    "title": "cage-flux 0.33.0",
+    "id": "bc15f0f91cf483a7",
+    "title": "Pennsylvania takes important step toward statewide methane standards",
+    "source": "Environmental Defense Fund",
+    "publication_date": "2026-07-24T14:00:00Z",
+    "url": "https://www.edf.org/media/pennsylvania-takes-important-step-toward-statewide-methane-standards",
+    "article_text": "<ul><li>Economic opportunity: Pennsylvania is the nations second largest natural gas producer. Strong methane standards will prevent wasted gas, improve industry efficiency and help maintain the long… [+4565 chars]"
+  },
+  {
+    "id": "9edc274419af37b3",
+    "title": "Catheter configuration for mapping micro-anatomic reentries sustaining atrial fibrillation: A simulation study",
+    "source": "Plos.org",
+    "publication_date": "2026-07-24T14:00:00Z",
+    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014493",
+    "article_text": "Citation: Rodrigo M, Romitti GS, Termenón-Rivas M, Li N, Fedorov VV (2026) Catheter configuration for mapping micro-anatomic reentries sustaining atrial fibrillation: A simulation study. PLoS Comput … [+41440 chars]"
+  },
+  {
+    "id": "b99ba423178cf8e2",
+    "title": "PLGA - encapsulated harmine derivative H-2-168: A promising therapeutic agent for mitigating liver damage in hepatic hydatid disease",
+    "source": "Plos.org",
+    "publication_date": "2026-07-24T14:00:00Z",
+    "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014483",
+    "article_text": "Abstract\r\nHarmine (HM), a bioactive alkaloid, exhibits remarkable antiparasitic potency. Nevertheless, its translational potential is substantially constrained by neurotoxicity, necessitating the dev… [+49810 chars]"
+  },
+  {
+    "id": "0a3492a786fbf3be",
+    "title": "The curriculum effect in visual learning: The role of readout dimensionality",
+    "source": "Plos.org",
+    "publication_date": "2026-07-24T14:00:00Z",
+    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014553",
+    "article_text": "Citation: Volk C, Pack CC, Bakhtiari S (2026) The curriculum effect in visual learning: The role of readout dimensionality. PLoS Comput Biol 22(7):\r\n e1014553.\r\nhttps://doi.org/10.1371/journal.pcbi.1… [+82987 chars]"
+  },
+  {
+    "id": "3684eb1bab736563",
+    "title": "Dr. Ekta Pandya Named Fellow of Pierre Fauchard Academy, Recognized for Leadership in Dentistry and Children's Oral Health",
+    "source": "GlobeNewswire",
+    "publication_date": "2026-07-24T14:00:00Z",
+    "url": "https://www.globenewswire.com/news-release/2026/07/24/3332898/0/en/Dr-Ekta-Pandya-Named-Fellow-of-Pierre-Fauchard-Academy-Recognized-for-Leadership-in-Dentistry-and-Children-s-Oral-Health.html",
+    "article_text": "Dr. Ekta Pandya, newly named Pierre Fauchard Academy Fellow.  \r\nNEW PALTZ, N.Y., July 24, 2026 (GLOBE NEWSWIRE) -- Dr. Ekta Pandya, BDS, DDS\r\n, has been named a Fellow of the Pierre Fauchard Academy … [+3071 chars]"
+  },
+  {
+    "id": "61200945c0a049a2",
+    "title": "Riding this comfortable e-bike won’t drain your energy or your wallet",
+    "source": "Popular Science",
+    "publication_date": "2026-07-24T14:00:00Z",
+    "url": "https://www.popsci.com/gear/heybike-venus-budget-friendly-feature-packed-commuter-ebike-review/",
+    "article_text": "We may earn revenue from the products available on this page and participate in affiliate programs. Learn more Sign Up For Goods \r\nProduct news, reviews, and must-have deals.\r\nBy signing up, you conf… [+8426 chars]"
+  },
+  {
+    "id": "344bcd1c4a43bc08",
+    "title": "JAMS Launches AI for Enterprise Job Scheduling: JAX and JAMS MCP",
+    "source": "PRNewswire",
+    "publication_date": "2026-07-24T14:00:00Z",
+    "url": "https://www.prnewswire.com/news-releases/jams-launches-ai-for-enterprise-job-scheduling-jax-and-jams-mcp-302833745.html",
+    "article_text": "Meet JAX and JAMS MCP: AI for enterprise job scheduling, on the model you choose.\r\nPost this\r\nAutomation environments grow faster than the teams that run them. Jobs multiply across SQL Server, Azure … [+4225 chars]"
+  },
+  {
+    "id": "5f9b54e1255a0c17",
+    "title": "Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.",
+    "source": "Blog.google",
+    "publication_date": "2026-07-24T14:00:00Z",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/eu-ai-act-transparency-code-of-practice/",
+    "article_text": "Were signing the EU AI Act Code of Practice on Transparency of AI-Generated Content to help support the responsible use of AI in Europe. This builds on our 2025 signing of the GPAI Code of Practice a… [+1116 chars]"
+  },
+  {
+    "id": "95bdd15a40bde391",
+    "title": "Fundus image analysis of retinitis pigmentosa using artificial intelligence",
+    "source": "Plos.org",
+    "publication_date": "2026-07-24T14:00:00Z",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354452",
+    "article_text": "Performance\r\nRP is a retinal degenerative disease that can lead to loss of sight. Early detection is important in terms of reducing the psychological burden of possible future disabilities even if th… [+12768 chars]"
+  },
+  {
+    "id": "5fd8e3cf7aa72d3a",
+    "title": "Spatial-aware lightweight network for real-time tea disease detection: A coordinate attention-enhanced YOLOv8n approach with path-decoupling strategy",
+    "source": "Plos.org",
+    "publication_date": "2026-07-24T14:00:00Z",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354583",
+    "article_text": "Citation: Lyu X, Yu Y, Song C (2026) Spatial-aware lightweight network for real-time tea disease detection: A coordinate attention-enhanced YOLOv8n approach with path-decoupling strategy. PLoS One 21… [+44460 chars]"
+  },
+  {
+    "id": "7fe6a73690a7ea2e",
+    "title": "Multi-view graph-regularized deep metric subspace clustering network",
+    "source": "Plos.org",
+    "publication_date": "2026-07-24T14:00:00Z",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354307",
+    "article_text": "Citation: Luo P, Yang M, Peng C, Wang Q (2026) Multi-view graph-regularized deep metric subspace clustering network. PLoS One 21(7):\r\n e0354307.\r\nhttps://doi.org/10.1371/journal.pone.0354307\r\nEditor:… [+36946 chars]"
+  },
+  {
+    "id": "c747332a58ef6b5e",
+    "title": "edgecrab-cli 0.12.0",
     "source": "Pypi.org",
-    "publication_date": "2026-07-24T03:17:20Z",
-    "url": "https://pypi.org/project/cage-flux/0.33.0/",
+    "publication_date": "2026-07-24T13:57:47Z",
+    "url": "https://pypi.org/project/edgecrab-cli/0.12.0/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "68b43bb9bd752c3b",
-    "title": "How To Easily Update Your NVIDIA Drivers",
-    "source": "BGR",
-    "publication_date": "2026-07-24T03:17:00Z",
-    "url": "https://www.bgr.com/2217706/how-to-update-nvidia-drivers-guide/",
-    "article_text": "Whether you're a content creator or a gamer, going with an NVIDIA GPU can help ensure you're getting access to some of the company's best available features. Sporting something from the GeForce RTX 5… [+1207 chars]"
+    "id": "afe6933c043b62e5",
+    "title": "Hugging Face Was the Biggest Hack by Far This Week, But It Wasn't the Only One",
+    "source": "PCMag.com",
+    "publication_date": "2026-07-24T13:56:26Z",
+    "url": "https://uk.pcmag.com/security/166343/hugging-face-was-the-biggest-hack-by-far-this-week-but-it-wasnt-the-only-one",
+    "article_text": "The week's biggest security story by a mile: Hugging Face, an AI platform, that was hacked by another AI. OpenAI later confirmed that it was two of its own models, running a security test, that went … [+5253 chars]"
   },
   {
-    "id": "4788880179f7736d",
-    "title": "hermes-delegate-routing added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T03:13:05Z",
-    "url": "https://pypi.org/project/hermes-delegate-routing/",
-    "article_text": "A fork-free Hermes Agent plugin that adds explicit per-task model / provider routing to delegate_task.\r\nRoute each subagent in a batch delegation to a different model/provider:\r\ndelegate_task(tasks=[… [+3787 chars]"
+    "id": "636af5550aa73686",
+    "title": "Hugging Face Was the Biggest Hack by Far This Week, But It Wasn't the Only One",
+    "source": "PCMag.com",
+    "publication_date": "2026-07-24T13:56:26Z",
+    "url": "https://uk.pcmag.com/security/166343/hugging-face-was-the-biggest-hack-by-far-this-week-but-it-wasnt-the-only",
+    "article_text": "The week's biggest security story by a mile: Hugging Face, an AI platform, that was hacked by another AI. OpenAI later confirmed that it was two of its own models, running a security test, that went … [+5248 chars]"
   },
   {
-    "id": "93019aa2dd5ff43e",
-    "title": "AIIMS releases NORCET 11 notification for Nursing Officer recruitment; applications open until August 13",
-    "source": "The Times of India",
-    "publication_date": "2026-07-24T03:11:08Z",
-    "url": "https://timesofindia.indiatimes.com/education/news/aiims-releases-norcet-11-notification-for-nursing-officer-recruitment-applications-open-until-august-13/articleshow/132595272.cms",
-    "article_text": "<ul><li>News</li>\r\n<li>AIIMS releases NORCET 11 notification for Nursing Officer recruitment; applications open until August 13</li></ul>\r\nFollow Us On Social Media\r\nTrump Rules Out Immediate Peace T… [+3013 chars]"
+    "id": "eeb77280148a02c5",
+    "title": "Tech coalition urges open-weight AI push",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-24T13:56:19Z",
+    "url": "https://biztoc.com/x/7055c2d252d1b7cd",
+    "article_text": "A coalition of major technology companies and investors on Friday called on US policymakers to support open-weight artificial intelligence, arguing that broader access will strengthen American innova… [+69 chars]"
   },
   {
-    "id": "2fae2b3f74d4786f",
-    "title": "Brasileirão Sub-20 B ends in Goiás celebrations",
-    "source": "Onefootball.com",
-    "publication_date": "2026-07-24T03:11:00Z",
-    "url": "https://onefootball.com/en/news/brasileirao-sub-20-b-ends-in-goias-celebrations-43178797",
-    "article_text": "The Brasileirão U-20 B came to an end on Thursday night (23) with Goiás celebrating. The Esmeraldino side drew 1-1 with Ceará and won 11-10 on penalties in a match played at Estádio Presidente Vargas… [+3636 chars]"
+    "id": "d2a4dd4bdfc10974",
+    "title": "US lawmakers propose AI 'kill switch' bill",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-24T13:56:13Z",
+    "url": "https://biztoc.com/x/8b946976b19af8e9",
+    "article_text": "US lawmakers introduced a bill requiring a kill switch for advanced AI, after an agent went rogue and hacked into another companys database.OpenAI disclosed this week that its models had attacked AI … [+143 chars]"
   },
   {
-    "id": "0a230b739fb00270",
-    "title": "perplexity-web-mcp-cli 0.14.4",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T03:10:37Z",
-    "url": "https://pypi.org/project/perplexity-web-mcp-cli/0.14.4/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "id": "13ca3f396ae2a1c8",
+    "title": "Wall Street’s week ahead: U.S. stocks face tests from Fed decision, tech-led earnings deluge",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-24T13:55:54Z",
+    "url": "https://biztoc.com/x/00024258fb3c5653",
+    "article_text": "A wobbly U.S. stock market will take its cues in the coming week from a Federal Reserve meeting set to shed light on the path for interest rates, and from a packed slate of corporate earnings led by … [+130 chars]"
   },
   {
-    "id": "51068ddb991b20cc",
-    "title": "orchestral-ai 1.8.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T03:10:16Z",
-    "url": "https://pypi.org/project/orchestral-ai/1.8.1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "id": "beeb915a8066ae5b",
+    "title": "SAP’s stock rises on strong revenue, but analysts warn of guidance risks",
+    "source": "Biztoc.com",
+    "publication_date": "2026-07-24T13:55:41Z",
+    "url": "https://biztoc.com/x/11f4155a1f8c54ec",
+    "article_text": "The stock has dropped 40% since the start of the year on concerns that artificial intelligence may entirely disrupt the software companys business model.\r\nThis story appeared on marketwatch.com, 2026… [+15 chars]"
   },
   {
-    "id": "ff7171b3bd2ca00b",
-    "title": "llm-memory-store added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T03:08:41Z",
-    "url": "https://pypi.org/project/llm-memory-store/",
-    "article_text": "A personal, local-first memory store for LLM applications and agents. The MVP runs as a Python library, CLI, or MCP server over stdio and keeps its data in one SQLite database.\r\nMVP Capabilities\r\n<ul… [+18326 chars]"
+    "id": "0bdf53631cd84b31",
+    "title": "Could a Crash Halve Stock Prices?",
+    "source": "Nakedcapitalism.com",
+    "publication_date": "2026-07-24T13:55:13Z",
+    "url": "https://www.nakedcapitalism.com/2026/07/could-a-crash-halve-stock-prices.html",
+    "article_text": "Yves here. Richard Murphy contends that stock prices could fall by 50%. That may seem a bit extreme until you look at how badly overvalued AI shares are. From a recent post, Bank of International Set… [+13967 chars]"
   },
   {
-    "id": "02e9ac80abd81bf7",
-    "title": "llm-memory-store 0.1.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T03:08:41Z",
-    "url": "https://pypi.org/project/llm-memory-store/0.1.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "a109ddf2d342379c",
-    "title": "mooncake-transfer-engine-cuda13 0.3.12",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T03:08:26Z",
-    "url": "https://pypi.org/project/mooncake-transfer-engine-cuda13/0.3.12/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "044dae27d3f832c8",
-    "title": "anima-world 1.0.2",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T03:08:16Z",
-    "url": "https://pypi.org/project/anima-world/1.0.2/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "feb1f75f2fb35b2a",
-    "title": "tensor-grep 1.95.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T03:08:06Z",
-    "url": "https://pypi.org/project/tensor-grep/1.95.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "8cf3eb26e15c586c",
-    "title": "AMD redraws server chip strategy as AI workloads evolve",
-    "source": "Digitimes",
-    "publication_date": "2026-07-24T03:07:49Z",
-    "url": "https://www.digitimes.com/news/a20260724PD221/amd-cpu-data-center-processor.html",
-    "article_text": "Keep me signed in\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the… [+288 chars]"
-  },
-  {
-    "id": "c9a3909b1451d95d",
-    "title": "unifioptimizer added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T03:07:37Z",
-    "url": "https://pypi.org/project/unifioptimizer/",
-    "article_text": "A network admin that remembers. UnifiOptimizer watches a UniFi network the way a\r\ngood technician would: it keeps a running history, notices when something starts\r\nmisbehaving, waits to rule out the … [+17225 chars]"
-  },
-  {
-    "id": "d2dc1194db16a915",
-    "title": "NVIDIA Isaac Sim対応デジタルツイン開発環境を構築",
-    "source": "Prtimes.jp",
-    "publication_date": "2026-07-24T03:04:28Z",
-    "url": "https://prtimes.jp/main/html/rd/p/000000111.000052796.html",
-    "article_text": "16-37 NVIDIA Isaac SimAIAT-SYNAPSEROS 2NVIDIA Isaac SimAT-CART8ROS 2Isaac Sim\r\nAIUAVUGVUSVNVIDIA Isaac SimAT-CART8ROS 2AIAT-SYNAPSE\r\nROS 2Isaac SimIMU3D LiDARTFROS 2ROS 2Action GraphRVizrqt_robot_ste… [+316 chars]"
-  },
-  {
-    "id": "77887487032d043a",
-    "title": "Stocks suffer fresh blow as markets hit by perfect storm",
+    "id": "df57a88ae1ee0359",
+    "title": "Stock markets recover as oil retreats",
     "source": "Digital Journal",
-    "publication_date": "2026-07-24T03:03:00Z",
-    "url": "https://www.digitaljournal.com/article/stocks-suffer-fresh-blow-as-markets-hit-by-perfect-storm/",
-    "article_text": "Asian markets sank Friday to track a selloff on Wall Street as world markets are battered by a perfect storm of the resurgent Middle East war, a spike in oil prices back past $100 and worries about t… [+4727 chars]"
+    "publication_date": "2026-07-24T13:55:11Z",
+    "url": "https://www.digitaljournal.com/article/stock-markets-recover-as-oil-retreats/",
+    "article_text": "The main international oil contract Brent North Sea fell back under $100 Friday after surging past the key milestone the previous day on escalating Middle East strikes, helping US and European stock … [+3878 chars]"
   },
   {
-    "id": "6ede90428d789a71",
-    "title": "Nvidia, Amkor strike $1.5 billion chip packaging deal",
-    "source": "The Times of India",
-    "publication_date": "2026-07-24T03:01:59Z",
-    "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-amkor-strike-1-5-billion-chip-packaging-deal/articleshow/132595212.cms",
-    "article_text": "Amkor Technology said on Thursday it had entered a multi-year agreement with Nvidia worth $1.5 billion to expand advanced semiconductor packaging and test capacity in the US, as the chip industry rac… [+936 chars]"
+    "id": "cf59fbf37e4f6b28",
+    "title": "Black Duck Extends Scope and Reach of Code Scanning Tool",
+    "source": "DevOps.com",
+    "publication_date": "2026-07-24T13:51:59Z",
+    "url": "https://devops.com/black-duck-extends-scope-and-reach-of-code-scanning-tool/",
+    "article_text": "TL;DR — Key Takeaways\r\n<ul><li>Coverity is moving closer to AI-native development workflows with a new MCP server that lets coding agents run local security and quality scans.</li><li>Security priori… [+4133 chars]"
   },
   {
-    "id": "33ba69890eded32a",
-    "title": "OpenAI Launches ChatGPT Health Feature for All US Adults, Adding Apple Health and Medical Records Access",
-    "source": "Ibtimes.com.au",
-    "publication_date": "2026-07-24T03:01:23Z",
-    "url": "https://www.ibtimes.com.au/openai-health-feature-chatgpt-personalised-insights-1872838",
-    "article_text": "OpenAI began rolling out a dedicated health feature to all adult users in the United States on Wednesday, allowing ChatGPT to securely connect to Apple Health data and electronic medical records in a… [+6648 chars]"
+    "id": "b2a97e8554653711",
+    "title": "DARPA Selects NRx Pharmaceuticals Defense Subsidiary for Contract Negotiations on FDA-Authorized SPARC-TMS Clinical Trial Advancing Mental Health Care",
+    "source": "TheStreet",
+    "publication_date": "2026-07-24T13:51:58Z",
+    "url": "https://prconnect.thestreet.com/article/DARPA-Selects-NRx-Pharmaceuticals-Defense-Subsidiary-for-Contract-Negotiations-on-FDA-Authorized-SPARC-TMS-Clinical-Trial-Advancing-Mental-Health-Care/6a6133c6bf5388000232dce2",
+    "article_text": "Potential DARPA Award, FDA-Authorized Phase 2/3 Trial, Breakthrough Therapy NRX-101, and Robotic-Enabled TMS Platform Highlight Expanding Opportunities for NRx Pharmaceuticals, Inc. (N A S D A Q: NRX… [+8279 chars]"
   },
   {
-    "id": "5093ed053cba429f",
-    "title": "MOREH Showcases High-Performance LLM Inference on AMD GPUs at AMD Advancing AI 2026",
-    "source": "PRNewswire",
-    "publication_date": "2026-07-24T02:59:00Z",
-    "url": "https://www.prnewswire.com/news-releases/moreh-showcases-high-performance-llm-inference-on-amd-gpus-at-amd-advancing-ai-2026-302833887.html",
-    "article_text": "SAN FRANCISCO, July 23, 2026 /PRNewswire/ -- Moreh, an AI infrastructure software company, led by CEO Gangwon Jo, participated in AMD Advancing AI 2026, AMD's flagship annual AI event held in San Fra… [+2524 chars]"
+    "id": "0cecb329f9a92e0a",
+    "title": "Nvidia CEO Jensen Huang joins partners to advocate for open-weight AI models",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-07-24T13:50:32Z",
+    "url": "https://cryptobriefing.com/nvidia-huang-open-weight-ai-models/",
+    "article_text": "Huang's first-ever post on X featured a letter pushing for downloadable open-weight AI, a move with significant implications for the GPU market and crypto-adjacent AI infrastructure plays Jensen Huan… [+3561 chars]"
   },
   {
-    "id": "ab54831acf2c79be",
-    "title": "SAP trims 2026 profit goal, signalling cost of AI push",
-    "source": "The Times of India",
-    "publication_date": "2026-07-24T02:55:16Z",
-    "url": "https://economictimes.indiatimes.com/tech/technology/sap-trims-2026-profit-goal-signalling-cost-of-ai-push/articleshow/132595155.cms",
-    "article_text": "SAP trimmed its 2026 operating profit outlook on Thursday as recent AI-focused data acquisitions weighed on earnings, showing the near-term cost for enterprise software makers of adapting their produ… [+1360 chars]"
+    "id": "fc4222ae2e347115",
+    "title": "GMKtec K16 AMD Ryzen 7 7735HS Mini PC for $620 + free shipping",
+    "source": "Dealnews.com",
+    "publication_date": "2026-07-24T13:47:36Z",
+    "url": "https://www.dealnews.com/products/GMKtec-K16-AMD-Ryzen-7-7735-HS-Mini-PC/502774.html",
+    "article_text": "moreBest Buy's Black Friday in July sale covers a wide range of HP desktops and all-in-ones, including HP OMEN gaming machines. The HP OmniDesk with an AMD Ryzen 7 8700G processor, 16GB of memory, an… [+635 chars]"
   },
   {
-    "id": "90d224fb892b93e3",
-    "title": "SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns",
-    "source": "The Times of India",
-    "publication_date": "2026-07-24T02:53:04Z",
-    "url": "https://economictimes.indiatimes.com/tech/technology/sap-cfo-says-ai-must-move-beyond-chatbot-low-hanging-fruit-before-seeing-returns/articleshow/132595138.cms",
-    "article_text": "SAP's finance chief said on Thursday that artificial intelligence in enterprise software must move beyond chatbots and coding tools into more complex business processes, where clean data, reliability… [+1744 chars]"
+    "id": "f97472ba6c52dda0",
+    "title": "OpenAI took ten days to tell Hugging Face its models were behind the July 11 weekend hack, report claims — rogue AI agents reportedly active on the open Internet for several days",
+    "source": "Tom's Hardware UK",
+    "publication_date": "2026-07-24T13:47:15Z",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-took-ten-days-to-tell-hugging-face-its-models-were-behind-the-july-11-weekend-hack",
+    "article_text": "OpenAI confirmed to Hugging Face only this week that models it was testing carried out the July 11 attack on the AI platform's production infrastructure, roughly ten days after the intrusion and days… [+3506 chars]"
   },
   {
-    "id": "45058cca48092ed0",
-    "title": "Microsoft is replacing OpenAI image models in PowerPoint, Bing - The Seattle Times",
-    "source": "Slashdot.org",
-    "publication_date": "2026-07-24T02:52:49Z",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184629114",
-    "article_text": "The brain is a wonderful organ; it starts working the moment you get up\r\nin the morning, and does not stop until you get to work."
+    "id": "ee363f73efd8aade",
+    "title": "Show HN: CockroachCrawler–1 package for crawling,browsers,PDF,extraction,and MCP",
+    "source": "Github.com",
+    "publication_date": "2026-07-24T13:47:03Z",
+    "url": "https://github.com/AjnasNB/cockroach-crawler",
+    "article_text": "Give your AI agents web superpowers: crawl complete sites, render JavaScript, follow relevance, map URLs, extract structured data, parse PDFs, and return evidence without handing a model an unrestric… [+37822 chars]"
   },
   {
-    "id": "82ff2e9766369a5a",
-    "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
-    "source": "Biztoc.com",
-    "publication_date": "2026-07-24T02:52:25Z",
-    "url": "https://biztoc.com/x/ebdaddf1fc0a9f1f",
-    "article_text": "CHENGDU, China Governments increasingly want to control artificial intelligence, as companies release more powerful open-source models, a new multilateral statement indicates.The 21 APEC member econo… [+135 chars]"
+    "id": "2e10b028a0ac2616",
+    "title": "Kaizen #4: Overhauled Homelab",
+    "source": "Timharek.no",
+    "publication_date": "2026-07-24T13:46:40Z",
+    "url": "https://timharek.no/blog/kaizen-4/",
+    "article_text": "I started this “blog-series” to force myself to write more about my set up, and\r\nmy continuous iterations. But it didn’t happen until today! This post has been\r\na long time coming, and I have kept th… [+15783 chars]"
   },
   {
-    "id": "89a418cfcca0f770",
-    "title": "x-chem2smi-utils added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T02:51:27Z",
-    "url": "https://pypi.org/project/x-chem2smi-utils/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "id": "268fd94ed5bcb205",
+    "title": "Quantinuum offers to partner with AP on Amaravati Quantum Valley",
+    "source": "BusinessLine",
+    "publication_date": "2026-07-24T13:46:04Z",
+    "url": "https://www.thehindubusinessline.com/news/quantinuum-offers-to-partner-with-ap-on-amaravati-quantum-valley/article71262692.ece",
+    "article_text": "Quantinuum Chief Executive Officer, Rajeeb Hazra, has on Friday met Andhra Pradesh Chief Minister N Chandrababu Naidu in Amaravati and offered to collaborate with the State Government in building a w… [+1273 chars]"
   },
   {
-    "id": "1506cb7e645424a1",
-    "title": "x-chem2smi-utils 0.1.2",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T02:51:27Z",
-    "url": "https://pypi.org/project/x-chem2smi-utils/0.1.2/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "7e00b7ca25cccfdc",
-    "title": "Goiás win the 2026 Brasileirão Sub-20 B title",
-    "source": "Onefootball.com",
-    "publication_date": "2026-07-24T02:51:00Z",
-    "url": "https://onefootball.com/en/news/goias-win-the-2026-brasileirao-sub-20-b-title-43178776",
-    "article_text": "On Thursday (23), Goiás beat Ceará in a thrilling penalty shootout and won the 2026 Brasileirão U-20 B title. The match ended 1-1 in regulation time, and Esmeraldino secured the victory on penalties … [+2265 chars]"
-  },
-  {
-    "id": "63e7351106ae6ca3",
-    "title": "Why embodied AI security extends beyond the robot",
-    "source": "ComputerWeekly.com",
-    "publication_date": "2026-07-24T02:51:00Z",
-    "url": "https://www.computerweekly.com/news/366646180/Why-embodied-AI-security-extends-beyond-the-robot",
-    "article_text": "ESET has blocked over 3,000 artificial intelligence (AI) skills it identified as malicious and flagged a further 25,000 as suspicious since March 2026, offering an early indication of how quickly the… [+6350 chars]"
-  },
-  {
-    "id": "b29e0bac12ebef0a",
-    "title": "AMD says its newest AI server is in full production, will ship in months",
-    "source": "The Times of India",
-    "publication_date": "2026-07-24T02:49:34Z",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amd-says-its-newest-ai-server-is-in-full-production-will-ship-in-months/articleshow/132595123.cms",
-    "article_text": "Advanced Micro Devices' second generation of AI servers, which aim to compete against Nvidia's flagship products, are in full production and will start shipping in the coming months, CEO Lisa Su said… [+3778 chars]"
-  },
-  {
-    "id": "aaa4fb0c4dba4964",
-    "title": "Indonesia seeks AI sovereignty through local models, digital talent",
-    "source": "Antaranews.com",
-    "publication_date": "2026-07-24T02:49:01Z",
-    "url": "https://en.antaranews.com/news/423869/indonesia-seeks-ai-sovereignty-through-local-models-digital-talent",
-    "article_text": "Jakarta (ANTARA) - Indonesia is building the foundation for artificial intelligence (AI) sovereignty through the development of an ecosystem that includes local AI models, computing infrastructure, a… [+1991 chars]"
-  },
-  {
-    "id": "11eee37e9437ac01",
-    "title": "pairjudge 0.2.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T02:48:34Z",
-    "url": "https://pypi.org/project/pairjudge/0.2.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "3eb8ffc31594edcf",
-    "title": "stock-image-mcp 0.1.4",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T02:47:18Z",
-    "url": "https://pypi.org/project/stock-image-mcp/0.1.4/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "bfa6ceed3937fb68",
-    "title": "Intel forecast crushes estimates as AI boom boosts chip demand; shares jump",
-    "source": "The Times of India",
-    "publication_date": "2026-07-24T02:47:02Z",
-    "url": "https://economictimes.indiatimes.com/tech/technology/intel-forecast-crushes-estimates-as-ai-boom-boosts-chip-demand-shares-jump/articleshow/132595094.cms",
-    "article_text": "Intel forecast quarterly profit and revenue above estimates on Thursday, pushing its shares up 5.2% in after-hours trade and helping prompt the company to boost spending plans over the next two years… [+4626 chars]"
-  },
-  {
-    "id": "aebf69e799208197",
-    "title": "Commentary: Wistron's Texas AI factory shows why US manufacturing still needs Taiwan",
-    "source": "Digitimes",
-    "publication_date": "2026-07-24T02:45:49Z",
-    "url": "https://www.digitimes.com/news/a20260724PD219/wistron-texas-electronics-manufacturing-taiwan-usa.html",
-    "article_text": "Wistron's opening of its D1 AI smart factory in Fort Worth, Texas, marks a new milestone for Taiwan's downstream electronics manufacturers. The plant will support the first US mass production of Nvid… [+58 chars]"
-  },
-  {
-    "id": "b0bc45f8e62a9d8c",
-    "title": "pilot-workers 0.3.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-07-24T02:41:06Z",
-    "url": "https://pypi.org/project/pilot-workers/0.3.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "21d5b7fc36fb4c92",
-    "title": "AIロボットの“思考”を可視化する「AT-SYNAPSE Web Console」を開発",
-    "source": "Prtimes.jp",
-    "publication_date": "2026-07-24T02:40:41Z",
-    "url": "https://prtimes.jp/main/html/rd/p/000000112.000052796.html",
-    "article_text": "16-37 AIAT-SYNAPSEAIAT-SYNAPSE Web ConsoleLLMPCMCPBrain on DesktopAT-SYNAPSE Web ConsoleLLMBrain on DesktopROS 2AI\r\nLLMAIAIAIAIAIAT-SYNAPSEAT-SYNAPSE Web ConsoleBrain on Desktop\r\nAT-SYNAPSE Web Conso… [+908 chars]"
+    "id": "599e4c6d3c322f3c",
+    "title": "AMD takes on Nvidia, US takes on Chinese AI models and AI spending still spooks investors",
+    "source": "SiliconANGLE News",
+    "publication_date": "2026-07-24T13:45:56Z",
+    "url": "https://siliconangle.com/2026/07/24/amd-takes-nvidia-us-takes-chinese-ai-models-ai-spending-still-spooks-investors/",
+    "article_text": "Maybe Nvidia ultimately won’t win the entire AI enchilada, even as it reminded everyone this week that it offers everything you need to build AI factories. This week, Advanced Micro Devices also anno… [+11477 chars]"
   }
 ]
