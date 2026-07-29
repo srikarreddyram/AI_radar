@@ -4,7 +4,7 @@
 ![Last Updated](badges/last_updated.svg)
 
 > An automated data collection and intelligence platform tracking the AI infrastructure ecosystem.
-> **Last checked: 2026-07-29 at 05:55 UTC**
+> **Last checked: 2026-07-29 at 16:24 UTC**
 
 ---
 
@@ -12,22 +12,22 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Events** | 5813 |
-| **Events (7 days)** | 665 |
-| **Events (30 days)** | 3014 |
+| **Total Events** | 5905 |
+| **Events (7 days)** | 717 |
+| **Events (30 days)** | 3066 |
 
 ### Category Distribution
 
 | Category | Count |
 |----------|-------|
-| OTHER | 3525 |
-| MODEL_RELEASE | 693 |
-| RESEARCH_BREAKTHROUGH | 654 |
-| FUNDING_EVENT | 327 |
-| GPU_RELEASE | 305 |
-| DATACENTER_EXPANSION | 135 |
+| OTHER | 3563 |
+| MODEL_RELEASE | 709 |
+| RESEARCH_BREAKTHROUGH | 672 |
+| FUNDING_EVENT | 331 |
+| GPU_RELEASE | 313 |
+| DATACENTER_EXPANSION | 140 |
 | POLICY_REGULATION | 81 |
-| OUTAGE | 74 |
+| OUTAGE | 77 |
 | SERVICE_UPDATE | 19 |
 
 
@@ -35,59 +35,61 @@
 
 | Company | Events |
 |---------|--------|
-| Intel | 514 |
-| NVIDIA | 296 |
-| AI | 268 |
-| OpenAI | 259 |
+| Intel | 519 |
+| NVIDIA | 304 |
+| AI | 277 |
+| OpenAI | 260 |
 | Anthropic | 220 |
 | Amazon | 145 |
-| Meta | 94 |
-| Google | 91 |
-| Modal | 81 |
-| Microsoft | 81 |
+| Meta | 96 |
+| Google | 92 |
+| Modal | 84 |
+| Microsoft | 82 |
 
 
 ---
 
 ## 🔥 Latest Events
 
-### ElevenLabs now lets authors create and publish audiobooks on its own platform
-- **Date**: Wed, 26 Fe
-- **Category**: `FUNDING_EVENT`
-- **Company**: N/A
-- **Source**: [TechCrunch AI](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)
-- **Summary**: Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company confirmed. The announcement comes days after the company partnered with Spotify for AI-narrated audiobooks.
+### Do Models Fake Alignment Without Clear Consequences?
+- **Date**: Wed, 29 Ju
+- **Category**: `RESEARCH_BREAKTHROUGH`
+- **Company**: Sheshadri et al.
+- **Source**: [arXiv cs.AI](https://arxiv.org/abs/2607.24758)
+- **Summary**: arXiv:2607.24758v1 Announce Type: new 
+Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignme...
 
-### NVIDIA and AWS Collaborate to Bring AI to Production at Scale
-- **Date**: Wed, 24 Ju
+### Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents
+- **Date**: Wed, 29 Ju
+- **Category**: `MODEL_RELEASE`
+- **Company**: Karpathy
+- **Source**: [arXiv cs.AI](https://arxiv.org/abs/2607.24759)
+- **Summary**: arXiv:2607.24759v1 Announce Type: new 
+Abstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinel...
+
+### Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels
+- **Date**: Wed, 29 Ju
 - **Category**: `GPU_RELEASE`
 - **Company**: NVIDIA
-- **Source**: [NVIDIA Blog](https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/)
-- **Summary**: Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints.
+- **Source**: [arXiv cs.AI](https://arxiv.org/abs/2607.24762)
+- **Summary**: arXiv:2607.24762v1 Announce Type: new 
+Abstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of compute kernels such as matrix multiplication, convolution, and normalization. Optimizing these kernels is one of the most ...
 
-### RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems
-- **Date**: Wed, 24 Ju
-- **Category**: `MODEL_RELEASE`
-- **Company**: RIFT-Bench: Dynamic Red-teaming
-- **Source**: [arXiv cs.AI](https://arxiv.org/abs/2606.23927)
-- **Summary**: arXiv:2606.23927v1 Announce Type: new 
-Abstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposing attack vectors beyond those of traditional LLM vulnerabilities. Existing security evaluations are often tied to specif...
-
-### Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs
-- **Date**: Wed, 24 Ju
+### CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models
+- **Date**: Wed, 29 Ju
 - **Category**: `RESEARCH_BREAKTHROUGH`
-- **Company**: CoT
-- **Source**: [arXiv cs.AI](https://arxiv.org/abs/2606.23938)
-- **Summary**: arXiv:2606.23938v1 Announce Type: new 
-Abstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representations and expose intermediate decisions in natural language, yet current rationales often lack the step-by-step decision...
+- **Company**: CaRE
+- **Source**: [arXiv cs.AI](https://arxiv.org/abs/2607.24763)
+- **Summary**: arXiv:2607.24763v1 Announce Type: new 
+Abstract: Masked diffusion language models (MDLMs) are advancing rapidly, yet the evaluation standards needed to reliably interpret their progress have not kept pace. Despite MDLMs becoming competitive with autoregressive language models, seven recent remask...
 
-### Critique of Agent Model
-- **Date**: Wed, 24 Ju
-- **Category**: `MODEL_RELEASE`
-- **Company**: Large Language Model
-- **Source**: [arXiv cs.AI](https://arxiv.org/abs/2606.23991)
-- **Summary**: arXiv:2606.23991v1 Announce Type: new 
-Abstract: What is an agent? What constitutes agency?
+### GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models
+- **Date**: Wed, 29 Ju
+- **Category**: `RESEARCH_BREAKTHROUGH`
+- **Company**: GROCLM
+- **Source**: [arXiv cs.AI](https://arxiv.org/abs/2607.24764)
+- **Summary**: arXiv:2607.24764v1 Announce Type: new 
+Abstract: The rapid growth of online grocery shopping requires recommendation systems that capture cyclical purchasing behavior and diverse user intents. Traditional item-level methods face scalability and accuracy challenges, motivating category-level recom...
 
 
 
