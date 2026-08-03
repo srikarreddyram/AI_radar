@@ -896,6 +896,12 @@ aee75065-aa79-491a-811a-50b4f40bf67f,2026-08-02,MODEL_RELEASE,Anthropic,Claude,,
  extension, network issues, or browser settings.",conclave-llm 3.0.0
 0657621a-321a-4c0d-8770-fc14948a6a9d,2026-08-02,MODEL_RELEASE,Persistent State Machines: LLM Attention,,,Zenodo.org,https://zenodo.org/records/21753002,"Persistent State Machines: Complete Mathematical Proofs and Vivado Implementation Synthesis (Version 8.0)
 ABSTRACT We present a formal discrete framework for attention operators in Large Language Mo… [+2056 chars]",Persistent State Machines: LLM Attention with INT4 In-Memory Cells
+83ddaac1-78c5-4f8a-a152-497a805d7d08,2026-08-02,MODEL_RELEASE,LLM,,,Github.com,https://github.com/AML-memory/agent-memory-leaderboard,"This directory publishes the answer-generation and evaluation contracts used by
+the Agent Memory Leaderboard for its public datasets. The scripts require Python 3.10 or newer and the dependency lis… [+1836 chars]",Show HN: A fixed harness for comparing LLM agent memory systems
+b197a148-ac1c-4349-bda9-656ce8ad11ca,2026-08-02,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/llm-sandbox/0.3.40/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",llm-sandbox 0.3.40
+88509da7-777c-4c00-b4d3-54cfd789ce8e,2026-08-02,MODEL_RELEASE,Google,GPT-5,,Researchbuzz.me,https://researchbuzz.me/2026/08/02/google-earth-deepfakes-data-center-problems-gpt-5-6-more-researchbuzz-ai-update-august-2-2026/,"AI PROBLEMS 
+Futurism: Google Pulls Down Feature for AI-Generating Fake Satellite Images on Google Earth After Its Immediately Used to Fake Terror Attacks. “On Thursday, Google announced that it add… [+6440 chars]","Google Earth Deepfakes, Data Center Problems, GPT-5.6, More: ResearchBuzz AI Update, August 2, 2026"
 05fa5098-103e-4280-9000-ecbf51240505,2026-08-01,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/kryten-llm/0.10.3/,"A required part of this site couldnt load. This may be due to a browser
  extension, network issues, or browser settings.",kryten-llm 0.10.3
 4d27f1fe-9e14-48d8-bf69-05b60e927689,2026-08-01,MODEL_RELEASE,PyPI Git,,,Pypi.org,https://pypi.org/project/retrial/,"Git for agent trajectories. Branch, diff, and bisect LLM agent runs backed by real re-execution, not static logs.",retrial added to PyPI
