@@ -1,0 +1,46 @@
+{
+  "snapshot_date": "2026-08-04",
+  "generated_at": "2026-08-04T05:14:32.783774+00:00",
+  "total_events": 6600,
+  "category_distribution": {
+    "OTHER": 4008,
+    "MODEL_RELEASE": 795,
+    "RESEARCH_BREAKTHROUGH": 730,
+    "FUNDING_EVENT": 364,
+    "GPU_RELEASE": 341,
+    "DATACENTER_EXPANSION": 162,
+    "POLICY_REGULATION": 90,
+    "OUTAGE": 88,
+    "SERVICE_UPDATE": 22
+  },
+  "top_companies": {
+    "": 1614,
+    "Intel": 571,
+    "NVIDIA": 324,
+    "AI": 311,
+    "OpenAI": 291,
+    "Anthropic": 249,
+    "Amazon": 164,
+    "Meta": 113,
+    "Google": 106,
+    "Microsoft": 95,
+    "Modal": 90,
+    "Apple": 57,
+    "AWS": 49,
+    "Cohere": 44,
+    "LLM": 39,
+    "Hugging Face": 37,
+    "Google DeepMind": 22,
+    "Perplexity": 21,
+    "AMD": 21,
+    "Tesla": 19
+  },
+  "csv_row_counts": {
+    "all_events": 6600,
+    "model_releases": 795,
+    "gpu_releases": 341,
+    "funding_rounds": 364,
+    "datacenter_events": 162,
+    "outages": 88
+  }
+}
