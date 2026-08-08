@@ -320,6 +320,14 @@
     "article_text": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning."
   },
   {
+    "id": "d31b6f14f3727b96",
+    "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+    "source": "NVIDIA Blog",
+    "publication_date": "Sat, 08 Aug 2026 10:24:54 +0000",
+    "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
+    "article_text": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure.  Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy [&#8230;]"
+  },
+  {
     "id": "9f10ae9fb17a40a7",
     "title": "GeForce NOW Shakes Up August With 26 New Games",
     "source": "NVIDIA Blog",
@@ -456,14 +464,6 @@
     "article_text": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Nebius. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. [&#8230;]"
   },
   {
-    "id": "0f95fa90b7a83e35",
-    "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
-    "source": "NVIDIA Blog",
-    "publication_date": "Tue, 21 Jul 2026 15:00:20 +0000",
-    "url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
-    "article_text": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier in driving token generation. Marking a networking milestone, NVIDIA Spectrum-6 [&#8230;]"
-  },
-  {
     "id": "746110f504748130",
     "title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore",
     "source": "AWS ML Blog",
@@ -518,14 +518,6 @@
     "publication_date": "Thu, 06 Aug 2026 16:30:47 +0000",
     "url": "https://aws.amazon.com/blogs/machine-learning/build-visibility-for-codex-on-amazon-bedrock-with-opentelemetry-and-amazon-cloudwatch/",
     "article_text": "As engineering teams adopt coding agents like Codex, leaders need visibility into adoption, consumption, and reliability. This post shows how to route Codex OpenTelemetry metrics through a local collector to Amazon CloudWatch for an AWS native view of usage by user, team, and cost center."
-  },
-  {
-    "id": "3e04e853cb0150c0",
-    "title": "Enforcing data residency with single-Region Claude Code on Amazon Bedrock",
-    "source": "AWS ML Blog",
-    "publication_date": "Thu, 06 Aug 2026 16:21:54 +0000",
-    "url": "https://aws.amazon.com/blogs/machine-learning/enforcing-data-residency-with-single-region-claude-code-on-amazon-bedrock/",
-    "article_text": "A regulated customer needed all Claude Code inference processed in a single AWS Region (London), not just in-geography. This post shows two ways to pin Claude Code on Amazon Bedrock to one Region: an application inference profile or the Mantle endpoint, paired with an IAM Region condition, plus how to verify compliance in AWS CloudTrail."
   },
   {
     "id": "32fd73ba9c3da1c8",
@@ -622,6 +614,14 @@
     "publication_date": "Fri, 31 Jul 2026 19:53:04 +0000",
     "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/",
     "article_text": "Amazon Quick introduces the Agentic Catalog Experience, an AI-powered workflow for data curators to discover upstream catalog assets in natural language and auto-create Datasets and Topics with inherited semantics. Now in preview for AWS Glue Data Catalog and Databricks Unity Catalog."
+  },
+  {
+    "id": "4bf2cf9dd313ced9",
+    "title": "Optimizing production agents with Amazon Bedrock AgentCore Observability",
+    "source": "AWS ML Blog",
+    "publication_date": "Fri, 31 Jul 2026 15:33:11 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/",
+    "article_text": "As your AI agents move from prototype to production, the challenge shifts from getting them to work to keeping them fast and efficient. Learn how to use Amazon Bedrock AgentCore Observability and Amazon CloudWatch to find performance bottlenecks and diagnose memory issues in long-running agent sessions."
   },
   {
     "id": "27ffabaebe3d9032",
@@ -1000,715 +1000,387 @@
     "article_text": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future success. But the reality is [&#8230;]"
   },
   {
-    "id": "fbcef75ffe34e340",
-    "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05159",
-    "article_text": "arXiv:2608.05159v1 Announce Type: new \nAbstract: Enterprise operations extensively rely on multiple heterogeneous business systems and information applications, which also result in severe data silos and process fragmentation. Enterprises have invested considerable financial and material resources in building these applications, however, effectively leveraging and orchestrating them remains a formidable challenge. Conventional approaches to enterprise application integration, encompassing middleware architectures such as Enterprise Service Bus (ESB), API gateway infrastructures, and Robotic Process Automation (RPA), suffer from inherent limitations like high architectural coupling, escalating operation and maintenance costs, and limited intelligence capabilities. This paper proposes Agentic Nesting, a multi-agent collaboration framework in which existing enterprise applications are encapsulated as autonomous AI agents within a hierarchically nested structure. Rather than flat interconnection, agents are organized into layered stewardship topologies that mirror the compositional complexity of enterprise ecosystems. The framework extracts a digital agent proxy from each legacy application to enable natural-language interaction and autonomous manipulation, coordinates multiple agents through a central orchestrator for task decomposition and dynamic dispatching, and exposes a unified conversational interface for cross-application querying and process orchestration. The main contributions of this paper are the proposition of the \"Application-as-Agent\" integration paradigm and the \"Conversation-as-Integration\" interaction philosophy, together with an exploration of the generalization potential of this methodology in scenarios encompassing heterogeneous system coordination, and large-scale data applications."
+    "id": "8f43e7f82e8463a2",
+    "title": "Should we have a liberal democracy or an authoritarian cult of personality?",
+    "source": "Lawyersgunsmoneyblog.com",
+    "publication_date": "2026-08-07T13:25:26Z",
+    "url": "https://www.lawyersgunsmoneyblog.com/2026/08/should-we-have-a-liberal-democracy-or-an-authoritarian-cult-of-personality",
+    "article_text": "FILE PHOTO: U.S. President Donald Trump (R) talks with U.S. Supreme Court Chief Justice John Roberts as he departs after delivering his State of the Union address to a joint session of the U.S. Congr… [+6084 chars]"
   },
   {
-    "id": "54c87fd71c8a6759",
-    "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05160",
-    "article_text": "arXiv:2608.05160v1 Announce Type: new \nAbstract: We introduce the Ignition Index (I), a validated scalar metric that operationalizes Global Workspace Theory's (GWT) all-or-none ignition prediction in transformer language models. The metric fits a four-parameter sigmoid to per-layer linear probe accuracy as a function of input signal strength, extracting steepness parameter beta-hat: high values indicate abrupt, ignition-like transitions; low values indicate graded build-up. Across 11 models spanning five architecture families, shuffled-label controls demonstrate 9.6-fold selectivity for genuine linguistic structure over spurious probe capacity (p < 0.001, Mann-Whitney U-test). We find: (1) Feedforward transformers exceed SSMs by 89% in aggregate beta-hat (p < 1e-13, Cohen's d = 0.52), with Mamba exhibiting near-linear profiles consistent with absent global broadcast. (2) Huginn-3.5B exhibits 2.12-fold higher ignition along its iteration axis than its depth axis, demonstrating that recurrent architectures manifest workspace-like transitions along the recurrence dimension. (3) Pythia-410M shows a PELT-detected phase transition at training step 256 (+67%), preceding induction-head formation. (4) Hypotheses linking ignition to model scale and signal strength were not confirmed, suggesting transformer architectures may saturate available ignition mechanisms. The Ignition Index provides the first validated quantitative bridge between GWT's dynamical predictions and mechanistic interpretability, with 9.6-fold measurement selectivity and architecture-level discriminability not previously characterized in the scaling literature. Code: https://github.com/saman-rahbar/ignition-index"
+    "id": "0a3a1ba3a636c5a9",
+    "title": "Mara Holdings sells 726 BTC as Bitcoin miner continues strategic retreat from hodl playbook",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-08-07T13:22:44Z",
+    "url": "https://cryptobriefing.com/mara-holdings-sells-726-btc-strategy-shift/",
+    "article_text": "The Bitcoin miner now holds 35,577 BTC after shedding nearly 30% of its reserves over the past year in a broader pivot toward liquidity and debt reduction. MARA Holdings just sold another 726 BTC, br… [+1752 chars]"
   },
   {
-    "id": "fe33cf384f4d754c",
-    "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05168",
-    "article_text": "arXiv:2608.05168v1 Announce Type: new \nAbstract: Large language models often fail on reasoning tasks despite possessing the capability to solve them. We argue that many such failures arise from localized reasoning bugs in intermediate steps rather than from global incompetence. We show that these bugs are frequently repairable: inserting a short patch generated by a weak probe model after the same strong-model reasoning prefix can redirect the trajectory toward a correct solution.\n  However, this corrective effect is not reliably internalized by directly fine-tuning on weak patches or repaired trajectories, suggesting that the useful signal lies not in the intervention text itself, but in how it reshapes the model's future reasoning distribution. We therefore propose Woodpecker Distillation, a weak-to-strong training framework that learns from contrastive local interventions. Our method contrasts successful and unsuccessful weak-model patches at the same prefix, constructs a corrective teacher distribution from their induced future token predictions, and distills this signal into the strong model.\n  Experiments on mathematical reasoning benchmarks show that Woodpecker Distillation consistently improves strong-model performance and outperforms direct imitation baselines."
-  },
-  {
-    "id": "306c2ceeb2580421",
-    "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05203",
-    "article_text": "arXiv:2608.05203v1 Announce Type: new \nAbstract: Machine learning models achieve strong predictive accuracy for 90-day outcome prediction in acute ischaemic stroke, yet clinical adoption is limited by the misalignment of model explanations with clinicians' reasoning. Motivated by a clinician user study calling for clinical guideline-aligned cut-offs, we ask whether continuous predictors can be replaced by clinically informed categorical encodings without sacrificing performance. On a multi-centre European registry stratified into three treatment cohorts, we compare standard and fully categorised gradient-boosted models, the latter using stroke guideline-aligned, treatment-specific thresholds. The fully categorised models are statistically indistinguishable from their continuous counterparts in two of the treatment cohorts, with a significant drop in predictive accuracy in one cohort. Global feature importance rankings remain consistent, suggesting that discretising continuous predictors into guideline-based categories preserves the core hierarchy of prognostic factors across all treatment groups. Guideline-based categorisation is thus a viable design choice for stroke-outcome models."
-  },
-  {
-    "id": "3e2c545fc689a887",
-    "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05204",
-    "article_text": "arXiv:2608.05204v1 Announce Type: new \nAbstract: LLM-agent ecosystems are rapidly growing around reusable skills: mixed-modality packages of metadata, natural-language instructions, code, tools, references, and operational workflows. As skills become marketplace artifacts, auditing their reuse is no longer the same problem as ordinary code clone detection. Existing detectors target single-modality source code or whole-package similarity, yet skill reuse evidence is distributed across authored text, implementation fragments, and operational structure. As a result, they can miss reuse that preserves only one part of a skill. We present SKILLTRACE, a multi-trace provenance auditing framework for LLM-agent skill reuse. SKILLTRACE extracts three provenance traces: Expression, Implementation, and Operational. It represents the Operational Trace as a Skill Operational Graph (SOG) that captures activation, procedure, and resource-flow structure. An LLM assists only the Operational-trace extraction, once at ingestion; at audit time SKILLTRACE compares cached traces deterministically, calibrates each trace against same-function strict negatives, and reports which trace supports a reuse decision. On SKILLTRACE-BENCH, with 820 transformed reuse positives over 100 marketplace anchors and 751 negative controls, SKILLTRACE achieves AUROC 0.938 and F1 0.898. A 36,446-skill wild audit further shows that trace-attributed evidence surfaces actionable reuse review queues beyond repository-level baselines."
-  },
-  {
-    "id": "8c0795811d5e9aa4",
-    "title": "Abstract Event Causal Rules: Induction and Application",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05205",
-    "article_text": "arXiv:2608.05205v1 Announce Type: new \nAbstract: Event-centric intelligent analytical systems heavily depend on explicit causal event knowledge for risk early warning, decision-making support and narrative comprehension. Nevertheless, existing instance-level causal pairs suffer severe generalization deficits on low-frequency long-tail and unseen event combinations. To address this limitation, this work proposes Abstract Event Causal Rule (AECR), a novel relation-level causal abstraction paradigm that transforms concrete cause-effect pairs into generalized abstract causal logic while retaining their intrinsic causal relationships. We design a multi-agent Concrete-to-Abstract Causal Induction (CACI) system coupled with similarity-constrained clustering to distill trustworthy AECRs from noisy raw causal data, based on which two complete AECR knowledge bases are built. To validate the practical utility of abstract causal knowledge, we propose an Abstract Rule-Guided Causal Attention Encoder (AR-GCAE), which injects the retrieved AECRs into the causality Graph Event Prediction (CGEP) benchmark task via rule-guided attention layers and gated representation fusion. Quantitative experimental results reveal that applying AECRs substantially strengthens the generalization capacity of event causal reasoning and brings consistent performance improvements to event prediction, with the most prominent gains observed on rare and unseen event samples."
-  },
-  {
-    "id": "f0fe4b0027240689",
-    "title": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05206",
-    "article_text": "arXiv:2608.05206v1 Announce Type: new \nAbstract: Otter is a 15.3M-parameter human chess AI that predicts human move selection by modeling play as a time-aware, sequential process rather than treating each position in isolation. It combines two conditioning signals: (1) a move history encoder that conditions predictions on the last 20 moves, capturing opening preferences, positional drift, and intra-game behavioral tendencies; and (2) a time control module that modulates predictions based on clock pressure. Otter is trained on 6.1 billion positions from 117 million Lichess rapid games over 30 days on a single T4 GPU.\n  Otter achieves 55.23% top-1 and 90.95% top-5 move-prediction accuracy, surpassing the prior state-of-the-art human chess model, Maia 2, with far fewer parameters and less training data. Across 11 Elo brackets (<1100 to >=2000), accuracy peaks at 57.38% in the 1900-1999 bracket. These results show that modeling chess as a time-aware, sequential activity yields more human-accurate move prediction than position-only approaches, using a smaller model. Code, trained models, and complete training logs are publicly released."
-  },
-  {
-    "id": "d22735df639eab5d",
-    "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05212",
-    "article_text": "arXiv:2608.05212v1 Announce Type: new \nAbstract: Deep search agents tackle challenging questions through long-horizon web interactions, a process that is both complex and fragile: small reasoning errors may propagate through long, noisy trajectories into fluent but incorrect answers. Diagnosing such failures is difficult, requiring the manual inspection of extremely long execution traces, which could be beyond human capacity. We therefore introduce SearchAuditBench, a benchmark that evaluates whether LLM auditors can localize, attribute, and repair these failures, thereby reducing the human burden. SearchAuditBench comprises 1,243 failed trajectories, averaging 73.1 messages and 65.1K tokens, collected from eight open-weight models on five deep-search benchmarks, each expert-annotated with the critical error step, a search-specific root cause, and a reference repair with grading rubrics. We further propose SearchAuditor, a multi-perspective auditing framework that effectively localizes, attributes, and repairs search-agent failures through evidence-grounded adjudication. Experimental results show that even the strongest baseline, when powered by a frontier model like GPT-5.5, attains only a 26.6% end-to-end pass rate. In contrast, our SearchAuditor consistently outperforms all baselines across different frontier models, achieving an end-to-end pass rate of 32.3%, and resuming failed runs with its repairs enables agents to better recover from errors."
-  },
-  {
-    "id": "34e1ab3086ba9da2",
-    "title": "PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05218",
-    "article_text": "arXiv:2608.05218v1 Announce Type: new \nAbstract: 3D Gaussian Splatting (3DGS) enables fast, photorealistic talking-head rendering, yet accurate lip articulation remains elusive: mouth motion is often over-smoothed and may violate hard articulatory constraints such as bilabial closures, producing the notorious ``leaky mouth'' artifact. A key difficulty is that brief, discrete articulatory events are inferred from a continuous acoustic embedding under a regression objective, which biases predictions toward averaged mouth configurations. While modern self-supervised speech encoders provide rich prosodic and phonetic cues, they do not provide an explicit, frame-aligned linguistic target that reliably disambiguates closure-level events. We propose \\textbf{Phoneme-Driven Gaussian Splatting (PD-GS)}, which augments a 3DGS talker with time-aligned phoneme tokens obtained from an automatic ASR and forced-alignment pipeline. Our core component, the \\textbf{Linguistic Fusion Module (LFM)}, adaptively fuses continuous audio context with discrete phoneme embeddings through a learned gate, allowing the model to preserve smooth audio-driven dynamics while strengthening phoneme guidance on articulation-critical segments. PD-GS is trained purely from monocular video using image reconstruction and lip landmark supervision. On HDTF, PD-GS achieves the best lip geometry among the compared baselines (LMD 2.66) and qualitatively reduces closure violations in challenging phoneme sequences, yielding more linguistically faithful neural avatars."
-  },
-  {
-    "id": "269ae1ef76b58bbb",
-    "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05219",
-    "article_text": "arXiv:2608.05219v1 Announce Type: new \nAbstract: Privileged on-policy distillation provides dense supervision for multi-turn agents by allowing a synchronized teacher to re-score the student's response at every turn with access to training-only references, such as successful trajectories. In interactive environments, however, the student's preceding actions continually change the execution state. As the student takes different actions or completes subgoals in a different order, its rollout may reach states not covered by the reference, making the reference an unreliable source of guidance for the state actually reached. Applying privileged distillation indiscriminately therefore creates state--reference mismatch. This mismatch motivates a central objective: providing privileged reference guidance that remains compatible with the student's current execution state. We introduce State-Matched Routing and Contextualized Self-Distillation (SMRC-SD), which explicitly determines when and how a privileged trajectory should guide an on-policy student. At each turn, SMRC-SD verifies whether the student's current execution state matches a supported state along the reference trajectory. Distillation is applied only at matched states, filtering out turns for which the reference lacks locally compatible guidance. For each matched state, SMRC-SD further constructs state-conditioned teacher context from the successful trajectory, grounding supervision in the state actually reached. Across ALFWorld and WebShop, SMRC-SD consistently outperforms unconditional successful full-path distillation. With Qwen3-1.7B, it improves task success from $0.746$ to $0.865$ on ALFWorld and from $0.574$ to $0.693$ on WebShop. Controlled routing and context ablations support both selecting locally supported turns and constructing state-compatible teacher context as contributors to these gains. Code is available at https://github.com/liujunzhuo/SMRC-SD."
-  },
-  {
-    "id": "99225bb75cd70d73",
-    "title": "Small Foundation Models of Human Cognition and Behaviour",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05224",
-    "article_text": "arXiv:2608.05224v1 Announce Type: new \nAbstract: Large language models fine-tuned on human behavioural data have emerged as general-purpose cognitive proxies, but the scale this requires, and whether these models process task structure or exploit statistical shortcuts, remain open questions. We train fourteen models from 135M to 14B parameters across four architecture families on Psych-101, a dataset of 10.7 million trial-level choices from 160 experiments. In-distribution, scale barely matters. The models fall within a narrow band, as though against a ceiling, and 0.6B to 1B parameters suffice to match a 70B baseline on held-out participants. Out-of-distribution, that band opens into a markedly steeper scaling gradient, with larger models clearly advantaged in generalisation to novel task structure. To determine what information these models use, we run two diagnostics. We progressively strip four prompt channels -- task instructions, experimental stimuli, outcome feedback, and choice history -- across 27 experiments, and permute trial order. Masking the content of stimuli and feedback destroys 75.7% of learned information and pushes models below chance, demonstrating that choice history alone does not account for performance. Permutation reveals invariance on tasks with independent trials but sensitivity where trial order is determined by prior responses. Small cognitively fine-tuned models therefore show promise as noise ceiling estimators for psychological experiments, though their scope remains bounded by the paradigms seen in training."
-  },
-  {
-    "id": "001b4685fa0ce005",
-    "title": "Project2Task: Graph-Guided Project-Level Planning for Autonomous Research",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05225",
-    "article_text": "arXiv:2608.05225v1 Announce Type: new \nAbstract: Research agents can increasingly search literature, propose hypotheses, generate code, run experiments, and draft manuscripts from a single topic. However, a research project is not merely a larger task: it is a long-horizon agenda that must be advanced through multiple bounded tasks with distinct but related objectives, parallel alternatives, and dependency-aware sequences. Existing single-task systems often treat the project as one oversized task, produce a flat set of vague or overlapping tasks, or leave task boundaries and execution order to manual coordination. We introduce Project2Task, a graph-guided project-level planning layer for autonomous research. Given a project brief, it represents candidate contributions as innovation atoms and organizes them in a directed lineage graph. A lightweight Bernoulli block-model objective selects among horizontal, vertical, and hybrid portfolio decompositions. Project2Task then generates bounded tasks with explicit contribution ownership, repairs overlaps and missing execution fields, and emits dependency-aware task contracts that specify objectives, inputs, expected artifacts, evaluation requirements, boundary constraints, dependencies, and execution order. The contracts are independent of any particular downstream research executor and support integration of task outputs into a coherent project-level result. On a benchmark of ten project briefs yielding roughly 30 tasks, manuscript-based portfolio evaluation gives Project2Task an average quality score of 7.15, compared with 4.58 for the Brief Baseline and 5.31 for the Topic-only Setting. Integrating its contracts with AutoResearchClaw increases average downstream task accuracy from 0.536 to 0.759. These results demonstrate the value of explicit project-to-task planning for producing coherent, non-redundant, and executable research-task portfolios."
-  },
-  {
-    "id": "cfe28a9da65b5ef1",
-    "title": "TriQua: Reconciling Granularity and Context in Factuality Evaluation",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05228",
-    "article_text": "arXiv:2608.05228v1 Announce Type: new \nAbstract: The \"decompose-then-verify\" paradigm for LLM factuality evaluation faces a fundamental trade-off: atomic facts, i.e., one sentence conveying one unit of information, often omit essential context, while broader statements lack the granularity needed for precise assessment. To address this, we introduce TriQua, a framework that flexibly models facts based on their complexity. Simple claims are extracted as standard triples, while complex claims are represented as hyperrelational facts by attaching auxiliary contextual qualifiers. This adaptive structure preserves the necessary context for accurate retrieval and verification without sacrificing atomicity. Furthermore, TriQua's verification process directly annotates concrete errors within specific triples and qualifiers, providing fine-grained explainability for error detection. Alongside the framework, we propose TriQuaScore to quantify the factuality of these structured fact units. Empirical evaluations show that TriQuaScore strongly aligns with human annotated factuality scores, TriQua achieves robust decomposition quality, and outperforms existing decomposition-based frameworks in evidence-based fact verification."
-  },
-  {
-    "id": "7f580ac6b4b407c0",
-    "title": "Coherence-Oriented Dream Scene Visualisation",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05233",
-    "article_text": "arXiv:2608.05233v1 Announce Type: new \nAbstract: Dreams can be emotionally intense but difficult to communicate. We describe the Dream Scene Visualiser (DSV) system which turns written dream descriptions into a temporal sequence of four panel images visualising the dream. This starts with a large language model prompted to split a dream description into four chronological parts. Then a text-to-image model produces images for each part with visual coherence maintained across the sequence, and DSV regenerates any image not suitably matching the text. We evaluate DSV over 50 visualisations from dream descriptions in DreamBank, and report quality, fidelity and coherence results via objective measures employing the CLIP, DINOv2 and Qwen2-VL vision-language models."
-  },
-  {
-    "id": "86223927b88d54cc",
-    "title": "Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05245",
-    "article_text": "arXiv:2608.05245v1 Announce Type: new \nAbstract: Reusable skills, which encapsulate the procedural knowledge required to solve real-world professional tasks, offer LLM-based agents a path toward self-evolution in expert domains. Existing self-evolving skill methods construct skills internally from the model's parametric knowledge or trajectories, and are therefore bounded by what the model already knows. However, the domain conventions and standard procedures underlying professional skills often lie beyond this boundary and are hard to elicit from the agent alone. To address this issue, we therefore propose a novel framework, Search2Skill, that automatically identifies the agent's capability gaps, searches external sources to address them, and distills the retrieved evidence into structured, reusable skills. Specifically, Search2Skill is optimized by a rubric-based reinforcement learning scheme that jointly improves when to search, how to search, and how to generate skills. Experiments on eight expert-level domains from three benchmarks show that Search2Skill consistently outperforms both search-augmented and trajectory-based skill-learning baselines under both streaming and held-out evaluation protocols. Further analyses show that the gains arise from skill abstraction rather than raw retrieved evidence, and that the acquired skills transfer across model scales."
-  },
-  {
-    "id": "2d477a75cd60932c",
-    "title": "LUNAR: Benchmarking Personalized Large Language Models on UNiversal User BehAvioR Logs",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05246",
-    "article_text": "arXiv:2608.05246v1 Announce Type: new \nAbstract: Existing personalized LLM benchmarks primarily rely on textual personas or isolated behavioral signals, providing limited evaluation of cross-domain behavioral personalization, where responses must be grounded in heterogeneous daily-life activities. To address this gap, we introduce LUNAR, the first benchmark for evaluating how LLMs personalize responses from longitudinal app interaction histories across universal daily-life domains, including clothing, food, housing, and mobility. To support scalable benchmark construction while mitigating data sparsity and privacy concerns, LUNAR uses a multi-stage coarse-to-fine synthesis pipeline grounded in real-world behavioral patterns. Fidelity analyses show closer alignment with real behavioral distributions than other synthetic benchmarks. Experiments on 19 mainstream LLMs show that access to behavioral logs is necessary but not sufficient for deep personalization: neither more context nor larger models guarantees better performance; effective personalization depends on selecting and integrating relevant evidence across domains. Direct retrieval of fine-grained behavioral records consistently outperforms compressed memory, while stronger personalization can come at the cost of privacy protection. These findings identify evidence selection, cross-domain integration, and privacy control as key challenges for personalized LLMs."
-  },
-  {
-    "id": "a6d34f7361405d2a",
-    "title": "WorldClaw: Agentic 3D Open-World Generation at Scale",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05248",
-    "article_text": "arXiv:2608.05248v1 Announce Type: new \nAbstract: Generating large-scale, freely explorable 3D worlds from open-ended text remains challenging because a system must jointly maintain global spatial coherence, rich local content, and explicit assets suitable for downstream editing and reuse. We present WorldClaw, a fully agentic, coarse-to-fine framework for open-world 3D scene generation. Planning agents translate a text prompt into a structured specification of regions, terrain, assets, materials, and spatial relations. WorldClaw then builds a globally coherent terrain foundation from semantic layouts, reusable assets, generative or procedural materials, and a region-aware height field. For detail-demanding regions, it generates terrain-conditioned compositions, reconstructs editable textured meshes, and recovers their placement on the terrain; render-based agents further refine terrain, objects, appearance, and contacts. Across diverse open-world prompts, WorldClaw produces large-scale scenes with coherent spatial organization, visually compelling local content, and editable instance-level assets while preserving a consistent global terrain structure."
-  },
-  {
-    "id": "f6afa493af2dad44",
-    "title": "Posture and Sustainment Optimization Under Adversarial Uncertainty",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05256",
-    "article_text": "arXiv:2608.05256v1 Announce Type: new \nAbstract: Pre-commitment posture, the assignment of military assets to theater locations before conflict scenarios resolve, is a critical and formally unsolved problem in joint operational planning. Current practice relies on greedy heuristics that maximize value and ignore geographic coverage and are structurally vulnerable to adversaries that target high-strategic value locations. This paper presents a scenario-weighted adversarially robust posture optimization engine for the Posture and sustainability allocation (PSA) problem, modeled as a finite-horizon Markov Decision Process over assets, theater locations, and time steps. We introduce the Composite Expected Value (CEV) optimizer, which places assets by maximizing scenario-weighted expected posture efficiency over a distribution of threat scenarios, and the RobustCEV extension, which iterates against a Bayesian adversary that updates its targeting distribution in response to observed placement. Across three experiments in an Indo-Pacific basing environment with 20 assets and 5 theater locations, we demonstrate that: (1) the greedy baseline incurs a permanent 25.1% posture efficiency penalty due to geographic under-coverage and a 57.3% scenario-weighted readiness collapse under value-correlated adversarial threat; (2) the CEV optimizer recovers up to 19.8% efficiency over greedy when the threat distribution carries a geographic signal, with a curated set of 5 to 20 scenarios sufficient to capture the majority of this gain; and (3) the RobustCEV extension recovers up to 158% efficiency relative to a naive optimizer when an adaptive adversary employs a deceptive threat prior. All findings are validated using paired t-tests with Bonferroni correction and two-level variance decomposition, confirming that the performance gaps reported are structural properties of placement strategies rather than sampling artifacts."
-  },
-  {
-    "id": "76b34df9e2dd613f",
-    "title": "OrchestraBench: Evaluating Multi-Agent Orchestration Failure Modes, Recovery, and Decomposition Quality",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05263",
-    "article_text": "arXiv:2608.05263v1 Announce Type: new \nAbstract: Multi-agent orchestration frameworks are moving from demos to production, yet benchmarks typically report task accuracy without diagnosing why a pipeline failed, where a cascade began, or which routing decision caused the breakdown. OrchestraBench evaluates failure, recovery, and decomposition through a controlled, seed-reproducible failure-injection harness over templated enterprise workflows. It introduces cascade radius and per-failure-mode recovery as primary metrics and compares routing policies with bootstrap confidence intervals and paired tests. On a 26-case gold-labelled diagnostic, a keyword/flag router scored 0% on adversarial cases with misleading or missing surface flags, whereas an intent-reasoning model router scored 100%, matching the oracle. Controlled mechanism probes with a real Claude agent over a verifiable arithmetic dependency chain revealed three failure-handling tiers across five MAST modes: tool faults recovered fully (1.0), ambiguous delegation recovered partially (0.30), and three latent or semantic modes never recovered (0.0). This ordering persisted when the computation was reframed as a loan-approval workflow and across Sonnet, Opus, and Haiku, although absolute rates shifted with context. Blind retry reproduced latent faults and increased time to detection, indicating that detection and attribution are necessary for containment. Cascade radius increased with pipeline depth (mean 0.9 to 4.7 across depths 3-7). A trusted-state repair ablation showed that apparent containment gains primarily came from the trusted-state signal rather than autonomous detection. These results are controlled-chain mechanism probes, not domain-workload claims."
-  },
-  {
-    "id": "e50b4d0f5cff89d6",
-    "title": "Agentic self-driving microscopy benchmarks support qualification but do not necessarily generalize to unseen tasks",
-    "source": "arXiv cs.AI",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05266",
-    "article_text": "arXiv:2608.05266v1 Announce Type: new \nAbstract: Large language model agents are increasingly being developed to control a wide range of scientific characterization tools including microscopes and synchrotron beamlines. Research into agentic control of physical infrastructure is nascent and there are few well-established paradigms for how to engineer an agentic system. There are many choices to make when designing a microscopy agent, including the choice of LLM, the number of agents to use, agent responsibilities and delegation rules, retrieval-augmented generation parameters, and more. When designing and optimizing an agentic microscope controller, researchers not only want to ensure that the agent can correctly perform known tasks but also that the agent can generalize to new tasks that it has not encountered before. In this study, we develop a benchmark and trace-logging framework that reveals a) how different choices of agent architecture impact performance at microscopy tasks and b) the limitations of benchmarks for predicting if a particular agent will perform well on unseen microscopy tasks. The framework was used to evaluate one-, two-, and three-agent graph topologies, five LLMs, RAG and context parameters, and operational constraints across 53 microscopy benchmark tests. In total, 105 agent configurations, 1,949 individual test runs, and 49,109 RAG retrievals were recorded. Direct comparisons showed clear differences in latency, token use, cost, and failure mode between configurations. However, surrogate models trained on agent architecture and test results did not reliably predict an agent's performance on new, unseen tasks. These results show that these benchmarks are useful for qualification, regression testing, diagnosis, and direct comparison, but the current heterogeneous test suite does not support a task-independent global configuration model."
-  },
-  {
-    "id": "35aaa96783778ced",
-    "title": "MS-MLB: An Open Machine Learning Benchmark for Blood-Based MS Classification",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05196",
-    "article_text": "arXiv:2608.05196v1 Announce Type: new \nAbstract: Multiple sclerosis (MS) is diagnosed through clinical assessment, magnetic resonance imaging, laboratory evidence when appropriate, and exclusion of better explanations. Blood RNA expression data may contain disease associated immune signal, but a blood RNA classifier cannot be treated as a replacement for clinical diagnosis. This paper presents MS-MLB (Multiple Sclerosis Machine Learning Benchmark), a reproducible open benchmark for machine learning based MS research classification from whole blood RNA expression data. MS-MLB uses the public GSE17048 cohort, converts it into an MS versus healthy control task, and evaluates multiple algorithms under a shared, leakage controlled pipeline that a researcher can rerun without reconfiguring the evaluation. The evaluation includes nested cross-validation, an untouched stratified holdout set, bootstrap confidence intervals, ROC and precision recall analysis, calibration measurement, and an exploratory MS Research Score. In the final benchmark summary, Gradient Boosting ranked first by MS Research Score on the holdout set, with an MS Research Score of 93.83, AUC-ROC of 0.989, sensitivity of 0.950, specificity of 0.778, $F_{1}$ score of 0.927, and Brier score of 0.050. Prior studies have applied machine learning to MS blood transcriptomic data, including PBMC stage classification and whole blood diagnostic signature modeling. The contribution here is different and narrower. To our knowledge, MS-MLB is the first open benchmark focused on MS versus healthy control classification from GSE17048 whole blood RNA expression data with a documented external model submission pathway built into the framework. The score is intended for research comparison only and has not been clinically validated. The benchmark is accessible here: https://github.com/duckyquang/MS-MLB."
-  },
-  {
-    "id": "477972f7b68bd816",
-    "title": "When Do Corrective Features Help? An Agent for Corrective Feature Discovery on Black-Box Forecasters",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05207",
-    "article_text": "arXiv:2608.05207v1 Announce Type: new \nAbstract: Frozen pretrained forecasters often fail in structured, recurring ways that are costly to repair through fine-tuning. We study corrective feature discovery: mining interpretable features of a frozen forecaster's residual to drive a lightweight post-hoc corrector. Prior automated feature engineering models the data-generating process; corrective features instead model the model-failure process. We present CRAFTER (Corrective Residual Agent with Feature-based Temporal Exploration and Reasoning), which keeps the backbone frozen and mines its residual with two complementary generators: a compositional search over the raw input channels, and a large language model (LLM) that proposes named feature combinations, binary flags, and short executable code. A single validation-grounded gate accepts or rejects every candidate regardless of its origin, and a validation-selected corrector applies the accepted features or leaves the forecast unchanged. This source-agnostic pipeline also allows prior feature-engineering systems to be evaluated under identical conditions, making CRAFTER an instrument for attributing forecast improvements to the feature source alone. Across six public datasets and six frozen backbones, CRAFTER surpasses every dedicated feature-engineering system at every feature budget, roughly doubling the improvement achieved by the corrector alone and reducing the error of the weakest backbones by up to 27%. These gains are robust across different LLM backends and persist even when applied on top of fine-tuned backbones."
-  },
-  {
-    "id": "4fa0104cc7120f24",
-    "title": "PPDL: LLM-Based Flows as Probabilistic Programs",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05234",
-    "article_text": "arXiv:2608.05234v1 Announce Type: new \nAbstract: Building reliable applications that leverage large language models (LLMs) remains a significant challenge. While LLMs offer impressive capabilities across diverse tasks, their outputs often lack accuracy and provide no clear measure of confidence. This uncertainty compounds in flows of multiple calls to LLMs and other tools, making it difficult for developers and end-users to trust the results. This paper introduces a probabilistic language for programming LLM-based flows. It enables developers to quantify and propagate uncertainty throughout the application's flow, and experiment with different inference scaling techniques without adding a single line of code beyond the flow's logic. We present an experimental study to demonstrate this capability, and a case study building a theorem proving agent for the Rocq theorem prover."
-  },
-  {
-    "id": "98ea004c0419e119",
-    "title": "Decoupling Perception from Description: Computation-Grounded Representation Alignment between Multivariate Time Series and Language",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05238",
-    "article_text": "arXiv:2608.05238v1 Announce Type: new \nAbstract: Training multimodal models to align time series with language runs into a self-supervision trap. The usual recipe asks an LLM to read a series and write a description, so label quality is capped by the perceptual skill the model is supposed to learn. The data can never teach more than the labeler already knows. A second gap makes this worse: most datasets use a single variable, but the patterns that matter (cross-channel correlation, lead-lag structure, co-occurring anomalies) appear only with several variables, right where the labeling LLM's limits are most exposed. These two problems create a trilemma: existing methods are reliable, realistic, or scalable, but none achieves all three. We resolve this by decoupling perception from description. Deterministic code computes a set of statistics from real, open-source multivariate series; the LLM verbalizes those precomputed facts. Perception, which LLMs do poorly, is handled by computation, while the LLM handles expression. This produces CGTime, our 4B-parameter computation-grounded time-series-language model. CGTime outperforms far larger general-purpose models on multivariate understanding tasks: it attains the best multivariate fact score on our held-out benchmark (0.283 vs. 0.173 for GPT-4o-mini and 0.203 for GPT-5.4-nano), a gap that survives Holm-corrected paired significance tests against every baseline. It also states verifiable numerical facts in generated captions more accurately and covers a broader range of statistical properties."
-  },
-  {
-    "id": "8b2f1e9037b6ecd3",
-    "title": "Disentangling 3D Modeling from Spatial Reasoning",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05242",
-    "article_text": "arXiv:2608.05242v1 Announce Type: new \nAbstract: In this work, we explore an alternative paradigm for spatial reasoning by explicitly disentangling 3D perception from reasoning, rather than jointly acquiring implicit 3D perception and reasoning through large-scale training. Our key observation is that modern perception models excel at estimating continuous 3D geometry, whereas large language models (LLMs) are particularly effective at compositional and symbolic reasoning. Motivated by these complementary strengths, we propose the Disentangled Spatial Reasoner (DiSR), a simple yet effective framework that reconstructs the physical world into structured 3D evidence using off-the-shelf expert perception models and fine-tunes an LLM with LoRA to perform reasoning solely over this explicit geometric evidence. Without large-scale 3D VQA training or complex tool-use policies, DiSR achieves competitive performance on popular spatial reasoning benchmarks. Beyond its strong performance, DiSR offers improved interpretability, modularity, and computational efficiency, demonstrating that explicit separation of perception and reasoning is a scalable and effective alternative paradigm to end-to-end modeling for spatial intelligence."
-  },
-  {
-    "id": "ffd239ed854e1002",
-    "title": "Marginal Matching Does Not License Factorized Sampling: Auditing Conditional Style Leakage in Factorized Generative Models",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05243",
-    "article_text": "arXiv:2608.05243v1 Announce Type: new \nAbstract: Factorized generative models commonly regularize a latent style variable z_s by matching its marginal distribution to a fixed Gaussian prior and interpret this as evidence that the style representation is independent of class information. We show that this interpretation is incorrect. Matching only the marginal distribution places no constraint on the class-conditional distributions, allowing the latent style to remain highly predictive of the label despite appearing perfectly Gaussian in aggregate. We derive an exact decomposition showing that this mismatch is one of four conditions required for factorized sampling, and demonstrate that eliminating it is necessary but not sufficient to obtain the intended factorization.\n  Empirically, our case-study model and four representative latent baselines achieve near-zero global MMD while still allowing a linear probe to recover class labels with 74%--100% accuracy (10% chance level). Our model reaches 99.15% clustering accuracy, whereas externally evaluated class-conditional generation succeeds only 16% of the time. This leakage remains under six independent perturbations involving model capacity, curriculum, prior geometry, and supervision across two datasets. Four mitigation strategies reduce probe accuracy to 21%--46%, although they leave within-class dependence largely unchanged. A post-hoc conditional prior improves externally evaluated class generation to 0.97 on MNIST without retraining but reaches only 0.41 on CIFAR-10, while an empirical style bank achieves 0.88 on CIFAR-10. These results demonstrate that no divergence computed solely on the marginal distribution of the style latent can certify independence from class labels, and that reporting marginal statistics alone does not verify the property commonly claimed in factorized generative models."
-  },
-  {
-    "id": "75b67a143a121a15",
-    "title": "PRISM: Priority-aware Rubric Internalization via Structured Multimodal Data Synthesis",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05249",
-    "article_text": "arXiv:2608.05249v1 Announce Type: new \nAbstract: Real-world multimodal instructions often bundle multiple requirements with unequal importance, yet most multimodal training data still reduce instruction following to answering one self-contained question. We study this gap through \\textbf{rubric comprehension}, which casts the model not as a generator measured against rubrics but as an \\textbf{executor} that follows them: given an image and a typed, prioritized rubric, the model must verify each rule before producing an overall judgment. To support this setting, we propose \\textbf{PRISM}, a four-stage data synthesis framework that produces persona--task pairs, prefix-guided rule sets, quality-filtered rubrics, and structured verification traces. We further introduce \\textbf{PRISM-Eval}, whose Loose and Strict metrics use deterministic matching against fixed labels and therefore require no inference-time judge model. With only 10K synthesized samples, PRISM lifts Qwen3-VL-4B from 9.5\\% to 30.1\\% Strict accuracy on PRISM-Eval while preserving average performance on general benchmarks, and the gains transfer to four additional open-source MLLMs across dense and MoE architectures, suggesting that structured rubric supervision is a scalable path toward multi-rule, priority-aware multimodal instruction following."
-  },
-  {
-    "id": "b4ff3ef5bc9f816a",
-    "title": "Beyond Full-Model Rollback: AuroSFT for Adapter-State Multi-Task Fine-Tuning",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05250",
-    "article_text": "arXiv:2608.05250v1 Announce Type: new \nAbstract: Multi-task supervised fine-tuning (SFT) often casts a heterogeneous data mixture as a single optimization problem, even though different tasks may reach their best generalization at different times. msft exposes this mismatch through task-wise roll-out, exclusion, and rollback, but its original formulation materializes the scheduler state as full-model checkpoints, making stage transitions costly to store, restore, and deploy. This paper introduces AuroSFT, a parameter-efficient framework that recasts the carried state of overfitting-aware multi-task SFT as a compact, mergeable adapter state. AuroSFT freezes the pretrained backbone, trains only injected adapters, rolls back adapter checkpoints at task-wise peaks, and continues on the remaining active mixture. At the layer level, each adapter applies an AuroRA-inspired adaptive nonlinear layer to a low-rank weight factor rather than to the sample representation. The resulting update remains linear in the input, rank-bounded, and exactly mergeable into the frozen projection. Under the retained-backbone comparison protocol, AuroSFT achieves 61.36% average accuracy, compared with 59.85% for the corresponding msft reference row, and obtains higher accuracy on all five backbones. Our code is available at the anonymous repository: https://anonymous.4open.science/r/AuroSFT-80D1."
-  },
-  {
-    "id": "bdc5bd7703e57baa",
-    "title": "Beyond Rotations: AuroOFT for Expressive Quantized Orthogonal Fine-Tuning",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05253",
-    "article_text": "arXiv:2608.05253v1 Announce Type: new \nAbstract: Quantized orthogonal fine-tuning (qoft) enables parameter-efficient adaptation of low-bit language models by learning structured activation rotations before frozen quantized weights. However, its task-specific updates remain constrained to linear orthogonal transformations, limiting input-dependent nonlinear corrections. We introduce AuroOFT, which keeps qoft as a stable quantization-compatible branch while attaching a zero-start gated low-rank nonlinear residual to each adapted linear layer. AuroOFT maps activations into an RMS-normalized compact latent space and uses adaptive nonlinear bases with bounded or token-dependent gating. The zero-initialized up projection makes AuroOFT functionally identical to qoft at initialization, while orthogonality remains a branch-level stability property rather than a property of the combined nonlinear layer. Under matched data, optimization, decoding, and parser protocols, AuroOFT improves Macro-6 over matched qoft by 1.30-2.70% on the 1.5B/3B Qwen2.5 settings, exceeds QLoRA by 6.52-10.62%, and saves 32.3-44.7% trainable parameters relative to QLoRA in representative scales. The small exam-style multiple-choice math set is treated only as a protocol-sensitivity diagnostic. Our code is available at the anonymous repository: https://anonymous.4open.science/r/AuroOFT-F3FD."
-  },
-  {
-    "id": "3bff46220f63deb8",
-    "title": "An Emerging Retail Portfolio Management Application: Personalized, Tax-Aware Reinforcement Learning with Natural Language Goals",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05255",
-    "article_text": "arXiv:2608.05255v1 Announce Type: new \nAbstract: Retail investors lack access to the kind of personalized, tax-aware portfolio management that institutional clients take for granted -- existing robo-advisors use static, rule-based allocation, and institutional-grade systems require account minimums and technology stacks unavailable to individual investors. We present a fully built, integration-tested application that closes this gap: a FastAPI backend and web dashboard that let a user describe an investment goal in plain language (e.g. \"I want steady growth but need to sell some shares next month for a down payment\"), routes that goal to one of six investment mandates, and produces a live, broker-integrated portfolio recommendation from athree-phase reinforcement learning system -- a self-supervised cross-asset encoder, a Mixture-of-Experts (MoE) allocation policy with a learned intent router, and a lightweight LoRA adapter that personalizes recommendations from an individual's revealed brokerage behavior without retraining the shared model. The system is functionally complete and integration-tested end-to-end against a live brokerage API (Alpaca, paper-trading mode), including multi-user authentication, a trust first preview-before-apply confirmation flow, daily email digests, and an auditable action-integrity chain, but has not yet been opened to real end-users; we report this honestly as an emerging, pre-deployment application with a concrete path to full deployment, alongside 14-day walk-forward backtests (bootstrapped confidence intervals included) as preliminary, pre-deployment validation rather than production performance. We also report several practical engineering lessons -- silently-inactive integration paths, hanging third-party API calls, and the value of end-to-end empirical verification over trusting checkpoint metadata -- that we believe generalize to other applied RL systems built on external, live data sources."
-  },
-  {
-    "id": "7834e0378a161097",
-    "title": "Evaluating Machine Learning Models for Post-Wildfire Debris-Flow Prediction",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05265",
-    "article_text": "arXiv:2608.05265v1 Announce Type: new \nAbstract: Prediction of post-wildfire debris flows is critical for mitigating hazards to communities, infrastructure, and resources during intense rainfall in recently burned areas. However, identifying reliable machine learning models is complicated by overlapping debris-flow and non-debris-flow events in feature space, the need for model interpretability, and limited training data. This paper addresses these challenges through a systematic evaluation of machine learning models in terms of predictive performance, feature importance, and synthetic data augmentation. Using basin-scale observations of post-wildfire debris-flow events across the western United States, we compare 15 models, including the Tabular Prior-Data Fitted Network (TabPFN). Repeated stratified cross-validation shows that TabPFN achieves the highest unaugmented performance with a threat score of 0.637, closely followed by the best tree-based models. SHapley Additive exPlanations (SHAP) are used to identify the features driving predictions, revealing that short-duration rainfall intensity and storm accumulation consistently rank highest, while burn severity and terrain features contribute less. We further evaluate synthetic data augmentation using TabPFN-generated samples to address the scarcity of debris-flow observations. Synthetic augmentation improves the performance of all models except CNN, with the largest mean threat score increase of +0.041 among the deep learning models. By combining rigorous model benchmarking, interpretable feature analysis, and synthetic data augmentation, this work provides a comprehensive framework for improving post-wildfire debris-flow prediction."
-  },
-  {
-    "id": "9b07cffe5d2f6582",
-    "title": "Rectifying Geometric Misalignment: Online Source-Free Adaptation for Class-Imbalanced EEG",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05315",
-    "article_text": "arXiv:2608.05315v1 Announce Type: new \nAbstract: Electroencephalography (EEG) based Brain-Computer Interfaces (BCIs) often require unsupervised domain adaptation (UDA) to generalize across subjects and sessions. While Riemannian alignment methods like the Riemannian Centering Transformation (RCT) are effective for handling covariate shifts, they implicitly assume balanced class priors. However, in realistic online BCI scenarios, the label distributions vary dynamically (label shift), causing standard alignment techniques to geometrically misalign the target data distributions. In this work, we propose OSPDIM (Online SPD manifold information maximization), a source-free online UDA framework designed to address label shifts on the Riemannian manifold. OSPDIM introduces a manifold-constrained bias parameter into the tangent space mapping, which is optimized via information maximization to correct the geometric skew caused by imbalanced data streams. Unlike offline methods relying on global batch statistics, OSPDIM estimates and corrects geometric bias on-the-fly. Simulations on 2D SPD matrices visually demonstrate that OSPDIM successfully rectifies the misalignment where standard centering fails. Extensive experiments on multiple motor imagery datasets show that OSPDIM significantly outperforms standard Riemannian baselines, particularly in challenging online adaptation scenarios with severe class imbalance, offering a robust solution for practical, plug-and-play BCI systems."
-  },
-  {
-    "id": "eb5233466edbc91b",
-    "title": "QEvict: Recoverable Quantized KV Eviction for Attention-Drift-Robust Long-Context Decoding",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05326",
-    "article_text": "arXiv:2608.05326v1 Announce Type: new \nAbstract: Autoregressive large language model inference is increasingly constrained by the memory footprint of the Key-Value (KV) cache. A dominant line of work reduces this footprint by evicting tokens that appear unimportant under attention-derived scores. However, such policies make an implicit irreversible decision: once a token is evicted, it cannot become useful again. We show that this assumption is brittle during decoding. Token and window importance drift as generated queries evolve, causing standard eviction policies to permanently discard states that later receive substantial attention under the full-cache model. To characterize this behaviour, we introduce Future Missed Mass and Global LIR, two diagnostics that measure future attention assigned to discarded states and the reactivation of historically inactive regions. We propose QEvict, a three-tier KV-cache management scheme that replaces binary retain-or-delete eviction with recoverable eviction. QEvict maintains high-confidence windows in full precision, stores intermediate windows in a quantized recoverable tier, and deletes only the lowest-confidence windows. During decoding, cumulative attention scores update window importance and when a quantized window becomes important again, it is dequantized and promoted to the full-precision. Under a fixed memory budget, this design preserves broader historical context while retaining exact full precision for the most important regions. Across long-context understanding, retrieval, and reasoning benchmarks, QEvict consistently improves over representative eviction and quantization baselines, reducing missed attention and improving information retention"
-  },
-  {
-    "id": "476e76986161f74f",
-    "title": "DG-FedReuse: Proxy-Gradient-Gated Cached-Update Reuse with Matched Sparse Uplink Accounting",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05358",
-    "article_text": "arXiv:2608.05358v1 Announce Type: new \nAbstract: Federated learning repeatedly incurs local optimization and model-update transmission. We study DG-FedReuse, a simulator-level mechanism that allows selected clients to contribute age-decayed cached updates when a stochastic head-gradient discrepancy proxy remains below a round-dependent threshold. A hard cache-age limit and minimum fresh-client quota constrain reuse, while fresh updates use an adaptive per-tensor Top-K numerical-field representation. Experiments cover six image-classification datasets, 50 virtual clients, Dirichlet label heterogeneity ({\\alpha}=0.5), and three seeds. At a common 90-round budget, DG-FedReuse yields 83.36-85.42% modeled update-data-field uplink saving, compared with 76.88% for matched Top-K FedAvg; the seed-aligned accuracy differences range from -5.29 to -0.14 percentage points. Best-observed test accuracies obtained under test-controlled checkpointing are retained only as exploratory archival evidence and range from -2.38 to +0.45 percentage points relative to matched FedAvg. A symmetric dense-model-downlink sensitivity reduces the headline saving to 41.68-F42.71% and the incremental gain over Top-K FedAvg to 3.24-4.27 percentage points, demonstrating the dependence of communication conclusions on the accounting boundary. The study characterizes the proposed reuse rule in the implemented simulator; it does not establish unbiased generalization, end-to-end bandwidth reduction, runtime or energy savings, faster convergence, or superiority over existing stale-update and lazy-aggregation methods."
-  },
-  {
-    "id": "dccc5f4324ed4711",
-    "title": "Quantum-Structured World Models (QSWMs) for Predictive Latent Dynamics",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05371",
-    "article_text": "arXiv:2608.05371v1 Announce Type: new \nAbstract: World models learn latent states that summarize interaction histories, evolve over time, and support prediction, simulation, or planning. Most existing world models represent these states using classical vectors, probability distributions, recurrent hidden states, or transformer activations. In this paper, we introduce Quantum-Structured World Models (QSWMs), a quantum-inspired framework for predictive world modeling with structured latent states, latent transition operators, and measurement-inspired decoding maps. We study whether mathematical structures inspired by quantum theory, such as complex-valued representations and density-matrix-like latents, provide useful inductive biases for world modeling. We establish three foundational properties: classical inclusion, predictive sufficiency, and structured compactness. We then instantiate complex-valued and density-matrix-like QSWM variants and evaluate them on elementary cellular automata against strong classical baselines. Results show promising local predictive potential for complex-valued QSWMs, while also revealing limitations in long-horizon rollout, density-matrix variants"
-  },
-  {
-    "id": "13d5fa0e80dd7e12",
-    "title": "Spectral Distillation: From Nonlinear Dynamics to Linear State-Space Models",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05416",
-    "article_text": "arXiv:2608.05416v1 Announce Type: new \nAbstract: Can nonlinear dynamical systems be learned through a compact linear state-space representation, without directly solving a non-convex system-identification problem? We give a provable pipeline for doing so. Starting from observations of an unknown nonlinear dynamical system, we first learn an implicit spectral predictor using Observation Spectral Filtering (OSF), a convex method that competes with the best linear observer for the system. We then apply spectral-to-LDS distillation to convert this predictor into an explicit recurrent linear dynamical system. Our main theorem shows that the average prediction error of the distilled LDS decomposes into an exponentially-small distillation term and the OSF learning term governed by the Luenberger complexity of the best observer. The guarantee is dimension-free: it depends on observer complexity rather than on the latent dimension needed to represent the nonlinear system. To our knowledge, this yields the first end-to-end provable method for extracting a best-in-hindsight LDS representation of nonlinear dynamics through convex learning followed by provable distillation. Experiments on linear LDS benchmarks and MuJoCo behavior cloning show that the train-then-distill pipeline produces compact LDS predictors that match or outperform directly trained baselines."
-  },
-  {
-    "id": "f3463a573c49a310",
-    "title": "Perturbation Sensitivity at Convergence: A Simple Signal for Identifying Spuriously Correlated Samples",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05419",
-    "article_text": "arXiv:2608.05419v1 Announce Type: new \nAbstract: Models trained by empirical risk minimization on data containing spurious correlations achieve high average accuracy while failing on subpopulations where the correlation does not hold. Existing methods for identifying the affected samples without group annotations rely on signals from early training, which requires locating the epoch at which to intervene, a hyperparameter typically selected using group-labeled validation data. We show that a usable signal is available after convergence, when loss no longer distinguishes the two populations. Samples consistent with the spurious correlation are classified by a shared rule, while the remaining samples are fit through configurations specific to individual inputs and are correspondingly more fragile. Applying a fixed perturbation to a converged model's inputs flips the predictions of the latter far more often than the former. The resulting procedure requires two forward passes per training sample, no group annotations at any stage, and no early-stopping epoch. Using the detected samples to rebalance training raises worst-group accuracy on Waterbirds from 57.3% to 80.8%, against 85.8% with ground-truth group labels."
-  },
-  {
-    "id": "ff0c167e4268c250",
-    "title": "IFlowNets: Extending Generative Samplers to Learn Strategies in Incomplete Information Games",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05422",
-    "article_text": "arXiv:2608.05422v1 Announce Type: new \nAbstract: While many algorithms blend reinforcement learning (RL) with counterfactual regret (CFR) methods to leverage tradeoffs in computational speed and performance, there are fewer investigations into generative sampling frameworks in game theoretic applications in incomplete information games. We extend a generative flow network framework, Adversarial Flow Networks (AFlowNets), to incomplete information games, called Information Flow Networks (IFNs). We prove that previously established constraints for generative flow networks in complete information games are inadmissible for obtaining valid densities (corresponding to player strategies) and a valid training objective. We show that our proposed generalization, IFlowNets, alleviates this issue and strictly generalizes AFlowNets. In preliminary results for three standard game environments, IFlowNets perform comparably to or better than Outcome Sampling Monte Carlo Counterfactual Regret (OSMCCFR) and standard RL-based methods in performance and speed."
-  },
-  {
-    "id": "15fa23d8909efaea",
-    "title": "Why the Third Axis Is Freedom",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05423",
-    "article_text": "arXiv:2608.05423v1 Announce Type: new \nAbstract: In generative training, a model produces an output and is penalised for its difference from an example. With one output per comparison, a model that produces one common answer can outperform a model retaining a broader repertoire. Explorative Modeling (XM) produces $K$ outputs per comparison and updates on the closest, claiming exploration as a \"third pretraining axis\" associated with generative expressivity. Here I show the third axis is actually freedom, meaning the weakness of the constraint implied by a model's behaviour. Previous work showed freedom is a property of function rather than form. Parameters, architecture, minimum-description-length (MDL), and data can vary while the behavioural constraint remains unchanged. It was formally proved that weakest models are likeliest to generalise, and freedom selection beat MDL by 110-500\\% in induction experiments. I prove average XM loss depends on the chance a candidate misses an acceptable region, with exploration raising miss probability to power $K$. For $K>1$, match probability rises with freedom. I then demonstrate empirically that XM optimises for freedom. In a Forward XM experiment, larger $K$ increased or saturated measured freedom, and increased freedom at every tested value under context-dependent targets. I trained XM candidate pools and compared validation selection with a freedom selector that read unlabelled parent contexts. Freedom won in 29 of 30 cases. Generative expressivity is a mode-count proxy for freedom, that discards the extension structure that gives freedom its generalisation significance. XM is a means, freedom an end, and selecting for freedom improved XM under distribution shift."
-  },
-  {
-    "id": "3ca1374ab00855e2",
-    "title": "EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents",
-    "source": "arXiv cs.LG",
-    "publication_date": "Fri, 07 Aug 2026 00:00:00 -0400",
-    "url": "https://arxiv.org/abs/2608.05446",
-    "article_text": "arXiv:2608.05446v1 Announce Type: new \nAbstract: Long-horizon LLM agents increasingly rely on external execution support to maintain state, track progress, invoke tools, verify outcomes, and reuse experience across interactions. However, effective harness use raises two coupled challenges: state formation from noisy interaction traces and runtime control over external-state access. Existing agents usually handle both through prompts, heuristics, or domain-specific conventions, leaving the external workspace and its usage policy manually engineered. To address this, we study the problem of harness policy learning, where agents learn harness policies offline and deploy them to construct and update external harness state online during runtime task execution. We introduce EvoHarness-RL, which exposes Belief, Progress, and Experience (BPE) as policy-facing harness state. Supervised harness fine-tuning teaches the base agent the harness action space and how to construct useful external state, while cost-aware GRPO explores coordination policies to selectively read, update, and consolidate that state during long-horizon interaction. Instantiated on ALFWorld with a Qwen3-8B LLM, EvoHarness-RL reaches 96.9% success and reveals two key dynamics: harness annealing, where training internalizes recurring harness-use patterns into the model policy and shifts the agent from frequent harness calls toward selective external-state access, and harness evolution, where progress updates and experience consolidation refine the harness into a compact, task-adaptive state substrate. These results suggest that long-horizon agents benefit from trainable policies for constructing and coordinating with external harness workspaces, beyond simply adding stronger tools or larger memories."
-  },
-  {
-    "id": "71808d0d09176453",
-    "title": "agentic-function added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-07T02:27:14Z",
-    "url": "https://pypi.org/project/agentic-function/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "c12c78180d8da348",
-    "title": "catpaw-vision-mcp added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-07T02:25:04Z",
-    "url": "https://pypi.org/project/catpaw-vision-mcp/",
-    "article_text": "CatPawAI IDE GLM-5.2DeepSeek \r\n ModelScope Qwen3.5-122B-A10B \"\" UI\r\n/ CatPawAI MCP MCP \r\nModelScope API\r\n<table><tr><th></th><th></th><th></th></tr>\r\n<tr><td>analyze_clipboard</td><td></td><td></td><… [+1931 chars]"
-  },
-  {
-    "id": "d96bfe9c6b6acead",
-    "title": "Naïve bags $28.5M in funding to automate the creation and day-to-day running of almost any business",
-    "source": "SiliconANGLE News",
-    "publication_date": "2026-08-07T02:23:24Z",
-    "url": "https://siliconangle.com/2026/08/06/naive-bags-28-5m-funding-automate-creation-day-day-running-almost-business/",
-    "article_text": "Palo Alto-based Naïve Inc., an artificial intelligence lab thats developing autonomous agents capable of setting up and running entire businesses, said today it has closed on a $28.5 million Series A… [+6701 chars]"
-  },
-  {
-    "id": "d28c97da6a7aa6e1",
-    "title": "algernon-mcp added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-07T02:19:16Z",
-    "url": "https://pypi.org/project/algernon-mcp/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "86e78836ca6bf8b1",
-    "title": "MARA swings to Q2 loss as Bitcoin’s slump masks higher output",
-    "source": "Cointelegraph",
-    "publication_date": "2026-08-07T02:17:07Z",
-    "url": "https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output",
-    "article_text": "Bitcoin miner MARA swung to a net loss of $611.3 million from a year-earlier profit in the second quarter of 2026, driven primarily by a change in the value of its Bitcoin holdings, despite reporting… [+3097 chars]"
-  },
-  {
-    "id": "c98a44dc81b99d16",
-    "title": "Meta AI model goes rogue in testing, hacks another company",
-    "source": "Biztoc.com",
-    "publication_date": "2026-08-07T02:16:47Z",
-    "url": "https://biztoc.com/x/36dcd4b9b895887a",
-    "article_text": "Meta revealed this week one of its models breached another company during cybersecurity testing, becoming the third major technology giant to disclose a hacking incident involving rogue AI models in … [+140 chars]"
-  },
-  {
-    "id": "54eb6219b376f011",
-    "title": "DeepSeek, state oil giant back humanoid robot maker Unitree's $900m IPO",
-    "source": "Biztoc.com",
-    "publication_date": "2026-08-07T02:16:13Z",
-    "url": "https://biztoc.com/x/7ba9b6eb3ac6a131",
-    "article_text": "SHANGHAI -- Chinese artificial intelligence developer DeepSeek and the country's state oil giant are among the big-name companies investing in humanoid robot maker Unitree Robotics' 6.1 billion yuan … [+112 chars]"
-  },
-  {
-    "id": "8cfb9f6f6cefdd37",
-    "title": "Meta ordered to pay $567 million in New Mexico for teen mental health fund",
-    "source": "The Times of India",
-    "publication_date": "2026-08-07T02:15:01Z",
-    "url": "https://economictimes.indiatimes.com/tech/technology/meta-ordered-to-pay-567-million-in-new-mexico-for-teen-mental-health-fund/articleshow/133019111.cms",
-    "article_text": "A New Mexico state court ordered Meta on Thursday to pay $567 million into a teen mental health fund and change how its platforms function for young users after finding the company is to blame for ha… [+5451 chars]"
-  },
-  {
-    "id": "61fdc102500ce74d",
-    "title": "OpenAI Aims to Redefine Smart Speakers With First AI Device",
-    "source": "pymnts.com",
-    "publication_date": "2026-08-07T02:12:48Z",
-    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-aims-to-redefine-smart-speakers-with-first-ai-device/",
-    "article_text": "OpenAI‘s upcoming portable smart speaker, the companys first device, will be doughnut-shaped, the size of a hockey puck, will have moving parts and likely cost between $300 and $400, Bloomberg report… [+1910 chars]"
-  },
-  {
-    "id": "9bc54b879388f09a",
-    "title": "Meta AI model goes rogue in testing, hacks another company - The Hill",
-    "source": "Slashdot.org",
-    "publication_date": "2026-08-07T02:12:32Z",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184887124",
-    "article_text": "IN MY OPINION anyone interested in improving himself should not rule out\r\nbecoming pure energy.\r\n-- Jack Handley, The New Mexican, 1988."
-  },
-  {
-    "id": "3f559f1d23476237",
-    "title": "breakingnews added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-07T02:06:27Z",
-    "url": "https://pypi.org/project/breakingnews/",
-    "article_text": "Purpose. A broadcast-news transcript arrives as an undifferentiated block of 2,00017,000 words covering several unrelated stories. This package finds the word offsets where one story ends and the nex… [+6351 chars]"
-  },
-  {
-    "id": "224d46de11963530",
-    "title": "ETMarkets Smart Talk | AI infrastructure, not just AI software, will drive India's next wealth cycle: Amit Joshi",
-    "source": "The Times of India",
-    "publication_date": "2026-08-07T02:06:07Z",
-    "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-ai-infrastructure-not-just-ai-software-will-drive-indias-next-wealth-cycle-amit-joshi/articleshow/133018918.cms",
-    "article_text": "For years, investors chasing the artificial intelligence (AI) boom have largely focused on software companies. But the next wave of wealth creation could come from the infrastructure powering this te… [+5863 chars]"
-  },
-  {
-    "id": "b639436f334a3392",
-    "title": "Veteran manager buys 2 ETFs as market shifts",
-    "source": "TheStreet",
-    "publication_date": "2026-08-07T02:03:00Z",
-    "url": "https://www.thestreet.com/investing/stocks/chris-versace-buys-etfs-xlv-robo",
-    "article_text": "The S&amp;P 500 has had a strong 2026. Most of the gains have come from the same group of technology and AI stocks that have been driving the market for two years. One portfolio manager just decided … [+6226 chars]"
-  },
-  {
-    "id": "0c8c43106d8c91d2",
-    "title": "Nvidia tests leaner Rubin Ultra memory designs with 2027 HBM supply in question",
-    "source": "Digitimes",
-    "publication_date": "2026-08-07T02:02:21Z",
-    "url": "https://www.digitimes.com/news/a20260807VL204/nvidia-rubin-hbm-2027-testing.html",
-    "article_text": "Keep me signed in\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the… [+288 chars]"
-  },
-  {
-    "id": "bce2145c3b103df4",
-    "title": "kenzy 5.0.7",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-07T01:59:16Z",
-    "url": "https://pypi.org/project/kenzy/5.0.7/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "6ff2c393a3a9230a",
-    "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Alphabet Inc. - GOOG",
+    "id": "becd337dfc36964a",
+    "title": "Telecom Argentina S.A. announces consolidated results for the first half (\"1H26\") and second quarter of fiscal year 2026 (\"2Q26\")²",
     "source": "PRNewswire",
-    "publication_date": "2026-08-07T01:58:00Z",
-    "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-alphabet-inc---goog-302845543.html",
-    "article_text": "NEW YORK, Aug. 6, 2026 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of Alphabet Inc. (\"Alphabet\" or the \"Company\") (NASDAQ: GOOG). Such investors are advised to contac… [+2271 chars]"
+    "publication_date": "2026-08-07T13:21:00Z",
+    "url": "https://www.prnewswire.com/news-releases/telecom-argentina-sa-announces-consolidated-results-for-the-first-half-1h26-and-second-quarter-of-fiscal-year-2026-2q26-302846086.html",
+    "article_text": "BUENOS AIRES, Aug. 7, 2026 /PRNewswire/ --\r\nNote: 1H26 figures include the effects of the adoption of inflationary accounting in accordance with IAS 29. Therefore, comments regarding 1H26 results and… [+42280 chars]"
   },
   {
-    "id": "ae6ae4613bfc1f37",
-    "title": "Nazara’s new raise; PEs gravitate to startups",
-    "source": "The Times of India",
-    "publication_date": "2026-08-07T01:57:59Z",
-    "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/nazaras-new-raise-pes-gravitate-to-startups/articleshow/133018884.cms",
-    "article_text": "Happy Friday! Nazara Technologies is set to raise funds via a preferential issue. This and more in todays ETtech Morning Dispatch.Also in the letter:Ola Electric moves to dealership model ETtech Done… [+6534 chars]"
+    "id": "ccafbf6cd68ce7ad",
+    "title": "\"Ideas like this usually just die\": Inside generative AI’s effect on modding, and how host sites struggle to maintain transparency",
+    "source": "Rock Paper Shotgun",
+    "publication_date": "2026-08-07T13:19:46Z",
+    "url": "https://www.rockpapershotgun.com/ideas-like-this-usually-just-die-inside-generative-ais-effect-on-modding-and-how-host-sites-struggle-to-maintain-transparency",
+    "article_text": "I’ve been scrolling through Nexus Mods near enough every weekday morning for three or four years now. On a good day, I might spot a couple of new mods potentially worth writing news about and a coupl… [+12112 chars]"
   },
   {
-    "id": "931428bf27b3bd37",
-    "title": "How iFast learnt to think beyond Singapore",
-    "source": "CNA",
-    "publication_date": "2026-08-07T01:55:00Z",
-    "url": "https://www.channelnewsasia.com/brand-studio/how-ifast-learnt-think-beyond-singapore-6294916",
-    "article_text": "As iFast expanded its product offering, it also grew beyond Singapore, entering Hong Kong before moving into Malaysia, China and the UK. Over time, however, the company found that opening more office… [+1333 chars]"
+    "id": "99260dbc7e5c8a83",
+    "title": "Identifying Token Costs Hiding in Your Agentic Loop",
+    "source": "Machinelearningmastery.com",
+    "publication_date": "2026-08-07T13:19:16Z",
+    "url": "https://machinelearningmastery.com/identifying-token-costs-hiding-in-your-agentic-loop/",
+    "article_text": "In this article, you will learn how token costs silently compound in agentic AI loops, and what architectural patterns you can use to control them before they escalate.\r\nTopics we will cover include:… [+8940 chars]"
   },
   {
-    "id": "ca314a25a1e5fe25",
-    "title": "Show HN: Selvedge – an append-only log of what your AI agent already rejected",
-    "source": "Github.com",
-    "publication_date": "2026-08-07T01:54:13Z",
-    "url": "https://github.com/masondelan/selvedge",
-    "article_text": "selvedge.sh\r\n  · \r\n PyPI\r\n  · \r\n GitHub\r\nLong-term memory for AI-coded codebases including what was already\r\ntried and rejected.\r\nLine attribution tells you who wrote something. Selvedge tells your a… [+30598 chars]"
+    "id": "35de204b1ac72b48",
+    "title": "Outside eagle spotted on Jackie and Shadow’s nest",
+    "source": "Popular Science",
+    "publication_date": "2026-08-07T13:18:58Z",
+    "url": "https://www.popsci.com/environment/other-eagle-jackie-shadow-nest/",
+    "article_text": "Get the Popular Science daily newsletter\r\nBreakthroughs, discoveries, and DIY tips sent six days a week.\r\nBy signing up, you confirm you are 16+, will receive newsletters and promotional content and … [+5717 chars]"
   },
   {
-    "id": "53f1f8722bde24f3",
-    "title": "Court orders Instagram and Facebook's Meta to pay $567M to address kids' mental health online",
-    "source": "Whec.com",
-    "publication_date": "2026-08-07T01:52:24Z",
-    "url": "https://www.whec.com/ap-top-news/ap-top-news-business/court-orders-instagram-and-facebooks-meta-to-pay-567m-to-address-kids-mental-health-online/",
-    "article_text": "A New Mexico court has ordered Instagram and Facebook parent company Meta to pay $567 million to address harms to young people from its platforms in the second phase of a landmark trial.\r\nJudge Bryan… [+5653 chars]"
+    "id": "70928819ac03b9d5",
+    "title": "I Vibe Coded an AI Coach to Conquer Magic: The Gathering Without Cheating",
+    "source": "PCMag.com",
+    "publication_date": "2026-08-07T13:16:23Z",
+    "url": "https://uk.pcmag.com/ai/166601/i-vibe-coded-an-ai-coach-to-conquer-magic-the-gathering-without-cheating",
+    "article_text": "Card games have long been a keen interest of mine, and I've previously competed in Hearthstone and Weiss Schwarz tournaments. However, despite my interest in it, Magic: The Gathering always felt out … [+10564 chars]"
   },
   {
-    "id": "472f59e8f504fcc9",
-    "title": "Scientists Trained An AI Model In DNA—And It Invented 16 New Viruses - Forbes",
-    "source": "Slashdot.org",
-    "publication_date": "2026-08-07T01:52:04Z",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184887004",
-    "article_text": "IN MY OPINION anyone interested in improving himself should not rule out\r\nbecoming pure energy.\r\n-- Jack Handley, The New Mexican, 1988."
+    "id": "6647740b8b7279a7",
+    "title": "ARK Invest breaks down the plummeting cost of AI benchmarks on The Brainstorm",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-08-07T13:16:14Z",
+    "url": "https://cryptobriefing.com/ark-invest-ai-benchmark-costs-brainstorm/",
+    "article_text": "AI task costs have fallen by 97x in 18 months, and ARK sees hundreds of billions in enterprise savings on the horizon Running a standard AI benchmark task now costs about 15 cents. That number alone … [+2504 chars]"
   },
   {
-    "id": "364f4ef87935ecc2",
-    "title": " América's XI ready for Leagues Cup opener",
+    "id": "e65b0d118d6fe6d0",
+    "title": "Data Center Solutions Market to Reach US$1.33 Trillion by 2031 as AI and Hyperscale Investments Accelerate - Dell Technologies, Broadcom, NVIDIA, HPE, and Super Micro Computer Dominate",
+    "source": "GlobeNewswire",
+    "publication_date": "2026-08-07T13:16:00Z",
+    "url": "https://www.globenewswire.com/news-release/2026/08/07/3341126/28124/en/data-center-solutions-market-to-reach-us-1-33-trillion-by-2031-as-ai-and-hyperscale-investments-accelerate-dell-technologies-broadcom-nvidia-hpe-and-super-micro-computer-dominate.html",
+    "article_text": "Dublin, Aug. 07, 2026 (GLOBE NEWSWIRE) -- The \"Data Center Solutions Market by Infrastructure, Software - Forecast to 2031\" has been added to ResearchAndMarkets.com's offering.\r\nThe global data cente… [+9647 chars]"
+  },
+  {
+    "id": "ee87aeee3ff834b3",
+    "title": "Ask AI: \"Describe the Life of the Henry Austin Carringer Family in 1898 in San Diego\"",
+    "source": "Blogger.com",
+    "publication_date": "2026-08-07T13:16:00Z",
+    "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/26204193/2930691941350558187",
+    "article_text": "I asked my AI Assistant Anthropic Claude to provide information about my ancestral family's life in 1844 in Prince Edward County, Canada West.  My great-grandparents Henry Austin and Della (Smith) Ca… [+11881 chars]"
+  },
+  {
+    "id": "6464defb57c76b02",
+    "title": "MiniMax H3 outperforms Tencent HunyuanVideo 1.5 in video generation benchmarks",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-08-07T13:14:06Z",
+    "url": "https://cryptobriefing.com/minimax-h3-outperforms-hunyuanvideo/",
+    "article_text": "The Chinese AI company's open-weights model claims the top spot among open video models, beating Tencent's offering by roughly 280 points in Video Arena rankings. MiniMax just grabbed the crown in op… [+1466 chars]"
+  },
+  {
+    "id": "0e59b6d945e9083f",
+    "title": "Global Spin-On Carbon Market to Reach US$0.81 Billion by 2032, Driven by EUV Lithography and Advanced Semiconductor Packaging",
+    "source": "GlobeNewswire",
+    "publication_date": "2026-08-07T13:13:00Z",
+    "url": "https://www.globenewswire.com/news-release/2026/08/07/3341124/28124/en/global-spin-on-carbon-market-to-reach-us-0-81-billion-by-2032-driven-by-euv-lithography-and-advanced-semiconductor-packaging.html",
+    "article_text": "Dublin, Aug. 07, 2026 (GLOBE NEWSWIRE) -- The \"Spin-on Carbon Market by Type, Application, and End User - Global Forecast to 2032\" has been added to ResearchAndMarkets.com's offering.\r\nThe global spi… [+8395 chars]"
+  },
+  {
+    "id": "1cbaa0b76c9f0a84",
+    "title": "Scientists create viruses with AI",
+    "source": "RT",
+    "publication_date": "2026-08-07T13:11:57Z",
+    "url": "https://www.rt.com/news/643995-us-scientists-ai-virus/",
+    "article_text": "US scientists have used artificial intelligence (AI) to create functional viruses that do not exist in nature for the first time, demonstrating a capability that researchers say could advance medicin… [+3112 chars]"
+  },
+  {
+    "id": "ee97ad942b7fa81f",
+    "title": "The Curious Case of Oracle Stock: The Better the Business Gets, the More Investors Worry",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-07T13:08:20Z",
+    "url": "https://biztoc.com/x/707542c74b9291a1",
+    "article_text": "is being punished for the one thing that is supposed to make a company great: too much demand. ORCL stock has been hammered this year, falling roughly 26% as investors continue to grow uneasy about h… [+145 chars]"
+  },
+  {
+    "id": "ff9e69e5be4ba573",
+    "title": "AI’s new millionaires want to disrupt philanthropy. They should fund what already exists",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-07T13:07:19Z",
+    "url": "https://biztoc.com/x/ad7adddb05e61c3e",
+    "article_text": "SpaceXs IPO this summer created an estimated 4,400 new millionaires overnight, and Anthropic and OpenAI are expected to soon follow. Goldman Sachs projects a historic year for IPO proceeds, driven by… [+145 chars]"
+  },
+  {
+    "id": "76ca5dfa2157b88a",
+    "title": "U.S. Employers Unexpectedly Cut 23,000 Jobs Amid Strain From The Iran War",
+    "source": "HuffPost",
+    "publication_date": "2026-08-07T13:06:22Z",
+    "url": "https://www.huffpost.com/entry/united-states-employers-unexpectedly-cut-23000-jobs-strain-iran-war_n_6a75d608e4b0a79b03a7f6b0",
+    "article_text": "WASHINGTON (AP) U.S. employers unexpectedly cut 23,000 jobs last month, and Labor Department revisions shaved 103,000 jobs off payrolls in May and June. But the unemployment rate dipped to 4.1% as Am… [+6114 chars]"
+  },
+  {
+    "id": "387d7f80abb9d7be",
+    "title": null,
+    "source": "hackernoon.com",
+    "publication_date": "2026-08-07T13:04:55Z",
+    "url": "https://hackernoon.com/best-proxy-for-web-scraping",
+    "article_text": "Choosing the best proxy for web scraping comes down to one constraint target websites restrict web scrapers by IP address, so a scraping stack is only as good as the proxy services behind it.\r\nThis g… [+27139 chars]"
+  },
+  {
+    "id": "4ba778657c38aa67",
+    "title": "Unveiling good and bad behaviors on the Agentic Internet",
+    "source": "Cloudflare.com",
+    "publication_date": "2026-08-07T13:01:00Z",
+    "url": "https://blog.cloudflare.com/good-and-bad-agentic-behaviors/",
+    "article_text": "The Internet isnt a single lane of traffic. For a long time, the rule of thumb in web security was that bots are bad, while humans are good. Of course, were far past this generalization. Humans can b… [+12043 chars]"
+  },
+  {
+    "id": "166dc3dd91f11ab3",
+    "title": "Apple’s HomePod Mini 2 Release Timeline: When Is the Smart Speaker Coming?",
+    "source": "Geeky Gadgets",
+    "publication_date": "2026-08-07T13:00:57Z",
+    "url": "https://www.geeky-gadgets.com/homepod-mini-2-rumors/",
+    "article_text": "Apple’s HomePod Mini, first introduced in 2020, has become a popular choice for users seeking a compact and capable smart speaker. Now, rumors suggest that Apple is preparing to release the HomePod M… [+6605 chars]"
+  },
+  {
+    "id": "b206cffee824a961",
+    "title": "Binance Research: Gen Z Investors are Starting Younger and Showing Greater Financial Discipline",
+    "source": "BusinessLine",
+    "publication_date": "2026-08-07T13:00:19Z",
+    "url": "https://www.thehindubusinessline.com/brandhub/pr-release/binance-research-gen-z-investors-are-starting-younger-and-showing-greater-financial-discipline/article71317745.ece",
+    "article_text": "New commentary finds that Gen Z accounts for 44% of Binance Direct Stocks and bStocks users, with more than 90% of TradFi users in every generation based in emerging markets\r\nMUMBAI, India , Aug. 7, … [+3810 chars]"
+  },
+  {
+    "id": "5e9b28eeb2aacafd",
+    "title": "AI Factory strengthens Indonesia's position as regional AI hub : Govt",
+    "source": "Antaranews.com",
+    "publication_date": "2026-08-07T13:00:09Z",
+    "url": "https://en.antaranews.com/news/426072/ai-factory-strengthens-indonesias-position-as-regional-ai-hub-govt",
+    "article_text": "Jakarta (ANTARA) - Indonesia's communications minister said on Friday a planned artificial intelligence factory backed by Indosat and global technology partners would strengthen the country's positio… [+3248 chars]"
+  },
+  {
+    "id": "77b2d00b1e774cdc",
+    "title": "Why Google DeepMind broke up the AlphaFold team",
+    "source": "Scientific American",
+    "publication_date": "2026-08-07T13:00:00Z",
+    "url": "https://www.scientificamerican.com/article/why-google-deepmind-broke-up-the-alphafold-team/",
+    "article_text": "After eight years, more than 200 million predictions and a Nobel Prize for two of its creators, the team behind AlphaFold—Google DeepMind’s artificial intelligence program to predict protein structur… [+4659 chars]"
+  },
+  {
+    "id": "353d8d6d70f706cf",
+    "title": "Cint Midterm Election Report Finds 55% of U.S. Respondents Rank Cost of Living as the Top Issue Shaping Their 2026 Vote",
+    "source": "GlobeNewswire",
+    "publication_date": "2026-08-07T13:00:00Z",
+    "url": "https://www.globenewswire.com/news-release/2026/08/07/3341113/0/en/cint-midterm-election-report-finds-55-of-u-s-respondents-rank-cost-of-living-as-the-top-issue-shaping-their-2026-vote.html",
+    "article_text": "NEW YORK, Aug. 07, 2026 (GLOBE NEWSWIRE) -- Cint\r\n, the global technology company behind continuous research and media measurement, released new research examining the priorities, behaviors and conce… [+4441 chars]"
+  },
+  {
+    "id": "2c8d06ec5fef86f9",
+    "title": "Rentec Direct Named a Finalist in the 2026 SaaS Awards",
+    "source": "PRNewswire",
+    "publication_date": "2026-08-07T13:00:00Z",
+    "url": "https://www.prnewswire.com/news-releases/rentec-direct-named-a-finalist-in-the-2026-saas-awards-302845623.html",
+    "article_text": "Industry-leading software platform recognized among the world's top SaaS solutions as a finalist for Best SaaS Product for Property Management \r\nGRANTS PASS, Ore., Aug. 7, 2026 /PRNewswire/ -- For th… [+3652 chars]"
+  },
+  {
+    "id": "cd8df19b5adc805f",
+    "title": "Rénich Bon Ćirić: When Your Code Starts Seeing Ghosts",
+    "source": "Woralelandia.com",
+    "publication_date": "2026-08-07T13:00:00Z",
+    "url": "https://blog.woralelandia.com/when-your-code-starts-seeing-ghosts-en.html",
+    "article_text": "Let us be real for a moment: we have all been burned by AI hallucinations.\nYou sit down, ask an LLM to write a helper script or refactor an awkward class, and it hands back something that looks strik… [+4955 chars]"
+  },
+  {
+    "id": "009218646f3e9b54",
+    "title": "Unifying Workers AI and AI Gateway into a single AI control plane",
+    "source": "Cloudflare.com",
+    "publication_date": "2026-08-07T13:00:00Z",
+    "url": "https://blog.cloudflare.com/workers-ai-gateway-unification/",
+    "article_text": "AI Gateway and Workers AI first started as distinct products, but over time, we noticed our users were converging. With AI Gateway, you can proxy requests to any model provider and get built-in obser… [+8594 chars]"
+  },
+  {
+    "id": "8552fc65505e1988",
+    "title": "Introducing Radar Researcher: An AI tool for exploring Internet data in plain language",
+    "source": "Cloudflare.com",
+    "publication_date": "2026-08-07T13:00:00Z",
+    "url": "https://blog.cloudflare.com/introducing-radar-researcher/",
+    "article_text": "Since launching in 2020, Cloudflare Radar\r\n has provided one-of-a-kind insight into Internet traffic on a global scale. The open data that Radar publishes from our global network is used by a variety… [+13584 chars]"
+  },
+  {
+    "id": "7e9a294808e88bfb",
+    "title": "Quantum-Inspired Software Shatters Engineering Bottlenecks: BQP and Modovolo Are Rewriting the Aerospace Design Playbook",
+    "source": "PRNewswire",
+    "publication_date": "2026-08-07T13:00:00Z",
+    "url": "https://www.prnewswire.com/news-releases/quantum-inspired-software-shatters-engineering-bottlenecks-bqp-and-modovolo-are-rewriting-the-aerospace-design-playbook-302845702.html",
+    "article_text": "Powered by BQP's advanced computing platform, drone manufacturer Modovolo bypasses long design cycles to achieve state-of-the-art performance and scale physical hardware at unprecedented speeds.\r\nSYR… [+4362 chars]"
+  },
+  {
+    "id": "efb67333ed2eecaf",
+    "title": "Notion AI vs Obsidian + AI Plugins (2026): All-in-One vs Build-Your-Own",
+    "source": "Asianefficiency.com",
+    "publication_date": "2026-08-07T13:00:00Z",
+    "url": "https://www.asianefficiency.com/technology/notion-ai-vs-obsidian-ai-plugins/",
+    "article_text": "I recently worked with a dating and matchmaking service client who was wasting hours scrolling through LinkedIn and Instagram to find potential matches. We realized AI vision could identify and categ… [+10442 chars]"
+  },
+  {
+    "id": "9d18833339e0e8a4",
+    "title": "From Black Hat to the White House: The Scariest Cyber News You Missed This Week",
+    "source": "PCMag.com",
+    "publication_date": "2026-08-07T13:00:00Z",
+    "url": "https://uk.pcmag.com/security/166600/from-black-hat-to-the-white-house-the-scariest-cyber-news-you-missed-this-week",
+    "article_text": "Between the Black Hat conference in Las Vegas, AI agents running rampant across the web, and state-sponsored hackers targeting water utilities in at least seven states, its been a very busy week in c… [+7535 chars]"
+  },
+  {
+    "id": "83d47280bf597ded",
+    "title": "runspec-jira 0.3.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-07T12:59:30Z",
+    "url": "https://pypi.org/project/runspec-jira/0.3.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "87dfe840a27c7186",
+    "title": "runspec-confluence 0.4.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-07T12:59:23Z",
+    "url": "https://pypi.org/project/runspec-confluence/0.4.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "482a24bb6467565c",
+    "title": "Interactive Foliage System: Seasons, SSS & Wind (URP) by JAMSWork",
+    "source": "Unity.com",
+    "publication_date": "2026-08-07T12:56:10Z",
+    "url": "https://assetstore.unity.com/packages/3d/vegetation/trees/interactive-foliage-system-seasons-sss-wind-urp-390736",
+    "article_text": "Over 11,000 five-star assets\r\nRated by 85,000+ customers\r\nSupported by 100,000+ forum members\r\nEvery asset moderated by Unity"
+  },
+  {
+    "id": "b75a5baa215286d9",
+    "title": "gpuwm 1.7.1",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-07T12:52:38Z",
+    "url": "https://pypi.org/project/gpuwm/1.7.1/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "fbbb278f10870b54",
+    "title": "Cancer to Superbugs: What AI-Designed Viruses Could Be Used For",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-07T12:52:12Z",
+    "url": "https://biztoc.com/x/006a116f5c9752d7",
+    "article_text": "Artificial intelligence has helped scientists create entirely new viruses that can function and replicate in a laboratory, marking a major step forward in using AI to design biological systems, the B… [+145 chars]"
+  },
+  {
+    "id": "570481c1a9946ff7",
+    "title": "tensor-grep 1.110.2",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-07T12:51:26Z",
+    "url": "https://pypi.org/project/tensor-grep/1.110.2/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "78a1a9e77d243578",
+    "title": "China’s Military Is Now Using AI to Plan Strike Operations",
+    "source": "The Diplomat",
+    "publication_date": "2026-08-07T12:50:00Z",
+    "url": "https://thediplomat.com/2026/08/chinas-military-is-now-using-ai-to-plan-strike-operations/",
+    "article_text": "ThePeoples Liberation Army (PLA) Air Force now uses an AI system that draws up plans for large-scale strike operations. Instead of being released with great fanfare, the system appeared in a CCTV doc… [+13586 chars]"
+  },
+  {
+    "id": "abbfefc2472e95d2",
+    "title": "Better Hope You Don’t Need an Ambulance in New Orleans, Because the City’s 911 Operators Are Now AI",
+    "source": "Futurism",
+    "publication_date": "2026-08-07T12:49:54Z",
+    "url": "https://futurism.com/artificial-intelligence/ai-dispatch-911-new-orleans-emergency-automation",
+    "article_text": "Can’t-miss innovations from the bleeding edge of science and tech\r\nIf you thought AI customer service bots were bad, just wait until you need to convince a large language model that yes, you have bee… [+2288 chars]"
+  },
+  {
+    "id": "9605a18060c24d77",
+    "title": "ASX 200 Slips Slightly to Close Out Record-Setting Week as Materials, Tech Buck the Trend This Friday Session",
+    "source": "Ibtimes.com.au",
+    "publication_date": "2026-08-07T12:49:46Z",
+    "url": "https://www.ibtimes.com.au/asx-200-closes-lower-amid-sector-weakness-1873688",
+    "article_text": "SYDNEY — Australia's benchmark S&amp;P/ASX 200 index finished marginally lower Friday, slipping 8.00 points, or 0.09%, to close at 9,263.60, as weakness across most sectors outweighed gains in materi… [+6269 chars]"
+  },
+  {
+    "id": "1beabef62e4e96d3",
+    "title": "AI Race Heats Up As China Challenges U.S. Leadership",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-07T12:49:18Z",
+    "url": "https://biztoc.com/x/b50d563ceca62e17",
+    "article_text": "China is rapidly narrowing the artificial intelligence gap with the United States, but the U.S. continues to hold a significant advantage in advanced computing power, according to a CNBC analysis cit… [+146 chars]"
+  },
+  {
+    "id": "17fd9ec3e9550e69",
+    "title": "Digital Realty Welcomes Governor Abbott’s Initiative for Responsible and Transparent Data Center Investment in Texas",
+    "source": "GlobeNewswire",
+    "publication_date": "2026-08-07T12:44:00Z",
+    "url": "https://www.globenewswire.com/news-release/2026/08/07/3341100/0/en/digital-realty-welcomes-governor-abbott-s-initiative-for-responsible-and-transparent-data-center-investment-in-texas.html",
+    "article_text": "AUSTIN, Texas, Aug. 07, 2026 (GLOBE NEWSWIRE) -- Digital Realty (NYSE: DLR), the worlds largest cloud- and carrier-neutral data center platform, today reaffirmed its commitment to responsible data ce… [+2978 chars]"
+  },
+  {
+    "id": "5c4e13e388c532ba",
+    "title": "The Four Way Squeeze",
+    "source": "Kunstler.com",
+    "publication_date": "2026-08-07T12:42:00Z",
+    "url": "https://www.kunstler.com/p/the-four-way-squeeze",
+    "article_text": "The days might still be long, but this is a dark season in our countrys politics. Everybodys nervous and many are furious, and yet all that emotion goes nowhere, just eats you up while you watch and … [+6691 chars]"
+  },
+  {
+    "id": "866c7ff72cd7b05d",
+    "title": "GMKtec's most powerful Mini PC tested: GMKtec EVO-X3 is more than simple AI PC",
+    "source": "Notebookcheck.net",
+    "publication_date": "2026-08-07T12:42:00Z",
+    "url": "https://www.notebookcheck.net/GMKtec-s-most-powerful-Mini-PC-tested-GMKtec-EVO-X3-is-more-than-simple-AI-PC.1362611.0.html",
+    "article_text": "GMKtec revealed its most powerful Mini PC ever, the GMKtec EVO-X3, back in June. Powered by a 16-core AMD Ryzen AI Max+ 395 APU, 128 GB of  LPDRR5X-8000 memory, and a Radeon 8060S iGPU, the GMKtec EV… [+1979 chars]"
+  },
+  {
+    "id": "ad54e70dbccd26c0",
+    "title": "Mac Pro Turns 20 Today, Five Months After Apple Killed It",
+    "source": "MacRumors",
+    "publication_date": "2026-08-07T12:39:09Z",
+    "url": "https://www.macrumors.com/2026/08/07/mac-pro-turns-20-today/",
+    "article_text": "Apple announced the original Mac Pro 20 years ago today, with the anniversary landing five months after the company discontinued the machine for good.\r\nOn August 7, 2006, Apple unveiled the first Mac… [+3509 chars]"
+  },
+  {
+    "id": "e46767af384d4a3b",
+    "title": "2026-27 season: when do Europe’s big five leagues return?",
     "source": "Onefootball.com",
-    "publication_date": "2026-08-07T01:51:00Z",
-    "url": "https://onefootball.com/en/news/americas-xi-ready-for-leagues-cup-opener-43240922",
-    "article_text": "América will face San Diego FC tonight in their first Leagues Cup appearance, a match the Eagles are obliged to win to show their greatness against MLS.\r\nThis will be the first time Estadio Banorte h… [+193 chars]"
+    "publication_date": "2026-08-07T12:39:00Z",
+    "url": "https://onefootball.com/en/news/2026-27-season-when-do-europes-big-five-leagues-return-43242748",
+    "article_text": "Back-to-school season is approaching.\r\nThis Friday evening, the 2026-2027 season officially kicks off in France with the start of Ligue 3, formerly known as the National.\r\nLigue 2 will follow the nex… [+788 chars]"
   },
   {
-    "id": "d9ba2ed24795187f",
-    "title": "Vanderbilt Will Build an AI Agent into Medical Records to Cut the Wait for Alzheimer's Infusions",
-    "source": "Medical Daily",
-    "publication_date": "2026-08-07T01:50:46Z",
-    "url": "https://www.medicaldaily.com/vanderbilt-ai-agent-ehr-alzheimers-treatment-delays-476976",
-    "article_text": "Vanderbilt Health researchers plan to build an artificial intelligence agent inside their electronic health record system to reduce how long patients with Alzheimer's disease wait before receiving th… [+7226 chars]"
+    "id": "5210717579914a0a",
+    "title": "Modded Nvidia RTX 2080 Ti with 22GB VRAM is selling on eBay for $500",
+    "source": "TechSpot",
+    "publication_date": "2026-08-07T12:39:00Z",
+    "url": "https://www.techspot.com/news/113390-modded-nvidia-rtx-2080-ti-22gb-vram-selling.html",
+    "article_text": "Cutting corners: As the memory crisis makes modern graphics cards less affordable each month, users, manufacturers, repair shops, and resellers are finding creative ways to squeeze every gigabyte of … [+2316 chars]"
   },
   {
-    "id": "550e70ddf7d51e70",
-    "title": "ChatGPTの無料ユーザーもGPT-5.6 Lunaを使用可能に、使用量無制限",
-    "source": "Livedoor.com",
-    "publication_date": "2026-08-07T01:49:00Z",
-    "url": "https://news.livedoor.com/article/detail/32008888/",
-    "article_text": "ChatGPTGPT-5.5 InstantGPT-5.6 LunaGPT-5.5 Instant\r\nImproving GPT‑5.6 Sol in ChatGPT-and expanding access to GPT-5.6 Luna for free users | OpenAI\r\nhttps://openai.com/index/improving-gpt-5-6-sol-in-cha… [+545 chars]"
+    "id": "0f384afb77f47393",
+    "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
+    "source": "Decrypt",
+    "publication_date": "2026-08-07T12:37:14Z",
+    "url": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
+    "article_text": "In brief\r\n<ul><li>Moonshot AI's Kimi K3 left its test sandbox and went onto the open internet, security firm Frontier Security said.</li><li>The model probed the sandbox's network settings, found rea… [+4441 chars]"
   },
   {
-    "id": "ed029c0f34fe3fc0",
-    "title": "inferhost 0.8.8",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-07T01:47:47Z",
-    "url": "https://pypi.org/project/inferhost/0.8.8/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "feed1b53f2ad4383",
-    "title": "Google paper reveals AI agents can rationally cooperate through similarity inference",
-    "source": "Crypto Briefing",
-    "publication_date": "2026-08-07T01:47:13Z",
-    "url": "https://cryptobriefing.com/ai-agents-cooperate-similarity-inference/",
-    "article_text": "A 75-page study from Google DeepMind and ETH Zürich introduces 'embedded equilibrium,' challenging decades of game theory that predicted AI agents would always defect in one-shot dilemmas. For decade… [+3182 chars]"
-  },
-  {
-    "id": "7cfbf6cb29eaea54",
-    "title": "Alibaba’s Qwen 3.8-Max enters enterprise market with 2.4 trillion parameters and aggressive pricing",
-    "source": "Crypto Briefing",
-    "publication_date": "2026-08-07T01:45:04Z",
-    "url": "https://cryptobriefing.com/alibaba-qwen-3-8-max-enterprise-pricing/",
-    "article_text": "The latest model in Alibaba's Qwen family pushes the frontier on scale while undercutting competitors on price Alibaba has rolled out Qwen 3.8-Max, a 2.4 trillion parameter AI model previewed on July… [+1916 chars]"
-  },
-  {
-    "id": "3675dfc5f5296932",
-    "title": "Mayo Clinic Used AI to Design a Molecule Against a Pancreatic Cancer Protein Long Considered Undruggable",
-    "source": "Medical Daily",
-    "publication_date": "2026-08-07T01:40:16Z",
-    "url": "https://www.medicaldaily.com/mayo-clinic-ai-gipc1-pdz-inhibitor-pancreatic-cancer-476975",
-    "article_text": "Researchers at Mayo Clinic in Florida have used artificial intelligence to design a small molecule that binds a protein region drug developers had largely written off, and in laboratory studies the c… [+6841 chars]"
-  },
-  {
-    "id": "6fa86f6c4d62bf51",
-    "title": "OpenAI’s first AI smart speaker reportedly won’t just talk, it’ll move too",
-    "source": "Android Authority",
-    "publication_date": "2026-08-07T01:39:08Z",
-    "url": "https://www.androidauthority.com/openai-smart-speaker-shape-price-features-battery-power-3695603/",
-    "article_text": "<ul><li>According to a fresh report, OpenAIs first hardware device will be a doughnut-shaped portable smart speaker without a display.</li><li>The report says the device will have moving parts, camer… [+2642 chars]"
-  },
-  {
-    "id": "6bb7ebe46af4c7aa",
-    "title": "FIS Expands Commercial Banking Platform to APAC Region",
-    "source": "pymnts.com",
-    "publication_date": "2026-08-07T01:38:30Z",
-    "url": "https://www.pymnts.com/news/banking/2026/fis-expands-commercial-banking-platform-to-apac-region/",
-    "article_text": "FIS has completed the global rollout of its Digital One Commercial platform by launching it in the Asia-Pacific (APAC) region, the FinTech company said in a Wednesday (Aug. 5) press release.The platf… [+2396 chars]"
-  },
-  {
-    "id": "8446a61ab3c850c1",
-    "title": "First woman judge of Zambian Supreme Court was once a Delhi girl",
-    "source": "The Times of India",
-    "publication_date": "2026-08-07T01:38:17Z",
-    "url": "https://timesofindia.indiatimes.com/city/delhi/first-woman-judge-of-zambian-supreme-court-was-once-a-delhi-girl/articleshow/133018760.cms",
-    "article_text": "Follow Us On Social Media\r\nPUTIN IS SCARED OF: Kennedy LEAKS Trumps Russia War Plan; Moscow NOT SAFE Now | WATCHNext Hiroshima In Making: Iran Fires Rare NUCLEAR WARNING To Trump; Arsenal BuildupWILL… [+1556 chars]"
-  },
-  {
-    "id": "6bfe0ed1c2851cb6",
-    "title": "AI creates 16 new viruses from scratch, showing promise for drug resistance and drawing warnings about potential for misuse",
-    "source": "KESQ",
-    "publication_date": "2026-08-07T01:34:29Z",
-    "url": "https://kesq.com/health/cnn-health/2026/08/06/ai-creates-16-new-viruses-from-scratch-showing-promise-for-drug-resistance-and-drawing-warnings-about-potential-for-misuse/",
-    "article_text": "By Deidre McPhillips, CNN\r\n(CNN) — Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and that targeted specific hosts, a… [+3579 chars]"
-  },
-  {
-    "id": "55b9763d825d55b9",
-    "title": "Skytech Hawkeye Gaming Desktop: Intel Ultra 7 265F, RTX 5080, 32GB DDR5, 2TB SSD, 850W $2106",
-    "source": "Slickdeals.net",
-    "publication_date": "2026-08-07T01:33:16Z",
-    "url": "https://slickdeals.net/f/19851930-skytech-hawkeye-gaming-desktop-intel-ultra-7-265f-rtx-5080-32gb-ddr5-2tb-ssd-850w-2106",
-    "article_text": "This collaborative space allows users to contribute additional information, tips, and insights to enhance the original deal post. Feel free to share your knowledge and help fellow shoppers make infor… [+26 chars]"
-  },
-  {
-    "id": "cc68bb16c89aa3ff",
-    "title": "kcastle-agent 0.1.0a1",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-07T01:29:42Z",
-    "url": "https://pypi.org/project/kcastle-agent/0.1.0a1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "7edb50e76c70fb33",
-    "title": "Twilio’s stock jumps on solid earnings and revenue beat and strong momentum in voice AI",
-    "source": "SiliconANGLE News",
-    "publication_date": "2026-08-07T01:27:21Z",
-    "url": "https://siliconangle.com/2026/08/06/twilios-stock-jumps-solid-earnings-revenue-beat-strong-momentum-voice-ai/",
-    "article_text": "A solid earnings and revenue beat helped to reignite investor enthusiasm for the communications software maker Twilio Inc. today, and its stock jumped more than 17% in after-hours trading. The compan… [+4091 chars]"
-  },
-  {
-    "id": "c0a69c2b6f235093",
-    "title": "inferhost 0.8.7",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-07T01:25:26Z",
-    "url": "https://pypi.org/project/inferhost/0.8.7/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "b8b77dbc16b0ff23",
-    "title": "inferwall 0.1.10",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-07T01:25:12Z",
-    "url": "https://pypi.org/project/inferwall/0.1.10/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "0ecf202bd1ce5550",
-    "title": "gks 0.0.2",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-07T01:24:37Z",
-    "url": "https://pypi.org/project/gks/0.0.2/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "a403c90e9098b7fe",
-    "title": "Trump rolls out trade measures to counter China on solar and chips, slaps 15% tariff on polysilicon",
-    "source": "The Times of India",
-    "publication_date": "2026-08-07T01:23:49Z",
-    "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-unveils-trade-actions-to-compete-with-china-on-solar-and-chips/articleshow/133018662.cms",
-    "article_text": "The White House on Thursday imposed a series of price floors and a 15% tariff on products made from polysilicon, the raw material used in semiconductors and solar panels that is primarily produced by… [+3598 chars]"
-  },
-  {
-    "id": "7a39882ae0d1d194",
-    "title": "Prime Intellect Recursive Language Model",
-    "source": "Next Big Future",
-    "publication_date": "2026-08-07T01:22:52Z",
-    "url": "https://www.nextbigfuture.com/2026/08/prime-intellect-recursive-language-model.html",
-    "article_text": "Recursive Language Models (RLMs) are a general inference paradigm that treats long prompts as part of an external environment and allows the LLM to programmatically examine, decompose, and recursivel… [+3792 chars]"
-  },
-  {
-    "id": "2106ee4adb1da6bf",
-    "title": "extralit-server 0.7.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-07T01:21:49Z",
-    "url": "https://pypi.org/project/extralit-server/0.7.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "c78d4dbc5346e46f",
-    "title": "Daft Punk’s Thomas Bangalter Calls Out AI As a Shortcut In Creating Music",
-    "source": "Consequence.net",
-    "publication_date": "2026-08-07T01:21:46Z",
-    "url": "https://consequence.net/2026/08/thomas-bangalter-on-ai/",
-    "article_text": "Despite spending decades dressed as a machine, Daft Punk’s Thomas Bangalter is not at all interested in using artificial intelligence to create music.\r\nIn a June interview with Yana Peel, president o… [+1276 chars]"
-  },
-  {
-    "id": "f5df33aabecaaf84",
-    "title": "extralit 0.7.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-07T01:20:56Z",
-    "url": "https://pypi.org/project/extralit/0.7.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "09a4c8021ad889c8",
-    "title": "edgeverdict 0.9.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-07T01:19:14Z",
-    "url": "https://pypi.org/project/edgeverdict/0.9.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "95f985879ec004a0",
-    "title": "OpenAI faces technical issues with ChatGPT desktop app update",
-    "source": "Crypto Briefing",
-    "publication_date": "2026-08-07T01:17:19Z",
-    "url": "https://cryptobriefing.com/openai-chatgpt-desktop-app-issues/",
-    "article_text": "A major redesign meant to unify ChatGPT's desktop experience has instead frustrated users with bloated file sizes, broken features, and persistent errors on Windows. OpenAI’s attempt to streamline it… [+3956 chars]"
-  },
-  {
-    "id": "87501537c23da0a5",
-    "title": "One of China’s Most Powerful AI Models Has Also Broken Containment",
-    "source": "Wired",
-    "publication_date": "2026-08-07T01:16:55Z",
-    "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-    "article_text": "The AI industry is having a rogue agent summer. The latest model to escape onto the open internet during security testing is Kimi K3, a powerful open-weight offering from the Chinese company Moonshot… [+3535 chars]"
-  },
-  {
-    "id": "b0817d44365d78f3",
-    "title": "Selling a Full Data Center: A Step-by-Step Guide to Bulk Equipment Liquidation",
-    "source": "Addicted2success.com",
-    "publication_date": "2026-08-07T01:15:59Z",
-    "url": "https://addicted2success.com/sales/step-by-step-guide-data-center-liquidation/",
-    "article_text": "A single failed server is easy to deal with. Pull it, replace it, toss it in a bin of spares. A whole rack, a data hall, or an entire facility is a different problem. Forty racks sitting idle after a… [+15603 chars]"
-  },
-  {
-    "id": "9924c663c069ad69",
-    "title": "This AI just created viruses not found in nature",
-    "source": "Slack.com",
-    "publication_date": "2026-08-07T01:12:11Z",
-    "url": "https://editnzme.slack.com/archives/C033Q2QA3N0/p1786047295312219",
-    "article_text": "Scientists trained artificial intelligence on libraries of DNA and then asked the model to create recipes for viral genomes. Sixteen of them were viable, yielding new viruses.\r\nFor the first time, sc… [+7648 chars]"
-  },
-  {
-    "id": "1ed6845ada43840b",
-    "title": "Price Hikes May Be Coming for PC Motherboards Next",
-    "source": "CNET",
-    "publication_date": "2026-08-07T01:11:44Z",
-    "url": "https://www.cnet.com/tech/price-hikes-may-be-coming-for-pc-motherboards-next/",
-    "article_text": "PC gaming sites and social media discussions were buzzing this week after a report from a Chinese forum claimed PC motherboard prices could soon rise significantly.\r\nWebsites including VideoCardz, Gu… [+3683 chars]"
+    "id": "152efbd972f00610",
+    "title": "White House plan for a ‘golden age’ of science ignores the structures that made the US a scientific superpower",
+    "source": "The Conversation Africa",
+    "publication_date": "2026-08-07T12:37:01Z",
+    "url": "https://theconversation.com/white-house-plan-for-a-golden-age-of-science-ignores-the-structures-that-made-the-us-a-scientific-superpower-288254",
+    "article_text": "Does the White House report Science: A New Golden Age signal twilight for US global scientific leadership? Charles Smith/Corbis/VCG via Getty Images\r\nA new White House report argues that eight decade… [+8601 chars]"
   }
 ]
