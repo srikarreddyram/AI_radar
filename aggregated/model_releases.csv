@@ -998,6 +998,9 @@ Abstract: In practice, most commercial LLM providers do not publicly release det
 98ec54cf-6a3a-4b26-bbab-8b0760c618be,2026-08-08,MODEL_RELEASE,PyPI Core,,,Pypi.org,https://pypi.org/project/nullain-sdk/,"Core engine of the Nullain Agent SDK 
 a production-grade autonomous coding agent for Python, built on Hexagonal
 Architecture and immutable Event Sourcing. This package provides the agent loop, LLM… [+2219 chars]",nullain-sdk added to PyPI
+0774e20a-a58e-4047-9406-8b03fd330580,2026-08-08,MODEL_RELEASE,Anthropic,Claude,Anthropic,Theregister.com,https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107,"Despite the popularity of Claude Code, Cursor, GitHub Copilot, and OpenAI Codex, developers have plenty of complaints about AI coding tools. So researchers affiliated with York University and the Un… [+6676 chars]","Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default"
+db74230b-7ab3-44f4-bff4-9aaa4048429f,2026-08-08,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/llm-compounding-wiki/0.1.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",llm-compounding-wiki 0.1.0
 7b32276f-40fd-412e-aa25-55ce660f6b3a,2026-08-07,MODEL_RELEASE,OpenAI,GPT-5,"OpenAI
 https://openai.com/index/improving-gpt-5-6-sol-in-cha",Livedoor.com,https://news.livedoor.com/article/detail/32008888/,"ChatGPTGPT-5.5 InstantGPT-5.6 LunaGPT-5.5 Instant
 Improving GPT‑5.6 Sol in ChatGPT-and expanding access to GPT-5.6 Luna for free users | OpenAI
