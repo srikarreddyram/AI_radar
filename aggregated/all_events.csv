@@ -3323,6 +3323,93 @@ Abstract: Class imbalance poses a critical challenge in federated learning (FL),
 Abstract: We propose a scaling law that takes into account model size and training data while explicitly splitting the latter into training steps and batch size (called three-term law). Fitting the proposed law on a large set of training runs, we find that i...",How to Allocate Your Tokens? Scaling Laws with Training Steps and Batch Size,,
 9eda6a5b-bccf-47d4-96aa-6562776afa1c,"Fri, 03 Ju",OTHER,Google DeepMind,,,Google DeepMind,https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/,Google DeepMind and A24 announce first-of-its-kind research partnership,Google DeepMind and A24 announce first-of-its-kind research partnership,,
 90163f7c-f0a6-4ad4-8c73-48643329cfe6,2026-08-09,OTHER,AI,,,The Verge AI,https://www.theverge.com/column/976690/ai-writing-detectors-suspicion,"This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth.",AI detectors are creating a new era of distrust,,
+59e99300-c091-419e-8695-9f3214ad187d,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/fluxmend/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",fluxmend added to PyPI,,
+ff5a467e-7e23-41ba-8cdd-99b51ee673ea,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/fluxmend/0.1.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",fluxmend 0.1.0,,
+389e0b90-a103-4c5d-8833-571cbf1bee86,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/polyglot-pmd/0.3.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",polyglot-pmd 0.3.0,,
+bdea41c7-3907-4009-9c2a-1eef8b1a94d4,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/inferhost/0.8.10/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",inferhost 0.8.10,,
+210293e7-c8bd-401c-b9bb-2006637827a2,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/litellm/1.95.1/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",litellm 1.95.1,,
+9250e785-a4f0-46d2-af21-bd7fbd74426d,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/pyvectorhound/1.3.1/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",pyvectorhound 1.3.1,,
+827a74ea-b04b-4ddc-8d6d-e0cd8fb9377c,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/openhcs/0.7.21/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",openhcs 0.7.21,,
+f9bb3b60-5243-49ea-826c-f011f1a2334f,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/inferhost/0.8.9/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",inferhost 0.8.9,,
+76319d17-1d8c-491f-a09e-6ab8314dfba3,2026-08-09,OTHER,Brasileirão,,,Onefootball.com,https://onefootball.com/en/news/big-change-in-the-bottom-four-see-the-new-brasileirao-table-43249915,Brasileirão had four Matchday 22 games played this Saturday (8). Among them were several teams battling near the bottom of the table.,Big change in the bottom four: see the new Brasileirão table ,,
+71eafa8d-8d85-4dec-abc7-ec5b9bcccd46,2026-08-09,OTHER,,,,Imperva.com,https://www.imperva.com/blog/shadowai-watch-bringing-ai-agent-activity-out-of-the-shadows/,"AI agents are rapidly becoming part of everyday development. They operate inside terminals, IDEs, and internal workflows, helping users write code, troubleshoot problems, and automate repetitive task… [+8272 chars]",ShadowAI-Watch: Bringing AI Agent Activity Out of the Shadows,,
+79cd7993-3b7e-4dde-ab30-c2b01aa0281a,2026-08-09,OTHER,the Argentina n,,Tributes,Onefootball.com,https://onefootball.com/en/news/tributes-a-minutes-silence-messagesall-backing-messi-43249903,"Following the confirmation of the tragic news of the passing of Jorge Messi, father of the Argentine star, pitches, stadiums, and platforms around the world have rallied in support of the Argentina n… [+558 chars]"," Tributes, a minute's silence, messages...all backing Messi",,
+ad9a4758-b079-493b-9627-88db5b68ae62,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/litellm/1.93.2/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",litellm 1.93.2,,
+784b49ac-aa6c-4060-9c47-1d4aac954862,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/litellm/1.92.2/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",litellm 1.92.2,,
+42f695e9-d387-4cf6-8f08-58e6d8f2f39f,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/nemo-tollwarden/0.1.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",nemo-tollwarden 0.1.0,,
+a072d1d1-e680-410e-8d9a-adf4fb06e5aa,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/nemo-tollwarden/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",nemo-tollwarden added to PyPI,,
+d81adcad-ed49-43ef-802c-1b1646aa3497,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/mcp-bastion-litellm/5.0.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",mcp-bastion-litellm 5.0.0,,
+b2a838a7-f581-49fd-84ce-4f65dbaa64ee,2026-08-09,OTHER,xAI,,,Pypi.org,https://pypi.org/project/mcp-bastion-xai/5.0.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",mcp-bastion-xai 5.0.0,,
+f89d41d2-6cf2-45aa-ab07-e89a504b4d0a,2026-08-09,OTHER,OpenAI,,,Pypi.org,https://pypi.org/project/mcp-bastion-openai-agents/5.0.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",mcp-bastion-openai-agents 5.0.0,,
+d034de1e-6519-499e-b60a-4b34005720e7,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/mcp-bastion-python/5.0.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",mcp-bastion-python 5.0.0,,
+4dc30196-b107-433b-8a1d-5c3b82b69ddc,2026-08-09,OTHER,Groq,,,Pypi.org,https://pypi.org/project/mcp-bastion-groq/5.0.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",mcp-bastion-groq 5.0.0,,
+b5c4d414-1fcf-44b1-a34c-8d8b20a7abaf,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/mcp-bastion-azure/5.0.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",mcp-bastion-azure 5.0.0,,
+7f0b5453-cc66-4851-bf5e-69ecd0c0f084,2026-08-09,OTHER,,Llama,,Pypi.org,https://pypi.org/project/mcp-bastion-ollama/5.0.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",mcp-bastion-ollama 5.0.0,,
+8e4dc89e-dc37-4a18-8e12-cee9d4b2d0ae,2026-08-09,OTHER,Anthropic,,,Pypi.org,https://pypi.org/project/mcp-bastion-anthropic/5.0.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",mcp-bastion-anthropic 5.0.0,,
+0e6486c7-2da9-440b-adc2-5e798a4fd113,2026-08-09,OTHER,OpenAI,,,Pypi.org,https://pypi.org/project/mcp-bastion-openai/5.0.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",mcp-bastion-openai 5.0.0,,
+e79ea508-fcc4-45ee-8005-d42fc128455a,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/mcp-bastion-langchain/5.0.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",mcp-bastion-langchain 5.0.0,,
+876f0325-bef1-4155-b027-712c401f321b,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/litellm/1.91.5/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",litellm 1.91.5,,
+3a028941-168d-40f7-b31f-b7883bc89dd3,2026-08-09,OTHER,Intel,,,The Spokesman-Review,http://www.spokesman.com/stories/2026/aug/08/big-sky-coaches-players-move-forward-cautiously-in/,"Aug. 8A big baseball fan, Tim Plough saw the news last month that Major League Baseball had issued a memo to its teams, warning them, essentially, to use their dugout iPads properly.","Big Sky coaches, players move forward cautiously in age of artificial intelligence",,
+38c17469-8bdb-40bf-9a31-bb7007d5e461,2026-08-09,OTHER,Fluminense,,,Onefootball.com,https://onefootball.com/en/news/botafogo-and-fluminense-draw-in-derby-at-nilton-santos-43249850,Botafogo and Fluminense drew this Saturday (8) in the 22nd round of the Brasileirão. The result keeps the gap between the rivals at five points in the league table.,Botafogo and Fluminense draw in derby at Nilton Santos,,
+4ab494ea-5fd0-449b-afbf-4ec72f5b5c05,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/litellm/1.90.7/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",litellm 1.90.7,,
+56e90b32-7d70-4565-bf47-a9a8db535a28,2026-08-09,OTHER,,,,Snopes.com,https://www.snopes.com//fact-check/gorilla-caretaker-screaming-help/,"Claim:
+An image circulating in July 2026 authentically showed surveillance footage of a gorilla named Julius screaming for help after his human caretaker collapsed. In the summer of 2026, social m… [+3372 chars]",Watch out for fake image of gorilla 'screaming for help' after caretaker's collapse,,
+91a822fc-e871-409b-a9fe-f3886a393413,2026-08-09,OTHER,NASDAQ,,Palantir,Biztoc.com,https://biztoc.com/x/1c53e6b3d51163e1,"Palantir Technologies (NASDAQ: PLTR) closed Friday at $172.01, a 10% jump for the session, and about 37% above where the stock traded before its second-quarter report landed on Aug. 3.",Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record High,,
+9e202039-a2b7-45a9-a873-03d0b6449a94,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/dr-providers/0.3.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",dr-providers 0.3.0,,
+9913df46-242b-4442-b104-fe3352bd3504,2026-08-09,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/llm-compounding-wiki/0.1.1/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",llm-compounding-wiki 0.1.1,,
+b90f7a96-88c4-45c0-8288-b36f22126821,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/polyglot-pmd/0.2.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",polyglot-pmd 0.2.0,,
+29fb6b5c-2922-415e-94dd-71fdc461a4cf,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/litellm/1.96.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",litellm 1.96.0,,
+6fa273ea-002a-4d9b-a353-1799ae67c126,2026-08-09,GPU_RELEASE,,,California,Dailymail.com,https://www.dailymail.com/yourmoney/article-15729087/silicon-valley-corporate-exodus-texas.html,"The company that helped transform Silicon Valley into the global tech hub it is - or once was - is just one of the many organizations to turn away from California, citing frustration with high taxes … [+3635 chars]",Even Silicon Valley's original garage start-up has quit California as HQ exodus to low-tax Texas intensifies,,
+77564ae7-84ea-460d-b312-b99cb37d3610,2026-08-09,OTHER,Intel,,,Compactmag.com,https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/,"Americans do not care for artificial intelligence. Recent polling
+ shows that their attitudes mostly range from ambivalence to horror.",The AI Apocalypse Is Here,,
+024a25e1-d6e2-4b9b-bf26-3e9a63f2bad2,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/ctxttools/0.1.5/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",ctxttools 0.1.5,,
+e4d8eaee-4e8b-4ccc-aa12-2cd71f85bbeb,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/openhcs/0.7.19/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",openhcs 0.7.19,,
+61681437-3d36-452d-abcb-c5cc350792e6,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/harnesspatch/0.8.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",harnesspatch 0.8.0,,
+8e000074-bb93-4682-bf2a-13a73a242e58,2026-08-09,GPU_RELEASE,The First Snapdragon C Laptop,,,The Gadgeteer,https://the-gadgeteer.com/2026/08/08/acer-aspire-go-15-ag15-q31p-snapdragon-c/,"If you buy something from a link in this article, we may earn a commission. Learn more
+Qualcomms pitch for Snapdragon C was simple.","The First Snapdragon C Laptop Just Showed Up, and It Isn’t $300",,
+cb57866e-6fea-4d60-9ef2-1ab6e90f1981,2026-08-09,OTHER,MLS,,Orlando,Onefootball.com,https://onefootball.com/en/news/leon-fight-back-la-fiera-keep-pace-in-the-leagues-cup-43249766,Orlando and León came into the match having won their respective first-round Leagues Cup games. The MLS side took the lead with a great strike from outside the box by Marco Paali.,León fight back! La Fiera keep pace in the Leagues Cup,,
+f5ad2f2b-5a64-43f8-aa0e-8191437f7a36,2026-08-09,OTHER,Coritiba,,,Onefootball.com,https://onefootball.com/en/news/coritiba-player-scores-falls-into-tunnel-celebrating-watch-43249749,"Couto Pereira witnessed a hilarious episode this Saturday (8) involving center-back Jacy during the clash between Coritiba and Chapecoense. The home team captain found the net from a set piece and, … [+1118 chars]"," Coritiba player scores, falls into tunnel celebrating, watch ",,
+c2481c83-59ee-468c-80f2-b226c0bf56eb,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/chimera-agent/0.42.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",chimera-agent 0.42.0,,
+ed4b9629-cd04-4451-91cc-34e0f79e9de7,2026-08-09,OTHER,Google,,,Slashdot.org,https://slashdot.org/firehose.pl?op=view&amp;id=184902134,The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.,Now it’s got real for AI as Demis Hassabis steps down at Google - The Times,,
+897ed61d-06ac-4aa6-b151-c8f9da0df7f6,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/litellm/1.89.7/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",litellm 1.89.7,,
+9390bcf7-11d6-486b-9d59-84a2ee02d15d,2026-08-09,GPU_RELEASE,NVIDIA,,,BGR,https://www.bgr.com/2228668/nvidia-gpu-gold-plated-asus-rog-astral-5090-dhahab/,"Some might say that the Nvidia RTX 5090 graphics card didn't need another reason to boost its already sky-high pricing, which is often far more than the $1,999 MSRP, making it among the worst bang fo… [+1403 chars]","This Expensive, Gold-Plated Nvidia GPU Came With A Certificate Of Authenticity",,
+43619072-ecde-4158-a85a-f0e4b98380ff,2026-08-09,OTHER,,,,Pypi.org,https://pypi.org/project/trikedb/0.15.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",trikedb 0.15.0,,
+efb0163c-d79c-49cc-9257-81f5423b4ae1,2026-08-09,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/rag-llm-infra/0.2.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",rag-llm-infra 0.2.0,,
 1337fc70-a88c-4904-bacf-d46d67a82fb4,2026-08-08,FUNDING_EVENT,Amazon,,US,The Verge AI,https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant,"To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investm...",An Amazon data center could have the worst polluting power plant in the country,,
 5fb513ed-e2e7-47e7-8be4-fd11651c9add,2026-08-08,OTHER,,,,Pypi.org,https://pypi.org/project/pyagent-studio/0.3.0/,"A required part of this site couldnt load. This may be due to a browser
  extension, network issues, or browser settings.",pyagent-studio 0.3.0,,
