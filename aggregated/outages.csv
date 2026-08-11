@@ -128,6 +128,17 @@ Abstract: Large Language Models achieve strong code generation for high resource
 Abstract: Electroencephalography (EEG) based Brain-Computer Interfaces (BCIs) often require unsupervised domain adaptation (UDA) to generalize across subjects and sessions. While Riemannian alignment methods like the Riemannian Centering Transformation (RCT)...",Rectifying Geometric Misalignment: Online Source-Free Adaptation for Class-Imbalanced EEG
 4dea5950-b987-428f-b17e-6ed666bf7a61,"Fri, 07 Au",OUTAGE,EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents arXiv:2608.05446v1 Announce Type,Qwen,,arXiv cs.LG,https://arxiv.org/abs/2608.05446,"arXiv:2608.05446v1 Announce Type: new 
 Abstract: Long-horizon LLM agents increasingly rely on external execution support to maintain state, track progress, invoke tools, verify outcomes, and reuse experience across interactions. However, effective harness use raises two coupled challenges: state ...",EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents
+74c3838e-e668-4bbf-8080-53451fd7c691,2026-08-10,OUTAGE,"SIGQGPU 
+Incident",,,Prtimes.jp,https://prtimes.jp/main/html/rd/p/000000026.000149500.html,"AIIncident LakeSIGQCEO SIGQGPU 
+Incident LakeLLM
+SIGQIncident LakeAI
+LLMLLMLLM
+LLMAI
+SIGQ300GPUGPUAI
+<ol><li>LLM
+GPUGPUIncident LakeLLMLLMAI
+</li><li>Incident Lake
+</li><li>LLMIncident LakeS… [+93 chars]",SIGQとゲットワークス、機密データを外部に出さない「閉域網×ローカルLLM」による自律型インシデント対応基盤を共同展開
 9f8b355d-472f-4a0e-8cb3-f27dfe091ebf,2026-08-09,OUTAGE,Capital One,,,Ibtimes.com.au,https://www.ibtimes.com.au/capital-one-systems-operational-isolated-complaints-1873833,"Multiple outage-tracking services checked Sunday show no evidence of a widespread Capital One outage currently affecting customers, with automated monitors and crowdsourced report trackers reporting … [+5305 chars]",Is Capital One Down Right Now? Here's What the Latest Live Outage Trackers Are Actually Showing
 eaa6313a-982b-4eb6-acb7-bca84d0d4676,2026-08-08,OUTAGE,Hugging Face,,,Biztoc.com,https://biztoc.com/x/5c6dd44b547a1b31,"Cybersecurity executives are ready to close the book on the now-infamous Hugging Face artificial intelligence hacking incident and start talking solutions.""We need to chill the hype a little bit,"" sa… [+137 chars]",Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'
 2a7f6ed7-b47e-4073-9509-d004f20af191,2026-08-07,OUTAGE,Meta,,,Biztoc.com,https://biztoc.com/x/36dcd4b9b895887a,"Meta revealed this week one of its models breached another company during cybersecurity testing, becoming the third major technology giant to disclose a hacking incident involving rogue AI models in … [+140 chars]","Meta AI model goes rogue in testing, hacks another company"
