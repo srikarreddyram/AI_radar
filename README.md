@@ -4,7 +4,7 @@
 ![Last Updated](badges/last_updated.svg)
 
 > An automated data collection and intelligence platform tracking the AI infrastructure ecosystem.
-> **Last checked: 2026-08-13 at 04:53 UTC**
+> **Last checked: 2026-08-13 at 16:00 UTC**
 
 ---
 
