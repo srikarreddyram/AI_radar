@@ -92,6 +92,21 @@ Abstract: Personalized agents must decide whether retrieved user memory should b
 Abstract: Large language models (LLMs) are increasingly used for scientific hypothesis generation. However, evaluating generated hypotheses remains a challenge for trustworthy AI-enabled scientific workflows.",Do LLMs Know a Good Hypothesis When They See One? Logit-Based Energy Scoring Outperforms Prompted LLM-as-Judge for Scientific Hypothesis Ranking
 d9b33e57-e242-45d7-bf38-21c8268ea668,"Wed, 19 Au",MODEL_RELEASE,Intel,,,arXiv cs.AI,https://arxiv.org/abs/2608.17271,"arXiv:2608.17271v1 Announce Type: new 
 Abstract: Artificial superintelligence (ASI) requires AI to move beyond mastering existing knowledge toward exploring the unknown, creating new knowledge, and turning new ideas into verifiable results. However, the capabilities of today's AI systems are stil...",ASI-Bench: At the Dawn of Artificial Superintelligence
+3eb9af4f-f196-4c7f-9ff1-9e30de3ad5bb,"Wed, 19 Au",MODEL_RELEASE,,GPT-5,,OpenAI Blog,https://openai.com/index/replit,"Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",Replit expands access to software creation with GPT-5.6 Luna
+63a90314-7d10-4aa1-bab9-2c6896400d75,"Wed, 19 Au",MODEL_RELEASE,Data-DPO,,,arXiv cs.LG,https://arxiv.org/abs/2608.16926,"arXiv:2608.16926v1 Announce Type: new 
+Abstract: Data selection in supervised fine-tuning aims to select a small set of effective samples from large-scale candidate data, reducing training cost while preserving model performance. However, existing methods usually treat data value as a relatively ...",Data-DPO: Direct Preference Optimization for Target Model Data Selection in LLM Post-Training
+f77c6830-dd92-40c1-8eef-f15384d054c1,"Wed, 19 Au",MODEL_RELEASE,Vision Flan,,,arXiv cs.LG,https://arxiv.org/abs/2608.16927,"arXiv:2608.16927v1 Announce Type: new 
+Abstract: As supervised fine-tuning data continues to scale, selecting high-value subsets from large candidate pools is crucial for reducing training cost and improving model performance. Existing methods often measure diversity directly in the original embe...",Hierarchical Data Selection via Manifold Coverage and Sparse Feature Coverage in LLM Post-training
+d4517b7c-03fe-45e1-9f23-cdd5841e6d03,"Wed, 19 Au",MODEL_RELEASE,Modal,,,arXiv cs.LG,https://arxiv.org/abs/2608.16929,"arXiv:2608.16929v1 Announce Type: new 
+Abstract: Predicting 30-day hospital readmission is essential for assessing patient stability and optimizing healthcare resources. As clinical risk evolves with the accumulation of evidence during hospitalization, capturing these dynamic trajectories is esse...",Mr.Dec: Daily-Scale Longitudinal Multimodal Modeling for 30-Day Readmission Prediction
+1e807451-aea8-494d-8aec-1dac7e84d0ec,"Wed, 19 Au",MODEL_RELEASE,EEG,,SW,arXiv cs.LG,https://arxiv.org/abs/2608.16931,"arXiv:2608.16931v1 Announce Type: new 
+Abstract: Electroencephalography (EEG) foundation models have recently emerged as a promising paradigm for EEG decoding by learning reusable representations from large-scale heterogeneous neural recordings. However, the open release of EEG foundation encoder...",SW-ProxyCE: Zero-Query Adversarial Transfer from Public EEG Encoders to Private Downstream Models
+47b92817-3803-4f5c-8c7f-bcfbc7bbc635,"Wed, 19 Au",MODEL_RELEASE,RoBell-RVFL,,,arXiv cs.LG,https://arxiv.org/abs/2608.16965,"arXiv:2608.16965v1 Announce Type: new 
+Abstract: The dominance of majority classes in real-world datasets poses a fundamental challenge to randomized neural networks, often biasing decision boundaries and overlooking critical minority samples. Existing remedies, such as synthetic minority over-sa...",RoBell-RVFL: A Robust Generalized Bell Random Vector Functional Link Network
+81f937be-3731-4bee-b389-7eb29ef0c3a5,"Wed, 19 Au",MODEL_RELEASE,PANDA,,,arXiv cs.LG,https://arxiv.org/abs/2608.17070,"arXiv:2608.17070v1 Announce Type: new 
+Abstract: With the growing deployment of machine learning models, formal guarantees of the robustness and fairness of these models have become increasingly important in safety-critical and legal-compliance settings. However, model parameters are often commer...",Certified but Private: Scalable Zero-Knowledge Proofs for Neural Network Guarantees
+ce072add-6316-4a4d-880c-419a72a21c34,"Wed, 19 Au",MODEL_RELEASE,Deep Learning for Cross-Border Electricity Price Forecasting,,,arXiv cs.LG,https://arxiv.org/abs/2608.17091,"arXiv:2608.17091v1 Announce Type: new 
+Abstract: While publicly available electricity market data presents a valuable resource for forecasting research, the field lacks established benchmark datasets for standardized comparison. As a result, many studies have relied on different datasets and metr...",Deep Learning for Cross-Border Electricity Price Forecasting: A Comparative Study
 c4cd112c-1b2b-4f04-bd71-b716701e61bd,"Wed, 17 Ju",MODEL_RELEASE,LLM,,,arXiv cs.AI,https://arxiv.org/abs/2606.17220,"arXiv:2606.17220v1 Announce Type: new 
 Abstract: Legal case retrieval remains challenging due to the complexity of legal language and the need for precise lexical alignment between queries and relevant cases. Although dense retrieval models have achieved notable progress, empirical studies show t...",When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval
 02ffe4f7-05cd-4fe2-b586-7d29ffb238e9,"Wed, 17 Ju",MODEL_RELEASE,AI,,,arXiv cs.AI,https://arxiv.org/abs/2606.17289,"arXiv:2606.17289v1 Announce Type: new 
@@ -1169,6 +1184,38 @@ Abstract: In light of strides in Arti cial Intelligence (AI) and its wide spread
 Abstract: NA methylation profiling has become a powerful approach for central nervous system (CNS) tumor classification, yet important challenges remain regarding cross-cohort transferability, methodological correctness, and robust multiclass evaluation. In ...",A Novel Machine Learning Approach for Central Nervous System Tumor Classification from DNA Methylation
 b1f6da12-708b-44e7-b344-c7547454f856,"Fri, 03 Ju",MODEL_RELEASE,Black-Box Inference of LLM Architectural Properties with Restrictive API Access,,top-$k$ logits and/or,arXiv cs.LG,https://arxiv.org/abs/2607.01313,"arXiv:2607.01313v1 Announce Type: new 
 Abstract: In practice, most commercial LLM providers do not publicly release details of underlying LLM architectures. However, prior work has shown that given limited API access to an LLM (namely, top-$k$ logits and/or a logit bias function), one can recover...",Black-Box Inference of LLM Architectural Properties with Restrictive API Access
+1bd0543b-553e-4376-b91d-309194d91077,2026-08-19,MODEL_RELEASE,Google,Gemini,Gemini,The Verge AI,https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub,"As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more.",Google Gemini is getting a dedicated student hub
+5f74b2bf-3a81-4ceb-bcaa-735f0aa9596b,2026-08-19,MODEL_RELEASE,LL,Gemini,,Prtimes.jp,https://prtimes.jp/main/html/rd/p/000000002.000188865.html,"LLMLLM
+LLM1,200
+LLMLLM
+1,200200
+LLM
+LLMAI
+LLM
+LLM
+LLMSTEM
+LLM
+LLM1,200
+LLM
+URL
+LLM
+LLM
+LLM34~2%LLM
+GPT-5.2Gemini2.5-pro 
+LLM
+200 
+1,200200
+198
+200
+1,000
+1,0002026920
+1,000
+LL… [+73 chars]",「日本語LLMのための高難度問題データセット」を提供開始
+d2a0f05f-5354-41c6-b9d9-53fe2a750cf5,2026-08-19,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/llm-api-access/0.1.53/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",llm-api-access 0.1.53
+454200f9-f284-471b-a4a3-5e849aab3095,2026-08-19,MODEL_RELEASE,Intel,Llama 3,,Pypi.org,https://pypi.org/project/ai-code-checker/,"An intelligent, AST-aware CLI tool and CI action for automated code reviews powered by LLMs (Groq / Llama 3.3). Built for speed, precision, and seamless integration into developer workflows.",ai-code-checker 1.1.0
+8788519a-b599-4f4d-8f9a-d77f4f228b78,2026-08-19,MODEL_RELEASE,,Gemini,Gemini,Kitploit.com,https://kitploit.com/en/posts/github-wiltodelta-remove-ai-watermarks-v0270,"Remove AI provenance marks from images and video you generated yourself:
+<ul><li>known visible labels such as the Gemini sparkle and vendor text marks;</li><li>invisible pixel watermarks through dif… [+16001 chars]",remove-ai-watermarks v0.27.0
 ac817598-71e7-4f81-936b-fa239dfae790,2026-08-18,MODEL_RELEASE,Google,Gemini,Gemini,The Verge AI,https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review,"One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones.",Google&#8217;s Pet Memory forgot who my cats are
 402ce651-f57a-4a5e-9114-97f8d07d2ffb,2026-08-18,MODEL_RELEASE,Anthropic,Claude,,Daringfireball.net,https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking,"Some follow-up to this weekend’s stemwinder “Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing”:
 
