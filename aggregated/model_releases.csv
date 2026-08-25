@@ -1223,6 +1223,9 @@ Abstract: In light of strides in Arti cial Intelligence (AI) and its wide spread
 Abstract: NA methylation profiling has become a powerful approach for central nervous system (CNS) tumor classification, yet important challenges remain regarding cross-cohort transferability, methodological correctness, and robust multiclass evaluation. In ...",A Novel Machine Learning Approach for Central Nervous System Tumor Classification from DNA Methylation
 b1f6da12-708b-44e7-b344-c7547454f856,"Fri, 03 Ju",MODEL_RELEASE,Black-Box Inference of LLM Architectural Properties with Restrictive API Access,,top-$k$ logits and/or,arXiv cs.LG,https://arxiv.org/abs/2607.01313,"arXiv:2607.01313v1 Announce Type: new 
 Abstract: In practice, most commercial LLM providers do not publicly release details of underlying LLM architectures. However, prior work has shown that given limited API access to an LLM (namely, top-$k$ logits and/or a logit bias function), one can recover...",Black-Box Inference of LLM Architectural Properties with Restrictive API Access
+2ee5b343-7947-4f0c-9e06-5c3a39a09d8a,2026-08-24,MODEL_RELEASE,AI Models,,,Pypi.org,https://pypi.org/project/nautobot-ai-models/,"An App for Nautobot. Overview
+AI Models turns Nautobot into the source of truth for your LLM estate.",nautobot-ai-models added to PyPI
+4dce3940-0cef-4e83-8013-d026825aaef9,2026-08-24,MODEL_RELEASE,IBM Research,,ICX360,Kitploit.com,https://kitploit.com/en/tools/github/trusted-ai/aix360/,"NEW: IBM Research has a new In-Context Explainability 360 (ICX360) toolkit that extends explainability to LLMs, specifically in terms of the input given to the LLM. Please check it out!",AIX360
 e405af3f-441b-4c42-be27-deae7fc5611b,2026-08-23,MODEL_RELEASE,PyPI TinyEvals,,,Pypi.org,https://pypi.org/project/beetle-evals/,"TinyEvals for your AI agents and LLM/SLM apps.Zero runtime dependencies · ~2,100 lines of Python · numbers you can put in a merge decision
 Install ·
  Quick start ·
