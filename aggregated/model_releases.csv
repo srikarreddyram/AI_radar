@@ -1247,6 +1247,17 @@ Abstract: In light of strides in Arti cial Intelligence (AI) and its wide spread
 Abstract: NA methylation profiling has become a powerful approach for central nervous system (CNS) tumor classification, yet important challenges remain regarding cross-cohort transferability, methodological correctness, and robust multiclass evaluation. In ...",A Novel Machine Learning Approach for Central Nervous System Tumor Classification from DNA Methylation
 b1f6da12-708b-44e7-b344-c7547454f856,"Fri, 03 Ju",MODEL_RELEASE,Black-Box Inference of LLM Architectural Properties with Restrictive API Access,,top-$k$ logits and/or,arXiv cs.LG,https://arxiv.org/abs/2607.01313,"arXiv:2607.01313v1 Announce Type: new 
 Abstract: In practice, most commercial LLM providers do not publicly release details of underlying LLM architectures. However, prior work has shown that given limited API access to an LLM (namely, top-$k$ logits and/or a logit bias function), one can recover...",Black-Box Inference of LLM Architectural Properties with Restrictive API Access
+9ea1b5f1-858f-4785-b55e-af1a8ba92737,2026-08-25,MODEL_RELEASE,Anthropic,Claude,,Biztoc.com,https://biztoc.com/x/56ab62564a0addcf,"When Anthropic disclosed earlier this month that it would be applying a statistical word-choice watermark to its Claude text output, the company noted that at least 190 AI providers have agreed to ab… [+145 chars]","Microsoft AI watermarks in Paint and Photos are linked to user IDs, researcher finds"
+549da149-61de-4df8-8774-3c46508c142d,2026-08-25,MODEL_RELEASE,Claude,Claude,,Prtimes.jp,https://prtimes.jp/main/html/rd/p/000000391.000041550.html,"2026820Slack is where agents become teammates
+ SalesforceSlack Code
+Claude CodeClaude TagCognitionDevinGitHub CopilotChatGPTVercelAI
+AISlackSlackAISlack CodeSlack
+SlackSlack Code
+Slack CodeAISla… [+1012 chars]",Salesforce、人とAIエージェントの協働によるソフトウェア開発を実現する「Slack Code」を発表
+baba3fd9-d566-4ddd-98ab-c234fbff49cd,2026-08-25,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/llm-catalog-core/0.8.4/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",llm-catalog-core 0.8.4
+b985548f-4d52-4190-ae7f-861476af1cd1,2026-08-25,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/distil-llm/1.50.1rc1/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",distil-llm 1.50.1rc1
 2ee5b343-7947-4f0c-9e06-5c3a39a09d8a,2026-08-24,MODEL_RELEASE,AI Models,,,Pypi.org,https://pypi.org/project/nautobot-ai-models/,"An App for Nautobot. Overview
 AI Models turns Nautobot into the source of truth for your LLM estate.",nautobot-ai-models added to PyPI
 4dce3940-0cef-4e83-8013-d026825aaef9,2026-08-24,MODEL_RELEASE,IBM Research,,ICX360,Kitploit.com,https://kitploit.com/en/tools/github/trusted-ai/aix360/,"NEW: IBM Research has a new In-Context Explainability 360 (ICX360) toolkit that extends explainability to LLMs, specifically in terms of the input given to the LLM. Please check it out!",AIX360
