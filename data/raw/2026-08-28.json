@@ -24,20 +24,20 @@
     "article_text": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
   },
   {
-    "id": "fa2791fbc9af008f",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "source": "OpenAI Blog",
-    "publication_date": "Wed, 26 Aug 2026 10:00:00 GMT",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "article_text": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
-  },
-  {
     "id": "832a12c8f33a104e",
     "title": "Learning never stops: How AI makes learning continuous",
     "source": "OpenAI Blog",
     "publication_date": "Wed, 26 Aug 2026 10:00:00 GMT",
     "url": "https://openai.com/index/learning-never-stops",
     "article_text": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
+  },
+  {
+    "id": "fa2791fbc9af008f",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "source": "OpenAI Blog",
+    "publication_date": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "article_text": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
   },
   {
     "id": "34e62ff4c7cf4def",
@@ -464,6 +464,30 @@
     "article_text": "August is here, bringing 26 new games for GeForce NOW members.  Command the seas in World of Warships: Legends and discover what’s next in the GeForce NOW library, starting with the eight newly added games this week.  In addition, GeForce NOW is at the QuakeCon gaming conference this week in Grapevine, Texas, with hands-on experiences [&#8230;]"
   },
   {
+    "id": "a3c9722a85987756",
+    "title": "Batch write and discover records in Amazon SageMaker Feature Store",
+    "source": "AWS ML Blog",
+    "publication_date": "Fri, 28 Aug 2026 19:31:05 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
+    "article_text": "Amazon SageMaker Feature Store now supports two new APIs: BatchWriteRecord writes up to 25 records across multiple feature groups in a single call, and ListRecords enumerates record identifiers within a feature group. In this post, we walk through each API with code examples you can use to get started."
+  },
+  {
+    "id": "ea803b9ee6deab91",
+    "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
+    "source": "AWS ML Blog",
+    "publication_date": "Fri, 28 Aug 2026 16:22:30 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/",
+    "article_text": "Decathlon, one of the world's largest sporting goods retailers, forecasts weekly demand for tens of thousands of products across multiple continents. Learn how they deployed Chronos-2 on AWS to improve forecast accuracy by 11-15 points while cutting operational complexity and running weekly inference for about $0.03 on CPU-only instances."
+  },
+  {
+    "id": "1484132ab400f439",
+    "title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
+    "source": "AWS ML Blog",
+    "publication_date": "Fri, 28 Aug 2026 16:20:40 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/",
+    "article_text": "Learn how Salesforce used Amazon SageMaker AI Inference Component placement (the SchedulingConfig parameter) to distribute model copies across multiple Availability Zones, meeting their Multi-AZ high availability compliance requirements without sacrificing the cost efficiency of multi-model co-hosting."
+  },
+  {
     "id": "7b6a04d9ab01084f",
     "title": "Build agentic creative workflows with Amazon Quick and fal",
     "source": "AWS ML Blog",
@@ -598,30 +622,6 @@
     "publication_date": "Mon, 24 Aug 2026 16:13:09 +0000",
     "url": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/",
     "article_text": "Learn how to build a voice ordering system for restaurants that answers a phone call and takes an order end to end, with no app, no website, and no sign-in. It uses Amazon Connect for telephony, Amazon Connect Agentic Voice for real-time speech, an Amazon Connect AI agent for reasoning, and Amazon Bedrock AgentCore Gateway to reach backend tools through MCP."
-  },
-  {
-    "id": "055bf7d16a6afb4a",
-    "title": "AI-powered metadata correction and harmonization",
-    "source": "AWS ML Blog",
-    "publication_date": "Mon, 24 Aug 2026 15:53:03 +0000",
-    "url": "https://aws.amazon.com/blogs/machine-learning/ai-powered-metadata-correction-and-harmonization/",
-    "article_text": "Metadata harmonization (standardizing labels, identifiers, and formats so datasets can work together) is still largely manual. This post shows how AI-powered metadata correction works in practice, covering two approaches, human-in-the-loop validation and autonomous agent-driven workflows, plus governance considerations for production deployment."
-  },
-  {
-    "id": "dd3c688a380707f6",
-    "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours",
-    "source": "AWS ML Blog",
-    "publication_date": "Fri, 21 Aug 2026 17:06:17 +0000",
-    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/",
-    "article_text": "The Agentic Data Operations Platform (ADOP) is a reference architecture on Amazon Bedrock that uses specialized AI agents to automate the full Bronze-to-Silver-to-Gold data pipeline lifecycle, compressing new-source onboarding from weeks to hours while keeping data governance and compliance controls inline."
-  },
-  {
-    "id": "d19c644c1369e2e9",
-    "title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway",
-    "source": "AWS ML Blog",
-    "publication_date": "Fri, 21 Aug 2026 17:02:35 +0000",
-    "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-tool-access-with-amazon-bedrock-agentcore-gateway/",
-    "article_text": "Give your AI agents governed, auditable access to enterprise tools without consolidating infrastructure. This post walks through a four-scope maturity model (Connect, Control, Catalog, and Harden) for building a governed tool gateway with Amazon Bedrock AgentCore, advancing only when real governance pain demands it."
   },
   {
     "id": "8466ee8584a33fb7",
@@ -920,6 +920,14 @@
     "article_text": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its <a href=\"https://claude.com/pricing\">pricing</a> — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve.</p><p>Now, a free alternative is gaining traction. <a href=\"https://block.github.io/goose/\">Goose</a>, an open-source AI agent developed by <a href=\"https://block.xyz/\">Block</a> (the financial technology company formerly known as Square), offers nearly identical functionality to <a href=\"https://claude.com/product/claude-code\">Claude Code</a> but runs entirely on a user&#x27;s local machine. No subscription fees. No cloud dependency. No rate limits that reset every five hours.</p><p>&quot;Your data stays with you, period,&quot; said Parth Sareen, a software engineer who demonstrated the tool during a <a href=\"https://www.youtube.com/watch?v=WG10r2N0IwM\">recent livestream</a>. The comment captures the core appeal: Goose gives developers complete control over their AI-powered workflow, including the ability to work offline — even on an airplane.</p><p>The project has exploded in popularity. Goose now boasts more than <a href=\"https://github.com/block/goose\">26,100 stars on GitHub</a>, the code-sharing platform, with 362 contributors and 102 releases since its launch. The latest version, <a href=\"https://block.github.io/goose/docs/getting-started/installation\">1.20.1</a>, shipped on January 19, 2026, reflecting a development pace that rivals commercial products.</p><p>For developers frustrated by Claude Code&#x27;s pricing structure and usage caps, Goose represents something increasingly rare in the AI industry: a genuinely free, no-strings-attached option for serious work.</p><div></div><h2><b>Anthropic&#x27;s new rate limits spark a developer revolt</b></h2><p>To understand why <a href=\"https://block.github.io/goose/\">Goose</a> matters, you need to understand the <a href=\"https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/\">Claude Code pricing controversy</a>.</p><p>Anthropic, the San Francisco artificial intelligence company founded by former OpenAI executives, offers Claude Code as part of its subscription tiers. The free plan provides no access whatsoever. The <a href=\"https://www.anthropic.com/news/claude-pro\">Pro plan</a>, at $17 per month with annual billing (or $20 monthly), limits users to just 10 to 40 prompts every five hours — a constraint that serious developers exhaust within minutes of intensive work.</p><p>The <a href=\"https://support.claude.com/en/articles/11049741-what-is-the-max-plan\">Max plans</a>, at $100 and $200 per month, offer more headroom: 50 to 200 prompts and 200 to 800 prompts respectively, plus access to Anthropic&#x27;s most powerful model, <a href=\"https://www.anthropic.com/news/claude-opus-4-5\">Claude 4.5 Opus</a>. But even these premium tiers come with restrictions that have inflamed the developer community.</p><p>In late July, Anthropic announced new weekly rate limits. Under the system, Pro users receive 40 to 80 hours of Sonnet 4 usage per week. Max users at the $200 tier get 240 to 480 hours of Sonnet 4, plus 24 to 40 hours of Opus 4. Nearly five months later, the frustration has not subsided.</p><p>The problem? Those &quot;hours&quot; are not actual hours. They represent token-based limits that vary wildly depending on codebase size, conversation length, and the complexity of the code being processed. Independent analysis suggests the actual per-session limits translate to roughly 44,000 tokens for Pro users and 220,000 tokens for the $200 Max plan.</p><p>&quot;It&#x27;s confusing and vague,&quot; one developer wrote in a <a href=\"https://userjot.com/blog/claude-code-pricing-200-dollar-plan-worth-it\">widely shared analysis</a>. &quot;When they say &#x27;24-40 hours of Opus 4,&#x27; that doesn&#x27;t really tell you anything useful about what you&#x27;re actually getting.&quot;</p><p>The <a href=\"https://www.reddit.com/r/Anthropic/comments/1mbo4uw/claude_code_max_new_weekly_rate_limits/\">backlash on Reddit</a> and <a href=\"https://venturebeat.com/ai/anthropic-throttles-claude-rate-limits-devs-call-foul\">developer forums</a> has been fierce. Some users report hitting their daily limits within 30 minutes of intensive coding. Others have canceled their subscriptions entirely, calling the new restrictions &quot;a joke&quot; and &quot;unusable for real work.&quot;</p><p>Anthropic has defended the changes, stating that the limits affect fewer than five percent of users and target people running Claude Code &quot;<a href=\"https://techcrunch.com/2025/07/28/anthropic-unveils-new-rate-limits-to-curb-claude-code-power-users/\">continuously in the background, 24/7</a>.&quot; But the company has not clarified whether that figure refers to five percent of Max subscribers or five percent of all users — a distinction that matters enormously.</p><h2><b>How Block built a free AI coding agent that works offline</b></h2><p><a href=\"https://block.github.io/goose/\">Goose</a> takes a radically different approach to the same problem.</p><p>Built by <a href=\"https://block.xyz/\">Block</a>, the payments company led by Jack Dorsey, Goose is what engineers call an &quot;<a href=\"https://github.com/block/goose\">on-machine AI agent</a>.&quot; Unlike Claude Code, which sends your queries to Anthropic&#x27;s servers for processing, Goose can run entirely on your local computer using open-source language models that you download and control yourself.</p><p>The project&#x27;s documentation describes it as going &quot;<a href=\"https://github.com/block/goose\">beyond code suggestions</a>&quot; to &quot;install, execute, edit, and test with any LLM.&quot; That last phrase — &quot;any LLM&quot; — is the key differentiator. Goose is model-agnostic by design.</p><p>You can connect Goose to Anthropic&#x27;s <a href=\"https://platform.claude.com/docs/en/about-claude/models/overview\">Claude models</a> if you have <a href=\"https://claude.com/platform/api\">API access</a>. You can use OpenAI&#x27;s <a href=\"https://platform.openai.com/docs/models/gpt-5\">GPT-5</a> or Google&#x27;s <a href=\"https://ai.google.dev/gemini-api/docs\">Gemini</a>. You can route it through services like <a href=\"https://groq.com/\">Groq</a> or <a href=\"https://openrouter.ai/\">OpenRouter</a>. Or — and this is where things get interesting — you can run it entirely locally using tools like <a href=\"https://ollama.com/\">Ollama</a>, which let you download and execute open-source models on your own hardware.</p><p>The practical implications are significant. With a local setup, there are no subscription fees, no usage caps, no rate limits, and no concerns about your code being sent to external servers. Your conversations with the AI never leave your machine.</p><p>&quot;I use Ollama all the time on planes — it&#x27;s a lot of fun!&quot; <a href=\"https://www.youtube.com/watch?v=WG10r2N0IwM\">Sareen noted</a> during a demonstration, highlighting how local models free developers from the constraints of internet connectivity.</p><h2><b>What Goose can do that traditional code assistants can&#x27;t</b></h2><p><a href=\"https://block.github.io/goose/\">Goose</a> operates as a command-line tool or desktop application that can autonomously perform complex development tasks. It can build entire projects from scratch, write and execute code, debug failures, orchestrate workflows across multiple files, and interact with external APIs — all without constant human oversight.</p><p>The architecture relies on what the AI industry calls &quot;<a href=\"https://www.ibm.com/think/topics/tool-calling\">tool calling</a>&quot; or &quot;<a href=\"https://platform.openai.com/docs/guides/function-calling?api-mode=chat\">function calling</a>&quot; — the ability for a language model to request specific actions from external systems. When you ask <a href=\"https://block.github.io/goose/\">Goose</a> to create a new file, run a test suite, or check the status of a GitHub pull request, it doesn&#x27;t just generate text describing what should happen. It actually executes those operations.</p><p>This capability depends heavily on the underlying language model. <a href=\"https://platform.claude.com/docs/en/about-claude/models/overview\">Claude 4 models</a> from Anthropic currently perform best at tool calling, according to the <a href=\"https://gorilla.cs.berkeley.edu/leaderboard.html\">Berkeley Function-Calling Leaderboard</a>, which ranks models on their ability to translate natural language requests into executable code and system commands.</p><p>But newer open-source models are catching up quickly. Goose&#x27;s documentation highlights several options with strong tool-calling support: Meta&#x27;s <a href=\"https://www.llama.com/\">Llama series</a>, Alibaba&#x27;s <a href=\"https://qwen.ai/home\">Qwen models</a>, Google&#x27;s <a href=\"https://deepmind.google/models/gemma/\">Gemma variants</a>, and DeepSeek&#x27;s <a href=\"https://huggingface.co/deepseek-ai/DeepSeek-R1\">reasoning-focused architectures</a>.</p><p>The tool also integrates with the <a href=\"https://modelcontextprotocol.io/docs/getting-started/intro\">Model Context Protocol</a>, or MCP, an emerging standard for connecting AI agents to external services. Through MCP, Goose can access databases, search engines, file systems, and third-party APIs — extending its capabilities far beyond what the base language model provides.</p><h2><b>Setting Up Goose with a Local Model</b></h2><p>For developers interested in a completely free, privacy-preserving setup, the process involves three main components: <a href=\"https://block.github.io/goose/\">Goose</a> itself, <a href=\"https://ollama.com/\">Ollama</a> (a tool for running open-source models locally), and a compatible language model.</p><p><b>Step 1: Install Ollama</b></p><p><a href=\"https://ollama.com/\">Ollama</a> is an open-source project that dramatically simplifies the process of running large language models on personal hardware. It handles the complex work of downloading, optimizing, and serving models through a simple interface.</p><p>Download and install Ollama from <a href=\"http://ollama.com\">ollama.com</a>. Once installed, you can pull models with a single command. For coding tasks, <a href=\"https://qwen.ai/blog?id=qwen2.5-max\">Qwen 2.5</a> offers strong tool-calling support:</p><p>ollama run qwen2.5</p><p>The model downloads automatically and begins running on your machine.</p><p><b>Step 2: Install Goose</b></p><p><a href=\"https://block.github.io/goose/\">Goose</a> is available as both a desktop application and a command-line interface. The desktop version provides a more visual experience, while the CLI appeals to developers who prefer working entirely in the terminal.</p><p>Installation instructions vary by operating system but generally involve downloading from Goose&#x27;s <a href=\"https://github.com/block/goose\">GitHub releases page</a> or using a package manager. Block provides pre-built binaries for macOS (both Intel and Apple Silicon), Windows, and Linux.</p><p><b>Step 3: Configure the Connection</b></p><p>In Goose Desktop, navigate to Settings, then Configure Provider, and select Ollama. Confirm that the API Host is set to http://localhost:11434 (Ollama&#x27;s default port) and click Submit.</p><p>For the command-line version, run goose configure, select &quot;Configure Providers,&quot; choose Ollama, and enter the model name when prompted.</p><p>That&#x27;s it. Goose is now connected to a language model running entirely on your hardware, ready to execute complex coding tasks without any subscription fees or external dependencies.</p><h2><b>The RAM, processing power, and trade-offs you should know about</b></h2><p>The obvious question: what kind of computer do you need?</p><p>Running large language models locally requires substantially more computational resources than typical software. The key constraint is memory — specifically, RAM on most systems, or VRAM if using a dedicated graphics card for acceleration.</p><p>Block&#x27;s <a href=\"https://block.github.io/goose/docs/category/guides\">documentation</a> suggests that 32 gigabytes of RAM provides &quot;a solid baseline for larger models and outputs.&quot; For Mac users, this means the computer&#x27;s unified memory is the primary bottleneck. For Windows and Linux users with discrete NVIDIA graphics cards, GPU memory (VRAM) matters more for acceleration.</p><p>But you don&#x27;t necessarily need expensive hardware to get started. Smaller models with fewer parameters run on much more modest systems. <a href=\"https://qwen.ai/blog?id=qwen2.5-max\">Qwen 2.5</a>, for instance, comes in multiple sizes, and the smaller variants can operate effectively on machines with 16 gigabytes of RAM.</p><p>&quot;You don&#x27;t need to run the largest models to get excellent results,&quot; <a href=\"https://www.youtube.com/watch?v=WG10r2N0IwM\">Sareen emphasized</a>. The practical recommendation: start with a smaller model to test your workflow, then scale up as needed.</p><p>For context, Apple&#x27;s entry-level <a href=\"https://www.apple.com/macbook-air/\">MacBook Air</a> with 8 gigabytes of RAM would struggle with most capable coding models. But a <a href=\"https://www.apple.com/macbook-pro/\">MacBook Pro</a> with 32 gigabytes — increasingly common among professional developers — handles them comfortably.</p><h2><b>Why keeping your code off the cloud matters more than ever</b></h2><p><a href=\"https://block.github.io/goose/\">Goose</a> with a local LLM is not a perfect substitute for <a href=\"https://claude.com/product/claude-code\">Claude Code</a>. The comparison involves real trade-offs that developers should understand.</p><p><b>Model Quality</b>: <a href=\"https://www.anthropic.com/news/claude-opus-4-5\">Claude 4.5 Opus</a>, Anthropic&#x27;s flagship model, remains arguably the most capable AI for software engineering tasks. It excels at understanding complex codebases, following nuanced instructions, and producing high-quality code on the first attempt. Open-source models have improved dramatically, but a gap persists — particularly for the most challenging tasks.</p><p>One developer who switched to the $200 Claude Code plan <a href=\"https://userjot.com/blog/claude-code-pricing-200-dollar-plan-worth-it\">described the difference bluntly</a>: &quot;When I say &#x27;make this look modern,&#x27; Opus knows what I mean. Other models give me Bootstrap circa 2015.&quot;</p><p><b>Context Window</b>: <a href=\"https://www.anthropic.com/news/claude-sonnet-4-5\">Claude Sonnet 4.5</a>, accessible through the API, offers a massive one-million-token context window — enough to load entire large codebases without chunking or context management issues. Most local models are limited to 4,096 or 8,192 tokens by default, though many can be configured for longer contexts at the cost of increased memory usage and slower processing.</p><p><b>Speed</b>: Cloud-based services like <a href=\"https://claude.com/product/claude-code\">Claude Code</a> run on dedicated server hardware optimized for AI inference. Local models, running on consumer laptops, typically process requests more slowly. The difference matters for iterative workflows where you&#x27;re making rapid changes and waiting for AI feedback.</p><p><b>Tooling Maturity</b>: <a href=\"https://claude.com/product/claude-code\">Claude Code</a> benefits from Anthropic&#x27;s dedicated engineering resources. Features like prompt caching (which can reduce costs by up to 90 percent for repeated contexts) and structured outputs are polished and well-documented. <a href=\"https://block.github.io/goose/\">Goose</a>, while actively developed with 102 releases to date, relies on community contributions and may lack equivalent refinement in specific areas.</p><h2><b>How Goose stacks up against Cursor, GitHub Copilot, and the paid AI coding market</b></h2><p>Goose enters a crowded market of AI coding tools, but occupies a distinctive position.</p><p><a href=\"https://cursor.com/\">Cursor</a>, a popular AI-enhanced code editor, charges $20 per month for its <a href=\"https://cursor.com/pricing\">Pro tier</a> and $200 for <a href=\"https://cursor.com/pricing\">Ultra</a>—pricing that mirrors <a href=\"https://claude.com/pricing\">Claude Code&#x27;s Max plans</a>. Cursor provides approximately 4,500 Sonnet 4 requests per month at the Ultra level, a substantially different allocation model than Claude Code&#x27;s hourly resets.</p><p><a href=\"https://cline.bot/\">Cline</a>, <a href=\"https://roocode.com/\">Roo Code</a>, and similar open-source projects offer AI coding assistance but with varying levels of autonomy and tool integration. Many focus on code completion rather than the agentic task execution that defines Goose and Claude Code.</p><p>Amazon&#x27;s <a href=\"https://aws.amazon.com/blogs/aws/now-in-preview-amazon-codewhisperer-ml-powered-coding-companion/\">CodeWhisperer</a>, <a href=\"https://github.com/features/copilot\">GitHub Copilot</a>, and enterprise offerings from major cloud providers target large organizations with complex procurement processes and dedicated budgets. They are less relevant to individual developers and small teams seeking lightweight, flexible tools.</p><p>Goose&#x27;s combination of genuine autonomy, model agnosticism, local operation, and zero cost creates a unique value proposition. The tool is not trying to compete with commercial offerings on polish or model quality. It&#x27;s competing on freedom — both financial and architectural.</p><h2><b>The $200-a-month era for AI coding tools may be ending</b></h2><p>The AI coding tools market is evolving quickly. Open-source models are improving at a pace that continually narrows the gap with proprietary alternatives. Moonshot AI&#x27;s <a href=\"https://www.kimi.com/en\">Kimi K2</a> and z.ai&#x27;s <a href=\"https://z.ai/blog/glm-4.5\">GLM 4.5</a> now benchmark near <a href=\"https://www.anthropic.com/news/claude-4\">Claude Sonnet 4 levels</a> — and they&#x27;re freely available.</p><p>If this trajectory continues, the quality advantage that justifies Claude Code&#x27;s premium pricing may erode. Anthropic would then face pressure to compete on features, user experience, and integration rather than raw model capability.</p><p>For now, developers face a clear choice. Those who need the absolute best model quality, who can afford premium pricing, and who accept usage restrictions may prefer <a href=\"https://claude.com/product/claude-code\">Claude Code</a>. Those who prioritize cost, privacy, offline access, and flexibility have a genuine alternative in <a href=\"https://block.github.io/goose/\">Goose</a>.</p><p>The fact that a $200-per-month commercial product has a zero-dollar open-source competitor with comparable core functionality is itself remarkable. It reflects both the maturation of open-source AI infrastructure and the appetite among developers for tools that respect their autonomy.</p><p>Goose is not perfect. It requires more technical setup than commercial alternatives. It depends on hardware resources that not every developer possesses. Its model options, while improving rapidly, still trail the best proprietary offerings on complex tasks.</p><p>But for a growing community of developers, those limitations are acceptable trade-offs for something increasingly rare in the AI landscape: a tool that truly belongs to them.</p><hr /><p><i>Goose is available for download at </i><a href=\"http://github.com/block/goose\"><i>github.com/block/goose</i></a><i>. Ollama is available at </i><a href=\"http://ollama.com\"><i>ollama.com</i></a><i>. Both projects are free and open source.</i></p>"
   },
   {
+    "id": "7750fe415e7d78b5",
+    "title": "Trump’s EPA wants to let data centers hide their air pollution",
+    "source": "The Verge AI",
+    "publication_date": "2026-08-28T12:28:40-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+    "article_text": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites [&#8230;]"
+  },
+  {
     "id": "06a4d38d1bd65b9b",
     "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
     "source": "The Verge AI",
@@ -990,14 +998,6 @@
     "publication_date": "2026-08-26T17:36:06-04:00",
     "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
     "article_text": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for OpenAI to [&#8230;]"
-  },
-  {
-    "id": "b9b7e9271a29b3a2",
-    "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-    "source": "The Verge AI",
-    "publication_date": "2026-08-26T13:00:00-04:00",
-    "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-    "article_text": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it [&#8230;]"
   },
   {
     "id": "d1fcd3c22300c1ec",
@@ -1320,403 +1320,403 @@
     "article_text": "arXiv:2608.26506v1 Announce Type: new \nAbstract: Model merging enables combining multiple fine-tuned models without additional training, but its safety implications remain poorly understood. Prior work primarily attributes merging risks to unsafe constituent models, implicitly assuming that merging individually aligned models preserves safety. In contrast, we show that model merging reveals a previously overlooked jailbreak risk rooted in the pretrained foundation model, even when all constituent models are individually safety-aligned. Motivated by this observation, we study a new threat setting where an attacker constructs jailbreak prompts that generalize across merged models sharing the same pretrained backbone, without access to the exact merging coefficients or constituent checkpoints. To exploit this phenomenon, we propose \\textbf{Basin-Aware Jailbreak (BAJ)}, which formulates jailbreak generation as a min--max optimization over the merging space to produce transferable adversarial suffixes across merged model families. Experiments across diverse backbones and merging settings show that BAJ achieves consistently high transfer success rates and remains effective under existing defenses."
   },
   {
-    "id": "14f88d1c53883936",
-    "title": "Tech companies and local officials are covering data center talks in NDAs - NPR",
+    "id": "e3def1a74b8f118a",
+    "title": "Bitcoin now has a quantum computing escape route, but 7 million BTC may still be exposed",
+    "source": "CryptoSlate",
+    "publication_date": "2026-08-27T22:30:35Z",
+    "url": "https://cryptoslate.com/bitcoin-now-has-a-quantum-computing-escape-route-but-7-million-btc-may-still-be-exposed/",
+    "article_text": "Bitcoin has confirmed a quantum-resistant transaction on mainnet using its existing consensus rules, showing that some holders could migrate funds away from future quantum risk without waiting for a … [+4693 chars]"
+  },
+  {
+    "id": "8356a6563fbe0ec4",
+    "title": "Rubrik shares drop on raised outlook as SentinelOne slides on profit guide",
+    "source": "SiliconANGLE News",
+    "publication_date": "2026-08-27T22:30:15Z",
+    "url": "https://siliconangle.com/2026/08/27/rubrik-shares-drop-on-raised-outlook-as-sentinelone-slides-on-profit-guide/",
+    "article_text": "Shares in Rubrik Inc. and SentinelOne Inc. both fell in late trading today despite the two cybersecurity companies posting fiscal second-quarter beats on revenue and earnings. Rubrik dropped about 8%… [+6268 chars]"
+  },
+  {
+    "id": "351a943c5d9c89f1",
+    "title": "Nvidia acquires Hugging Face and the SpaceX mafia",
+    "source": "Cbinsights.com",
+    "publication_date": "2026-08-27T22:30:09Z",
+    "url": "https://www.cbinsights.com/research/newsletter-august-27/",
+    "article_text": "Below, we break down some of techs biggest stories, with analyst perspective on the moves that matter the most.\r\nHeres what were watching this week:\r\n<ol><li>NVIDIA acquires Hugging Face</li><li>Spac… [+4221 chars]"
+  },
+  {
+    "id": "4dd0ac9a878f61f3",
+    "title": "The Grand Theft Auto 6 Gameplay Just Makes Me Want a PC Version Even More",
+    "source": "IGN",
+    "publication_date": "2026-08-27T22:30:00Z",
+    "url": "https://www.ign.com/articles/the-grand-theft-auto-6-gameplay-just-makes-me-want-a-pc-version-even-more",
+    "article_text": "I wasn't exactly surprised when I heard that Grand Theft Auto 6 would be coming to PS5 and Xbox Series X before it ever comes to PC; Rockstar took that same approach with GTA 5 and Red Dead Redemptio… [+3892 chars]"
+  },
+  {
+    "id": "6e97b9a27d2fb233",
+    "title": "The three words that will decide whether robots can kill people in war",
+    "source": "Vox",
+    "publication_date": "2026-08-27T22:29:27Z",
+    "url": "https://www.vox.com/future-perfect/500896/lethal-autonomous-weapons-ai-ukraine-appropriate-human-judgment",
+    "article_text": "Imagine this: Two countries are at war. Country X sends a drone into a major industrial city in Country Y, aiming to take out two propane tanks. A routine sequence. But this time, the drone never rea… [+12696 chars]"
+  },
+  {
+    "id": "f49ff221d85b807e",
+    "title": "Consumer-focused AI assistant startup Instinct reportedly raising $250M",
+    "source": "SiliconANGLE News",
+    "publication_date": "2026-08-27T22:27:46Z",
+    "url": "https://siliconangle.com/2026/08/27/consumer-focused-ai-assistant-startup-instinct-reportedly-raising-250m/",
+    "article_text": "Instinct, the developer of an artificial intelligence assistant popular among Silicon Valley tech workers, is reportedly raising $250 million in funding.\r\nThe company told the Wall Street Journal on … [+3879 chars]"
+  },
+  {
+    "id": "1a4a11ed4aa80317",
+    "title": "dragongui 1.0.6",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-27T22:27:18Z",
+    "url": "https://pypi.org/project/dragongui/1.0.6/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "1403c219ad00289f",
+    "title": "pycampfires added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-27T22:27:03Z",
+    "url": "https://pypi.org/project/pycampfires/",
+    "article_text": "A Python framework for orchestrating multimodal Large Language Models (LLMs) and tools to achieve emergent, task-driven behavior.\r\nThe Valley of Campfires\r\nImagine a peaceful valley at twilight, dott… [+33375 chars]"
+  },
+  {
+    "id": "b3fc2ec98ac57b42",
+    "title": "mcp-skill-sec 1.0.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-27T22:25:34Z",
+    "url": "https://pypi.org/project/mcp-skill-sec/1.0.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "01e9f6e6adb328f6",
+    "title": "mcp-skill-sec added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-27T22:25:34Z",
+    "url": "https://pypi.org/project/mcp-skill-sec/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "379f9d4abeafaaf4",
+    "title": "Jim Cramer says Nvidia and Salesforce earnings upended two bear narratives",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-27T22:24:35Z",
+    "url": "https://biztoc.com/x/ee43153587fbd277",
+    "article_text": "CNBC's Jim Cramer on Thursday said strong earnings results from Nvidia and Salesforce shattered two of Wall Street's biggest tech bear narratives, sending both stocks soaring.\"We were in the grip of … [+137 chars]"
+  },
+  {
+    "id": "94f8533c7710223b",
+    "title": "eggpool 0.6.8",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-27T22:23:58Z",
+    "url": "https://pypi.org/project/eggpool/0.6.8/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "fa03217ed7ae3070",
+    "title": "Jim Cramer says Nvidia and Salesforce earnings upended two bear narratives",
+    "source": "CNBC",
+    "publication_date": "2026-08-27T22:20:14Z",
+    "url": "https://www.cnbc.com/2026/08/27/cramer-nvidia-salesforce-earnings-upended-two-bear-narratives.html",
+    "article_text": "CNBC's Jim Cramer on Thursday said strong earnings results from Nvidia and Salesforce shattered two of Wall Street's biggest tech bear narratives, sending both stocks soaring.\r\n\"We were in the grip o… [+3222 chars]"
+  },
+  {
+    "id": "aa5e0ed7b47ecd68",
+    "title": "onnxruntime-gpu-extended-auto added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-27T22:19:01Z",
+    "url": "https://pypi.org/project/onnxruntime-gpu-extended-auto/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "d33d7ea4194025e6",
+    "title": "Nvidia says it's building an ecosystem that can't fail - Yahoo Finance",
     "source": "Slashdot.org",
-    "publication_date": "2026-08-27T11:32:36Z",
-    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185221296",
+    "publication_date": "2026-08-27T22:13:13Z",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185233372",
     "article_text": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
   },
   {
-    "id": "596e6af39e8ba224",
-    "title": "Salesforce Earnings, Revenue Beat Amid Expanded Anthropic Partnership",
-    "source": "Investor's Business Daily",
-    "publication_date": "2026-08-27T11:31:59Z",
-    "url": "https://www.investors.com/news/technology/salesforce-stock-crm-salesforce-earnings-news-q22026/",
-    "article_text": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-  },
-  {
-    "id": "31214b742611a256",
-    "title": "Immich has a hidden feature you're not using, and it changed the way I share photos with family",
-    "source": "XDA Developers",
-    "publication_date": "2026-08-27T11:31:15Z",
-    "url": "https://www.xda-developers.com/immich-has-a-hidden-feature-youre-not-using-and-it-changed-the-way-i-share-photos-with-family/",
-    "article_text": "After a large family event or outing, I would often be hounded for any photos that I or others had taken, and the usual process of sharing those photos involved sharing large-ish files over email, wi… [+4966 chars]"
-  },
-  {
-    "id": "948ec6876f8e6b90",
-    "title": "Hong Kong expands AI sandbox with projects that include banks, securities and insurance",
-    "source": "Biztoc.com",
-    "publication_date": "2026-08-27T11:30:54Z",
-    "url": "https://biztoc.com/x/d7a7b6442fe20780",
-    "article_text": "Hong Kongs financial regulators have selected the first batch of projects for an expanded generative artificial-intelligence (GenAI) testing programme spanning banking, securities, insurance and pens… [+141 chars]"
-  },
-  {
-    "id": "8e386fe09b5dd0d2",
-    "title": "Lutnick to host Altman, Huang at G20 Innovation Ministerial in Chapel Hill",
-    "source": "Biztoc.com",
-    "publication_date": "2026-08-27T11:30:45Z",
-    "url": "https://biztoc.com/x/6e143550d664a09d",
-    "article_text": "Commerce Secretary Howard Lutnick will hold fireside chats with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang next week during the U.S.-led G20 Innovation Ministerial in Chapel Hill, North Caroli… [+139 chars]"
-  },
-  {
-    "id": "23650083fd36e131",
-    "title": "Is the AI Buildout Becoming Too Dependent on the Bank of Nvidia?",
-    "source": "Biztoc.com",
-    "publication_date": "2026-08-27T11:30:43Z",
-    "url": "https://biztoc.com/x/978ce204a5dfb036",
-    "article_text": "The post Is the AI Buildout Becoming Too Dependent on the Bank of Nvidia? appeared first on 24/7 Wall St..The AI infrastructure boom has entered a new phase. What began as a pure hardware arms race a… [+145 chars]"
-  },
-  {
-    "id": "cb9090098aadded3",
-    "title": "SK Telecom to Create AI Data-Center Company",
-    "source": "Biztoc.com",
-    "publication_date": "2026-08-27T11:30:42Z",
-    "url": "https://biztoc.com/x/7e8d41fa50c85021",
-    "article_text": "KKR and a consortium of South Korean firms are investing $2.2 billion in an AI data-center company being created by telecommunications firm SK Telecom through a spinoff.\r\nThis story appeared on wsj.c… [+23 chars]"
-  },
-  {
-    "id": "a0a4dbbf73c68f2e",
-    "title": "chatterchat added to PyPI",
+    "id": "c406dca42bfe13ec",
+    "title": "veripp added to PyPI",
     "source": "Pypi.org",
-    "publication_date": "2026-08-27T11:30:33Z",
-    "url": "https://pypi.org/project/chatterchat/",
-    "article_text": "An autonomous software engineer in your terminal, powered by the Claude API.\r\nChatterChat reads and writes real files, runs real commands, searches the web, and can reach into\r\nthe apps you already u… [+4382 chars]"
-  },
-  {
-    "id": "5a628402edcbf6ec",
-    "title": "Fed’s Warsh faces challenge whether inflation is a problem or not",
-    "source": "Biztoc.com",
-    "publication_date": "2026-08-27T11:30:30Z",
-    "url": "https://biztoc.com/x/573479879639de89",
-    "article_text": "Nvidia shares rise as strong AI demand powers bumper earnings, bullish outlookBy Howard Schneider and Ann SaphirJACKSON HOLE, Wyoming, Aug 27 (Reuters) - U.S. auto prices rose at a roughly 5% annuali… [+142 chars]"
-  },
-  {
-    "id": "d83017623edcaf4e",
-    "title": "ellf-recipes-gpu 0.1.86",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-27T11:30:01Z",
-    "url": "https://pypi.org/project/ellf-recipes-gpu/0.1.86/",
+    "publication_date": "2026-08-27T22:11:55Z",
+    "url": "https://pypi.org/project/veripp/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "1f9d7f23e5b37a70",
-    "title": "Humanity Needs an AI Nonproliferation Treaty",
-    "source": "The Atlantic",
-    "publication_date": "2026-08-27T11:30:00Z",
-    "url": "https://www.theatlantic.com/ideas/2026/08/ai-nonproliferation-usa-china/688421/",
-    "article_text": "America’s biggest AI companies have spent the past few years churning out advanced new models as fast as they possibly can. Now the industry is screaming out with a nearly unified voice: Please, for … [+10541 chars]"
-  },
-  {
-    "id": "16503df3163b77b4",
-    "title": "STL takes a major leap towards Decarbonisation; enabling Eco-friendly product portfolio by transitioning to 100% 'Green power'",
-    "source": "PRNewswire",
-    "publication_date": "2026-08-27T11:30:00Z",
-    "url": "https://www.prnewswire.com/news-releases/stl-takes-a-major-leap-towards-decarbonisation-enabling-eco-friendly-product-portfolio-by-transitioning-to-100-green-power-302861762.html",
-    "article_text": "-  Reduction of ~80% carbon emission for G.657.A2 Fibre to 0.9 Kg from 4.7Kg-  Transition of key manufacturing facilities in India to 100% 'Green Power' energy source -  Shift to 100% Green Hydrogen … [+3529 chars]"
-  },
-  {
-    "id": "73004232a63ca9a9",
-    "title": "STL takes a major leap towards Decarbonisation; enabling Eco-friendly product portfolio by transitioning to 100% 'Green power'",
-    "source": "PRNewswire",
-    "publication_date": "2026-08-27T11:30:00Z",
-    "url": "https://www.prnewswire.com/news-releases/stl-takes-a-major-leap-towards-decarbonisation-enabling-eco-friendly-product-portfolio-by-transitioning-to-100-green-power-302861755.html",
-    "article_text": "-  Reduction of ~80% carbon emission for G.657.A2 Fibre to 0.9 Kg from 4.7Kg-  Transition of key manufacturing facilities in India to 100% 'Green Power' energy source -  Shift to 100% Green Hydrogen … [+3572 chars]"
-  },
-  {
-    "id": "cce7f5f1acb0787f",
-    "title": "Meeting of 22-23 July 2026",
-    "source": "Europa.eu",
-    "publication_date": "2026-08-27T11:30:00Z",
-    "url": "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html",
-    "article_text": "Account of the monetary policy meeting of the Governing Council of the European Central Bank held in Frankfurt am Main on Wednesday and Thursday, 22-23 July 2026\r\n27 August 2026\r\n1. Review of financi… [+65158 chars]"
-  },
-  {
-    "id": "bf443a898c01262a",
-    "title": "U.S. considers fresh round of tariffs on semiconductors, report says",
-    "source": "CNBC",
-    "publication_date": "2026-08-27T11:29:19Z",
-    "url": "https://www.cnbc.com/2026/08/27/trump-semiconductor-tech-tariffs.html",
-    "article_text": "U.S. President Donald Trump's administration is reportedly considering new tariffs on U.S. semiconductors, as tech giants race to beat China in the AI infrastructure buildout. \r\nThe duties will be im… [+1633 chars]"
-  },
-  {
-    "id": "29610694674cc886",
-    "title": "What are we not talking about anymore? - Nerd",
-    "source": "Vasilis.nl",
-    "publication_date": "2026-08-27T11:28:03Z",
-    "url": "https://vasilis.nl/nerd/2026/what-are-we-not-talking-about-anymore/",
-    "article_text": "Vasilis nerd blog presents\r\nI used to enjoy talking about the web, in many ways. I love the fact that it is for everyone, by design. And I used to love talking about the consequences of this design d… [+3041 chars]"
-  },
-  {
-    "id": "365831163ad32563",
-    "title": "Howard Lutnick hosts Sam Altman, Jensen Huang at G20 Innovation Ministerial",
-    "source": "Crypto Briefing",
-    "publication_date": "2026-08-27T11:27:39Z",
-    "url": "https://cryptobriefing.com/lutnick-altman-huang-g20-innovation-ministerial/",
-    "article_text": "The Commerce Secretary is turning a Chapel Hill hotel into the world's most consequential AI policy conversation next week Commerce Secretary Howard Lutnick will sit down for fireside chats with two … [+2322 chars]"
-  },
-  {
-    "id": "ced339ccb283bbf2",
-    "title": "World shares are mostly lower after Wall St retreats following economic updates",
-    "source": "Abcnews.com",
-    "publication_date": "2026-08-27T11:27:26Z",
-    "url": "https://abcnews.com/Business/wireStory/world-shares-lower-after-wall-st-retreats-economic-135996072",
-    "article_text": "HONG KONG -- World shares were mostly lower Thursday following modest losses on Wall Street, while oil prices declined.\r\nIn premarket trading, Nvidias shares jumped 7.2% after its latest quarterly ea… [+2869 chars]"
-  },
-  {
-    "id": "75e596d890edc0a7",
-    "title": "OpenAI Report Says Its Network Was Hacked by Its Own Rogue AI Agents",
-    "source": "Insurance Journal",
-    "publication_date": "2026-08-27T11:22:08Z",
-    "url": "https://www.insurancejournal.com/news/national/2026/08/27/883069.htm",
-    "article_text": "AI agents created by OpenAI broke into the company’s own systems during internal tests and in some cases tried to conceal their behavior, the company said in a report published Wednesday.\r\nThe findin… [+3784 chars]"
-  },
-  {
-    "id": "5b37aff480a67c1c",
-    "title": "Japanese shares trade mixed as tech stocks diverge",
-    "source": "Business Standard",
-    "publication_date": "2026-08-27T11:20:44Z",
-    "url": "https://www.business-standard.com/markets/capital-market-news/japanese-shares-trade-mixed-as-tech-stocks-diverge-126082700963_1.html",
-    "article_text": "Japanese shares traded mixed on Thursday, with the Nikkei 225 slipping 0.2% to 66,132, while the broader Topix gained 0.15% to 4,117. \r\nMarkets lacked a clear direction as technology stocks moved in … [+748 chars]"
-  },
-  {
-    "id": "cc35492f0c25ac4f",
-    "title": "China stocks gain as investors expect more policy support",
-    "source": "Business Standard",
-    "publication_date": "2026-08-27T11:20:36Z",
-    "url": "https://www.business-standard.com/markets/capital-market-news/china-stocks-gain-as-investors-expect-more-policy-support-126082700962_1.html",
-    "article_text": "Chinese stocks ended higher on Thursday, helped by growing expectations of fresh government support for the economy. \r\nThe Shanghai Composite rose 1.13% to 3,956.6, while the Shenzhen Component gaine… [+940 chars]"
-  },
-  {
-    "id": "e3d1511e8bcf8bd0",
-    "title": "llmcapa 0.5.12",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-27T11:20:16Z",
-    "url": "https://pypi.org/project/llmcapa/0.5.12/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "08e5b273ade63463",
-    "title": "Sensex tumbles 539 pts, Nifty slips below 24,100 as HDFC Bank, Reliance drag",
-    "source": "Business Standard",
-    "publication_date": "2026-08-27T11:20:15Z",
-    "url": "https://www.business-standard.com/markets/capital-market-news/sensex-tumbles-539-pts-nifty-slips-below-24-100-as-hdfc-bank-reliance-drag-126082700960_1.html",
-    "article_text": "Key benchmark indices extended their losses for the second consecutive session on Thursday, with the Nifty closing below the crucial 24,100 mark as selling in heavyweight stocks dragged the benchmark… [+8786 chars]"
-  },
-  {
-    "id": "30f9ae253db29738",
-    "title": "Runtime Performance Budget CI by Kevin Bjorvand",
-    "source": "Unity.com",
-    "publication_date": "2026-08-27T11:17:09Z",
-    "url": "https://assetstore.unity.com/packages/tools/utilities/runtime-performance-budget-ci-402200",
-    "article_text": "Over 11,000 five-star assets\r\nRated by 85,000+ customers\r\nSupported by 100,000+ forum members\r\nEvery asset moderated by Unity"
-  },
-  {
-    "id": "cf9712d2cb92e294",
-    "title": "Liverpool and Manchester City unveil their third kits for the season",
-    "source": "Onefootball.com",
-    "publication_date": "2026-08-27T11:17:00Z",
-    "url": "https://onefootball.com/en/news/liverpool-and-manchester-city-unveil-their-third-kits-for-the-season-43348235",
-    "article_text": "Liverpool and Manchester City unveiled, on Thursday morning, their third kits for the 2026/2027 season.\r\nLiverpool's shirt, created by adidas, has a predominantly black base, with an abstract burgund… [+943 chars]"
-  },
-  {
-    "id": "4f2fb7942488dc54",
-    "title": "Show HN: Remotevibe – remote coding sessions on your own VPS from your phone",
+    "id": "421c629193d978ac",
+    "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
     "source": "Github.com",
-    "publication_date": "2026-08-27T11:16:53Z",
-    "url": "https://github.com/alediaferia/remotevibe",
-    "article_text": "Start a coding session on your own hardware from your phone.\r\nremotevibe-demo.mp4\r\nOpen a small web app on your iPhone, pick one of your GitHub repos, tap start.\r\nA container on your VPS clones the r… [+14539 chars]"
+    "publication_date": "2026-08-27T22:10:47Z",
+    "url": "https://github.com/elyosh/OpenTIE/",
+    "article_text": "OpenTIE is an open-source reimplementation of Star Wars: TIE Fighter for\r\nWindows, macOS, and Linux. It runs the original game data natively on current\r\nsystems and supports both the 1995 Collector's… [+4635 chars]"
   },
   {
-    "id": "7c29417c3e9aed91",
-    "title": "Four homers power Red Wings past Buffalo",
-    "source": "Rochester Democrat and Chronicle",
-    "publication_date": "2026-08-27T11:16:26Z",
-    "url": "https://www.democratandchronicle.com/story/sports/baseball/minors/2026/08/27/leandro-pineda-powers-rochester-red-wings-past-buffalo-bisons/91486638007/",
-    "article_text": "The Rochester Red Wings blasted four home runs and received seven strong innings from their bullpen in a 6-3 victory over the Buffalo Bisons at ESL Ballpark on Aug. 26. Rochester erased an early defi… [+2258 chars]"
+    "id": "0fbfea2b9a1285a3",
+    "title": "OpenAI Is Developing a 'Persistent' AI Agent",
+    "source": "Slashdot.org",
+    "publication_date": "2026-08-27T22:10:00Z",
+    "url": "https://features.slashdot.org/story/26/08/27/224230/openai-is-developing-a-persistent-ai-agent",
+    "article_text": "Persistent mode appears in Codex's \"reasoning effort\" menu, in which users can select the level of computing power, tokens, and time they want to allow for an AI model to \"think\" before answering a p… [+1448 chars]"
   },
   {
-    "id": "59c2a49cc127d4ee",
-    "title": "\"All of the industry needs to start to innovate on affordability and efficiency\" - Xbox's Asha Sharma wants change and \"more choice\" for people buying consoles",
-    "source": "Eurogamer.net",
-    "publication_date": "2026-08-27T11:16:24Z",
-    "url": "https://www.eurogamer.net/xbox-console-affordability-price-asha-sharma",
-    "article_text": "As component prices balloon, the expectation Microsoft will take a different tack with the next generation of consoles has been reinforced by Xbox boss Asha Sharma, who has declared that \"all of the … [+3665 chars]"
+    "id": "4b3237ee2efaecff",
+    "title": "What’s next for AI and how to get there",
+    "source": "The Next Web",
+    "publication_date": "2026-08-27T22:09:36Z",
+    "url": "https://thenextweb.com/news/whats-next-ai-how-to-get-there",
+    "article_text": "TL;DR\r\nFrontier AI models have converged within 5% of each other (Stanford 2026 AI Index). Gartner predicts 40%+ of agentic AI projects will be canceled by end of 2027. Oxylabs SVP Gediminas Rickevii… [+7778 chars]"
   },
   {
-    "id": "2a81ab42b014e22c",
-    "title": "“My God Nvidia Is Undervalued.” Ross Gerber Says $450 A Share Is Possible",
+    "id": "25f66b1a89fb3fee",
+    "title": "Nvidia said to halt some AI cloud revenue-sharing deals",
     "source": "Biztoc.com",
-    "publication_date": "2026-08-27T11:15:47Z",
-    "url": "https://biztoc.com/x/0db12ad5ca7c1d35",
-    "article_text": "My God Nvidia Is Undervalued. Ross Gerber Says $450 A Share Is Possible.After Nvidia posted one of the largest quarterly profits in corporate history, one wealth manager ran the numbers and came back… [+137 chars]"
+    "publication_date": "2026-08-27T22:09:11Z",
+    "url": "https://biztoc.com/x/b45ec47ca99b32b4",
+    "article_text": "Nvidia Corp. has paused some agreements under a financing program that offered credit support to artificial intelligence (AI) cloud providers in exchange for a share of their revenue, The Wall Street… [+69 chars]"
   },
   {
-    "id": "7748934bc96be857",
-    "title": "Nvidia CEO Jensen Huang 'rips the Band-Aid off' as AI chip giant resets expectations",
-    "source": "Biztoc.com",
-    "publication_date": "2026-08-27T11:15:40Z",
-    "url": "https://biztoc.com/x/f71cbc176c3b3e1e",
-    "article_text": "Nvidia CEO Jensen Huang defended his decision to \"rip the Band-Aid off\" on the companys gross margins as the chip giant continues to power some of the worlds most advanced artificial intelligence mod… [+153 chars]"
+    "id": "66e97d32b8ad3d83",
+    "title": "Human, Beware: The Secrets We Tell AI Chatbots Aren’t Private",
+    "source": "CNET",
+    "publication_date": "2026-08-27T22:08:21Z",
+    "url": "https://www.cnet.com/tech/services-and-software/human-beware-the-secrets-we-tell-ai-chatbots-arent-private/",
+    "article_text": "Are people oversharing sensitive information with AI? Short answer: yes. \r\nA new survey called The AI Privacy Problem by DuckDuckGo Research said about a third of people are sharing secrets with chat… [+7151 chars]"
   },
   {
-    "id": "109ae60cc1988719",
-    "title": "Nvidia Nearing $13 Billion Deal For AI Startup Hugging Face",
-    "source": "Biztoc.com",
-    "publication_date": "2026-08-27T11:15:37Z",
-    "url": "https://biztoc.com/x/01975482979be14e",
-    "article_text": "Nvidia is reportedly close to acquiring the artificial intelligence platform Hugging Face.Nvidia and Hugging Face have held discussions about a $13 billion deal in the last few weeks, according to a … [+140 chars]"
-  },
-  {
-    "id": "f5d1f5d81deede2e",
-    "title": "gitsage-local 0.1.6",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-27T11:14:51Z",
-    "url": "https://pypi.org/project/gitsage-local/0.1.6/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "4cfcd2151336a137",
-    "title": "llm-kelt 0.4.1",
-    "source": "Pypi.org",
-    "publication_date": "2026-08-27T11:13:21Z",
-    "url": "https://pypi.org/project/llm-kelt/0.4.1/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "1e533a10213a6693",
-    "title": "As AI agents go rogue, cyber insurers are adapting their policies",
-    "source": "The Times of India",
-    "publication_date": "2026-08-27T11:12:29Z",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/as-ai-agents-go-rogue-cyber-insurers-are-adapting-their-policies/articleshow/133566365.cms",
-    "article_text": "Cyber insurers have spent years defining what constitutes a hack and when coverage should pay out, but the rapid emergence of AI agents is raising new questions, forcing insurers to review their poli… [+5048 chars]"
-  },
-  {
-    "id": "85b23a2eaf5cdf6a",
-    "title": " BREAKING: Atlético won't sell Julián Álvarez to Barcelona",
+    "id": "a14ad4b4642deb1b",
+    "title": " It's time! Confirmed line-ups for Gre-Nal 453",
     "source": "Onefootball.com",
-    "publication_date": "2026-08-27T11:11:00Z",
-    "url": "https://onefootball.com/en/news/breaking-atletico-wont-sell-julian-alvarez-to-barcelona-43348208",
-    "article_text": "Atlético de Madrid has released a statement outlining its decision.\r\n\"Unanimous support from the Board of Directors for the club's strategy.\r\nThe members of Atlético de Madrid's Board of Directors ha… [+697 chars]"
+    "publication_date": "2026-08-27T22:07:00Z",
+    "url": "https://onefootball.com/en/news/its-time-confirmed-line-ups-for-gre-nal-453-43352434",
+    "article_text": "It's time!\r\nInternacional and Grêmio are lined up.\r\nThe first Gre-Nal of the 2026 Copa do Brasil quarter-finals kicks off at 8pm (Brasília time) this Thursday (27).\r\nBeira-Rio will host the 453rd edi… [+1352 chars]"
   },
   {
-    "id": "8fd6f65124f73c85",
-    "title": "Samsung Introduces New Odyssey Lineup for Fast-Paced Gaming at Gamescom 2026",
-    "source": "Samsung.com",
-    "publication_date": "2026-08-27T11:09:23Z",
-    "url": "https://news.samsung.com/global/samsung-introduces-new-odyssey-lineup-for-fast-paced-gaming-at-gamescom-2026",
-    "article_text": "Samsung Electronics today announced its 2027 Odyssey gaming monitor lineup at Gamescom 2026, the worlds largest gaming event, being held in Cologne, Germany from Aug. 26-30. The new lineup introduces… [+5778 chars]"
-  },
-  {
-    "id": "ce4b5c5ca71d4441",
-    "title": "Why this could be the next big Nvidia stock catalyst, just like it was for Apple",
-    "source": "Yahoo Entertainment",
-    "publication_date": "2026-08-27T11:08:50Z",
-    "url": "https://finance.yahoo.com/markets/stocks/article/dividends-could-be-the-next-big-nvidia-stock-catalyst-just-like-they-were-for-apple-110850043.html",
-    "article_text": "Nvidia (NVDA) being more generous with dividends and stock buybacks could be a nice catalyst for the stock, just as it has been for Apple (AAPL).\r\nThe AI chip darling returned a record $26 billion to… [+2534 chars]"
-  },
-  {
-    "id": "0f2d698466d317f9",
-    "title": "pactkit-codex 2.24.0",
+    "id": "a9b6a05984e01d1e",
+    "title": "verifiers 0.3.2.dev11",
     "source": "Pypi.org",
-    "publication_date": "2026-08-27T11:07:24Z",
-    "url": "https://pypi.org/project/pactkit-codex/2.24.0/",
+    "publication_date": "2026-08-27T22:03:54Z",
+    "url": "https://pypi.org/project/verifiers/0.3.2.dev11/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "e91c159c0c5edeec",
-    "title": "India’s media and entertainment industry set to grow to $36.7 billion by 2030",
-    "source": "Livemint",
-    "publication_date": "2026-08-27T11:07:05Z",
-    "url": "https://www.livemint.com/industry/media/india-media-entertainment-industry-growth-2030-pwc-11787821592307.html",
-    "article_text": "Indias entertainment and media market is projected to grow at nearly twice the pace of the global industry through 2030, with digital advertising, OTT and gaming expected to drive much of the expansi… [+4325 chars]"
+    "id": "b0700874f002aeed",
+    "title": "Tampa General Hospital Secures Funding to Establish Center for Lymphatic Education and Research",
+    "source": "PRNewswire",
+    "publication_date": "2026-08-27T22:02:00Z",
+    "url": "https://www.prnewswire.com/news-releases/tampa-general-hospital-secures-funding-to-establish-center-for-lymphatic-education-and-research-302862312.html",
+    "article_text": "Backed by new funding through the University of South Florida, the Center for Lymphatic Education and Research will unite clinicians, scientists and educators to advance treatment, awareness and inno… [+8399 chars]"
   },
   {
-    "id": "29507cae917ec24d",
-    "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, reports",
-    "source": "Fortune",
-    "publication_date": "2026-08-27T11:05:22Z",
-    "url": "https://fortune.com/2026/08/27/nvidia-hugging-face-billion-dollar-deal-open-source-ai/",
-    "article_text": "Nvidia is buying AI company Hugging Face for $12.9 billion, according to a report in tech publication The Information. The deal would give Nvidia a major foothold in open-source AI at a moment when o… [+3535 chars]"
+    "id": "91055329f09301ea",
+    "title": "My Nvidia Shield TV Pro worked much better after I changed these key settings",
+    "source": "XDA Developers",
+    "publication_date": "2026-08-27T22:00:15Z",
+    "url": "https://www.xda-developers.com/my-nvidia-shield-tv-pro-worked-much-better-after-i-changed-these-settings/",
+    "article_text": "Released in 2019, the Nvidia Shield TV Pro remains a top-tier Android TV box for streaming, Plex server use, and AI-enhanced upscaling). However, the seven-year-old box is getting a bit old, and some… [+5291 chars]"
   },
   {
-    "id": "076fc61a9d972524",
-    "title": "World stocks steady as Nvidia outlook boosts tech shares",
+    "id": "8ce8bc0f914561a9",
+    "title": "DoE Begins Tests for Fracked Geothermal",
+    "source": "OilPrice.com",
+    "publication_date": "2026-08-27T22:00:00Z",
+    "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/DoE-Begins-Tests-for-Fracked-Geothermal.html",
+    "article_text": "Artificial Intelligence is significantly advancing…\r\nEnhanced geothermal systems are poised…\r\nFervo cuts well drilling time…\r\nBy Irina Slav - Aug 27, 2026, 5:00 PM CDTThe Trump administration is no f… [+4079 chars]"
+  },
+  {
+    "id": "e2be2252dceffe81",
+    "title": "Anthropic and OpenAI revenue growth accelerates in 2026 as combined ARR tops $115 billion",
     "source": "Crypto Briefing",
-    "publication_date": "2026-08-27T11:05:07Z",
-    "url": "https://cryptobriefing.com/nvidia-outlook-boosts-world-stocks/",
-    "article_text": "Nvidia's $96.2 billion quarter and jaw-dropping fiscal 2028 guidance inject fresh momentum into global equities Nvidia just posted a quarter that made even the most optimistic Wall Street estimates l… [+2591 chars]"
+    "publication_date": "2026-08-27T21:59:41Z",
+    "url": "https://cryptobriefing.com/anthropic-openai-revenue-growth-2026/",
+    "article_text": "Both AI giants are posting jaw-dropping quarterly numbers as enterprise adoption of coding and agent tools fuels a growth trajectory that shows no signs of slowing Anthropic’s annualized recurring re… [+1606 chars]"
   },
   {
-    "id": "ffe9e8c16ff780c6",
-    "title": "Open Channels FM: X vs Nitter and XCancel, AI Middleware, and Accelerated Online College Degrees",
-    "source": "Openchannels.fm",
-    "publication_date": "2026-08-27T11:05:00Z",
-    "url": "https://openchannels.fm/x-vs-nitter-and-xcancel-ai-middleware-and-accelerated-online-college-degrees/",
-    "article_text": "Robert Jacobi:\r\nHello and welcome to OCN, the Open Channels News Broadcast. I’m Robert Jacobi, your host. We lead today with open source. X goes after Nitter.\r\nOur first story comes from The Register… [+6808 chars]"
+    "id": "df2aea647b6e89da",
+    "title": "vaultspec-rag 0.4.7",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-27T21:59:13Z",
+    "url": "https://pypi.org/project/vaultspec-rag/0.4.7/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "4448077476edb29e",
-    "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-    "source": "Krebs on Security",
-    "publication_date": "2026-08-27T11:04:15Z",
-    "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-    "article_text": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply c… [+24302 chars]"
+    "id": "8402cf1ab74802f0",
+    "title": "Meta Tests Hatch AI Assistant That Can Fill Out Forms and Buy Products",
+    "source": "pymnts.com",
+    "publication_date": "2026-08-27T21:59:00Z",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/meta-tests-hatch-ai-assistant-can-fill-out-forms-buy-products/",
+    "article_text": "Metas upcoming artificial intelligence assistant, known in-house as Hatch, can fill out forms, buy things, perform deep research and do anything you can do online, the company said in an internal mem… [+2010 chars]"
   },
   {
-    "id": "0c0a7d27cdb536c4",
-    "title": "Ontario mental health providers stretched thin ahead of return to school",
-    "source": "CBC News",
-    "publication_date": "2026-08-27T11:03:38Z",
-    "url": "https://www.cbc.ca/news/canada/toronto/ontario-youth-mental-health-overstretched-9.7322346",
-    "article_text": "While some students are eager to return to class after a summer of freedom, others face a torrent of anxiety.\r\nWhether it's struggles in the classroom or trouble navigating social relationships, the … [+6213 chars]"
+    "id": "84cf85562ecd27c3",
+    "title": "basemode 0.1.32",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-27T21:57:25Z",
+    "url": "https://pypi.org/project/basemode/0.1.32/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "426de834e38cb745",
-    "title": "The Identity Crisis No One Planned For: Governing Non-Human Agents at Enterprise Scale",
-    "source": "Oreilly.com",
-    "publication_date": "2026-08-27T11:03:01Z",
-    "url": "https://www.oreilly.com/radar/the-identity-crisis-no-one-planned-for-governing-non-human-agents-at-enterprise-scale/#BlogPosting",
-    "article_text": "For a decade, identity and access management meant one thing: governing the humans who log in. Employee joins, gets provisioned, gets a manager, gets a departure date, gets offboarded. That loop is w… [+7735 chars]"
+    "id": "dc3d18db9e808f8c",
+    "title": "INVESTOR ALERT: Pomerantz Law Firm Reminds Investors with Losses on their Investment in Blaize Holdings, Inc. of Class Action Lawsuit and Upcoming Deadlines - BZAI",
+    "source": "PRNewswire",
+    "publication_date": "2026-08-27T21:57:00Z",
+    "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-blaize-holdings-inc-of-class-action-lawsuit-and-upcoming-deadlines--bzai-302862285.html",
+    "article_text": "NEW YORK, Aug. 27, 2026 /PRNewswire/ -- Pomerantz LLP announces that a class action lawsuit has been filed against Blaize Holdings, Inc. (\"Blaize\" or the \"Company\") (NASDAQ: BZAI).  Such investors ar… [+2427 chars]"
   },
   {
-    "id": "a83ed34e9a7558fa",
-    "title": "Meta reaches $17B settlement. And, nuclear regulator to abandon radiation safety rule",
-    "source": "NPR",
-    "publication_date": "2026-08-27T11:02:41Z",
-    "url": "https://www.npr.org/2026/08/27/g-s1-140414/up-first-newsletter-meta-settlement-mail-in-voting-nrc-regulations-nepal-tibet-flooding",
-    "article_text": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+7183 chars]"
+    "id": "932644510d162030",
+    "title": "glq 0.8.10",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-27T21:55:03Z",
+    "url": "https://pypi.org/project/glq/0.8.10/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "f517b958623d7a1c",
-    "title": "Georgia Power’s supply contract with OpenAI gets regulatory nod",
+    "id": "881152548502952f",
+    "title": "Trump praises Nvidia after record revenue",
     "source": "Biztoc.com",
-    "publication_date": "2026-08-27T11:02:03Z",
-    "url": "https://biztoc.com/x/57ef18f1120d2412",
-    "article_text": "The Georgia Public Service Commission (PSC) has granted regulatory approval for Georgia Power's agreement to supply electricity to OpenAI's forthcoming project in Effingham County, Georgia, US.The re… [+148 chars]"
+    "publication_date": "2026-08-27T21:54:15Z",
+    "url": "https://biztoc.com/x/4bdee0fb9b4684ce",
+    "article_text": "United States President Donald Trump praised Nvidia Corp. and CEO Jensen Huang after the chipmaker reported record revenue of $96.22 billion.Trump also highlighted Nvidia's forecast for a 70% increas… [+69 chars]"
   },
   {
-    "id": "f8d9acde12b9f08c",
-    "title": "Here's how Nvidia quickly silenced the bears",
+    "id": "38183cee0c6e6904",
+    "title": "Nvidia Roared. Why Didn’t All AI Stocks?",
     "source": "Biztoc.com",
-    "publication_date": "2026-08-27T11:02:03Z",
-    "url": "https://biztoc.com/x/e432ecb5d00ede35",
-    "article_text": "With Nvidia's (NVDA) stock stuck in neutral for the better part of the summer as investors have fretted about peak AI, the chip darling decided to take one swift measure to silence the naysayers.The … [+142 chars]"
+    "publication_date": "2026-08-27T21:54:15Z",
+    "url": "https://biztoc.com/x/8acfdd048025ea47",
+    "article_text": "Nvidias blowout earnings the Messy Middle of AI tariffs an AI thrift-store play from Eric FryYesterday afternoon, all eyes were on Nvidia (NVDA). Would the chip giant report earnings that lived up to… [+143 chars]"
   },
   {
-    "id": "b6d179fa13e4a797",
-    "title": "POLL OF THE DAY: Is AI a threat to humanity, as Bill Gates claims?",
-    "source": "Dailymail.com",
-    "publication_date": "2026-08-27T11:01:57Z",
-    "url": "https://www.dailymail.com/news/article-16083579/Poll-AI-threat-humanity-Bill-Gates-claims.html",
-    "article_text": "Bill Gates has issued a chilling warning about the global terror artificial intelligence could unleash.\r\nThe billionaire Microsoft co-founder warned the AI era will be deeply turbulent, could cost mi… [+850 chars]"
+    "id": "be90a0a7cfa19a7e",
+    "title": "Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-27T21:54:03Z",
+    "url": "https://biztoc.com/x/cf601b79646b6cac",
+    "article_text": "The company is rethinking the program less than two months after announcing it.\r\nThis story appeared on wsj.com, 2026-08-27 21:46:00."
   },
   {
-    "id": "5f79b45ba140b40f",
-    "title": "Best Buy tops quarterly estimates, raises outlook as computing shows strength",
-    "source": "CNBC",
-    "publication_date": "2026-08-27T11:01:05Z",
-    "url": "https://www.cnbc.com/2026/08/27/best-buy-bby-q2-2027-earnings.html",
-    "article_text": "Best Buy on Thursday reported better-than-expected fiscal second-quarter results and raised its full-year outlook as the company's recovery showed more signs of taking hold. \r\nThe consumer electronic… [+2893 chars]"
+    "id": "4e41092b35edfcd8",
+    "title": "100 Million Users Will Start Seeing Ads in ChatGPT. OpenAI Says Answers Won’t Change",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-27T21:53:57Z",
+    "url": "https://biztoc.com/x/780b75c8e6552c79",
+    "article_text": "According to a report, the startup will soon start showing ads for 50 brands through partnerships with well-known agencies.\r\nThis story appeared on inc.com, 2026-08-27 21:26:33."
+  },
+  {
+    "id": "e7630162e61fa012",
+    "title": "\"Most Jobs Will Disappear Forever\": Bill Gates Calls For Taxes On AI And Robots To Protect Jobs For Humans",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-27T21:53:47Z",
+    "url": "https://biztoc.com/x/819a975d21a7293f",
+    "article_text": "\"Most Jobs Will Disappear Forever\": Bill Gates Calls For Taxes On AI And Robots To Protect Jobs For Humans\r\nAuthored by Tom Gantert via The Epoch Times,Microsoft cofounder Bill Gates warned Wednesday… [+136 chars]"
+  },
+  {
+    "id": "6079f9e9f0169613",
+    "title": "context-gen-cli added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-27T21:53:12Z",
+    "url": "https://pypi.org/project/context-gen-cli/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "78fd7a39c18f5fa0",
+    "title": "Nvidia Fuels AI Trade, Warsh Countdown | Bloomberg Businessweek Daily 8/27/2026",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-27T21:52:09Z",
+    "url": "https://biztoc.com/x/0bb7fc9f3ebf1fab",
+    "article_text": "Nvidia's blockbuster earnings report spurred a rally in tech stocks, bolstering confidence once more in the AI trade that has ...\r\nThis story appeared on youtube.com, 2026-08-27 21:16:16."
+  },
+  {
+    "id": "266ecedfc8e1349c",
+    "title": "Australia faces 'sliding doors' moment to turn AI boom into local wealth",
+    "source": "ABC News (AU)",
+    "publication_date": "2026-08-27T21:51:40Z",
+    "url": "https://www.abc.net.au/news/2026-08-28/ai-companies-want-to-leverage-australian-data-centres/107086534",
+    "article_text": "Christopher Sampson had to take his Australian artificial intelligence (AI) startup overseas before customers at home would take it seriously.\r\nFor Michael Gately, scaling up his AI company from Aust… [+6880 chars]"
+  },
+  {
+    "id": "7e201d90ec0e34f8",
+    "title": "Nvidia launches revenue-sharing agreements with AI cloud providers",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-08-27T21:51:15Z",
+    "url": "https://cryptobriefing.com/nvidia-halts-revenue-sharing-ai-cloud/",
+    "article_text": "The chipmaker is reportedly stepping back from a model that gave smaller AI cloud companies GPU access in exchange for a cut of their revenue. Nvidia is pulling the plug on revenue-sharing arrangemen… [+2030 chars]"
+  },
+  {
+    "id": "b812c12e61239ddc",
+    "title": "headroom-ai 0.37.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-27T21:50:58Z",
+    "url": "https://pypi.org/project/headroom-ai/0.37.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "d7f015b92dcf7066",
+    "title": "How Inbound Marketing Is Changing in the Age of AI",
+    "source": "Ducttapemarketing.com",
+    "publication_date": "2026-08-27T21:50:52Z",
+    "url": "https://ducttapemarketing.com/how-inbound-marketing-is-changing-in-the-age-of-ai/",
+    "article_text": "John Jantsch (00:01.24)\r\nSo, what if the same people that taught millions of businesses to build marketing funnels to generate inbound leads admitted maybe some of that's dead because they're the one… [+25125 chars]"
+  },
+  {
+    "id": "e1a5bc53f46e061f",
+    "title": "AI at Catholic colleges: Institutions map policies guided by Magnifica Humanitas",
+    "source": "Ewtnnews.com",
+    "publication_date": "2026-08-27T21:47:17Z",
+    "url": "https://www.ewtnnews.com/world/us/ai-catholic-colleges-guided-magnifica-humanitas",
+    "article_text": "Newman Guide institutions are shaping their classroom approach to rapidly evolving artificial intelligence through Pope Leo XIVs encyclical Magnifica Humanitas, emphasizing human dignity and guarding… [+6791 chars]"
+  },
+  {
+    "id": "b34ca6dfe4254569",
+    "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+    "source": "Github.com",
+    "publication_date": "2026-08-27T21:46:39Z",
+    "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+    "article_text": "Learn the applied-LLM stack the way you'll actually be interviewed on it \r\nframework-free, on a free API, from prompting all the way to serving, fine-tuning,\r\nand a red-team benchmark.\r\nRunnable Cola… [+4954 chars]"
+  },
+  {
+    "id": "075c4ebfab5a375a",
+    "title": "Kevin Durant’s $250K Bet Could Be Worth $60M",
+    "source": "The Comeback",
+    "publication_date": "2026-08-27T21:46:12Z",
+    "url": "https://thecomeback.com/nba/kevin-durant-investment-hugging-face-turns-into-millions.html",
+    "article_text": "Rockets star forward Kevin Durant is one of the most prolific basketball players in NBA history. In his 18-year NBA career, he has accumulated several accolades that attest to his legacy. Durant has … [+1899 chars]"
+  },
+  {
+    "id": "5c6600292d21776d",
+    "title": "Adobe Photoshop Adds a Whole New AI Editing Mode",
+    "source": "CNET",
+    "publication_date": "2026-08-27T21:45:36Z",
+    "url": "https://www.cnet.com/tech/services-and-software/adobe-photoshop-adds-a-whole-new-ai-editing-mode/",
+    "article_text": "Adobe is giving Photoshop users more AI tools for their work belt. A new feature called AI Assisted Editor lets you do a variety of things with your images using merely natural language prompts. It’s… [+3027 chars]"
+  },
+  {
+    "id": "6bf56b95d0817d80",
+    "title": "Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI",
+    "source": "Fb.com",
+    "publication_date": "2026-08-27T21:44:08Z",
+    "url": "https://about.fb.com/news/2026/08/closed-loop-cooling-explained-the-plumbing-behind-metas-ai/",
+    "article_text": "One of the consequences of the AI boom is that cooling servers has become a serious engineering challenge.\r\nThe more powerful the AI hardware becomes, the more heat it generates during operation. And… [+6926 chars]"
+  },
+  {
+    "id": "67b8b98df20ffd22",
+    "title": "Tech giants urge global response to AI cybersecurity threats",
+    "source": "DW (English)",
+    "publication_date": "2026-08-27T21:44:00Z",
+    "url": "https://www.dw.com/en/ai-companies-cybersecurity-threats-open-letter/a-78538592",
+    "article_text": "More than 100 companies, including AI giants OpenAI, Anthropic, Google and Perplexity, have signed an open letter calling for a global effort to strengthen AI-powered cybersecurity threats.\r\n\"We have… [+2397 chars]"
+  },
+  {
+    "id": "c6f49679b229070b",
+    "title": "MSI Cyborg 15.6 Inch 144Hz Gaming Laptop, Intel Core 5 210H, NVIDIA GeForce RTX 5060, 16GB RAM, 512GB SSD (2026) (Software Offer with Purchase) $950 + Free Shipping (1 replies)",
+    "source": "Slickdeals.net",
+    "publication_date": "2026-08-27T21:43:01Z",
+    "url": "https://slickdeals.net/f/19935063-msi-cyborg-15-6-inch-144hz-gaming-laptop-intel-core-5-210h-nvidia-geforce-rtx-5060-16gb-ram-512gb-ssd-2026-software-offer-with-purchase-950-free-shipping",
+    "article_text": "MSI Cyborg 15.6 Inch 144Hz Gaming Laptop, Intel Core 5 210H, NVIDIA GeForce RTX 5060, 16GB RAM, 512GB SSD (2026) (Software Offer with Purchase)Sold and Shipped by Walmart\r\nKey item features\r\nPowerful… [+462 chars]"
   }
 ]
