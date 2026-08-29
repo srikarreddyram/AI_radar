@@ -1,0 +1,1394 @@
+[
+  {
+    "id": "b42ac281ecaf56c0",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "source": "OpenAI Blog",
+    "publication_date": "Fri, 28 Aug 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "article_text": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
+  },
+  {
+    "id": "cb1db0d5c74b6e9e",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "source": "OpenAI Blog",
+    "publication_date": "Fri, 28 Aug 2026 02:00:00 GMT",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "article_text": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
+  },
+  {
+    "id": "5c8d75ef9c12c059",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "source": "OpenAI Blog",
+    "publication_date": "Thu, 27 Aug 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "article_text": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
+  },
+  {
+    "id": "fe23f369e01db08d",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "source": "OpenAI Blog",
+    "publication_date": "Thu, 27 Aug 2026 03:00:00 GMT",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "article_text": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
+  },
+  {
+    "id": "832a12c8f33a104e",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "source": "OpenAI Blog",
+    "publication_date": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/learning-never-stops",
+    "article_text": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
+  },
+  {
+    "id": "fa2791fbc9af008f",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "source": "OpenAI Blog",
+    "publication_date": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "article_text": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
+  },
+  {
+    "id": "34e62ff4c7cf4def",
+    "title": "The Hugging Face incident and the road ahead",
+    "source": "OpenAI Blog",
+    "publication_date": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "article_text": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment."
+  },
+  {
+    "id": "76c95cd852987031",
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "source": "OpenAI Blog",
+    "publication_date": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/loveholidays",
+    "article_text": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
+  },
+  {
+    "id": "51cfe3db04ed0bd3",
+    "title": "The full stack behind abundant intelligence",
+    "source": "OpenAI Blog",
+    "publication_date": "Tue, 25 Aug 2026 07:05:00 GMT",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "article_text": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
+  },
+  {
+    "id": "b9406ae170bd9133",
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "source": "OpenAI Blog",
+    "publication_date": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "article_text": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
+  },
+  {
+    "id": "62003111f3b592c5",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "source": "OpenAI Blog",
+    "publication_date": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "article_text": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
+  },
+  {
+    "id": "33eae878317d27dc",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "source": "OpenAI Blog",
+    "publication_date": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "article_text": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
+  },
+  {
+    "id": "abd52c9f1dde403e",
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "source": "OpenAI Blog",
+    "publication_date": "Mon, 24 Aug 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "article_text": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
+  },
+  {
+    "id": "68bd2e32c09542cb",
+    "title": "Introducing Intelligence Age",
+    "source": "OpenAI Blog",
+    "publication_date": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/introducing-intelligence-age",
+    "article_text": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
+  },
+  {
+    "id": "fc1a9abd82b35a9c",
+    "title": "Introducing Intelligence Age",
+    "source": "OpenAI Blog",
+    "publication_date": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "article_text": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
+  },
+  {
+    "id": "ad89fb510e3c78c2",
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "source": "OpenAI Blog",
+    "publication_date": "Thu, 20 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/stampli",
+    "article_text": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+  },
+  {
+    "id": "df8f12302a5b421a",
+    "title": "Offering Zero Data Retention for frontier models",
+    "source": "OpenAI Blog",
+    "publication_date": "Wed, 19 Aug 2026 19:00:00 GMT",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "article_text": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+  },
+  {
+    "id": "2f00013902a29bc1",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "source": "OpenAI Blog",
+    "publication_date": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/replit",
+    "article_text": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
+  },
+  {
+    "id": "8393c843a171d723",
+    "title": "ChatGPT Ads expands across Europe",
+    "source": "OpenAI Blog",
+    "publication_date": "Tue, 18 Aug 2026 22:00:00 GMT",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "article_text": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
+  },
+  {
+    "id": "f0aa91974e0ad6ca",
+    "title": "Strengthening democratic oversight in national security",
+    "source": "OpenAI Blog",
+    "publication_date": "Tue, 18 Aug 2026 19:00:00 GMT",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "article_text": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
+  },
+  {
+    "id": "74b1125af8681de1",
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "source": "Google DeepMind",
+    "publication_date": "Thu, 27 Aug 2026 16:11:32 +0000",
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "article_text": ""
+  },
+  {
+    "id": "71c43cf780d371ee",
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "source": "Google DeepMind",
+    "publication_date": "Thu, 27 Aug 2026 12:59:16 +0000",
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "article_text": "Piloting the world's first double-blind AI evaluations"
+  },
+  {
+    "id": "ac6eb9276806c2f8",
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "source": "Google DeepMind",
+    "publication_date": "Wed, 26 Aug 2026 17:01:00 +0000",
+    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "article_text": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
+  },
+  {
+    "id": "835a331a5b20ce16",
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "source": "Google DeepMind",
+    "publication_date": "Fri, 21 Aug 2026 11:59:48 +0000",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "article_text": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+  },
+  {
+    "id": "43643a3dd841363b",
+    "title": "Introducing Gemini 3.7 Flash",
+    "source": "Google DeepMind",
+    "publication_date": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "article_text": ""
+  },
+  {
+    "id": "1357a9ae7911e1d5",
+    "title": "Putting sign language AI into users’ hands",
+    "source": "Google DeepMind",
+    "publication_date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "article_text": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+  },
+  {
+    "id": "1986eab2e2ed84ba",
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "source": "Google DeepMind",
+    "publication_date": "Thu, 06 Aug 2026 15:06:15 +0000",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "article_text": ""
+  },
+  {
+    "id": "614d79e4a866af7d",
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "source": "Google DeepMind",
+    "publication_date": "Thu, 30 Jul 2026 15:00:59 +0000",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "article_text": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
+  },
+  {
+    "id": "05b5e14c97505dcc",
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "source": "Google DeepMind",
+    "publication_date": "Wed, 29 Jul 2026 16:02:10 +0000",
+    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "article_text": ""
+  },
+  {
+    "id": "42a1992e4b242ffc",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "source": "Google DeepMind",
+    "publication_date": "Tue, 28 Jul 2026 13:21:37 +0000",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "article_text": ""
+  },
+  {
+    "id": "a821810ee2b72f16",
+    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "source": "Google DeepMind",
+    "publication_date": "Wed, 22 Jul 2026 13:38:54 +0000",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "article_text": "Google commits $40M in AI tokens and credits for the Genesis Mission"
+  },
+  {
+    "id": "e38a2bc2474832f2",
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "source": "Google DeepMind",
+    "publication_date": "Tue, 21 Jul 2026 15:16:30 +0000",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "article_text": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
+  },
+  {
+    "id": "b5de177ccc831b45",
+    "title": "Introducing Gemini 3.5 Flash Cyber",
+    "source": "Google DeepMind",
+    "publication_date": "Fri, 17 Jul 2026 15:00:11 +0000",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "article_text": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities."
+  },
+  {
+    "id": "53ad893ddb18c2e1",
+    "title": "Our approach to bioresilience",
+    "source": "Google DeepMind",
+    "publication_date": "Thu, 16 Jul 2026 09:30:42 +0000",
+    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "article_text": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
+  },
+  {
+    "id": "13f77bbb5cb94408",
+    "title": "Empowering India’s next generation of innovators with ATL Saathi",
+    "source": "Google DeepMind",
+    "publication_date": "Mon, 13 Jul 2026 12:37:28 +0000",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "article_text": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
+  },
+  {
+    "id": "f6b3f809726c47bb",
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "source": "Google DeepMind",
+    "publication_date": "Fri, 03 Jul 2026 14:25:43 +0000",
+    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "article_text": ""
+  },
+  {
+    "id": "270bf5aff18a95d1",
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "source": "Google DeepMind",
+    "publication_date": "Tue, 30 Jun 2026 16:02:40 +0000",
+    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "article_text": ""
+  },
+  {
+    "id": "172fd12b4fe6c6e0",
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "source": "Google DeepMind",
+    "publication_date": "Wed, 24 Jun 2026 16:30:01 +0000",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "article_text": ""
+  },
+  {
+    "id": "334cabed9c982aa6",
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "source": "Google DeepMind",
+    "publication_date": "Tue, 16 Jun 2026 21:29:50 +0000",
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "article_text": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
+  },
+  {
+    "id": "45bc33c734d049b3",
+    "title": "Securing the future of AI agents",
+    "source": "Google DeepMind",
+    "publication_date": "Tue, 16 Jun 2026 15:46:31 +0000",
+    "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "article_text": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring."
+  },
+  {
+    "id": "ca1c781736e147b0",
+    "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
+    "source": "NVIDIA Blog",
+    "publication_date": "Thu, 27 Aug 2026 13:00:33 +0000",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
+    "article_text": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology controls give members more ways to fine-tune gameplay, while expanded support for new Steam devices, GOG single sign-on, Firefox browser [&#8230;]"
+  },
+  {
+    "id": "d9edb0555aca346a",
+    "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
+    "source": "NVIDIA Blog",
+    "publication_date": "Thu, 27 Aug 2026 13:00:17 +0000",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+    "article_text": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale."
+  },
+  {
+    "id": "a50e18aa16c5d023",
+    "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+    "source": "NVIDIA Blog",
+    "publication_date": "Wed, 26 Aug 2026 21:05:30 +0000",
+    "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+    "article_text": "The next wave of AI is placing new demands on infrastructure.  As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation [&#8230;]"
+  },
+  {
+    "id": "cd140ce3164a9cce",
+    "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+    "source": "NVIDIA Blog",
+    "publication_date": "Tue, 25 Aug 2026 15:30:48 +0000",
+    "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
+    "article_text": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality.  Electronic Arts, Embark and Ubisoft are among the latest game publishers and developers bringing their blockbuster titles to NVIDIA RTX Spark ahead of its launch [&#8230;]"
+  },
+  {
+    "id": "f21b782b05987822",
+    "title": "How XPUs Meet a World-Class AI Factory",
+    "source": "NVIDIA Blog",
+    "publication_date": "Mon, 24 Aug 2026 15:00:54 +0000",
+    "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
+    "article_text": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscalers and AI-native companies building custom XPUs must consider [&#8230;]"
+  },
+  {
+    "id": "b4d239e1cc10ea77",
+    "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+    "source": "NVIDIA Blog",
+    "publication_date": "Mon, 24 Aug 2026 15:00:41 +0000",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+    "article_text": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system NVIDIA Groq [&#8230;]"
+  },
+  {
+    "id": "79a0646933911189",
+    "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+    "source": "NVIDIA Blog",
+    "publication_date": "Mon, 24 Aug 2026 15:00:19 +0000",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+    "article_text": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why?  Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer comparisons and model valuations, then synthesizes everything into a [&#8230;]"
+  },
+  {
+    "id": "0557db4024a130d0",
+    "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+    "source": "NVIDIA Blog",
+    "publication_date": "Thu, 20 Aug 2026 13:00:24 +0000",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+    "article_text": "It’s a new way into the cloud.  GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or everyday PC, it’s now even easier to play supported PC games without downloading a dedicated app. Plus, discover [&#8230;]"
+  },
+  {
+    "id": "efd3807b91878640",
+    "title": "Securing the Infrastructure of Intelligence",
+    "source": "NVIDIA Blog",
+    "publication_date": "Mon, 17 Aug 2026 12:34:51 +0000",
+    "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+    "article_text": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory and networking — as well as land, power and [&#8230;]"
+  },
+  {
+    "id": "b7aa33db77b78eeb",
+    "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+    "source": "NVIDIA Blog",
+    "publication_date": "Fri, 14 Aug 2026 17:13:05 +0000",
+    "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+    "article_text": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of [&#8230;]"
+  },
+  {
+    "id": "57077a078bea401a",
+    "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
+    "source": "NVIDIA Blog",
+    "publication_date": "Thu, 13 Aug 2026 13:00:33 +0000",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
+    "article_text": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is also delivering new cloud optimizations that make Frame Generation feel even more responsive while streaming. On top of that, Performance members will see higher frame [&#8230;]"
+  },
+  {
+    "id": "ccb8d606b747f3e0",
+    "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+    "source": "NVIDIA Blog",
+    "publication_date": "Wed, 12 Aug 2026 14:00:00 +0000",
+    "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+    "article_text": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best — employees. Huang topped the list, with 99% of employees approving of the job he does. “As AI and shifting expectations [&#8230;]"
+  },
+  {
+    "id": "90efa435138feda2",
+    "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+    "source": "NVIDIA Blog",
+    "publication_date": "Wed, 12 Aug 2026 00:38:21 +0000",
+    "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+    "article_text": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies [&#8230;]"
+  },
+  {
+    "id": "38a0519a43d4c8dc",
+    "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+    "source": "NVIDIA Blog",
+    "publication_date": "Tue, 11 Aug 2026 15:00:06 +0000",
+    "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+    "article_text": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how power gets from the grid to the GPU.  In traditional power delivery, electricity travels from the grid as an alternating current (AC) [&#8230;]"
+  },
+  {
+    "id": "82a1b397d389adf8",
+    "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+    "source": "NVIDIA Blog",
+    "publication_date": "Tue, 11 Aug 2026 13:00:25 +0000",
+    "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+    "article_text": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally.  Throughout August, NVIDIA is celebrating the partners and open source communities moving local AI forward, along with the models, applications and tools emerging across the ecosystem. That includes NVIDIA’s latest open models, software [&#8230;]"
+  },
+  {
+    "id": "a8ba0b0ace9187db",
+    "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+    "source": "NVIDIA Blog",
+    "publication_date": "Tue, 11 Aug 2026 13:00:05 +0000",
+    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "article_text": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves. Today, NVIDIA is expanding its Nemotron 3 model family with Nemotron 3.5 Lightning, the highest-efficiency model in its class for long-running agentic AI workloads. This release follows Nemotron [&#8230;]"
+  },
+  {
+    "id": "d31b6f14f3727b96",
+    "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+    "source": "NVIDIA Blog",
+    "publication_date": "Sat, 08 Aug 2026 10:24:54 +0000",
+    "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
+    "article_text": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure.  Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy [&#8230;]"
+  },
+  {
+    "id": "9f10ae9fb17a40a7",
+    "title": "GeForce NOW Shakes Up August With 26 New Games",
+    "source": "NVIDIA Blog",
+    "publication_date": "Thu, 06 Aug 2026 13:00:11 +0000",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
+    "article_text": "August is here, bringing 26 new games for GeForce NOW members.  Command the seas in World of Warships: Legends and discover what’s next in the GeForce NOW library, starting with the eight newly added games this week.  In addition, GeForce NOW is at the QuakeCon gaming conference this week in Grapevine, Texas, with hands-on experiences [&#8230;]"
+  },
+  {
+    "id": "a3c9722a85987756",
+    "title": "Batch write and discover records in Amazon SageMaker Feature Store",
+    "source": "AWS ML Blog",
+    "publication_date": "Fri, 28 Aug 2026 19:31:05 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
+    "article_text": "Amazon SageMaker Feature Store now supports two new APIs: BatchWriteRecord writes up to 25 records across multiple feature groups in a single call, and ListRecords enumerates record identifiers within a feature group. In this post, we walk through each API with code examples you can use to get started."
+  },
+  {
+    "id": "ea803b9ee6deab91",
+    "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
+    "source": "AWS ML Blog",
+    "publication_date": "Fri, 28 Aug 2026 16:22:30 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/",
+    "article_text": "Decathlon, one of the world's largest sporting goods retailers, forecasts weekly demand for tens of thousands of products across multiple continents. Learn how they deployed Chronos-2 on AWS to improve forecast accuracy by 11-15 points while cutting operational complexity and running weekly inference for about $0.03 on CPU-only instances."
+  },
+  {
+    "id": "1484132ab400f439",
+    "title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
+    "source": "AWS ML Blog",
+    "publication_date": "Fri, 28 Aug 2026 16:20:40 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/",
+    "article_text": "Learn how Salesforce used Amazon SageMaker AI Inference Component placement (the SchedulingConfig parameter) to distribute model copies across multiple Availability Zones, meeting their Multi-AZ high availability compliance requirements without sacrificing the cost efficiency of multi-model co-hosting."
+  },
+  {
+    "id": "7b6a04d9ab01084f",
+    "title": "Build agentic creative workflows with Amazon Quick and fal",
+    "source": "AWS ML Blog",
+    "publication_date": "Thu, 27 Aug 2026 23:04:22 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/",
+    "article_text": "Creative teams produce more assets than ever, but fragmented tools and manual context transfer slow production. This post shows how to build a reusable agent harness with Amazon Quick and fal, connected through the Model Context Protocol (MCP), using two hands-on workflows: an eight-panel storyboard and a music-video concept prototype."
+  },
+  {
+    "id": "b35d4ed4faf2f81c",
+    "title": "Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India",
+    "source": "AWS ML Blog",
+    "publication_date": "Thu, 27 Aug 2026 18:36:08 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india/",
+    "article_text": "Amazon Bedrock now supports the OpenAI GPT-5.6 models, Terra and Luna, in India with India geographic cross-Region inference. If you have local data processing requirements, you can now use these models at scale while Amazon Bedrock keeps inference requests and data within India."
+  },
+  {
+    "id": "7e859ed239e0515d",
+    "title": "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics",
+    "source": "AWS ML Blog",
+    "publication_date": "Thu, 27 Aug 2026 16:11:27 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/",
+    "article_text": "Self-hosted speech AI carries an observability trade-off: the numbers that drive capacity planning and cost management stay locked inside the vendor container. Deepgram closes that gap on Amazon SageMaker AI with two capabilities that land billing, usage, and per-GPU metrics directly in your own Amazon CloudWatch account."
+  },
+  {
+    "id": "e53c571ad5ed324f",
+    "title": "Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
+    "source": "AWS ML Blog",
+    "publication_date": "Thu, 27 Aug 2026 16:05:10 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/",
+    "article_text": "Serving automatic speech recognition (ASR) models at scale is costly when each request uses only a fraction of a GPU. Learn how NVIDIA CUDA Multi-Process Service (MPS) with NVIDIA Triton Inference Server on Amazon EC2 GPU instances cuts GPU infrastructure by 75% while holding sub-second latency at 92.1 requests per second per GPU."
+  },
+  {
+    "id": "aff445d3536e5b8c",
+    "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
+    "source": "AWS ML Blog",
+    "publication_date": "Wed, 26 Aug 2026 19:13:35 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/",
+    "article_text": "Amazon Bedrock AgentCore Evaluations decouples agent evaluation from the framework you build on. As long as your agent emits OpenTelemetry telemetry, the service can score it, whether you use LangGraph, LlamaIndex, the OpenAI Agents SDK, Google ADK, the Claude Agent SDK, or Strands Agents. This post explains how the framework-agnostic contract works."
+  },
+  {
+    "id": "7f572d65aad12911",
+    "title": "How GoDaddy transformed its analytics with Amazon Quick",
+    "source": "AWS ML Blog",
+    "publication_date": "Wed, 26 Aug 2026 16:51:53 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/",
+    "article_text": "In this post, you will learn how GoDaddy migrated from their legacy business intelligence (BI) tool to Amazon Quick. This was a two-year transformation that delivered results across every dimension of the business: 15,000 hours saved annually, 50% reduction in dashboard count, rendering times cut to under 5 seconds, and AI-powered self-service analytics now accessible to every employee."
+  },
+  {
+    "id": "713c17492903870f",
+    "title": "Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "publication_date": "Wed, 26 Aug 2026 16:36:35 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/",
+    "article_text": "Learn how Natera built an automated voice agent on Amazon Bedrock AgentCore that lets patients book mobile phlebotomy appointments through natural conversation. The post covers the dual-WebSocket bridge, event-driven latency masking, and progressive-trust authentication behind 100% tool-calling accuracy and sub-7-second latency."
+  },
+  {
+    "id": "fa7e4d8446ca6d13",
+    "title": "Bring your own model with Amazon SageMaker AI: Script mode in SDK v3",
+    "source": "AWS ML Blog",
+    "publication_date": "Wed, 26 Aug 2026 16:31:32 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/",
+    "article_text": "The SageMaker Python SDK v3 redesigns script mode with unified ModelTrainer and ModelBuilder classes. This post walks through two end-to-end examples, a scikit-learn Random Forest and a multi-GPU Stable Diffusion 3.5 LoRA fine-tune, showing how SourceCode syncs your local code into any container at runtime so you can iterate without rebuilding Docker images."
+  },
+  {
+    "id": "bf60ba9cac428e3c",
+    "title": "Preparing data for supervised fine-tuning Part 2: Advanced data strategies",
+    "source": "AWS ML Blog",
+    "publication_date": "Wed, 26 Aug 2026 16:24:05 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-2-advanced-data-strategies/",
+    "article_text": "The advanced side of supervised fine-tuning data prep. This second post in a two-part series covers evaluating data readiness with learning curves, selecting high-value data subsets, augmenting data with synthetic and distilled examples, and mixing data sources to prevent catastrophic forgetting."
+  },
+  {
+    "id": "558e1b2c3f716e6e",
+    "title": "Preparing data for supervised fine-tuning Part 1: Formatting and quality",
+    "source": "AWS ML Blog",
+    "publication_date": "Wed, 26 Aug 2026 16:24:02 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-1-formatting-and-quality/",
+    "article_text": "Data preparation determines the ceiling of any supervised fine-tuning project. This first post in a two-part series covers the foundations of SFT data prep: quality checks, conversational (JSONL) formatting, reasoning and tool-calling schemas, and a representative train/evaluation split."
+  },
+  {
+    "id": "bdba8e2906c883ba",
+    "title": "Connect Amazon Bedrock AgentCore to cross-account knowledge bases",
+    "source": "AWS ML Blog",
+    "publication_date": "Wed, 26 Aug 2026 15:48:10 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/",
+    "article_text": "Learn how Amazon Bedrock AgentCore agents in one account can generate answers from an Amazon Bedrock knowledge base backed by Amazon Redshift Serverless in another account, without copying source data. This post covers the architecture, security boundary, and two orchestration models: a code-based Strands agent and a declarative AgentCore harness."
+  },
+  {
+    "id": "699fce74a44a3396",
+    "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
+    "source": "AWS ML Blog",
+    "publication_date": "Tue, 25 Aug 2026 19:00:09 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/",
+    "article_text": "Amazon OpenSearch Service now supports MCP Apps, which return interactive visualizations alongside your AI agent's text responses. Learn how a single, locally run MCP server lets your agent move from alert to trace to logs to root cause in one conversation, and how you can verify every step inline without leaving your IDE."
+  },
+  {
+    "id": "b148462596aded99",
+    "title": "Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP",
+    "source": "AWS ML Blog",
+    "publication_date": "Tue, 25 Aug 2026 16:35:01 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/",
+    "article_text": "Build a governed weekly reporting workflow with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP. An Amazon S3 access point exposes an approved folder to a Quick knowledge base, and a custom skill drafts cited weekly reports and Slack summaries with human review before anything is shared."
+  },
+  {
+    "id": "ba0ceedfb0251d32",
+    "title": "Introducing new Ray capabilities on SageMaker HyperPod",
+    "source": "AWS ML Blog",
+    "publication_date": "Mon, 24 Aug 2026 19:32:14 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-new-ray-capabilities-on-sagemaker-hyperpod/",
+    "article_text": "Amazon SageMaker HyperPod now offers managed Ray support on Amazon EKS. Create and monitor Ray clusters, connect JupyterLab and Code Editor notebooks to live clusters, get out-of-the-box observability, and run resilient distributed training and accelerated inference from SageMaker Studio, all with open-source KubeRay and standard Ray APIs."
+  },
+  {
+    "id": "6ff2b0e21587fa8f",
+    "title": "Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS",
+    "source": "AWS ML Blog",
+    "publication_date": "Mon, 24 Aug 2026 18:59:15 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/",
+    "article_text": "Learn how to build a customizable, smart-caching knowledge management system on AWS that captures and delivers institutional (tribal) knowledge through a voice-first AI avatar. The accelerator uses Amazon Bedrock Knowledge Bases for retrieval-augmented generation and deploys in hours with AWS CloudFormation."
+  },
+  {
+    "id": "19217ff41abe9f16",
+    "title": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
+    "source": "AWS ML Blog",
+    "publication_date": "Mon, 24 Aug 2026 16:22:03 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/",
+    "article_text": "AWS Agent Registry gives your organization a centralized, searchable catalog for agents, tools, and skills. It works with the open Agentic Resource Discovery (ARD) standard to enable cross-environment discovery and governance at scale."
+  },
+  {
+    "id": "b5a48d76fa4df8a6",
+    "title": "Building a restaurant telephony AI host with Amazon Connect",
+    "source": "AWS ML Blog",
+    "publication_date": "Mon, 24 Aug 2026 16:13:09 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-connect/",
+    "article_text": "Learn how to build a voice ordering system for restaurants that answers a phone call and takes an order end to end, with no app, no website, and no sign-in. It uses Amazon Connect for telephony, Amazon Connect Agentic Voice for real-time speech, an Amazon Connect AI agent for reasoning, and Amazon Bedrock AgentCore Gateway to reach backend tools through MCP."
+  },
+  {
+    "id": "8466ee8584a33fb7",
+    "title": "The patch window is collapsing: Why security needs a new control plane",
+    "source": "Azure AI Blog",
+    "publication_date": "Tue, 25 Aug 2026 16:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
+    "article_text": "<p>Organizations need protection that operates in the gap between discovery and remediation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/\">The patch window is collapsing: Why security needs a new control plane</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "97d6de8b13d488ed",
+    "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
+    "source": "Azure AI Blog",
+    "publication_date": "Mon, 17 Aug 2026 15:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
+    "article_text": "<p>Cloud-native platforms are becoming the foundation for AI transformation. Discover how Microsoft's Azure application platform helps organizations modernize, innovate, and operate AI-powered applications at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "2e0442baa84f7c5a",
+    "title": "Meet Brain: The AI system behind Azure reliability",
+    "source": "Azure AI Blog",
+    "publication_date": "Thu, 02 Jul 2026 16:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+    "article_text": "<p>Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/\">Meet Brain: The AI system behind Azure reliability</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "d4652bc8706ea46f",
+    "title": "Accelerate modern Linux workloads with Azure Files",
+    "source": "Azure AI Blog",
+    "publication_date": "Mon, 29 Jun 2026 15:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
+    "article_text": "<p>Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/\">Accelerate modern Linux workloads with Azure Files</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "7044819e7fff9276",
+    "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
+    "source": "Azure AI Blog",
+    "publication_date": "Mon, 27 Apr 2026 18:00:00 +0000",
+    "url": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
+    "article_text": "<p>Azure Local scales Microsoft Sovereign Private Cloud, supporting AI and data workloads with full control, compliance, and disconnected operations.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/\">Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "d63432c792d3ed50",
+    "title": "Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters",
+    "source": "Azure AI Blog",
+    "publication_date": "Tue, 31 Mar 2026 16:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/",
+    "article_text": "<p>Explore how Microsoft and Armada bring sovereign AI to the edge with Azure Local, enabling secure, resilient workloads in disconnected and regulated environments.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/\">Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "97a1edbe855f4ad1",
+    "title": "Navigating digital sovereignty at the frontier of transformation",
+    "source": "Azure AI Blog",
+    "publication_date": "Mon, 30 Mar 2026 21:27:39 +0000",
+    "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/",
+    "article_text": "<p>Digital sovereignty has become a practical leadership discipline grounded in risk management, continuity planning, and long-term accountability.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/\">Navigating digital sovereignty at the frontier of transformation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "54b1b15dd7997c0d",
+    "title": "What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026",
+    "source": "Azure AI Blog",
+    "publication_date": "Tue, 24 Mar 2026 07:05:00 +0000",
+    "url": "https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/",
+    "article_text": "<p>At KubeCon + CloudNativeCon Europe 2026 in Amsterdam, we're making announcements that reflect the goal of bringing the operational maturity of Kubernetes to today's workloads and demands.</p>\n<p>The post <a href=\"https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/\">What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "4bcd83ae3b3ea251",
+    "title": "Advancing agentic AI with Microsoft databases across a unified data estate",
+    "source": "Azure AI Blog",
+    "publication_date": "Wed, 18 Mar 2026 12:50:00 +0000",
+    "url": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
+    "article_text": "<p>Built on a consistent Microsoft SQL foundation from on premises to the cloud, Azure SQL brings AI capabilities directly into your database experience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/\">Advancing agentic AI with Microsoft databases across a unified data estate</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "31c9718401c4de0e",
+    "title": "Azure IaaS: Explore new resources for building a stronger, more efficient infrastructure",
+    "source": "Azure AI Blog",
+    "publication_date": "Wed, 04 Mar 2026 17:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
+    "article_text": "<p>As organizations accelerate digital transformation, infrastructure decisions increasingly shape how quickly teams can adopt AI, how reliably applications operate at global scale, and how effectively businesses respond to constant change.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/\">Azure IaaS: Explore new resources for building a stronger, more efficient infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "74eca2cdad77d7d8",
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "source": "TechCrunch AI",
+    "publication_date": "Wed, 12 Aug 2026 17:51:00 +0000",
+    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "article_text": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia."
+  },
+  {
+    "id": "74b3c5e18682c7e7",
+    "title": "Data center demand drives 66% surge in natural gas power plant costs",
+    "source": "TechCrunch AI",
+    "publication_date": "Mon, 27 Apr 2026 15:27:52 +0000",
+    "url": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/",
+    "article_text": "Natural gas power plant costs have nearly doubled in two years and take 23% longer to build as data center electricity demand skyrockets."
+  },
+  {
+    "id": "3789015f007dd770",
+    "title": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
+    "source": "TechCrunch AI",
+    "publication_date": "Tue, 13 Jan 2026 11:30:00 +0000",
+    "url": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/",
+    "article_text": "AI drug discovery startup Converge Bio raised $25 million in a Series A led by Bessemer Venture Partners, with additional backing from executives at Meta, OpenAI, and Wiz."
+  },
+  {
+    "id": "e7dad988e4a1b81a",
+    "title": "Meta bought 1 GW of solar this week",
+    "source": "TechCrunch AI",
+    "publication_date": "Fri, 31 Oct 2025 19:26:30 +0000",
+    "url": "https://techcrunch.com/2025/10/31/meta-bought-1-gw-of-solar-this-week/",
+    "article_text": "The social media company inked three deals in the U.S. to power its data centers and offset its carbon footprint."
+  },
+  {
+    "id": "211b88da05239db1",
+    "title": "How one AI startup is helping rice farmers battle climate change",
+    "source": "TechCrunch AI",
+    "publication_date": "Tue, 26 Aug 2025 15:21:19 +0000",
+    "url": "https://techcrunch.com/2025/08/26/how-one-ai-startup-is-helping-rice-farmers-battle-climate-change/",
+    "article_text": "Mitti Labs is working with The Nature Conservancy to expand the use of climate-friendly rice farming practices in India. The startup uses its AI to verify reductions in methane emissions."
+  },
+  {
+    "id": "776d9f50d1711ca6",
+    "title": "Harvard dropouts to launch ‘always on’ AI smart glasses that listen and record every conversation",
+    "source": "TechCrunch AI",
+    "publication_date": "Wed, 20 Aug 2025 16:00:00 +0000",
+    "url": "https://techcrunch.com/2025/08/20/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-and-record-every-conversation/",
+    "article_text": "After developing a facial-recognition app for Meta’s Ray-Ban glasses and doxing random people, two former Harvard students are now launching a startup that makes smart glasses with an always-on microphone."
+  },
+  {
+    "id": "ffaab69fb824f0db",
+    "title": "Meta to add 100MW of solar power from US gear",
+    "source": "TechCrunch AI",
+    "publication_date": "Wed, 20 Aug 2025 15:56:53 +0000",
+    "url": "https://techcrunch.com/2025/08/20/meta-to-add-100-mw-of-solar-power-from-u-s-gear/",
+    "article_text": "The social media company is adding another tranche of solar to power a new AI data center in South Carolina."
+  },
+  {
+    "id": "84ad90afcd573ee3",
+    "title": "Perplexity accused of scraping websites that explicitly blocked AI scraping",
+    "source": "TechCrunch AI",
+    "publication_date": "Mon, 04 Aug 2025 15:41:39 +0000",
+    "url": "https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/",
+    "article_text": "Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages."
+  },
+  {
+    "id": "63aa6f153b8c836a",
+    "title": "Obvio’s stop sign cameras use AI to root out unsafe drivers",
+    "source": "TechCrunch AI",
+    "publication_date": "Wed, 04 Jun 2025 14:00:00 +0000",
+    "url": "https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/",
+    "article_text": "American streets are incredibly dangerous for pedestrians. A San Carlos, California-based startup called Obvio thinks it can change that by installing cameras at stop signs -- a solution the founders also say won’t create a panopticon."
+  },
+  {
+    "id": "f36af8ea05f016a1",
+    "title": "Breakneck data center growth challenges Microsoft’s sustainability goals",
+    "source": "TechCrunch AI",
+    "publication_date": "Mon, 02 Jun 2025 18:07:05 +0000",
+    "url": "https://techcrunch.com/2025/06/02/breakneck-data-center-growth-challenges-microsofts-sustainability-goals/",
+    "article_text": "Microsoft's sustainability goals are imperiled by its push into AI and cloud services."
+  },
+  {
+    "id": "d733a1d0558850d2",
+    "title": "Gridcare thinks more than 100 GW of data center capacity is hiding in the grid",
+    "source": "TechCrunch AI",
+    "publication_date": "Tue, 27 May 2025 12:00:00 +0000",
+    "url": "https://techcrunch.com/2025/05/27/gridcare-thinks-more-than-100-gw-of-data-center-capacity-is-hiding-in-the-grid/",
+    "article_text": "Gridcare raised $13.3 million for its data platform that finds underutilized capacity on the electrical grid."
+  },
+  {
+    "id": "e13b8a89aa4c04b4",
+    "title": "Meta adds another 650 MW of solar power to its AI push",
+    "source": "TechCrunch AI",
+    "publication_date": "Thu, 22 May 2025 16:49:53 +0000",
+    "url": "https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/",
+    "article_text": "The company already has more than 12 gigawatts of capacity in its renewable power portfolio."
+  },
+  {
+    "id": "adf9f55e26f31507",
+    "title": "Who are climate-conscious consumers? Not who you’d expect, says Northwind Climate",
+    "source": "TechCrunch AI",
+    "publication_date": "Tue, 01 Apr 2025 19:52:59 +0000",
+    "url": "https://techcrunch.com/2025/04/01/who-are-climate-conscious-consumers-not-who-youd-expect-says-northwind-climate/",
+    "article_text": "Rather than divide people into demographic buckets, Northwind Climate analyzes survey responses for behavioral clues."
+  },
+  {
+    "id": "337b72ffa6313d09",
+    "title": "Data centers love solar: Here’s a comprehensive guide to deals over 100 megawatts",
+    "source": "TechCrunch AI",
+    "publication_date": "Sun, 30 Mar 2025 14:00:00 +0000",
+    "url": "https://techcrunch.com/2025/03/30/data-centers-love-solar-heres-a-comprehensive-guide-to-deals-over-100-megawatts/",
+    "article_text": "New and expanded data centers are expected to double the sector’s power demand by 2029 as tech companies rush to capitalize on AI."
+  },
+  {
+    "id": "573ed0603f67e084",
+    "title": "Nvidia thinks AI can solve electrical grid problems caused by AI",
+    "source": "TechCrunch AI",
+    "publication_date": "Thu, 20 Mar 2025 16:41:12 +0000",
+    "url": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/",
+    "article_text": "The Open Power AI Consortium says it will use domain-specific AI models to tackle problems in the power industry."
+  },
+  {
+    "id": "f83ccfd44147c095",
+    "title": "Solar notches another win as Microsoft adds 475 MW to power its AI data centers",
+    "source": "TechCrunch AI",
+    "publication_date": "Thu, 20 Mar 2025 14:57:11 +0000",
+    "url": "https://techcrunch.com/2025/03/20/solar-notches-another-win-as-microsoft-adds-475-mw-to-power-its-ai-data-centers/",
+    "article_text": "The company recently signed a deal with energy provider AES for three solar projects across the Midwest."
+  },
+  {
+    "id": "7d4531ac559d37d1",
+    "title": "Geothermal could power nearly all new data centers through 2030",
+    "source": "TechCrunch AI",
+    "publication_date": "Tue, 11 Mar 2025 17:43:52 +0000",
+    "url": "https://techcrunch.com/2025/03/11/geothermal-could-power-nearly-all-new-data-centers-through-2030/",
+    "article_text": "Geothermal resources have enormous potential to provide the sort of consistent power that data centers crave."
+  },
+  {
+    "id": "f22b091b16cfc320",
+    "title": "ElevenLabs now lets authors create and publish audiobooks on its own platform",
+    "source": "TechCrunch AI",
+    "publication_date": "Wed, 26 Feb 2025 03:45:45 +0000",
+    "url": "https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/",
+    "article_text": "Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company confirmed. The announcement comes days after the company partnered with Spotify for AI-narrated audiobooks. ElevenLabs, which raised a $180 million mega-round last month, started inviting authors to try out their publishing program through [&#8230;]"
+  },
+  {
+    "id": "4397d52d3137dd7c",
+    "title": "Data center tweaks could unlock 76 GW of new power capacity in the US",
+    "source": "TechCrunch AI",
+    "publication_date": "Thu, 13 Feb 2025 14:00:00 +0000",
+    "url": "https://techcrunch.com/2025/02/13/data-center-tweaks-could-unlock-76-gw-of-new-power-capacity-in-the-u-s/",
+    "article_text": "A new study argues that data centers could be ideal demand-response participants because they have the potential to be flexible."
+  },
+  {
+    "id": "ebeda8b8b57f92ad",
+    "title": "YouTube AI updates include auto dubbing expansion, age ID tech, and more",
+    "source": "TechCrunch AI",
+    "publication_date": "Tue, 11 Feb 2025 14:57:22 +0000",
+    "url": "https://techcrunch.com/2025/02/11/youtube-ai-updates-to-include-expansion-of-auto-dubbing-age-identifying-tech-and-more/",
+    "article_text": "In his annual letter, YouTube CEO Neal Mohan dubbed AI one of the company&#8217;s four &#8220;big bets&#8221; for 2025. The executive pointed to the company&#8217;s investments in AI tools for creators, including ones for video ideas, thumbnails, and language translation. The latter feature will roll out to all creators in YouTube&#8217;s Partner Program this month, [&#8230;]"
+  },
+  {
+    "id": "2fae6436e2ead8e9",
+    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+    "source": "VentureBeat AI",
+    "publication_date": "Thu, 27 Aug 2026 14:01:00 GMT",
+    "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+    "article_text": "<p><i>Presented by Gravitee </i></p><hr /><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That&#x27;s the failure mode that should keep you up at night: a windy, complicated system nobody can see clearly enough to govern. But why do things get so opaque so quickly?</p><p>Add a second agent to a system, and you&#x27;ve added one connection. Add a tenth, and you haven&#x27;t added ten connections, you&#x27;ve potentially added dozens, because now any agent might call any other, and each of those calls can trigger a call somewhere else. Complexity doesn&#x27;t creep up with agent headcount. It compounds with the number of paths between agents, and nobody&#x27;s job is to draw that graph. A support ticket that used to touch one system might now pass through four agents before a human ever lays eyes on it, and every one of those handoffs is a decision point nobody approved.</p><p>Most enterprise AI programs stall when the humans responsible for their agents lose the thread. Ask a security team a simple question: which agents can reach which systems, and watch the silence. Ask which agent triggered which downstream action three hops ago. More silence.</p><p>The instinct is to treat this like a checklist. Approve the agent. Log the agent. Move on. I&#x27;d argue this is the wrong instinct. A checklist checks a single point in time. Complexity runs across a chain, and you can&#x27;t govern a chain with a stack of one-time approvals any more than you can call a diet successful because you had a vegetable once.</p><p>So where does it actually break down?</p><p>Permissions creep first. Somebody builds an agent to summarize support tickets, grants it broad API access because scoping it properly would&#x27;ve taken another sprint, and forgets about it. Six months later, that same agent has a path into the payments system. Nobody remembers signing off on that. Nobody did.</p><p>And ownership thins out the further the chain runs. Five agents touch one workflow, something breaks at step four, and now you&#x27;re asking who&#x27;s responsible for a link nobody was ever assigned to own, because the org chart stopped at &quot;deploy the agent&quot; and never got to &quot;name the human who answers for it.&quot;</p><p>This is a story about <a href=\"https://www.gravitee.io/platform/ai-agent-management\"><u>governance infrastructure</u></a> that hasn&#x27;t caught up with how agents actually behave: interconnected, cascading, multiplying faster than the processes built to track them.</p><p>Fixing the cluster starts with identity. Every agent needs to exist as its own entity, not a shadow permission borrowed from whoever deployed it. Its own name in the register. Its own scoped authority. A named human sponsor who answers for what it does. That part is necessary.</p><p>But it is nowhere near sufficient.</p><p>The harder piece is the oversight that holds across the entire chain, not just at each individual link in it. You need to see what an agent did, what it set off downstream, and where that trail ends in real time, not in a report someone pulls together once a quarter. Get agent-level identity right and stop there, and you end up with a filing cabinet full of perfectly documented agents operating inside a system nobody can actually explain.</p><p>And oversight by itself only tells you what already happened. Watching a chain isn&#x27;t the same as controlling it. Enforcement is the piece most programs skip: the ability to stop an out-of-policy call before it executes, not just log it for someone to find in a review three weeks later. A dashboard that shows you an agent breached its scope five minutes ago is a monitoring tool. A system that stops the breach from happening in the first place is governance. Enterprises serious about <a href=\"https://gravitee.io/agent-accountability\"><u>agent accountability</u></a> need both, and most have only built the first.</p><p>We&#x27;re all running at blazing speed to ensure we&#x27;re not the ones left behind in the race we&#x27;ve found ourselves in, and we&#x27;re all too aware that there&#x27;s a cost to slowing down. Every enterprise serious about agentic AI hits the complexity wall eventually. The ones that get past it are the ones who built enough visibility and accountability, so their fleet can keep growing without anyone losing the ability to answer one question: what is this system doing right now, and who&#x27;s responsible for it.</p><p>But don&#x27;t miss the point. Complexity isn&#x27;t a reason to pump the brakes. The enterprises getting this right aren&#x27;t slowing down. They&#x27;re building toward Human-Agent Harmony, where scale and accountability grow together instead of trading off against each other.</p><p>The real risk was never a single agent doing exactly what it was built to do. It&#x27;s a hundred of them doing exactly that, all at once, interacting in combinations nobody designed for. That kind of multiplication is what keeps enterprise AI stuck running pilots forever instead of running production.</p><p>Solve for complexity and autonomy stops being the villain. It starts being the whole point.</p><p><i>Rory Blundell is CEO at Gravitee. </i></p><hr /><p><i>Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact </i><a href=\"mailto:sales@venturebeat.com\"><i><u>sales@venturebeat.com</u></i></a><i>.</i></p><p>\n</p>"
+  },
+  {
+    "id": "46214c108a235874",
+    "title": "When agents act on their own, governance has to live in the data layer",
+    "source": "VentureBeat AI",
+    "publication_date": "Thu, 27 Aug 2026 12:01:00 GMT",
+    "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+    "article_text": "<p><i>Presented by EDB </i></p><hr /><p>As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, what actually stops it?</p><p>These are your agents, running on your models, touching your data in your infrastructure — and the responsibility for what they do sits with you. That responsibility can’t be met in hindsight or with a set of abstract policies that live on paper but not in practice. Agents need rules in the context of the moment, because they don’t exercise overriding judgment of their own actions.</p><p>Consider a simple rule: Never open the car door. Followed literally, an agent could never get in or out of the car at all. But if you change the context (the car has just crashed, there’s a fire, someone is hurt and needs to get out), then the rule you actually want is the opposite. Context in the moment is everything. We are asking agents to do intelligent things; that requires intelligent rules.</p><p>The instinct is to add guardrails around the agent: instructions, policies, and monitoring layered above the model. Those mechanisms matter, but they share a structural limit: The car-door rule is plausible right up until the moment you actually have to decide whether to open the door. Controls at the agent layer are only as reliable as the agent’s output is predictable, and autonomy is precisely the property that makes that output hard to predict. Governance that depends on reviewing an action before it happens cannot keep pace with a system that acts in milliseconds, across many systems at once.</p><p>Governance has to become <i>executable</i>, and enforced where agents actually do their work: at the operational data layer, in the context, and exactly at the moment it is happening. </p><h2>The data layer is the enforcement point</h2><p>Agents create value by touching data. They query it, retrieve it, transform it, and increasingly act on it. A policy that says an agent should not reach a certain class of data is meaningful only if the system can deny that access at the moment the agent requests it. Additionally, a principle that says AI must be auditable is meaningful only if the organization can reconstruct what the agent did, what data it touched, which user it acted for, and what resulted. When <a href=\"https://www.enterprisedb.com/products/data-ai-governance\">governance</a> lives at the data layer, it holds regardless of how the agent was built or how it behaves, because the control is a property of the database itself, not a promise made by the agent.</p><h2>Agent behavior may be probabilistic. Governance cannot be</h2><p>The enterprise should not rely on a model choosing to follow policy. The policy has to be enforced by the system. That is the difference between hoping an actor stays in bounds and constructing bounds it cannot cross to begin with.</p><p>The controls that make this real are ones many enterprises already run at the data layer: role- and attribute-based access, row- and column-level security, classification and masking, policy as code, and complete audit trails. </p><p>What agents change is not the mechanism, but who the mechanism has to recognize. Identity management has to treat the agent as a principal in its own right, with its own identity and a purpose declared when the session opens. </p><p>Once purpose is bound to identity, the policy engine can evaluate it the same way it evaluates role or department today, and the record of what happened can capture not just who acted and what they touched, but what they declared they were there to do.</p><p>In practice, this resolves into nine controls, grouped under three imperatives:</p><h4><b>Enforce it</b></h4><ul><li><p>Role- and attribute-based access control enforced at query time, for agents as well as users</p></li><li><p>Dynamic column masking driven by the same policy path</p></li><li><p>Agent identity as a first-class principal, with declared purpose bound at session start and the acting user preserved</p></li></ul><h4><b>See it and prove it</b></h4><ul><li><p>Classification and tagging that drives policy</p></li><li><p>Session-level audit logging that records which agent acted, for which user, and under what declared purpose</p></li><li><p>Lineage across pipelines, so a result can be traced back to the request that produced it</p></li></ul><h4><b>Unify and harden</b></h4><ul><li><p>Centralized, portable policy management</p></li><li><p>Encryption at rest and in transit</p></li><li><p>Consistent enforcement across on-prem, cloud, and sovereign or air-gapped environments</p></li></ul><p>“Declared purpose is what makes the difference. It becomes an attribute the access layer already understands, evaluated in the same policy path as role and row-level security. The enforcement mechanism does not change. What changes is that the agent&#x27;s purpose is part of what it evaluates, and part of what the record proves afterward,” says Priyanka Jain, VP, product management, data &amp; AI governance, EDB. </p><p>Wherever you are in your AI adoption journey, enforcement at the data layer is what lets you move faster rather than slower. The controls are already in the database. The difference is that agents now have to pass through them.</p><h2>A digital leash, not a locked door</h2><p>The goal is not to stop agents from doing useful work. It is to define how far an agent can go, what it can touch, what it can change, what requires escalation, and how the organization can reconstruct events if something goes wrong. Governed this way, agents are identified, scoped, monitored, and auditable. The enterprise can adopt them <i>faster</i>, because security, risk, and leadership teams trust the operating model underneath.</p><h2>Open, sovereign, and enforceable at the source</h2><p><a href=\"https://www.enterprisedb.com/products/edb-postgres-ai\">Built on open source Postgres</a>, this open foundation keeps enterprises in control of where their data lives, who can reach it, and under what policy, without ceding governance to a layer they don’t own or can’t inspect. For regulated industries, that combination of data <a href=\"https://www.enterprisedb.com/what-is-sovereign-ai-data-sovereignty\">sovereignty</a> and source-level enforcement isn’t a nice-to-have; it’s the precondition for putting agents into production at all.</p><p>Agentic systems will keep getting more capable and more autonomous. That is a reason to be deliberate about where control lives, not a reason to slow down. The enterprises that enforce governance at the data layer can move aggressively on AI, because the thing protecting their data is more than just wishful thinking. </p><hr /><p><i>EDB Postgres AI is an open, enterprise-grade sovereign data and AI platform that unifies transactional, analytical, and AI workloads — with governance enforced where the data lives. For the full framework, see EDB’s white paper</i> <a href=\"https://www.enterprisedb.com/governing-agentic-ai-enterprise-speed\"><b>Governing Agentic AI at Enterprise Speed</b></a><i>.</i></p><p><i>Max Romanenko is Chief Technology Officer at EDB.</i></p><hr /><p><i>Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact </i><a href=\"mailto:sales@venturebeat.com\"><i><u>sales@venturebeat.com</u></i></a><i>.</i></p><p>\n</p>"
+  },
+  {
+    "id": "ca54be2f354839cf",
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "source": "VentureBeat AI",
+    "publication_date": "Wed, 26 Aug 2026 14:30:00 GMT",
+    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "article_text": "<p><i>Presented by Tata Communications </i></p><hr /><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.</p><p>&quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,&quot; Anand says. &quot;As a result, while many enterprises have adopted digital tools, very few have platforms that are truly integrated, scaled, and capable of seamless orchestration.&quot;</p><p>That gap creates a heavy cognitive load for human agents who must piece together context across disjointed tools to understand what an AI system has already told a customer. The challenge is not simply access to data, but the absence of a shared enterprise context that connects customer identities, interactions, transactions, policies, journeys, and operational systems into a common understanding. Traditional CX architecture was built for linear, human-driven routing, not for managing real-time data flows between autonomous AI systems, data lakes, and human workers.</p><p>&quot;Today&#x27;s operational complexity is no longer about adding more intelligence,&quot; he adds. &quot;It is about coordinating the existing intelligence across the enterprise, so the enterprise customer never feels the friction of those internal silos. That requires a shared context layer that allows AI systems, applications, and people to operate from the same understanding of the customer and the business.&quot;</p><h2>Why orchestration is replacing automation as the top CX priority</h2><p>As that coordination problem grows, Anand says the strategic priority inside enterprises is shifting from automation to orchestration.</p><p>&quot;Automation solves individual tasks, whereas orchestration connects them into end-to-end outcomes,&quot; Anand says. &quot;The next evolution is context-aware orchestration, where AI agents, applications, and human workers operate using a shared understanding of customers, processes, and business intent rather than isolated system records.&quot;</p><p>As organizations accumulate more bots, agents, and AI tools, managing them grows exponentially more complex. Anand says the competitive advantage now sits less in deploying automation and more in how intelligently systems hand off work, collaborate, and escalate. </p><h2>The trap of bolting AI onto legacy systems</h2><p>Companies that simply place a voice AI agent in front of an existing system are repeating the same old mistake. Instead of improving the experience, they end up recreating the deterministic phone menus AI was supposed to replace. The real benefit of AI is the scale, speed, and orchestration it provides.</p><p>Anand points to a wave of consolidation across the industry, as established contact center providers acquire AI-native firms to close capability gaps and strengthen their customer experience offerings. The broader industry shift reflects a growing recognition that enterprises need more than channels and automation; they need an intelligence layer capable of orchestrating AI, people, data, and workflows across the business.</p><p>The goal across industries is to make AI the connective layer between customers, employees, and enterprise systems. To achieve that, organizations increasingly need a common enterprise ontology: a shared business vocabulary that aligns customer data, products, policies, SOPs, transactions, and workflows across otherwise disconnected platforms.</p><p>Tata Communications’ solution is the Interaction Fabric, an orchestration layer that unifies contact center, messaging, collaboration, AI, and customer data while coordinating AI agents, channels, and enterprise systems in real time. Underpinning that orchestration is a context-driven architecture that continuously connects identities, conversations, transactions, and operational data so interactions retain continuity across channels and touchpoints.</p><p>That means AI and agents can move across voice, WhatsApp, chat, email, and CRM workflows without losing customer context. Identity, intent, and AI-driven insight flow continuously across channels instead of remaining trapped in disconnected applications.</p><p>The next phase of orchestration is not simply coordinating tasks across systems, but coordinating them through a shared understanding of the enterprise. Context graphs, built on enterprise ontologies, create that common understanding by connecting customers, interactions, products, policies, decisions, and outcomes across organizational silos. This allows AI agents and human workers to operate from the same source of context, driving more accurate decisions, seamless handoffs, and consistent customer experiences.</p><p>But synchronizing customer intent, conversation history, enterprise data, and AI decision-making across channels only works without lag. Legacy networks not designed for modern data frequency create what Anand calls data gravity, producing latency and inconsistent journeys as users switch channels.</p><p>&quot;The underlying network needs to be engineered to be as agile as the AI systems running on top of it,&quot; he explains. &quot;Interactions stay synchronous and technology itself becomes invisible, leaving only an experience that feels effortless.&quot;</p><h2>Making AI a better partner for human agents</h2><p>Effective shared visibility between human agents and AI systems starts with the agent experience rather than any single technology. The most effective implementations allow both the AI and human agent to operate from the same contextual understanding of the customer, ensuring that information gathered in one interaction can inform the next regardless of channel or system. Automated call summaries, real-time sentiment analysis, and AI-powered assistance provide agents with instant, actionable insights and suggested next steps directly within their workflow.</p><p>That allows AI to handle routine, high-volume tasks such as password resets, delivery tracking, and account updates, while human agents focus on interactions requiring judgment and empathy.</p><p>&quot;If a customer is facing a sudden crisis like a fraudulent transaction, the AI can instantly block the card, but it cannot provide the emotional comfort and delicate communication needed in that moment of panic,&quot; Anand says. &quot;The answer to the dilemma is intelligent orchestration, rather than a choice between systems.&quot; </p><p>In practice, AI handles the immediate technical transaction, while real-time sentiment analysis recognizes the customer&#x27;s distress and routes the call to a human expert. The objective is to orchestrate AI and human agents together so efficiency never comes at the cost of brand trust and loyalty.</p><h2>Building a unified CX architecture</h2><p>Moving from fragmented experimentation to coordinated orchestration requires both technical and organizational change, Anand says, beginning with consolidating data and fragmented point solutions onto a unified, cloud-first platform.</p><p>&quot;IT and CX teams need to work more collaboratively,&quot; he explains, describing that alignment as the second necessary shift, this time at the organizational level.</p><p>At the architecture level, Anand says communication APIs need to be embedded into the enterprise&#x27;s core so every function operates from the same customer context instead of maintaining its own siloed data. Increasingly, this means moving beyond integration alone toward a contextual architecture where a shared ontology and context graph provide a common understanding across CX, operations, sales, service, and AI systems. The deeper organizational change, he says, is a mindset shift from reactive support toward proactive, predictive, and personalized engagement, which he calls the three Ps.</p><h2>How AI agents will shape the future of CX</h2><p>Customer engagement over the next several years will be defined by real-time intelligence, increasing autonomy, and seamless orchestration across touchpoints, and persistent enterprise context that follows customers, employees, and AI agents wherever interactions occur. Rather than analyzing interactions after the fact, enterprises will increasingly shape conversations in real time. </p><p>&quot;The future of CX will be defined by simplification, aligning data, infrastructure, and operating models around clear customer outcomes rather than adding more models and tools,&quot; Anand says. &quot;The rise of AI-powered agents and agent-to-agent interactions is a defining trend, with AI systems moving beyond assisting humans to independently managing and resolving interactions, creating a largely invisible layer of engagement that improves speed and efficiency.&quot; </p><p>Human agents will increasingly work alongside AI, supported by real-time conversational intelligence and next-best-action recommendations to deliver what Anand calls Total Experience: a unified model that brings together customer, employee, and AI-driven experiences. Tata Communications is building toward that future through its Voice AI, AI Workers, and Total Experience Hub solutions.</p><p>&quot;Ultimately, customer engagement will evolve from being reactive to predictive and increasingly generative,&quot; Anand says. &quot;Enterprises won&#x27;t just be responding to needs, but actively shaping and improving customer journeys in real time.&quot;</p><hr /><p><i>Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact </i><a href=\"mailto:sales@venturebeat.com\"><i><u>sales@venturebeat.com</u></i></a><i>.</i></p>"
+  },
+  {
+    "id": "fcee4ba15ecfb807",
+    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+    "source": "VentureBeat AI",
+    "publication_date": "Wed, 19 Aug 2026 14:18:12 GMT",
+    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+    "article_text": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI.</p><p>The enterprise AI stack is being rewritten in real time, and the decision-makers I talk with are starved for objective, defendable data. Rob Strechay has the mix of technical rigor and operating experience needed to dissect the architecture behind the next phase of enterprise AI deployment.</p><p>The questions enterprise technology leaders are asking have changed. As organizations move past experimentation with generative AI toward production deployment, they want to know how to orchestrate multi-vendor environments, where the security gaps in their agentic pipelines sit, and how to fix the utilization problems draining their infrastructure budgets. Answering those questions requires more depth than news coverage alone provides, and that is the gap this research offering is built to fill.</p><h2>An analyst who has sat on every side of the table</h2><p>Strechay brings nearly three decades of experience as a practitioner, product executive, and industry analyst. Before becoming an analyst, he was an executive at numerous startups, including Zerto; he joined Amazon Web Services to help build a new analytics service; and he held executive roles across enterprise infrastructure. He later served as a senior analyst at Enterprise Strategy Group and most recently as managing director and principal analyst at theCUBE Research and SiliconANGLE, where he hosted executive interviews and analyzed the evolution of cloud, data, and AI infrastructure.</p><p>Strechay will initially focus his coverage on cloud infrastructure, advanced data infrastructure, platform engineering and DevOps orchestration and observability, and the intersection points where AI and enterprise security collide.</p><h2>Already at work: GPU utilization and the VB Pulse surveys</h2><p>Strechay has already been contributing to <a href=\"https://venturebeat.com/category/resources\"><u>VentureBeat&#x27;s research</u></a>. In May he published an <a href=\"https://venturebeat.com/infrastructure/5-gpu-utilization-the-401-billion-ai-infrastructure-problem-enterprises-cant-keep-ignoring\"><u>analysis of enterprise GPU utilization</u></a>, examining the compute waste sitting inside enterprise AI infrastructure, and he provided a substantive review of our AI Infrastructure &amp; Compute survey before it went into the field.</p><p>His infrastructure-level focus complements the research engine VentureBeat has built around its monthly VB Pulse surveys, which track five areas of enterprise AI adoption: agentic orchestration, agent reliability and evals, agentic security and identity, AI infrastructure and compute, and context layers, including retrieval-augmented generation (RAG). <a href=\"https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand\"><u>Our June report on agentic orchestration</u></a>, drawn from a survey of 145 enterprises, found that two-thirds of those enterprises had hedged their AI model strategy rather than committing to a single provider — a posture whose value the June outage of Anthropic&#x27;s Claude models made plain.</p><h2>VB In Conversation: The first vehicle</h2><p>A core vehicle for this expanded research footprint will be a deepening of VentureBeat&#x27;s existing VB In Conversation video interview series, which Strechay will host. Rather than high-level industry overviews, the series will bring architectural blueprints, actual deployment barriers, and back-end infrastructure realities to light through in-depth technical interviews with the architects and product leaders behind leading enterprise AI systems — an unvarnished look at which tools perform under production-grade pressure.</p><p>&quot;VentureBeat has built an audience of enterprise builders and technology buyers that any analyst would want to serve,&quot; Strechay said. &quot;My goal is to use deep empirical metrics and VentureBeat&#x27;s proprietary tracking data to help enterprise buyers and the people building for them make sound platform and infrastructure decisions during the most disruptive transition enterprise technology has seen.&quot;</p><p>The expanded VB In Conversation series will appear on <a href=\"http://venturebeat.com\"><u>VentureBeat</u></a> and on VentureBeat&#x27;s <a href=\"https://www.youtube.com/playlist?list=PLMQoSwszBxm7QyNw8D7eHWN0tORhB8ewm\"><u>YouTube channel</u></a>, alongside Rob&#x27;s written analysis on the site. Enterprise practitioners who want to take part in our monthly VB Pulse surveys, or arrange an analyst briefing with Rob, can reach the research team <a href=\"mailto:VBIntelligence@VentureBeat.com\">here</a>.</p>"
+  },
+  {
+    "id": "4b0b581f96fdff4b",
+    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+    "source": "VentureBeat AI",
+    "publication_date": "Tue, 19 May 2026 17:45:00 GMT",
+    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "article_text": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google/2026/\">I/O developer conference</a>, Google announced a <a href=\"https://blog.google/products-and-platforms/products/search/search-io-2026/\">sweeping redesign</a> of the search box itself — the literal text field where billions of queries begin every day — transforming it from a simple keyword input into a dynamic, AI-driven conversation starter that can accept text, images, PDFs, videos, and even open Chrome tabs as inputs. The company is also merging its <a href=\"https://search.google/ways-to-search/ai-overviews/\">AI Overviews</a> and <a href=\"https://search.google/ways-to-search/ai-mode/\">AI Mode</a> features into a single, seamless search flow, eliminating the friction that previously forced users to choose between a traditional results page and an AI-forward experience.</p><p>Liz Reid, Google&#x27;s vice president and head of Search, called it &quot;the biggest upgrade to our iconic search box since its debut over 25 years ago&quot; during a press briefing on Monday.</p><p>The announcement arrived alongside a blizzard of other news — new <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/\">Gemini models</a>, a personal <a href=\"https://blog.google/products-and-platforms/products/search/search-io-2026/\">AI agent called Spark</a>, an intelligent <a href=\"https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/\">shopping cart</a>, a <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/\">reimagined developer platform</a> — but the search box redesign may prove to be the most consequential. It is the clearest signal yet that Google views the future of its flagship product not as a place where users type fragmented keywords, but as an interface where they hold open-ended, multimodal conversations with an AI system backed by the entire web.</p><h2><b>The new search box expands, accepts files, and coaches you on what to ask</b></h2><p>The changes show a fundamental shift in how Google expects people to interact with the product that generates the vast majority of Alphabet&#x27;s revenue.</p><p>The box itself now dynamically expands to accommodate longer, more conversational queries. Where the old interface subtly encouraged brevity — a narrow field suited to two- or three-word keyword strings — the new design invites users to fully articulate complex questions in granular detail. It also now supports multimodal inputs directly. Users can upload images, PDFs, files, and videos, or drag in content from Chrome tabs, right from the main search interface. Previously, some of these capabilities existed in AI Mode, but reaching them required extra steps. Now they sit at the primary entry point.</p><p>Google is also deploying what it describes as an AI-powered query suggestion system that &quot;goes beyond autocomplete.&quot; Rather than simply predicting the next word a user might type based on popular searches, the system helps users formulate complex, nuanced queries — essentially coaching them toward the kind of detailed questions that AI Mode handles best.</p><p>The new search box is starting to roll out immediately in all countries and languages where AI Mode is available.</p><h2><b>Google is merging AI overviews and AI mode into one seamless experience</b></h2><p>Perhaps more significant than the box itself is the architectural change happening behind it. Google is unifying <a href=\"https://search.google/ways-to-search/ai-overviews/\">AI Overviews</a> — the AI-generated summary panels that appear atop traditional search results — with <a href=\"https://search.google/ways-to-search/ai-mode/\">AI Mode</a>, the more immersive conversational search experience the company launched at I/O one year ago.</p><p>Starting Tuesday, this merged experience will be live across mobile and desktop worldwide. A user can type a question, receive an AI Overview alongside traditional results, and then continue directly into a back-and-forth AI Mode conversation to ask follow-up questions — all without navigating to a separate interface.</p><p>Reid explained the logic during the press briefing: the new AI search box is &quot;an upgrade of our traditional search box, and so the results take you directly to main search rather than AI mode.&quot; She noted that while some power users actively sought out AI Mode, &quot;for most users, they don&#x27;t actually want to have to think about, do they want more of a traditional page or an AI-forward search experience.&quot;</p><p>The goal, she said, was to ensure that &quot;for most users, they don&#x27;t have to think about where to go, they can just go to the search box they&#x27;re familiar with, and it feels like they get the best experience afterwards.&quot;</p><h2><b>One billion users and doubling queries reveal how fast search behavior is shifting</b></h2><p>Google&#x27;s decision to redesign the foundational interface of its most important product did not happen in a vacuum. The company shared a set of usage statistics during the briefing that reveal just how rapidly user behavior is already changing.</p><p><a href=\"https://search.google/ways-to-search/ai-mode/\">AI Mode</a>, which launched in the United States at I/O 2025, has surpassed one billion monthly users in its first year. AI Mode queries have been doubling every quarter since launch. AI Overviews, the lighter-weight AI summaries, now reach more than 2.5 billion monthly users. And overall <a href=\"https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai\">search query volume hit an all-time high</a> last quarter — a data point the company had previously disclosed on its earnings call.</p><p>Sundar Pichai, Google&#x27;s CEO, framed these figures as evidence that AI features are additive, not cannibalistic, to search usage. &quot;When people use our AI-powered features in search, they use search more,&quot; he said. He added that he loves &quot;how search has become less about individual queries and feels more like an ongoing conversation, giving users deeper insights and connecting you with the vastness of the web.&quot;</p><p>Reid reinforced the point: &quot;It&#x27;s not just that people are searching more, it&#x27;s that they&#x27;re searching differently. They&#x27;re fully expressing their questions in granular detail, asking those follow-up questions and searching across modalities.&quot;</p><h2><b>Gemini 3.5 Flash gives Google&#x27;s AI search the speed it needs to work at scale</b></h2><p>Under the hood, the new search experience runs on <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/\">Gemini 3.5 Flash</a>, Google&#x27;s newest AI model, which the company also introduced at I/O. Google upgraded AI Mode&#x27;s underlying model to 3.5 Flash to deliver what Reid described as &quot;an even more powerful AI search experience.&quot;</p><p><a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/\">Gemini 3.5 Flash</a> is the workhorse of this year&#x27;s announcements. Google claims it outperforms its previous frontier model, <a href=\"https://deepmind.google/models/gemini/pro/\">Gemini 3.1 Pro</a>, on nearly all benchmarks while running four times faster in output tokens per second than comparable frontier models. Pichai described it as being &quot;in a league of its own in the top right quadrant&quot; of the <a href=\"https://artificialanalysis.ai/\">Artificial Analysis index</a>, which plots intelligence against speed — meaning it delivers near-frontier quality at dramatically lower latency.</p><p>That speed matters enormously for search. A conversational AI search experience that feels sluggish would be dead on arrival for a product that serves billions of queries daily. By coupling the redesigned interface with a model optimized for both quality and throughput, Google is attempting to make AI-powered search feel as instantaneous as the old keyword experience — while being dramatically more capable.</p><h2><b>Search can now build interactive visuals and custom mini apps on the fly</b></h2><p>The redesigned search box is also the gateway to a set of new capabilities that push search far beyond text-based answers. Google announced what it calls &quot;<a href=\"https://blog.google/products-and-platforms/products/search/search-io-2026/\">generative UI</a>&quot; — the ability for search to dynamically build custom widgets, interactive visualizations, and even mini applications in real time, tailored to a user&#x27;s specific question.</p><p>Reid offered a concrete example during the briefing: a user could ask &quot;How do black holes affect space time?&quot; and receive an interactive visual in an AI Overview that brings the concept to life. Follow-up questions would trigger the system to dynamically generate entirely new visuals in real time. This is possible, she explained, because of &quot;a novel real-time code generation system we built in partnership with the Google DeepMind team&quot; that runs on Gemini 3.5 Flash. Generative UI capabilities will roll out to everyone this summer, free of charge.</p><p>But Google is going further still. For ongoing tasks — planning a wedding, organizing a move, tracking a fitness routine — users will be able to build what the company describes as customizable, stateful experiences within search, powered by its <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/\">Antigravity development platform</a>. These require no coding expertise. Users simply describe what they want in natural language, and search builds it. Those experiences will be available in coming months, starting with <a href=\"https://gemini.google/subscriptions/\">Google AI Pro</a> and <a href=\"https://gemini.google/subscriptions/\">Ultra</a> subscribers in the United States.</p><h2><b>AI agents that monitor the web around the clock are coming to search results</b></h2><p>The redesign also opens the door to what Google calls &quot;<a href=\"https://blog.google/products-and-platforms/products/search/search-io-2026/\">information agents</a>&quot; — AI agents that users can configure directly within search to monitor the web 24/7 for specific conditions and deliver synthesized updates when those conditions are met.</p><p>A user could, for example, set up an agent to track market movements in a particular sector with specific parameters. The agent would create a monitoring plan, tap into real-time finance data, and proactively notify the user when conditions are met — complete with links and context for further research. Other use cases include apartment hunting, tracking sneaker drops, or monitoring any topic a user cares about. Information agents will launch first for <a href=\"https://gemini.google/subscriptions/\">Google AI Pro</a> and <a href=\"https://gemini.google/subscriptions/\">Ultra</a> subscribers this summer.</p><p>These agents sit within a much larger strategic pivot that Google articulated throughout the briefing: the company is going all-in on AI systems that don&#x27;t just answer questions but proactively take actions on users&#x27; behalf. Beyond search, Google introduced <a href=\"https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/\">Gemini Spark</a>, a 24/7 personal AI agent that runs on dedicated virtual machines in Google Cloud. It unveiled the <a href=\"https://blog.google/products-and-platforms/products/shopping/google-shopping-cart\">Universal Cart</a>, an intelligent cross-merchant shopping cart. It announced the <a href=\"https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol\">Agent Payments Protocol</a> for agents to make secure purchases. And it expanded its <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/\">Antigravity developer platform</a> into a full ecosystem for building autonomous AI agents.</p><h2><b>Publishers, advertisers, and SEO professionals face a new reality</b></h2><p>The redesign raises profound questions for the sprawling ecosystem — publishers, advertisers, SEO professionals — that has been built around the old model of keyword search and blue links.</p><p>If users increasingly express their needs as full, conversational sentences rather than fragmented keywords, the entire discipline of search engine optimization will need to evolve. Keyword-density strategies become less relevant when the AI is parsing natural language intent rather than matching strings. Content that answers deep, nuanced questions in authoritative ways becomes more valuable; content engineered to rank for two-word keyword fragments becomes less so.</p><p>For publishers, <a href=\"https://www.npr.org/2025/07/31/nx-s1-5484118/google-ai-overview-online-publishers\">the stakes are existential</a>. AI Overviews already synthesize information from across the web and present it directly in search results, reducing the need for users to click through to source material. The new seamless AI Mode integration deepens that dynamic: users can now get an AI-generated answer and ask multiple follow-up questions without ever leaving the search page. Google has consistently maintained that its AI features drive more traffic to publishers, but the redesign puts that claim under renewed scrutiny as the search results page becomes more self-contained.</p><p>For advertisers — who fund the vast majority of Google&#x27;s revenue — the shift from keywords to conversations changes the calculus of ad targeting. Conversational queries contain richer intent signals, which could make ad targeting more precise and valuable. But they also create new ambiguities: when a user is in the middle of a multi-turn conversation with AI Mode, where does an ad naturally fit? Google did not detail changes to its advertising model during the briefing, but the structural shift in the interface will inevitably reshape how ads are surfaced and measured.</p><h2><b>The search box was always more than a product — it was a habit for billions of people</b></h2><p>There is a reason Google chose to redesign the search box rather than simply adding new features behind it. The search box is not just a product element at this point; it is a cultural artifact — one of the few pieces of digital infrastructure used by essentially the entire internet-connected world. Changing it sends an unmistakable message about where the company believes computing is headed.</p><p>For 25 years, the search box trained billions of people to think in keywords — to compress their curiosity into the shortest possible string of words. The new box invites them to do the opposite: to think out loud, to upload what they&#x27;re looking at, to ask follow-up questions, to let an AI system handle the compression.</p><p>Pichai tied the company&#x27;s broader ambitions to a striking statistic: Google&#x27;s surfaces now process over 3.2 quadrillion tokens per month, up seven-fold from a year ago. The company expects capital expenditures of approximately $180 to $190 billion in 2026 — roughly six times the $31 billion it spent four years ago — largely to support the infrastructure required for this AI transformation. When asked about the future of traditional search, he was direct. &quot;Search is the most used AI product in the world,&quot; he said.</p><p>The blinking cursor in Google&#x27;s search box still invites you to type. But after 25 years of teaching the world to speak in keywords, Google is now asking it to speak in sentences — and betting roughly $190 billion that it will.</p>"
+  },
+  {
+    "id": "7f9102717fb19b93",
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "source": "VentureBeat AI",
+    "publication_date": "Thu, 22 Jan 2026 14:00:00 GMT",
+    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "article_text": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.</p><p><a href=\"https://tq.vc/\">TQ Ventures</a> led the round, with participation from <a href=\"https://fpvventures.com/\">FPV Ventures</a>, <a href=\"https://www.redpoint.com/\">Redpoint</a>, and <a href=\"https://www.unusual.vc/\">Unusual Ventures</a>. The investment values Railway as one of the most significant infrastructure startups to emerge during the AI boom, capitalizing on developer frustration with the complexity and cost of traditional platforms like <a href=\"https://aws.amazon.com/\">Amazon Web Services</a> and <a href=\"https://cloud.google.com/\">Google Cloud</a>.</p><p>&quot;As AI models get better at writing code, more and more people are asking the age-old question: where, and how, do I run my applications?&quot; said Jake Cooper, Railway&#x27;s 28-year-old founder and chief executive, in an exclusive interview with VentureBeat. &quot;The last generation of cloud primitives were slow and outdated, and now with AI moving everything faster, teams simply can&#x27;t keep up.&quot;</p><p>The funding is a dramatic acceleration for a company that has charted an unconventional path through the cloud computing industry. Railway raised just $24 million in total before this round, including a <a href=\"https://techcrunch.com/2022/05/31/railway-snags-20m-to-streamline-the-process-of-deploying-apps-and-services/\">$20 million Series A</a> from Redpoint in 2022. The company now processes more than 10 million deployments monthly and handles over one trillion requests through its edge network — metrics that rival far larger and better-funded competitors.</p><h2><b>Why three-minute deploy times have become unacceptable in the age of AI coding assistants</b></h2><p>Railway&#x27;s pitch rests on a simple observation: the tools developers use to deploy and manage software were designed for a slower era. A standard build-and-deploy cycle using <a href=\"https://station.railway.com/feedback/terraform-provider-954567d7\">Terraform</a>, the industry-standard infrastructure tool, takes two to three minutes. That delay, once tolerable, has become a critical bottleneck as AI coding assistants like <a href=\"https://claude.ai/login\">Claude</a>, <a href=\"https://chatgpt.com/\">ChatGPT</a>, and <a href=\"https://cursor.com/\">Cursor</a> can generate working code in seconds.</p><p>&quot;When godly intelligence is on tap and can solve any problem in three seconds, those amalgamations of systems become bottlenecks,&quot; Cooper told VentureBeat. &quot;What was really cool for humans to deploy in 10 seconds or less is now table stakes for agents.&quot;</p><p>The company claims its platform delivers deployments in under one second — fast enough to keep pace with AI-generated code. Customers report a tenfold increase in developer velocity and up to 65 percent cost savings compared to traditional cloud providers.</p><p>These numbers come directly from enterprise clients, not internal benchmarks. Daniel Lobaton, chief technology officer at G2X, a platform serving 100,000 federal contractors, measured deployment speed improvements of seven times faster and an 87 percent cost reduction after migrating to Railway. His infrastructure bill dropped from $15,000 per month to approximately $1,000.</p><p>&quot;The work that used to take me a week on our previous infrastructure, I can do in Railway in like a day,&quot; Lobaton said. &quot;If I want to spin up a new service and test different architectures, it would take so long on our old setup. In Railway I can launch six services in two minutes.&quot;</p><h2><b>Inside the controversial decision to abandon Google Cloud and build data centers from scratch</b></h2><p>What distinguishes <a href=\"https://railway.com/\">Railway</a> from competitors like <a href=\"https://render.com/\">Render</a> and <a href=\"http://fly.io\">Fly.io</a> is the depth of its vertical integration. In 2024, the company made the unusual decision to abandon Google Cloud entirely and build its own data centers, a move that echoes the famous Alan Kay maxim: &quot;People who are really serious about software should make their own hardware.&quot;</p><p>&quot;We wanted to design hardware in a way where we could build a differentiated experience,&quot; Cooper said. &quot;Having full control over the network, compute, and storage layers lets us do really fast build and deploy loops, the kind that allows us to move at &#x27;agentic speed&#x27; while staying 100 percent the smoothest ride in town.&quot;</p><p>The approach paid dividends during recent <a href=\"https://restofworld.org/2026/cloud-outages-2025-global-business-impact/\">widespread outages</a> that affected major cloud providers — Railway remained online throughout.</p><p>This soup-to-nuts control enables pricing that undercuts the hyperscalers by roughly 50 percent and newer cloud startups by three to four times. Railway charges by the second for actual compute usage: $0.00000386 per gigabyte-second of memory, $0.00000772 per vCPU-second, and $0.00000006 per gigabyte-second of storage. There are no charges for idle virtual machines — a stark contrast to the traditional cloud model where customers pay for provisioned capacity whether they use it or not.</p><p>&quot;The conventional wisdom is that the big guys have economies of scale to offer better pricing,&quot; Cooper noted. &quot;But when they&#x27;re charging for VMs that usually sit idle in the cloud, and we&#x27;ve purpose-built everything to fit much more density on these machines, you have a big opportunity.&quot;</p><h2><b>How 30 employees built a platform generating tens of millions in annual revenue</b></h2><p><a href=\"https://railway.com/\">Railway</a> has achieved its scale with a team of just 30 employees generating tens of millions in annual revenue — a ratio of revenue per employee that would be exceptional even for established software companies. The company grew revenue 3.5 times last year and continues to expand at 15 percent month-over-month.</p><p>Cooper emphasized that the fundraise was strategic rather than necessary. &quot;We&#x27;re default alive; there&#x27;s no reason for us to raise money,&quot; he said. &quot;We raised because we see a massive opportunity to accelerate, not because we needed to survive.&quot;</p><p>The company hired its first salesperson only last year and employs just two solutions engineers. Nearly all of Railway&#x27;s two million users discovered the platform through word of mouth — developers telling other developers about a tool that actually works.</p><p>&quot;We basically did the standard engineering thing: if you build it, they will come,&quot; Cooper recalled. &quot;And to some degree, they came.&quot;</p><h2><b>From side projects to Fortune 500 deployments: Railway&#x27;s unlikely corporate expansion</b></h2><p>Despite its grassroots developer community, Railway has made significant inroads into large organizations. The company claims that 31 percent of Fortune 500 companies now use its platform, though deployments range from company-wide infrastructure to individual team projects.</p><p>Notable customers include <a href=\"https://www.biltrewards.com/\">Bilt</a>, the loyalty program company; Intuit&#x27;s <a href=\"https://www.goco.io/\">GoCo</a> subsidiary; TripAdvisor&#x27;s <a href=\"https://www.cruisecritic.com/\">Cruise Critic</a>; and <a href=\"https://www.mgmresorts.com/en.html\">MGM Resorts</a>. <a href=\"https://www.ycombinator.com/companies/kernel\">Kernel</a>, a Y Combinator-backed startup providing AI infrastructure to over 1,000 companies, runs its entire customer-facing system on Railway for $444 per month.</p><p>&quot;At my previous company Clever, which sold for $500 million, I had six full-time engineers just managing AWS,&quot; said Rafael Garcia, Kernel&#x27;s chief technology officer. &quot;Now I have six engineers total, and they all focus on product. Railway is exactly the tool I wish I had in 2012.&quot;</p><p>For enterprise customers, <a href=\"https://railway.com/\">Railway</a> offers security certifications including SOC 2 Type 2 compliance and HIPAA readiness, with business associate agreements available upon request. The platform provides single sign-on authentication, comprehensive audit logs, and the option to deploy within a customer&#x27;s existing cloud environment through a &quot;bring your own cloud&quot; configuration.</p><p>Enterprise pricing starts at custom levels, with specific add-ons for extended log retention ($200 monthly), HIPAA BAAs ($1,000), enterprise support with SLOs ($2,000), and dedicated virtual machines ($10,000).</p><h2><b>The startup&#x27;s bold strategy to take on Amazon, Google, and a new generation of cloud rivals</b></h2><p>Railway enters a crowded market that includes not only the hyperscale cloud providers—Amazon Web Services, Microsoft Azure, and Google Cloud Platform—but also a growing cohort of developer-focused platforms like Vercel, Render, Fly.io, and Heroku.</p><p>Cooper argues that Railway&#x27;s competitors fall into two camps, neither of which has fully committed to the new infrastructure model that AI demands.</p><p>&quot;The hyperscalers have two competing systems, and they haven&#x27;t gone all-in on the new model because their legacy revenue stream is still printing money,&quot; he observed. &quot;They have this mammoth pool of cash coming from people who provision a VM, use maybe 10 percent of it, and still pay for the whole thing. To what end are they actually interested in going all the way in on a new experience if they don&#x27;t really need to?&quot;</p><p>Against startup competitors, Railway differentiates by covering the full infrastructure stack. &quot;We&#x27;re not just containers; we&#x27;ve got VM primitives, stateful storage, virtual private networking, automated load balancing,&quot; Cooper said. &quot;And we wrap all of this in an absurdly easy-to-use UI, with agentic primitives so agents can move 1,000 times faster.&quot;</p><p>The platform supports databases including PostgreSQL, MySQL, MongoDB, and Redis; provides up to 256 terabytes of persistent storage with over 100,000 input/output operations per second; and enables deployment to four global regions spanning the United States, Europe, and Southeast Asia. Enterprise customers can scale to 112 vCPUs and 2 terabytes of RAM per service.</p><h2><b>Why investors are betting that AI will create a thousand times more software than exists today</b></h2><p>Railway&#x27;s fundraise reflects broader investor enthusiasm for companies positioned to benefit from the AI coding revolution. As tools like <a href=\"https://github.com/features/copilot\">GitHub Copilot</a>, <a href=\"https://cursor.com/agents\">Cursor</a>, and <a href=\"https://claude.ai/login\">Claude</a> become standard fixtures in developer workflows, the volume of code being written — and the infrastructure needed to run it — is expanding dramatically.</p><p>&quot;The amount of software that&#x27;s going to come online over the next five years is unfathomable compared to what existed before — we&#x27;re talking a thousand times more software,&quot; Cooper predicted. &quot;All of that has to run somewhere.&quot;</p><p>The company has already integrated directly with AI systems, building what Cooper calls &quot;loops where Claude can hook in, call deployments, and analyze infrastructure automatically.&quot; Railway released a Model Context Protocol server in August 2025 that allows AI coding agents to deploy applications and manage infrastructure directly from code editors.</p><p>&quot;The notion of a developer is melting before our eyes,&quot; Cooper said. &quot;You don&#x27;t have to be an engineer to engineer things anymore — you just need critical thinking and the ability to analyze things in a systems capacity.&quot;</p><h2><b>What Railway plans to do with $100 million and zero marketing experience</b></h2><p><a href=\"https://railway.com/\">Railway</a> plans to use the new capital to expand its global data center footprint, grow its team beyond 30 employees, and build what Cooper described as a proper go-to-market operation for the first time in the company&#x27;s five-year history.</p><p>&quot;One of my mentors said you raise money when you can change the trajectory of the business,&quot; Cooper explained. &quot;We&#x27;ve built all the required substrate to scale indefinitely; what&#x27;s been holding us back is simply talking about it. 2026 is the year we play on the world stage.&quot;</p><p>The company&#x27;s investor roster reads like a who&#x27;s who of developer infrastructure. Angel investors include <a href=\"https://tom.preston-werner.com/\">Tom Preston-Werner,</a> co-founder of GitHub; <a href=\"https://rauchg.com/about\">Guillermo Rauch</a>, chief executive of Vercel; <a href=\"https://www.cockroachlabs.com/author/spencer-kimball/\">Spencer Kimball</a>, chief executive of Cockroach Labs; <a href=\"https://www.datadoghq.com/about/leadership/\">Olivier Pomel</a>, chief executive of Datadog; and <a href=\"https://sequoiacap.com/founder/jori-lallo/\">Jori Lallo</a>, co-founder of Linear.</p><p>The timing of Railway&#x27;s expansion coincides with what many in Silicon Valley view as a fundamental shift in how software gets made. Coding assistants are no longer experimental curiosities — they have become essential tools that millions of developers rely on daily. Each line of AI-generated code needs somewhere to run, and the incumbents, by Cooper&#x27;s telling, are too wedded to their existing business models to fully capitalize on the moment.</p><p>Whether <a href=\"https://railway.com/\">Railway</a> can translate developer enthusiasm into sustained enterprise adoption remains an open question. The cloud infrastructure market is littered with promising startups that failed to break the grip of Amazon, Microsoft, and Google. But Cooper, who previously worked as a software engineer at <a href=\"https://www.wolframalpha.com/\">Wolfram Alpha</a>, <a href=\"https://www.bloomberg.com/\">Bloomberg</a>, and <a href=\"https://www.uber.com/\">Uber</a> before founding Railway in 2020, seems unfazed by the scale of his ambition.</p><p>&quot;In five years, Railway [will be] the place where software gets created and evolved, period,&quot; he said. &quot;Deploy instantly, scale infinitely, with zero friction. That&#x27;s the prize worth playing for, and there&#x27;s no bigger one on offer.&quot;</p><p>For a company that built a $100 million business by doing the opposite of what conventional startup wisdom dictates — no marketing, no sales team, no venture hype—the real test begins now. Railway spent five years proving that developers would find a better mousetrap on their own. The next five will determine whether the rest of the world is ready to get on board.</p>"
+  },
+  {
+    "id": "99a74fa8e5c3257d",
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "source": "VentureBeat AI",
+    "publication_date": "Mon, 19 Jan 2026 14:00:00 GMT",
+    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "article_text": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its <a href=\"https://claude.com/pricing\">pricing</a> — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve.</p><p>Now, a free alternative is gaining traction. <a href=\"https://block.github.io/goose/\">Goose</a>, an open-source AI agent developed by <a href=\"https://block.xyz/\">Block</a> (the financial technology company formerly known as Square), offers nearly identical functionality to <a href=\"https://claude.com/product/claude-code\">Claude Code</a> but runs entirely on a user&#x27;s local machine. No subscription fees. No cloud dependency. No rate limits that reset every five hours.</p><p>&quot;Your data stays with you, period,&quot; said Parth Sareen, a software engineer who demonstrated the tool during a <a href=\"https://www.youtube.com/watch?v=WG10r2N0IwM\">recent livestream</a>. The comment captures the core appeal: Goose gives developers complete control over their AI-powered workflow, including the ability to work offline — even on an airplane.</p><p>The project has exploded in popularity. Goose now boasts more than <a href=\"https://github.com/block/goose\">26,100 stars on GitHub</a>, the code-sharing platform, with 362 contributors and 102 releases since its launch. The latest version, <a href=\"https://block.github.io/goose/docs/getting-started/installation\">1.20.1</a>, shipped on January 19, 2026, reflecting a development pace that rivals commercial products.</p><p>For developers frustrated by Claude Code&#x27;s pricing structure and usage caps, Goose represents something increasingly rare in the AI industry: a genuinely free, no-strings-attached option for serious work.</p><div></div><h2><b>Anthropic&#x27;s new rate limits spark a developer revolt</b></h2><p>To understand why <a href=\"https://block.github.io/goose/\">Goose</a> matters, you need to understand the <a href=\"https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/\">Claude Code pricing controversy</a>.</p><p>Anthropic, the San Francisco artificial intelligence company founded by former OpenAI executives, offers Claude Code as part of its subscription tiers. The free plan provides no access whatsoever. The <a href=\"https://www.anthropic.com/news/claude-pro\">Pro plan</a>, at $17 per month with annual billing (or $20 monthly), limits users to just 10 to 40 prompts every five hours — a constraint that serious developers exhaust within minutes of intensive work.</p><p>The <a href=\"https://support.claude.com/en/articles/11049741-what-is-the-max-plan\">Max plans</a>, at $100 and $200 per month, offer more headroom: 50 to 200 prompts and 200 to 800 prompts respectively, plus access to Anthropic&#x27;s most powerful model, <a href=\"https://www.anthropic.com/news/claude-opus-4-5\">Claude 4.5 Opus</a>. But even these premium tiers come with restrictions that have inflamed the developer community.</p><p>In late July, Anthropic announced new weekly rate limits. Under the system, Pro users receive 40 to 80 hours of Sonnet 4 usage per week. Max users at the $200 tier get 240 to 480 hours of Sonnet 4, plus 24 to 40 hours of Opus 4. Nearly five months later, the frustration has not subsided.</p><p>The problem? Those &quot;hours&quot; are not actual hours. They represent token-based limits that vary wildly depending on codebase size, conversation length, and the complexity of the code being processed. Independent analysis suggests the actual per-session limits translate to roughly 44,000 tokens for Pro users and 220,000 tokens for the $200 Max plan.</p><p>&quot;It&#x27;s confusing and vague,&quot; one developer wrote in a <a href=\"https://userjot.com/blog/claude-code-pricing-200-dollar-plan-worth-it\">widely shared analysis</a>. &quot;When they say &#x27;24-40 hours of Opus 4,&#x27; that doesn&#x27;t really tell you anything useful about what you&#x27;re actually getting.&quot;</p><p>The <a href=\"https://www.reddit.com/r/Anthropic/comments/1mbo4uw/claude_code_max_new_weekly_rate_limits/\">backlash on Reddit</a> and <a href=\"https://venturebeat.com/ai/anthropic-throttles-claude-rate-limits-devs-call-foul\">developer forums</a> has been fierce. Some users report hitting their daily limits within 30 minutes of intensive coding. Others have canceled their subscriptions entirely, calling the new restrictions &quot;a joke&quot; and &quot;unusable for real work.&quot;</p><p>Anthropic has defended the changes, stating that the limits affect fewer than five percent of users and target people running Claude Code &quot;<a href=\"https://techcrunch.com/2025/07/28/anthropic-unveils-new-rate-limits-to-curb-claude-code-power-users/\">continuously in the background, 24/7</a>.&quot; But the company has not clarified whether that figure refers to five percent of Max subscribers or five percent of all users — a distinction that matters enormously.</p><h2><b>How Block built a free AI coding agent that works offline</b></h2><p><a href=\"https://block.github.io/goose/\">Goose</a> takes a radically different approach to the same problem.</p><p>Built by <a href=\"https://block.xyz/\">Block</a>, the payments company led by Jack Dorsey, Goose is what engineers call an &quot;<a href=\"https://github.com/block/goose\">on-machine AI agent</a>.&quot; Unlike Claude Code, which sends your queries to Anthropic&#x27;s servers for processing, Goose can run entirely on your local computer using open-source language models that you download and control yourself.</p><p>The project&#x27;s documentation describes it as going &quot;<a href=\"https://github.com/block/goose\">beyond code suggestions</a>&quot; to &quot;install, execute, edit, and test with any LLM.&quot; That last phrase — &quot;any LLM&quot; — is the key differentiator. Goose is model-agnostic by design.</p><p>You can connect Goose to Anthropic&#x27;s <a href=\"https://platform.claude.com/docs/en/about-claude/models/overview\">Claude models</a> if you have <a href=\"https://claude.com/platform/api\">API access</a>. You can use OpenAI&#x27;s <a href=\"https://platform.openai.com/docs/models/gpt-5\">GPT-5</a> or Google&#x27;s <a href=\"https://ai.google.dev/gemini-api/docs\">Gemini</a>. You can route it through services like <a href=\"https://groq.com/\">Groq</a> or <a href=\"https://openrouter.ai/\">OpenRouter</a>. Or — and this is where things get interesting — you can run it entirely locally using tools like <a href=\"https://ollama.com/\">Ollama</a>, which let you download and execute open-source models on your own hardware.</p><p>The practical implications are significant. With a local setup, there are no subscription fees, no usage caps, no rate limits, and no concerns about your code being sent to external servers. Your conversations with the AI never leave your machine.</p><p>&quot;I use Ollama all the time on planes — it&#x27;s a lot of fun!&quot; <a href=\"https://www.youtube.com/watch?v=WG10r2N0IwM\">Sareen noted</a> during a demonstration, highlighting how local models free developers from the constraints of internet connectivity.</p><h2><b>What Goose can do that traditional code assistants can&#x27;t</b></h2><p><a href=\"https://block.github.io/goose/\">Goose</a> operates as a command-line tool or desktop application that can autonomously perform complex development tasks. It can build entire projects from scratch, write and execute code, debug failures, orchestrate workflows across multiple files, and interact with external APIs — all without constant human oversight.</p><p>The architecture relies on what the AI industry calls &quot;<a href=\"https://www.ibm.com/think/topics/tool-calling\">tool calling</a>&quot; or &quot;<a href=\"https://platform.openai.com/docs/guides/function-calling?api-mode=chat\">function calling</a>&quot; — the ability for a language model to request specific actions from external systems. When you ask <a href=\"https://block.github.io/goose/\">Goose</a> to create a new file, run a test suite, or check the status of a GitHub pull request, it doesn&#x27;t just generate text describing what should happen. It actually executes those operations.</p><p>This capability depends heavily on the underlying language model. <a href=\"https://platform.claude.com/docs/en/about-claude/models/overview\">Claude 4 models</a> from Anthropic currently perform best at tool calling, according to the <a href=\"https://gorilla.cs.berkeley.edu/leaderboard.html\">Berkeley Function-Calling Leaderboard</a>, which ranks models on their ability to translate natural language requests into executable code and system commands.</p><p>But newer open-source models are catching up quickly. Goose&#x27;s documentation highlights several options with strong tool-calling support: Meta&#x27;s <a href=\"https://www.llama.com/\">Llama series</a>, Alibaba&#x27;s <a href=\"https://qwen.ai/home\">Qwen models</a>, Google&#x27;s <a href=\"https://deepmind.google/models/gemma/\">Gemma variants</a>, and DeepSeek&#x27;s <a href=\"https://huggingface.co/deepseek-ai/DeepSeek-R1\">reasoning-focused architectures</a>.</p><p>The tool also integrates with the <a href=\"https://modelcontextprotocol.io/docs/getting-started/intro\">Model Context Protocol</a>, or MCP, an emerging standard for connecting AI agents to external services. Through MCP, Goose can access databases, search engines, file systems, and third-party APIs — extending its capabilities far beyond what the base language model provides.</p><h2><b>Setting Up Goose with a Local Model</b></h2><p>For developers interested in a completely free, privacy-preserving setup, the process involves three main components: <a href=\"https://block.github.io/goose/\">Goose</a> itself, <a href=\"https://ollama.com/\">Ollama</a> (a tool for running open-source models locally), and a compatible language model.</p><p><b>Step 1: Install Ollama</b></p><p><a href=\"https://ollama.com/\">Ollama</a> is an open-source project that dramatically simplifies the process of running large language models on personal hardware. It handles the complex work of downloading, optimizing, and serving models through a simple interface.</p><p>Download and install Ollama from <a href=\"http://ollama.com\">ollama.com</a>. Once installed, you can pull models with a single command. For coding tasks, <a href=\"https://qwen.ai/blog?id=qwen2.5-max\">Qwen 2.5</a> offers strong tool-calling support:</p><p>ollama run qwen2.5</p><p>The model downloads automatically and begins running on your machine.</p><p><b>Step 2: Install Goose</b></p><p><a href=\"https://block.github.io/goose/\">Goose</a> is available as both a desktop application and a command-line interface. The desktop version provides a more visual experience, while the CLI appeals to developers who prefer working entirely in the terminal.</p><p>Installation instructions vary by operating system but generally involve downloading from Goose&#x27;s <a href=\"https://github.com/block/goose\">GitHub releases page</a> or using a package manager. Block provides pre-built binaries for macOS (both Intel and Apple Silicon), Windows, and Linux.</p><p><b>Step 3: Configure the Connection</b></p><p>In Goose Desktop, navigate to Settings, then Configure Provider, and select Ollama. Confirm that the API Host is set to http://localhost:11434 (Ollama&#x27;s default port) and click Submit.</p><p>For the command-line version, run goose configure, select &quot;Configure Providers,&quot; choose Ollama, and enter the model name when prompted.</p><p>That&#x27;s it. Goose is now connected to a language model running entirely on your hardware, ready to execute complex coding tasks without any subscription fees or external dependencies.</p><h2><b>The RAM, processing power, and trade-offs you should know about</b></h2><p>The obvious question: what kind of computer do you need?</p><p>Running large language models locally requires substantially more computational resources than typical software. The key constraint is memory — specifically, RAM on most systems, or VRAM if using a dedicated graphics card for acceleration.</p><p>Block&#x27;s <a href=\"https://block.github.io/goose/docs/category/guides\">documentation</a> suggests that 32 gigabytes of RAM provides &quot;a solid baseline for larger models and outputs.&quot; For Mac users, this means the computer&#x27;s unified memory is the primary bottleneck. For Windows and Linux users with discrete NVIDIA graphics cards, GPU memory (VRAM) matters more for acceleration.</p><p>But you don&#x27;t necessarily need expensive hardware to get started. Smaller models with fewer parameters run on much more modest systems. <a href=\"https://qwen.ai/blog?id=qwen2.5-max\">Qwen 2.5</a>, for instance, comes in multiple sizes, and the smaller variants can operate effectively on machines with 16 gigabytes of RAM.</p><p>&quot;You don&#x27;t need to run the largest models to get excellent results,&quot; <a href=\"https://www.youtube.com/watch?v=WG10r2N0IwM\">Sareen emphasized</a>. The practical recommendation: start with a smaller model to test your workflow, then scale up as needed.</p><p>For context, Apple&#x27;s entry-level <a href=\"https://www.apple.com/macbook-air/\">MacBook Air</a> with 8 gigabytes of RAM would struggle with most capable coding models. But a <a href=\"https://www.apple.com/macbook-pro/\">MacBook Pro</a> with 32 gigabytes — increasingly common among professional developers — handles them comfortably.</p><h2><b>Why keeping your code off the cloud matters more than ever</b></h2><p><a href=\"https://block.github.io/goose/\">Goose</a> with a local LLM is not a perfect substitute for <a href=\"https://claude.com/product/claude-code\">Claude Code</a>. The comparison involves real trade-offs that developers should understand.</p><p><b>Model Quality</b>: <a href=\"https://www.anthropic.com/news/claude-opus-4-5\">Claude 4.5 Opus</a>, Anthropic&#x27;s flagship model, remains arguably the most capable AI for software engineering tasks. It excels at understanding complex codebases, following nuanced instructions, and producing high-quality code on the first attempt. Open-source models have improved dramatically, but a gap persists — particularly for the most challenging tasks.</p><p>One developer who switched to the $200 Claude Code plan <a href=\"https://userjot.com/blog/claude-code-pricing-200-dollar-plan-worth-it\">described the difference bluntly</a>: &quot;When I say &#x27;make this look modern,&#x27; Opus knows what I mean. Other models give me Bootstrap circa 2015.&quot;</p><p><b>Context Window</b>: <a href=\"https://www.anthropic.com/news/claude-sonnet-4-5\">Claude Sonnet 4.5</a>, accessible through the API, offers a massive one-million-token context window — enough to load entire large codebases without chunking or context management issues. Most local models are limited to 4,096 or 8,192 tokens by default, though many can be configured for longer contexts at the cost of increased memory usage and slower processing.</p><p><b>Speed</b>: Cloud-based services like <a href=\"https://claude.com/product/claude-code\">Claude Code</a> run on dedicated server hardware optimized for AI inference. Local models, running on consumer laptops, typically process requests more slowly. The difference matters for iterative workflows where you&#x27;re making rapid changes and waiting for AI feedback.</p><p><b>Tooling Maturity</b>: <a href=\"https://claude.com/product/claude-code\">Claude Code</a> benefits from Anthropic&#x27;s dedicated engineering resources. Features like prompt caching (which can reduce costs by up to 90 percent for repeated contexts) and structured outputs are polished and well-documented. <a href=\"https://block.github.io/goose/\">Goose</a>, while actively developed with 102 releases to date, relies on community contributions and may lack equivalent refinement in specific areas.</p><h2><b>How Goose stacks up against Cursor, GitHub Copilot, and the paid AI coding market</b></h2><p>Goose enters a crowded market of AI coding tools, but occupies a distinctive position.</p><p><a href=\"https://cursor.com/\">Cursor</a>, a popular AI-enhanced code editor, charges $20 per month for its <a href=\"https://cursor.com/pricing\">Pro tier</a> and $200 for <a href=\"https://cursor.com/pricing\">Ultra</a>—pricing that mirrors <a href=\"https://claude.com/pricing\">Claude Code&#x27;s Max plans</a>. Cursor provides approximately 4,500 Sonnet 4 requests per month at the Ultra level, a substantially different allocation model than Claude Code&#x27;s hourly resets.</p><p><a href=\"https://cline.bot/\">Cline</a>, <a href=\"https://roocode.com/\">Roo Code</a>, and similar open-source projects offer AI coding assistance but with varying levels of autonomy and tool integration. Many focus on code completion rather than the agentic task execution that defines Goose and Claude Code.</p><p>Amazon&#x27;s <a href=\"https://aws.amazon.com/blogs/aws/now-in-preview-amazon-codewhisperer-ml-powered-coding-companion/\">CodeWhisperer</a>, <a href=\"https://github.com/features/copilot\">GitHub Copilot</a>, and enterprise offerings from major cloud providers target large organizations with complex procurement processes and dedicated budgets. They are less relevant to individual developers and small teams seeking lightweight, flexible tools.</p><p>Goose&#x27;s combination of genuine autonomy, model agnosticism, local operation, and zero cost creates a unique value proposition. The tool is not trying to compete with commercial offerings on polish or model quality. It&#x27;s competing on freedom — both financial and architectural.</p><h2><b>The $200-a-month era for AI coding tools may be ending</b></h2><p>The AI coding tools market is evolving quickly. Open-source models are improving at a pace that continually narrows the gap with proprietary alternatives. Moonshot AI&#x27;s <a href=\"https://www.kimi.com/en\">Kimi K2</a> and z.ai&#x27;s <a href=\"https://z.ai/blog/glm-4.5\">GLM 4.5</a> now benchmark near <a href=\"https://www.anthropic.com/news/claude-4\">Claude Sonnet 4 levels</a> — and they&#x27;re freely available.</p><p>If this trajectory continues, the quality advantage that justifies Claude Code&#x27;s premium pricing may erode. Anthropic would then face pressure to compete on features, user experience, and integration rather than raw model capability.</p><p>For now, developers face a clear choice. Those who need the absolute best model quality, who can afford premium pricing, and who accept usage restrictions may prefer <a href=\"https://claude.com/product/claude-code\">Claude Code</a>. Those who prioritize cost, privacy, offline access, and flexibility have a genuine alternative in <a href=\"https://block.github.io/goose/\">Goose</a>.</p><p>The fact that a $200-per-month commercial product has a zero-dollar open-source competitor with comparable core functionality is itself remarkable. It reflects both the maturation of open-source AI infrastructure and the appetite among developers for tools that respect their autonomy.</p><p>Goose is not perfect. It requires more technical setup than commercial alternatives. It depends on hardware resources that not every developer possesses. Its model options, while improving rapidly, still trail the best proprietary offerings on complex tasks.</p><p>But for a growing community of developers, those limitations are acceptable trade-offs for something increasingly rare in the AI landscape: a tool that truly belongs to them.</p><hr /><p><i>Goose is available for download at </i><a href=\"http://github.com/block/goose\"><i>github.com/block/goose</i></a><i>. Ollama is available at </i><a href=\"http://ollama.com\"><i>ollama.com</i></a><i>. Both projects are free and open source.</i></p>"
+  },
+  {
+    "id": "7750fe415e7d78b5",
+    "title": "Trump’s EPA wants to let data centers hide their air pollution",
+    "source": "The Verge AI",
+    "publication_date": "2026-08-28T12:28:40-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+    "article_text": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites [&#8230;]"
+  },
+  {
+    "id": "06a4d38d1bd65b9b",
+    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+    "source": "The Verge AI",
+    "publication_date": "2026-08-27T23:14:06-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+    "article_text": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red [&#8230;]"
+  },
+  {
+    "id": "e056252ba19a5071",
+    "title": "Google’s AI note-taking app now allows you to interact with books",
+    "source": "The Verge AI",
+    "publication_date": "2026-08-27T15:30:00-04:00",
+    "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+    "article_text": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate plans, infographics, AI podcasts, and more based on their [&#8230;]"
+  },
+  {
+    "id": "92832207d3d2bf83",
+    "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+    "source": "The Verge AI",
+    "publication_date": "2026-08-27T12:15:52-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+    "article_text": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the supposed finish line of the AI race, there is no consensus [&#8230;]"
+  },
+  {
+    "id": "99c07b5e58f4379e",
+    "title": "OpenAI&#8217;s executive exodus has one big winner",
+    "source": "The Verge AI",
+    "publication_date": "2026-08-27T10:00:00-04:00",
+    "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+    "article_text": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg Brockman, the company’s president. While Sam Altman is the CEO and still OpenAI’s most public face, Brockman has amassed [&#8230;]"
+  },
+  {
+    "id": "60eee81c5fca939c",
+    "title": "Hugging Face’s new robot is an adorable rollerskating duck",
+    "source": "The Verge AI",
+    "publication_date": "2026-08-27T09:44:00-04:00",
+    "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
+    "article_text": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue, and Pollen Robotics says it plans to start shipping the little robot \"before Christmas 2026.\" Video demos of the [&#8230;]"
+  },
+  {
+    "id": "58b7bb6f4dbd3b9e",
+    "title": "Plaud is launching AI earbuds",
+    "source": "The Verge AI",
+    "publication_date": "2026-08-27T09:11:23-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+    "article_text": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition can be worn like traditional earbuds or used through its standalone charging case, and the case includes built-in 4G to upload and process [&#8230;]"
+  },
+  {
+    "id": "adc17ded0689e328",
+    "title": "Adobe is adding more AI to Photoshop",
+    "source": "The Verge AI",
+    "publication_date": "2026-08-27T09:00:00-04:00",
+    "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
+    "article_text": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's AI features in a single toolbar, including its prompt-based image editor, background remover, an AI image extender, and more. There are also [&#8230;]"
+  },
+  {
+    "id": "b9ce01e97ba793c8",
+    "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+    "source": "The Verge AI",
+    "publication_date": "2026-08-26T17:40:53-04:00",
+    "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+    "article_text": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report that it brought in a record $96.2 billion [&#8230;]"
+  },
+  {
+    "id": "1d6661841b379093",
+    "title": "OpenAI’s rogue AI model incident was worse than we thought",
+    "source": "The Verge AI",
+    "publication_date": "2026-08-26T17:36:06-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+    "article_text": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for OpenAI to [&#8230;]"
+  },
+  {
+    "id": "e2bcb27bd4e9fa13",
+    "title": "Print management outfit PaperCut is under 0-day attack, and it’s drawing customers’ blood",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-28T07:15:22Z",
+    "url": "https://biztoc.com/x/a535043f2d352d86",
+    "article_text": "SYSTEMS Nvidia and Cerebras are selling performance their customers will (probably) never seeTouting batch 1 token generation is a bit like boasting about the top speed of your car- \r\nsoftware Google… [+146 chars]"
+  },
+  {
+    "id": "d4688b53ca627868",
+    "title": "Alphabet Stock: Is GOOGL Underperforming the Technology Sector?",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-28T07:15:04Z",
+    "url": "https://biztoc.com/x/f1382264c7cffba2",
+    "article_text": "is a global technology powerhouse built around the Google ecosystem, with businesses spanning digital advertising, search, cloud computing, YouTube, Android, and artificial intelligence.With a market… [+142 chars]"
+  },
+  {
+    "id": "3924c46e1aa9500f",
+    "title": "Exec couldn’t identify a photocopier, which made for a fax-inating tech support call",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-28T07:15:02Z",
+    "url": "https://biztoc.com/x/dd4a2d93d1120cc7",
+    "article_text": "SYSTEMS Nvidia and Cerebras are selling performance their customers will (probably) never seeTouting batch 1 token generation is a bit like boasting about the top speed of your car- \r\nsoftware Google… [+146 chars]"
+  },
+  {
+    "id": "e7ec8596b7e80509",
+    "title": "meerax 1.0.1",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-28T07:13:41Z",
+    "url": "https://pypi.org/project/meerax/1.0.1/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "bec647265d3cfb12",
+    "title": " FC Ptit Dej: from Millionaire to the Champions League ",
+    "source": "Onefootball.com",
+    "publication_date": "2026-08-28T07:13:00Z",
+    "url": "https://onefootball.com/en/news/fc-ptit-dej-from-millionaire-to-the-champions-league-43353615",
+    "article_text": "This is the ultimate underdog of the 2026-2027 Champions League: Sabah Football Club, an Azerbaijani club founded in 2017, will play in the greatest competition of all for the very first time in its … [+1049 chars]"
+  },
+  {
+    "id": "a476117b5a620337",
+    "title": "Anthropic wins key ruling as judge voids Pentagon blacklist",
+    "source": "Digitimes",
+    "publication_date": "2026-08-28T07:11:50Z",
+    "url": "https://www.digitimes.com/news/a20260828PD231/anthropic-blacklist-security-technology-government.html",
+    "article_text": "Keep me signed in\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the… [+288 chars]"
+  },
+  {
+    "id": "bee58bced70de6ea",
+    "title": "Show HN: AI Game Playtester",
+    "source": "Ziva.sh",
+    "publication_date": "2026-08-28T07:06:59Z",
+    "url": "https://ziva.sh/full-game-tester",
+    "article_text": "01Reads your code first\r\nAnalyzes the game code to figure out how to accomplish the goal, and where to add temporary hooks + logging to execute.\r\n02Launches it, then freezes it\r\nLLMs don't work in re… [+605 chars]"
+  },
+  {
+    "id": "4e17a0fe142fd9f2",
+    "title": "ElseLane – Ship AI answers with automatic multi-provider failover",
+    "source": "Betalist.com",
+    "publication_date": "2026-08-28T07:05:00Z",
+    "url": "https://betalist.com/startups/elselane",
+    "article_text": "ElseLane is an AI API that classifies prompts, routes requests across multiple LLM providers, and fails over automatically when a model errors or times out. You send a single prompt and key, and it r… [+249 chars]"
+  },
+  {
+    "id": "ad682362bdca8653",
+    "title": "Another AI open letter arrives, but this one is different for a reason",
+    "source": "Business Standard",
+    "publication_date": "2026-08-28T07:04:15Z",
+    "url": "https://www.business-standard.com/technology/artificial-intelligence/collective-cyber-defence-openai-100-companies-ai-cyber-threats-126082800477_1.html",
+    "article_text": "Backed by over 100 organisations, OpenAI's letter calls on tech firms, governments and AI developers to strengthen cyber defences as AI raises capabilities for both attackers and defenders\r\nOpenAI an… [+8405 chars]"
+  },
+  {
+    "id": "41ee1bdd1bf69bd7",
+    "title": "terradev-cli 6.2.3",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-28T07:03:22Z",
+    "url": "https://pypi.org/project/terradev-cli/6.2.3/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "0707a9b8a6637b27",
+    "title": "Visa Expands Support for its Clients and the Industry as Organisations Navigate New AI Era of Cybersecurity",
+    "source": "BusinessLine",
+    "publication_date": "2026-08-28T07:01:14Z",
+    "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-expands-support-for-its-clients-and-the-industry-as-organisations-navigate-new-ai-era-of-cybersecurity/article71399467.ece",
+    "article_text": "Latest Visa Vulnerability Agentic Harness release moves AI-powered cyber risk management from discovery to validated remediation\r\nNew services from Visa Consulting &amp; Analytics help clients identi… [+6518 chars]"
+  },
+  {
+    "id": "42d69b22e9e599c0",
+    "title": "Zacks Investment Ideas feature highlights: QQQ, NVIDIA, CoreWeave, Nebius, TeraWulf, Cipher and IREN",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-28T07:01:05Z",
+    "url": "https://biztoc.com/x/4b5c67aa5533381d",
+    "article_text": "Zacks Investment Ideas feature highlights: QQQ, NVIDIA, CoreWeave, Nebius, TeraWulf, Cipher and IRENFor Immediate ReleaseChicago, IL August 28, 2026 Today, Zacks Investment Ideas features Nasdaq 100 … [+140 chars]"
+  },
+  {
+    "id": "dbf48842def78bdf",
+    "title": "Bridge founder Zach Abrams sees an opportunity for ‘tokenized local currencies’ across Asia",
+    "source": "Fortune",
+    "publication_date": "2026-08-28T07:00:00Z",
+    "url": "https://fortune.com/2026/08/28/bridge-founder-zach-abrams-stripe-stablecoins-asia-singapore-dollars/",
+    "article_text": "Zach Abrams, the founder of stablecoin company Bridge, admits he was surprised when the bulk of his business ended up coming from non-U.S. markets in Latin America, Europe, and Africa. We were very U… [+4129 chars]"
+  },
+  {
+    "id": "bc7c527df0fe5132",
+    "title": "MIT AI Report Calls for Alternative Grading, More Social Learning",
+    "source": "Inside Higher Ed",
+    "publication_date": "2026-08-28T07:00:00Z",
+    "url": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/08/28/mit-ai-report-calls-alternative-grading",
+    "article_text": "A Massachusetts Institute of Technology student, faculty and staff committee released its report on artificial intelligence earlier this month, declaring that AI is upending foundational elements of … [+5036 chars]"
+  },
+  {
+    "id": "f1c32b6bbf104833",
+    "title": "Why ‘equal weight’ S&P 500 funds are having a moment—and are up almost 16% this year alone",
+    "source": "Fortune",
+    "publication_date": "2026-08-28T07:00:00Z",
+    "url": "https://fortune.com/2026/08/28/why-equal-weight-sp-500-funds-having-moment-up-almost-16-this-year-alone/",
+    "article_text": "If you have part of your portfolio in an S&amp;P 500 index fund, youre probably patting yourself on the back for the 12%-plus performance youve already notched this year. But you could have done even… [+3627 chars]"
+  },
+  {
+    "id": "f691e207fa2574a8",
+    "title": "What Next: TBD | Tech, power, and the future - A.I. Enshittifies Everything (Still)",
+    "source": "Acast.com",
+    "publication_date": "2026-08-28T07:00:00Z",
+    "url": "https://shows.acast.com/whatnext-tbd-tech-power-and-the-future/episodes/ai-enshittifies-everything-still",
+    "article_text": "Through stealing your job or simply tanking the stock marketwhichever comes firstthe rise of artificial intelligence (companies) is a very futuristic sounding problem. It may have some very old-fashi… [+950 chars]"
+  },
+  {
+    "id": "b72e033978575a43",
+    "title": "2026 TIME100 AI: Meet Sunny Gandhi, the advocate pushing for stronger safeguards as AI enters critical systems",
+    "source": "The Times of India",
+    "publication_date": "2026-08-28T06:59:47Z",
+    "url": "https://timesofindia.indiatimes.com/education/news/2026-time100-ai-meet-sunny-gandhi-the-advocate-pushing-for-stronger-safeguards-as-ai-enters-critical-systems/articleshow/133585673.cms",
+    "article_text": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>2026 TIME100 AI: Meet Sunny Gandhi, the advocate pushing for stronger safeguards as AI enters critical systems</li></ul>\r\nFollow Us On S… [+3667 chars]"
+  },
+  {
+    "id": "691531ed8532a5a2",
+    "title": "Is NVIDIA Stock Outperforming the Nasdaq?",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-28T06:59:39Z",
+    "url": "https://biztoc.com/x/9c6a649069d8729a",
+    "article_text": "Headquartered in Santa Clara, California, NVIDIA Corporation (NVDA) designs advanced chips, networking systems, and software that power data centers, cloud platforms, and increasingly, the next gener… [+147 chars]"
+  },
+  {
+    "id": "907d8d152b1d6bc9",
+    "title": "US judge blocks Pentagon blacklisting of AI firm Anthropic",
+    "source": "Al Jazeera English",
+    "publication_date": "2026-08-28T06:58:44Z",
+    "url": "https://www.aljazeera.com/news/2026/8/28/us-judge-blocks-pentagon-blacklisting-of-ai-firm-anthropic",
+    "article_text": "A United States judge has blocked the Pentagons blacklisting of technology company Anthropic.\r\nIn a 59-page written order issued on Thursday night, District Judge Rita Lin ruled that the Department o… [+2600 chars]"
+  },
+  {
+    "id": "65ab7710f080ae28",
+    "title": "Amazon Bedrockのきめ細かなコスト配分の導入",
+    "source": "Amazon.com",
+    "publication_date": "2026-08-28T06:57:05Z",
+    "url": "https://aws.amazon.com/jp/blogs/news/introducing-granular-cost-attribution-for-amazon-bedrock/",
+    "article_text": "2026417Introducing granular cost attribution for Amazon Bedrock\r\nAI Amazon Bedrock \r\nAmazon Bedrock API IAM IAM IAM Okta Entra ID ID AWS Billing AWS Cost Explorer AWS Cost and Usage Reports (CUR 2.0)… [+8850 chars]"
+  },
+  {
+    "id": "ca8e12178a2915a5",
+    "title": "Universities urged to boost role in knowledge creation amid AI era",
+    "source": "Antaranews.com",
+    "publication_date": "2026-08-28T06:55:10Z",
+    "url": "https://en.antaranews.com/news/428851/universities-urged-to-boost-role-in-knowledge-creation-amid-ai-era",
+    "article_text": "Jakarta (ANTARA) - Indonesia's Higher Education, Science, and Technology Ministry has urged universities to strengthen their role as centers of knowledge creation, dissemination and human-resource de… [+1787 chars]"
+  },
+  {
+    "id": "8eb33d1e84514062",
+    "title": "rlinf-megatron-bridge 0.5.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-28T06:49:13Z",
+    "url": "https://pypi.org/project/rlinf-megatron-bridge/0.5.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "61708d37dda3e318",
+    "title": "router-maestro 0.8.2",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-28T06:48:18Z",
+    "url": "https://pypi.org/project/router-maestro/0.8.2/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "e843f19d1e10d924",
+    "title": "llm-rosetta 0.11.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-28T06:47:56Z",
+    "url": "https://pypi.org/project/llm-rosetta/0.11.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "66ccbb18be9a38ac",
+    "title": "2026 TIME100 AI: How Arvind Raman is shaping AI testing, standards and safety in the US",
+    "source": "The Times of India",
+    "publication_date": "2026-08-28T06:47:38Z",
+    "url": "https://timesofindia.indiatimes.com/education/news/2026-time100-ai-how-arvind-raman-is-shaping-ai-testing-standards-and-safety-in-the-us/articleshow/133585538.cms",
+    "article_text": "Follow Us On Social Media\r\nZelensky Under Pressure As Kyiv Erupts In Protests Over Corruption | WatchKaroline's White House Exit Takes Emotional Turn, Trump Aide Credits 'Angel, Blessing'Congress All… [+1500 chars]"
+  },
+  {
+    "id": "4b77c32ff02b30cc",
+    "title": "X Identified 200,000 Account China Bot Farm – 200 Accounts Were Anti US Data Centers",
+    "source": "Next Big Future",
+    "publication_date": "2026-08-28T06:45:54Z",
+    "url": "https://www.nextbigfuture.com/2026/08/x-identified-200000-account-china-bot-farm-200-accounts-were-anti-us-data-centers.html",
+    "article_text": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology… [+593 chars]"
+  },
+  {
+    "id": "fb5bf0b7d9d91d24",
+    "title": "meerax added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-28T06:43:10Z",
+    "url": "https://pypi.org/project/meerax/",
+    "article_text": "Shared ML utilities LLM providers, evaluation metrics, visualization, and report generation.\r\nUsed as an in-house dependency across all of Sameer Maurya's ML projects and organization.\r\nSource repo: … [+4086 chars]"
+  },
+  {
+    "id": "21a376b682fe76a6",
+    "title": "Amazon agrees deals to buy power from four Swedish wind farms",
+    "source": "Bloomberg",
+    "publication_date": "2026-08-28T06:38:24Z",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-28/amazon-strikes-four-wind-power-supply-deals-in-sweden",
+    "article_text": "Amazon.com Inc. signed long-term accords to buy electricity from four wind farms in Sweden to help meet power demand as the company expands capacity at its data centers in the Nordic nation. \r\nThe de… [+1378 chars]"
+  },
+  {
+    "id": "6568502c6829cb02",
+    "title": "US still pinning down AI approach as plans for self-regulating body reportedly stall",
+    "source": "Digitimes",
+    "publication_date": "2026-08-28T06:35:00Z",
+    "url": "https://www.digitimes.com/news/a20260828VL212/usa-ai-regulation-ban.html",
+    "article_text": "Keep me signed in\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the… [+288 chars]"
+  },
+  {
+    "id": "279bf8713259e2c5",
+    "title": "2026 TIME100 AI: Meet Indian-origin lawyer Meetali Jain, who is challenging AI companies over chatbot harms",
+    "source": "The Times of India",
+    "publication_date": "2026-08-28T06:33:43Z",
+    "url": "https://timesofindia.indiatimes.com/education/news/2026-time100-ai-meet-indian-origin-lawyer-meetali-jain-who-is-challenging-ai-companies-over-chatbot-harms/articleshow/133585323.cms",
+    "article_text": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>2026 TIME100 AI: Meet Indian-origin lawyer Meetali Jain, who is challenging AI companies over chatbot harms</li></ul>\r\nFollow Us On Soci… [+124 chars]"
+  },
+  {
+    "id": "b135b431acf0cccf",
+    "title": "X claims it found a Chinese bot farm posting anti-AI data center sentiments",
+    "source": "Slashdot.org",
+    "publication_date": "2026-08-28T06:33:16Z",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185240362",
+    "article_text": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+  },
+  {
+    "id": "b21650d9a9f75b07",
+    "title": "「AI博覧会 Summer 2026」2日間で8,739名が来場！ヒューマノイドや国産LLMに熱視線、最新AIの社会実装が新宿に集結",
+    "source": "Prtimes.jp",
+    "publication_date": "2026-08-28T06:31:25Z",
+    "url": "https://prtimes.jp/main/html/rd/p/000000830.000053344.html",
+    "article_text": "AIAIsmiley 2026826272 AI Summer 2026\r\n28,73914,24524,494\r\nAILLMAIAI2\r\nAI\r\n80200LLMAIAIAI-OCRAIAI\r\nAI\r\nDEEPRobotics DR02DEEPRobotics Lynx M20 Pro\r\ncinnamon 1cinnamon mini \r\nAPTOAI\r\nAI\r\n40AILLMAI\r\n240A… [+645 chars]"
+  },
+  {
+    "id": "dcc5f10679a32725",
+    "title": "Stock Trades Up, Here Is Why",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-28T06:31:02Z",
+    "url": "https://biztoc.com/x/65530aaec037dc54",
+    "article_text": "What Happened? Shares of voice AI technology company SoundHound AI (NASDAQ:SOUN) jumped 4% in the afternoon session after quarterly earnings and upbeat corporate commentary signaled that artificial i… [+150 chars]"
+  },
+  {
+    "id": "3aa7e9cc33d26e62",
+    "title": "SpaceX・Google・Facebook元コミュニケーション責任者が日本初講演！AI時代の広報のあり方とは｜PR TIMESカレッジ開催決定",
+    "source": "Prtimes.jp",
+    "publication_date": "2026-08-28T06:30:00Z",
+    "url": "https://prtimes.jp/main/html/rd/p/000001694.000000112.html",
+    "article_text": "PR TIMES PR TIMES3922PRPR TIMES Vol.1120261081095\r\nSpaceXGoogle DeepMindFacebookDex Hunter-TorrickePR TIMESVol.11\r\n2026101() 8592026105() 2359\r\nPR TIMES20182105000PRPR TIMESPR\r\nPR TIMESVol.10 \r\nVol.1… [+1323 chars]"
+  },
+  {
+    "id": "eee3e947104d23bd",
+    "title": "America’s Power Grid Is Under Pressure. Here’s What Business Owners Need to Know.",
+    "source": "Entrepreneur",
+    "publication_date": "2026-08-28T06:30:00Z",
+    "url": "https://www.entrepreneur.com/business-news/tech/americas-power-grid-is-under-pressure-heres-what-business-owners-need-to-know",
+    "article_text": "Opinions expressed by Entrepreneur contributors are their own.Key Takeaways\r\n<ul><li>The rapid growth of data centers, EV charging and reshored manufacturing is putting unprecedented pressure on the … [+7955 chars]"
+  },
+  {
+    "id": "8be1e61521c8598f",
+    "title": "Asian shares mostly gain after upbeat results for Nvidia and others lift US stocks",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-28T06:29:37Z",
+    "url": "https://biztoc.com/x/993a65cab779c978",
+    "article_text": "Asian shares mostly gain after upbeat results for Nvidia and others lift US stocksShares are mostly higher in Asia after Nvidia and other technology stocks led an advance on Wall StreetBANGKOK -- Sha… [+142 chars]"
+  },
+  {
+    "id": "c50b296d90ac8e3b",
+    "title": "pf-core 0.21.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-08-28T06:28:10Z",
+    "url": "https://pypi.org/project/pf-core/0.21.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "77d136575635fbb9",
+    "title": "Indices trade with minor gains; media shares jump",
+    "source": "Business Standard",
+    "publication_date": "2026-08-28T06:20:25Z",
+    "url": "https://www.business-standard.com/markets/capital-market-news/indices-trade-with-minor-gains-media-shares-jump-126082800415_1.html",
+    "article_text": "The key equity benchmarks traded with minor gains in the mid-morning trade Investor risk appetite improved as crude oil prices eased below the $90-per-barrel mark, providing some relief to sentiment.… [+5800 chars]"
+  },
+  {
+    "id": "476cd94ae29fb2c5",
+    "title": "Salesforce shares jump on strong earnings, raised FY27 outlook",
+    "source": "Economictimes.com",
+    "publication_date": "2026-08-28T06:17:36Z",
+    "url": "https://m.economictimes.com/markets/us-stocks/news/salesforce-shares-jump-on-strong-earnings-raised-fy27-outlook/salesforce-stock-surges-23/slideshow/133585416.cms",
+    "article_text": "Aug 28, 2026, 12:01:17 PM IST\r\nSalesforce shares jumped 22.6% on Thursday, marking the company’s second-biggest one-day gain ever. The rally followed better-than-expected fiscal second-quarter result… [+1908 chars]"
+  },
+  {
+    "id": "e266bd04b367c122",
+    "title": "India, Canada aim to conclude trade talks by 2026-end in bid to boost bilateral trade",
+    "source": "BusinessLine",
+    "publication_date": "2026-08-28T06:17:27Z",
+    "url": "https://www.thehindubusinessline.com/economy/india-canada-aim-to-conclude-trade-talks-by-2026-end-in-bid-to-boost-bilateral-trade/article71399250.ece",
+    "article_text": "In a bid to deepen bilateral economic and financial cooperation, India and Canada have said they are looking to conclude negotiations on a Comprehensive Economic Partnership Agreement by the end of 2… [+3424 chars]"
+  },
+  {
+    "id": "753a8d0d729cc532",
+    "title": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless'",
+    "source": "Abcnews.com",
+    "publication_date": "2026-08-28T06:16:59Z",
+    "url": "https://abcnews.com/Technology/wireStory/judge-pentagons-measures-anthropic-illegal-baseless-136020845",
+    "article_text": "A federal judge has ruled in favor of artificial intelligence company Anthropic in its legal battle against the Pentagon after the government labeled the company as a supply chain risk earlier this y… [+3430 chars]"
+  },
+  {
+    "id": "0ed376a85abd7c64",
+    "title": "Asian shares mostly gain after upbeat results for Nvidia and others lift US stocks",
+    "source": "Abcnews.com",
+    "publication_date": "2026-08-28T06:15:55Z",
+    "url": "https://abcnews.com/Business/wireStory/asian-shares-gain-after-upbeat-results-nvidia-lift-136021791",
+    "article_text": "BANGKOK -- Shares were mostly higher Friday in Asia after Nvidia and other technology stocks led an advance on Wall Street. \r\nSouth Koreas Kospi fell 1% to 6,841.50, while most other regional markets… [+3875 chars]"
+  },
+  {
+    "id": "0892588639912d0d",
+    "title": "WEX Details AI, Pricing and Buyback Push at Deutsche Bank Conference",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-28T06:15:37Z",
+    "url": "https://biztoc.com/x/fe128f42586c91ef",
+    "article_text": "WEX (NYSE:WEX) Chief Financial Officer Jagtar Narula outlined the company's growth priorities across mobility, corporate payments and benefits at the Deutsche Bank Technology Conference, emphasizing … [+145 chars]"
+  },
+  {
+    "id": "686ca6b303db842f",
+    "title": "Need spiritual guidance? Gurus join chatbot trend as people turn to AI for answers",
+    "source": "Abcnews.com",
+    "publication_date": "2026-08-28T06:15:34Z",
+    "url": "https://abcnews.com/Technology/wireStory/spiritual-guidance-gurus-join-chatbot-trend-people-turn-136022437",
+    "article_text": "CHENNAI, India -- When Kripa Vaidyanathans 27-year-old niece died in an Alaska car crash in 2024, her family in Chennai, India, felt shell-shocked. They questioned why this tragedy would befall them … [+7161 chars]"
+  },
+  {
+    "id": "5db89fc356c4e8d9",
+    "title": "Amplitude, GitLab, Doximity, Freshworks, and Sprinklr Shares Skyrocket, What You Need To Know",
+    "source": "Biztoc.com",
+    "publication_date": "2026-08-28T06:15:24Z",
+    "url": "https://biztoc.com/x/10743d4773ff6b99",
+    "article_text": "What Happened? A number of stocks jumped in the afternoon session after quarterly earnings and upbeat corporate commentary signaled that artificial intelligence is driving growth across enterprise so… [+146 chars]"
+  },
+  {
+    "id": "11c5dcb24c4fb157",
+    "title": "Pioneering sustainable water solutions in Asia-Pacific data centers",
+    "source": "Digitimes",
+    "publication_date": "2026-08-28T06:14:28Z",
+    "url": "https://www.digitimes.com/news/a20260828VL211/water-sustainability-asia-aws-2026.html",
+    "article_text": "At the Sustainability Environment Asia Conference 2026, Gunalan Kaniasan, principal for water resources in Asia-Pacific and Japan (APJC) at AWS, outlined strategies for water sustainability across th… [+23 chars]"
+  },
+  {
+    "id": "2b754f04f4aecfc7",
+    "title": "CNBC Daily Open: Waiting for Warsh",
+    "source": "CNBC",
+    "publication_date": "2026-08-28T06:14:12Z",
+    "url": "https://www.cnbc.com/2026/08/28/cnbc-daily-open-warsh.html",
+    "article_text": "Federal Reserve Chairman Kevin Warsh holds a press conference following a two-day meeting of the Federal Open Market Committee, as the Federal Reserve holds interest rates steady, at the Federal Rese… [+3640 chars]"
+  },
+  {
+    "id": "565ea2b51f367c1a",
+    "title": "Global Market: China stocks steady as property shares offset Biotech, chip losses",
+    "source": "The Times of India",
+    "publication_date": "2026-08-28T06:13:39Z",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-steady-as-property-shares-offset-biotech-chip-losses/articleshow/133584907.cms",
+    "article_text": "Chinese stocks were largely steady on Friday as gains in property shares helped offset declines in biotechnology and semiconductor stocks, while Hong Kong equities advanced following an overnight ral… [+2792 chars]"
+  },
+  {
+    "id": "1061c3f68a546c85",
+    "title": "Galaxy S26 FE vs. Galaxy S25 FE: One major upgrade and one unfortunate downgrade",
+    "source": "SamMobile",
+    "publication_date": "2026-08-28T06:10:39Z",
+    "url": "https://www.sammobile.com/news/galaxy-s26-fe-vs-galaxy-s25-fe-improvements-downgrades/",
+    "article_text": "The Galaxy S26 FE is Samsung's newest Fan Edition smartphone. As usual, it arrives with updated hardware, new software capabilities, and a brand-new version of One UI. If you are upgrading from an ol… [+3009 chars]"
+  }
+]
