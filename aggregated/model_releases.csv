@@ -1313,6 +1313,12 @@ Abstract: In light of strides in Arti cial Intelligence (AI) and its wide spread
 Abstract: NA methylation profiling has become a powerful approach for central nervous system (CNS) tumor classification, yet important challenges remain regarding cross-cohort transferability, methodological correctness, and robust multiclass evaluation. In ...",A Novel Machine Learning Approach for Central Nervous System Tumor Classification from DNA Methylation
 b1f6da12-708b-44e7-b344-c7547454f856,"Fri, 03 Ju",MODEL_RELEASE,Black-Box Inference of LLM Architectural Properties with Restrictive API Access,,top-$k$ logits and/or,arXiv cs.LG,https://arxiv.org/abs/2607.01313,"arXiv:2607.01313v1 Announce Type: new 
 Abstract: In practice, most commercial LLM providers do not publicly release details of underlying LLM architectures. However, prior work has shown that given limited API access to an LLM (namely, top-$k$ logits and/or a logit bias function), one can recover...",Black-Box Inference of LLM Architectural Properties with Restrictive API Access
+ebd4ede4-1f19-4353-9f4b-2e99b51aa259,2026-08-29,MODEL_RELEASE,LLM,,,Pypi.org,https://pypi.org/project/kimi-agent-module-api/,"The stable, host-independent contracts for building Kimi application modules:
+separately installed packages that add commands, LLM tools, background jobs,
+event handlers, per-guild settings, and du… [+1225 chars]",kimi-agent-module-api added to PyPI
+28796ccd-4fe3-4d01-b564-6925ffeecea6,2026-08-29,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/rusticai-llm-agent/1.4.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",rusticai-llm-agent 1.4.0
+2c3771fb-f556-4b29-ab7e-2aefa05a41ea,2026-08-29,MODEL_RELEASE,PyPI Scoped,,,Pypi.org,https://pypi.org/project/loci-mem/,Scoped memory for coding agents. A router in front of two stores.,loci-mem added to PyPI
 60b13781-5bb5-4314-a2de-94943eba754d,2026-08-28,MODEL_RELEASE,,,,Betalist.com,https://betalist.com/startups/elselane,"ElseLane is an AI API that classifies prompts, routes requests across multiple LLM providers, and fails over automatically when a model errors or times out. You send a single prompt and key, and it r… [+249 chars]",ElseLane – Ship AI answers with automatic multi-provider failover
 e133678a-a8ff-4563-a187-70188919b316,2026-08-28,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/llm-rosetta/0.11.0/,"A required part of this site couldnt load. This may be due to a browser
  extension, network issues, or browser settings.",llm-rosetta 0.11.0
