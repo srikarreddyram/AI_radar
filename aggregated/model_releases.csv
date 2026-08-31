@@ -1335,6 +1335,8 @@ Abstract: In practice, most commercial LLM providers do not publicly release det
  extension, network issues, or browser settings.",llm-host-guard 0.3.3
 5057a183-8c4c-4111-abc4-6b2fb5df4d2b,2026-08-30,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/llm-host-guard/0.3.2/,"A required part of this site couldnt load. This may be due to a browser
  extension, network issues, or browser settings.",llm-host-guard 0.3.2
+0748ec85-f6e0-4ced-9644-11dde6b65573,2026-08-30,MODEL_RELEASE,PyPI Python,Llama,,Pypi.org,https://pypi.org/project/rag-eval-toolkit/,"Python toolkit for evaluating RAG (Retrieval-Augmented Generation) pipelines with LLM-as-judge metrics: faithfulness, hallucination, groundedness, relevancy, and more. Local-first via Ollama, with as… [+9898 chars]",rag-eval-toolkit added to PyPI
+11a0ff91-3b57-47c4-81e1-ed92dfd927cb,2026-08-30,MODEL_RELEASE,LLM,,,Blogspot.com,https://nibblestew.blogspot.com/2026/08/stanisaw-lem-foretold-current-llm-mania.html,Some time ago I visited a used book fair and came across this awesome piece of 80s scifi-asthetic. This book is a collection of short stories by the Polish author Stanisaw Lem originally published i… [+2474 chars],Jussi Pakkanen: Stanisław Lem foretold the current LLM mania in 1964
 ebd4ede4-1f19-4353-9f4b-2e99b51aa259,2026-08-29,MODEL_RELEASE,LLM,,,Pypi.org,https://pypi.org/project/kimi-agent-module-api/,"The stable, host-independent contracts for building Kimi application modules:
 separately installed packages that add commands, LLM tools, background jobs,
 event handlers, per-guild settings, and du… [+1225 chars]",kimi-agent-module-api added to PyPI
