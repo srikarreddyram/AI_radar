@@ -191,6 +191,22 @@ Abstract: Otter is a 15.3M-parameter human chess AI that predicts human move sel
 Abstract: Developing high-performance kernels for Neural Processing Units (NPUs) is a critical industry bottleneck, requiring developers to manually navigate implicit hardware constraints and strict memory hierarchies. While large language models offer immen...",Hawk: Harnessing Hardware-Aware Knowledge for High-Performance NPU Kernel Generation,
 34f93d64-70b5-4f7c-8cd2-123fab7e80c8,"Fri, 03 Ju",GPU_RELEASE,Faster Hyperparameter Exploration,,,arXiv cs.LG,https://arxiv.org/abs/2607.01474,"arXiv:2607.01474v1 Announce Type: new 
 Abstract: Class imbalance poses a critical challenge in federated learning (FL), where underrepresented classes suffer from poor predictive performance yet cannot be addressed by standard centralized techniques due to privacy and heterogeneity constraints. W...",Class-Grouped Normalized Momentum and Faster Hyperparameter Exploration to Tackle Class Imbalance in Federated Learning,
+f94883f8-4ff7-41aa-bf5b-43c658ab12c6,2026-08-31,GPU_RELEASE,Meta,,China,Digitimes,https://www.digitimes.com/news/a20260831VL207/metax-china-ai-gpu-profit-revenue.html,"Keep me signed in
+Some subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the… [+288 chars]",MetaX posts first-half profit while China's AI GPU rivals split,
+5bdfab75-4115-43fe-a89f-6e35929c9556,2026-08-31,GPU_RELEASE,Xiaomi,,,Yugatech.com,https://www.yugatech.com/?p=452224,"Xiaomi has introduced its own mobile processor called the Xring O3, a custom 3-nanometer chip built to compete directly with high-end processors from Qualcomm and MediaTek. While not the first mobile… [+1839 chars]",Xiaomi XRING O3 could be the world’s fastest mobile processor,
+a23d434a-582a-482a-81fc-00802a712cf1,2026-08-31,GPU_RELEASE,GPU,,,Prtimes.jp,https://prtimes.jp/main/html/rd/p/000000342.000023448.html,"/ in 
+APNAPNAPNAPN
+IoT
+ 2F900-0029 116-37
+2026917 14:0017:00
+30
+APN All-Photonics NetworkAI/GPU 
+WEB
+https://forms.gle/dd6w2p689txJZ73b9
+14:00-14:10 
+14:10-14:55 APN
+15:00-16:00 APN
+16:00… [+10 chars]",「オール光ネットワーク」ビジネス交流セッションin 沖縄 を開催,
 4582a2bc-4833-4236-8455-a3ff6fa7f4d1,2026-08-30,GPU_RELEASE,OpenAI,,,Pypi.org,https://pypi.org/project/open-genie-server/,"English | 
 A single-process FastAPI server that exposes the Qualcomm Genie C API (libGenie.so) as an OpenAI-compatible REST API. It lets you drive LLMs running on a Hexagon NPU Qualcomm's name for t… [+16738 chars]",open-genie-server added to PyPI,
 64771d14-daf3-4ac4-964b-0c96b0e6474a,2026-08-30,GPU_RELEASE,,,,Github.com,https://github.com/KodeMunkie/sm750hdmifb,"Push this card to real 2048-wide output or a software-scaled 2560x1080
