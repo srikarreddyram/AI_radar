@@ -160,6 +160,22 @@
     "article_text": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
   },
   {
+    "id": "d721843382f3485e",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "source": "Google DeepMind",
+    "publication_date": "Wed, 02 Sep 2026 16:24:24 +0000",
+    "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "article_text": ""
+  },
+  {
+    "id": "63b19b50b4021cb5",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "source": "Google DeepMind",
+    "publication_date": "Wed, 02 Sep 2026 16:18:31 +0000",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "article_text": ""
+  },
+  {
     "id": "20b040f8e58f31e9",
     "title": "Introducing agentic video understanding with Gemini",
     "source": "Google DeepMind",
@@ -302,22 +318,6 @@
     "publication_date": "Tue, 30 Jun 2026 16:02:40 +0000",
     "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
     "article_text": ""
-  },
-  {
-    "id": "172fd12b4fe6c6e0",
-    "title": "Introducing computer use in Gemini 3.5 Flash",
-    "source": "Google DeepMind",
-    "publication_date": "Wed, 24 Jun 2026 16:30:01 +0000",
-    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-    "article_text": ""
-  },
-  {
-    "id": "334cabed9c982aa6",
-    "title": "Unlocking UK house-building with AI-accelerated planning",
-    "source": "Google DeepMind",
-    "publication_date": "Tue, 16 Jun 2026 21:29:50 +0000",
-    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "article_text": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
   },
   {
     "id": "5c23ba73e597b8bc",
@@ -920,6 +920,46 @@
     "article_text": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its <a href=\"https://claude.com/pricing\">pricing</a> — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve.</p><p>Now, a free alternative is gaining traction. <a href=\"https://block.github.io/goose/\">Goose</a>, an open-source AI agent developed by <a href=\"https://block.xyz/\">Block</a> (the financial technology company formerly known as Square), offers nearly identical functionality to <a href=\"https://claude.com/product/claude-code\">Claude Code</a> but runs entirely on a user&#x27;s local machine. No subscription fees. No cloud dependency. No rate limits that reset every five hours.</p><p>&quot;Your data stays with you, period,&quot; said Parth Sareen, a software engineer who demonstrated the tool during a <a href=\"https://www.youtube.com/watch?v=WG10r2N0IwM\">recent livestream</a>. The comment captures the core appeal: Goose gives developers complete control over their AI-powered workflow, including the ability to work offline — even on an airplane.</p><p>The project has exploded in popularity. Goose now boasts more than <a href=\"https://github.com/block/goose\">26,100 stars on GitHub</a>, the code-sharing platform, with 362 contributors and 102 releases since its launch. The latest version, <a href=\"https://block.github.io/goose/docs/getting-started/installation\">1.20.1</a>, shipped on January 19, 2026, reflecting a development pace that rivals commercial products.</p><p>For developers frustrated by Claude Code&#x27;s pricing structure and usage caps, Goose represents something increasingly rare in the AI industry: a genuinely free, no-strings-attached option for serious work.</p><div></div><h2><b>Anthropic&#x27;s new rate limits spark a developer revolt</b></h2><p>To understand why <a href=\"https://block.github.io/goose/\">Goose</a> matters, you need to understand the <a href=\"https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/\">Claude Code pricing controversy</a>.</p><p>Anthropic, the San Francisco artificial intelligence company founded by former OpenAI executives, offers Claude Code as part of its subscription tiers. The free plan provides no access whatsoever. The <a href=\"https://www.anthropic.com/news/claude-pro\">Pro plan</a>, at $17 per month with annual billing (or $20 monthly), limits users to just 10 to 40 prompts every five hours — a constraint that serious developers exhaust within minutes of intensive work.</p><p>The <a href=\"https://support.claude.com/en/articles/11049741-what-is-the-max-plan\">Max plans</a>, at $100 and $200 per month, offer more headroom: 50 to 200 prompts and 200 to 800 prompts respectively, plus access to Anthropic&#x27;s most powerful model, <a href=\"https://www.anthropic.com/news/claude-opus-4-5\">Claude 4.5 Opus</a>. But even these premium tiers come with restrictions that have inflamed the developer community.</p><p>In late July, Anthropic announced new weekly rate limits. Under the system, Pro users receive 40 to 80 hours of Sonnet 4 usage per week. Max users at the $200 tier get 240 to 480 hours of Sonnet 4, plus 24 to 40 hours of Opus 4. Nearly five months later, the frustration has not subsided.</p><p>The problem? Those &quot;hours&quot; are not actual hours. They represent token-based limits that vary wildly depending on codebase size, conversation length, and the complexity of the code being processed. Independent analysis suggests the actual per-session limits translate to roughly 44,000 tokens for Pro users and 220,000 tokens for the $200 Max plan.</p><p>&quot;It&#x27;s confusing and vague,&quot; one developer wrote in a <a href=\"https://userjot.com/blog/claude-code-pricing-200-dollar-plan-worth-it\">widely shared analysis</a>. &quot;When they say &#x27;24-40 hours of Opus 4,&#x27; that doesn&#x27;t really tell you anything useful about what you&#x27;re actually getting.&quot;</p><p>The <a href=\"https://www.reddit.com/r/Anthropic/comments/1mbo4uw/claude_code_max_new_weekly_rate_limits/\">backlash on Reddit</a> and <a href=\"https://venturebeat.com/ai/anthropic-throttles-claude-rate-limits-devs-call-foul\">developer forums</a> has been fierce. Some users report hitting their daily limits within 30 minutes of intensive coding. Others have canceled their subscriptions entirely, calling the new restrictions &quot;a joke&quot; and &quot;unusable for real work.&quot;</p><p>Anthropic has defended the changes, stating that the limits affect fewer than five percent of users and target people running Claude Code &quot;<a href=\"https://techcrunch.com/2025/07/28/anthropic-unveils-new-rate-limits-to-curb-claude-code-power-users/\">continuously in the background, 24/7</a>.&quot; But the company has not clarified whether that figure refers to five percent of Max subscribers or five percent of all users — a distinction that matters enormously.</p><h2><b>How Block built a free AI coding agent that works offline</b></h2><p><a href=\"https://block.github.io/goose/\">Goose</a> takes a radically different approach to the same problem.</p><p>Built by <a href=\"https://block.xyz/\">Block</a>, the payments company led by Jack Dorsey, Goose is what engineers call an &quot;<a href=\"https://github.com/block/goose\">on-machine AI agent</a>.&quot; Unlike Claude Code, which sends your queries to Anthropic&#x27;s servers for processing, Goose can run entirely on your local computer using open-source language models that you download and control yourself.</p><p>The project&#x27;s documentation describes it as going &quot;<a href=\"https://github.com/block/goose\">beyond code suggestions</a>&quot; to &quot;install, execute, edit, and test with any LLM.&quot; That last phrase — &quot;any LLM&quot; — is the key differentiator. Goose is model-agnostic by design.</p><p>You can connect Goose to Anthropic&#x27;s <a href=\"https://platform.claude.com/docs/en/about-claude/models/overview\">Claude models</a> if you have <a href=\"https://claude.com/platform/api\">API access</a>. You can use OpenAI&#x27;s <a href=\"https://platform.openai.com/docs/models/gpt-5\">GPT-5</a> or Google&#x27;s <a href=\"https://ai.google.dev/gemini-api/docs\">Gemini</a>. You can route it through services like <a href=\"https://groq.com/\">Groq</a> or <a href=\"https://openrouter.ai/\">OpenRouter</a>. Or — and this is where things get interesting — you can run it entirely locally using tools like <a href=\"https://ollama.com/\">Ollama</a>, which let you download and execute open-source models on your own hardware.</p><p>The practical implications are significant. With a local setup, there are no subscription fees, no usage caps, no rate limits, and no concerns about your code being sent to external servers. Your conversations with the AI never leave your machine.</p><p>&quot;I use Ollama all the time on planes — it&#x27;s a lot of fun!&quot; <a href=\"https://www.youtube.com/watch?v=WG10r2N0IwM\">Sareen noted</a> during a demonstration, highlighting how local models free developers from the constraints of internet connectivity.</p><h2><b>What Goose can do that traditional code assistants can&#x27;t</b></h2><p><a href=\"https://block.github.io/goose/\">Goose</a> operates as a command-line tool or desktop application that can autonomously perform complex development tasks. It can build entire projects from scratch, write and execute code, debug failures, orchestrate workflows across multiple files, and interact with external APIs — all without constant human oversight.</p><p>The architecture relies on what the AI industry calls &quot;<a href=\"https://www.ibm.com/think/topics/tool-calling\">tool calling</a>&quot; or &quot;<a href=\"https://platform.openai.com/docs/guides/function-calling?api-mode=chat\">function calling</a>&quot; — the ability for a language model to request specific actions from external systems. When you ask <a href=\"https://block.github.io/goose/\">Goose</a> to create a new file, run a test suite, or check the status of a GitHub pull request, it doesn&#x27;t just generate text describing what should happen. It actually executes those operations.</p><p>This capability depends heavily on the underlying language model. <a href=\"https://platform.claude.com/docs/en/about-claude/models/overview\">Claude 4 models</a> from Anthropic currently perform best at tool calling, according to the <a href=\"https://gorilla.cs.berkeley.edu/leaderboard.html\">Berkeley Function-Calling Leaderboard</a>, which ranks models on their ability to translate natural language requests into executable code and system commands.</p><p>But newer open-source models are catching up quickly. Goose&#x27;s documentation highlights several options with strong tool-calling support: Meta&#x27;s <a href=\"https://www.llama.com/\">Llama series</a>, Alibaba&#x27;s <a href=\"https://qwen.ai/home\">Qwen models</a>, Google&#x27;s <a href=\"https://deepmind.google/models/gemma/\">Gemma variants</a>, and DeepSeek&#x27;s <a href=\"https://huggingface.co/deepseek-ai/DeepSeek-R1\">reasoning-focused architectures</a>.</p><p>The tool also integrates with the <a href=\"https://modelcontextprotocol.io/docs/getting-started/intro\">Model Context Protocol</a>, or MCP, an emerging standard for connecting AI agents to external services. Through MCP, Goose can access databases, search engines, file systems, and third-party APIs — extending its capabilities far beyond what the base language model provides.</p><h2><b>Setting Up Goose with a Local Model</b></h2><p>For developers interested in a completely free, privacy-preserving setup, the process involves three main components: <a href=\"https://block.github.io/goose/\">Goose</a> itself, <a href=\"https://ollama.com/\">Ollama</a> (a tool for running open-source models locally), and a compatible language model.</p><p><b>Step 1: Install Ollama</b></p><p><a href=\"https://ollama.com/\">Ollama</a> is an open-source project that dramatically simplifies the process of running large language models on personal hardware. It handles the complex work of downloading, optimizing, and serving models through a simple interface.</p><p>Download and install Ollama from <a href=\"http://ollama.com\">ollama.com</a>. Once installed, you can pull models with a single command. For coding tasks, <a href=\"https://qwen.ai/blog?id=qwen2.5-max\">Qwen 2.5</a> offers strong tool-calling support:</p><p>ollama run qwen2.5</p><p>The model downloads automatically and begins running on your machine.</p><p><b>Step 2: Install Goose</b></p><p><a href=\"https://block.github.io/goose/\">Goose</a> is available as both a desktop application and a command-line interface. The desktop version provides a more visual experience, while the CLI appeals to developers who prefer working entirely in the terminal.</p><p>Installation instructions vary by operating system but generally involve downloading from Goose&#x27;s <a href=\"https://github.com/block/goose\">GitHub releases page</a> or using a package manager. Block provides pre-built binaries for macOS (both Intel and Apple Silicon), Windows, and Linux.</p><p><b>Step 3: Configure the Connection</b></p><p>In Goose Desktop, navigate to Settings, then Configure Provider, and select Ollama. Confirm that the API Host is set to http://localhost:11434 (Ollama&#x27;s default port) and click Submit.</p><p>For the command-line version, run goose configure, select &quot;Configure Providers,&quot; choose Ollama, and enter the model name when prompted.</p><p>That&#x27;s it. Goose is now connected to a language model running entirely on your hardware, ready to execute complex coding tasks without any subscription fees or external dependencies.</p><h2><b>The RAM, processing power, and trade-offs you should know about</b></h2><p>The obvious question: what kind of computer do you need?</p><p>Running large language models locally requires substantially more computational resources than typical software. The key constraint is memory — specifically, RAM on most systems, or VRAM if using a dedicated graphics card for acceleration.</p><p>Block&#x27;s <a href=\"https://block.github.io/goose/docs/category/guides\">documentation</a> suggests that 32 gigabytes of RAM provides &quot;a solid baseline for larger models and outputs.&quot; For Mac users, this means the computer&#x27;s unified memory is the primary bottleneck. For Windows and Linux users with discrete NVIDIA graphics cards, GPU memory (VRAM) matters more for acceleration.</p><p>But you don&#x27;t necessarily need expensive hardware to get started. Smaller models with fewer parameters run on much more modest systems. <a href=\"https://qwen.ai/blog?id=qwen2.5-max\">Qwen 2.5</a>, for instance, comes in multiple sizes, and the smaller variants can operate effectively on machines with 16 gigabytes of RAM.</p><p>&quot;You don&#x27;t need to run the largest models to get excellent results,&quot; <a href=\"https://www.youtube.com/watch?v=WG10r2N0IwM\">Sareen emphasized</a>. The practical recommendation: start with a smaller model to test your workflow, then scale up as needed.</p><p>For context, Apple&#x27;s entry-level <a href=\"https://www.apple.com/macbook-air/\">MacBook Air</a> with 8 gigabytes of RAM would struggle with most capable coding models. But a <a href=\"https://www.apple.com/macbook-pro/\">MacBook Pro</a> with 32 gigabytes — increasingly common among professional developers — handles them comfortably.</p><h2><b>Why keeping your code off the cloud matters more than ever</b></h2><p><a href=\"https://block.github.io/goose/\">Goose</a> with a local LLM is not a perfect substitute for <a href=\"https://claude.com/product/claude-code\">Claude Code</a>. The comparison involves real trade-offs that developers should understand.</p><p><b>Model Quality</b>: <a href=\"https://www.anthropic.com/news/claude-opus-4-5\">Claude 4.5 Opus</a>, Anthropic&#x27;s flagship model, remains arguably the most capable AI for software engineering tasks. It excels at understanding complex codebases, following nuanced instructions, and producing high-quality code on the first attempt. Open-source models have improved dramatically, but a gap persists — particularly for the most challenging tasks.</p><p>One developer who switched to the $200 Claude Code plan <a href=\"https://userjot.com/blog/claude-code-pricing-200-dollar-plan-worth-it\">described the difference bluntly</a>: &quot;When I say &#x27;make this look modern,&#x27; Opus knows what I mean. Other models give me Bootstrap circa 2015.&quot;</p><p><b>Context Window</b>: <a href=\"https://www.anthropic.com/news/claude-sonnet-4-5\">Claude Sonnet 4.5</a>, accessible through the API, offers a massive one-million-token context window — enough to load entire large codebases without chunking or context management issues. Most local models are limited to 4,096 or 8,192 tokens by default, though many can be configured for longer contexts at the cost of increased memory usage and slower processing.</p><p><b>Speed</b>: Cloud-based services like <a href=\"https://claude.com/product/claude-code\">Claude Code</a> run on dedicated server hardware optimized for AI inference. Local models, running on consumer laptops, typically process requests more slowly. The difference matters for iterative workflows where you&#x27;re making rapid changes and waiting for AI feedback.</p><p><b>Tooling Maturity</b>: <a href=\"https://claude.com/product/claude-code\">Claude Code</a> benefits from Anthropic&#x27;s dedicated engineering resources. Features like prompt caching (which can reduce costs by up to 90 percent for repeated contexts) and structured outputs are polished and well-documented. <a href=\"https://block.github.io/goose/\">Goose</a>, while actively developed with 102 releases to date, relies on community contributions and may lack equivalent refinement in specific areas.</p><h2><b>How Goose stacks up against Cursor, GitHub Copilot, and the paid AI coding market</b></h2><p>Goose enters a crowded market of AI coding tools, but occupies a distinctive position.</p><p><a href=\"https://cursor.com/\">Cursor</a>, a popular AI-enhanced code editor, charges $20 per month for its <a href=\"https://cursor.com/pricing\">Pro tier</a> and $200 for <a href=\"https://cursor.com/pricing\">Ultra</a>—pricing that mirrors <a href=\"https://claude.com/pricing\">Claude Code&#x27;s Max plans</a>. Cursor provides approximately 4,500 Sonnet 4 requests per month at the Ultra level, a substantially different allocation model than Claude Code&#x27;s hourly resets.</p><p><a href=\"https://cline.bot/\">Cline</a>, <a href=\"https://roocode.com/\">Roo Code</a>, and similar open-source projects offer AI coding assistance but with varying levels of autonomy and tool integration. Many focus on code completion rather than the agentic task execution that defines Goose and Claude Code.</p><p>Amazon&#x27;s <a href=\"https://aws.amazon.com/blogs/aws/now-in-preview-amazon-codewhisperer-ml-powered-coding-companion/\">CodeWhisperer</a>, <a href=\"https://github.com/features/copilot\">GitHub Copilot</a>, and enterprise offerings from major cloud providers target large organizations with complex procurement processes and dedicated budgets. They are less relevant to individual developers and small teams seeking lightweight, flexible tools.</p><p>Goose&#x27;s combination of genuine autonomy, model agnosticism, local operation, and zero cost creates a unique value proposition. The tool is not trying to compete with commercial offerings on polish or model quality. It&#x27;s competing on freedom — both financial and architectural.</p><h2><b>The $200-a-month era for AI coding tools may be ending</b></h2><p>The AI coding tools market is evolving quickly. Open-source models are improving at a pace that continually narrows the gap with proprietary alternatives. Moonshot AI&#x27;s <a href=\"https://www.kimi.com/en\">Kimi K2</a> and z.ai&#x27;s <a href=\"https://z.ai/blog/glm-4.5\">GLM 4.5</a> now benchmark near <a href=\"https://www.anthropic.com/news/claude-4\">Claude Sonnet 4 levels</a> — and they&#x27;re freely available.</p><p>If this trajectory continues, the quality advantage that justifies Claude Code&#x27;s premium pricing may erode. Anthropic would then face pressure to compete on features, user experience, and integration rather than raw model capability.</p><p>For now, developers face a clear choice. Those who need the absolute best model quality, who can afford premium pricing, and who accept usage restrictions may prefer <a href=\"https://claude.com/product/claude-code\">Claude Code</a>. Those who prioritize cost, privacy, offline access, and flexibility have a genuine alternative in <a href=\"https://block.github.io/goose/\">Goose</a>.</p><p>The fact that a $200-per-month commercial product has a zero-dollar open-source competitor with comparable core functionality is itself remarkable. It reflects both the maturation of open-source AI infrastructure and the appetite among developers for tools that respect their autonomy.</p><p>Goose is not perfect. It requires more technical setup than commercial alternatives. It depends on hardware resources that not every developer possesses. Its model options, while improving rapidly, still trail the best proprietary offerings on complex tasks.</p><p>But for a growing community of developers, those limitations are acceptable trade-offs for something increasingly rare in the AI landscape: a tool that truly belongs to them.</p><hr /><p><i>Goose is available for download at </i><a href=\"http://github.com/block/goose\"><i>github.com/block/goose</i></a><i>. Ollama is available at </i><a href=\"http://ollama.com\"><i>ollama.com</i></a><i>. Both projects are free and open source.</i></p>"
   },
   {
+    "id": "ae9276eb506fc752",
+    "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+    "source": "The Verge AI",
+    "publication_date": "2026-09-02T12:40:50-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+    "article_text": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI security/safety to date.\" Shortly after [&#8230;]"
+  },
+  {
+    "id": "16174673e5def518",
+    "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+    "source": "The Verge AI",
+    "publication_date": "2026-09-02T12:12:25-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+    "article_text": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"billions of dollars\" in damages from [&#8230;]"
+  },
+  {
+    "id": "306913a85ad8186c",
+    "title": "Google is sending MrBeast into the wilderness, armed with AI",
+    "source": "The Verge AI",
+    "publication_date": "2026-09-02T11:47:03-04:00",
+    "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+    "article_text": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is a new MrBeast video following Jimmy and his crew [&#8230;]"
+  },
+  {
+    "id": "c6bad388c0417685",
+    "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+    "source": "The Verge AI",
+    "publication_date": "2026-09-02T10:35:03-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+    "article_text": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on Wednesday by the students, teachers, and the principal [&#8230;]"
+  },
+  {
+    "id": "4a90a93cc5891125",
+    "title": "NYC bans AI use for students until they reach high school",
+    "source": "The Verge AI",
+    "publication_date": "2026-09-02T10:30:00-04:00",
+    "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+    "article_text": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and is being introduced alongside additional limits on digital devices and a [&#8230;]"
+  },
+  {
     "id": "d90573234ae3a19e",
     "title": "Google needs Hollywood more than the studios need AI",
     "source": "The Verge AI",
@@ -958,46 +998,6 @@
     "publication_date": "2026-09-01T14:19:26-04:00",
     "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
     "article_text": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsuit, which contained discussions about \"destroying [&#8230;]"
-  },
-  {
-    "id": "ef6608ff2871a404",
-    "title": "John Deere launched an AI chatbot for farmers",
-    "source": "The Verge AI",
-    "publication_date": "2026-09-01T12:00:52-04:00",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-    "article_text": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel usage, or harvest timing. The [&#8230;]"
-  },
-  {
-    "id": "8b4ab8a3a41cf18d",
-    "title": "Google Pics is like Canva, but with even more AI",
-    "source": "The Verge AI",
-    "publication_date": "2026-09-01T12:00:00-04:00",
-    "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-    "article_text": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular control over prompt-based image making and manipulation, allowing [&#8230;]"
-  },
-  {
-    "id": "a9cc7a6dadebb10f",
-    "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-    "source": "The Verge AI",
-    "publication_date": "2026-09-01T09:00:00-04:00",
-    "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-    "article_text": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and laptop GPUs and through GeForce Now [&#8230;]"
-  },
-  {
-    "id": "35875a421ff9d602",
-    "title": "Debian won&#8217;t ban AI code from its Linux distribution",
-    "source": "The Verge AI",
-    "publication_date": "2026-08-31T11:34:58-04:00",
-    "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-    "article_text": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject to special rules beyond the standards already [&#8230;]"
-  },
-  {
-    "id": "1ba2d1aad50f660a",
-    "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-    "source": "The Verge AI",
-    "publication_date": "2026-08-31T10:00:00-04:00",
-    "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-    "article_text": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is. For example, Meta just reached [&#8230;]"
   },
   {
     "id": "cd6699f0965493eb",
@@ -1320,403 +1320,395 @@
     "article_text": "arXiv:2609.00297v1 Announce Type: new \nAbstract: Solving multiphysics partial differential equations (PDEs) remains a major challenge in scientific computing, especially for highly complex $\\mu$m-scale tortuous geometries critical to energy and chemical engineering. We address this challenge by proposing a Geometry-aware Latent Autoregressive generative Model for PDEs (GeoLAMP) for solving physics within highly irregular and tortuous structures. GeoLAMP introduces a dual-encoder architecture on graph representations to jointly capture global topology and fine-scale geometric features, enabling an effective transition from real-space fields to compact latent representations. In the latent space, we propose a causal self-attention transformer with flow matching to model temporal dynamics, allowing stable and scalable block-wise autoregressive prediction. A flexible decoder reconstructs high-resolution physical fields on arbitrary points. We establish three multiphysics benchmark datasets in complex geometries, covering reactive flow, heat convection, and elasticity. GeoLAMP consistently achieves the most stable autoregression performance on these datasets, maintaining low errors throughout the entire rollout horizon. Our results provide a systematic study of geometry-aware learning for PDEs in $\\mu$m-scale complex geometries and offer new insights into block-wise time marching of latent autoregressive PDE modeling via a flow matching framework."
   },
   {
-    "id": "5fbd7fc8f7867444",
-    "title": "torchtyc added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-09-01T04:52:50Z",
-    "url": "https://pypi.org/project/torchtyc/",
-    "article_text": "Static array shape checking for PyTorch, powered by meta tensors.\r\ntorchtyc reads jaxtyping annotations and\r\nverifies the shapes your code actually produces, before you run it on a GPU. It\r\nis the Py… [+10896 chars]"
+    "id": "99b513967a94596b",
+    "title": "CoreWeave Offers So Much at $85",
+    "source": "24/7 Wall St.",
+    "publication_date": "2026-09-01T16:45:38Z",
+    "url": "https://247wallst.com/investing/2026/09/01/coreweave-offers-so-much-at-85/",
+    "article_text": "Quick Read\r\n<ul><li>CoreWeave (CRWV) posted 112% revenue growth in Q2, holds a $104 billion backlog, and trades 38% below its May high near $85.\r\n</li><li>CRWV outpaces SPY year-to-date 19% to 12%, b… [+5400 chars]"
   },
   {
-    "id": "30183587fe527372",
-    "title": "exform 0.1.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-09-01T04:51:57Z",
-    "url": "https://pypi.org/project/exform/0.1.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "35573ef5699a4181",
-    "title": "exform added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-09-01T04:51:57Z",
-    "url": "https://pypi.org/project/exform/",
-    "article_text": "Reshape text by example. Show exform a couple of before =&gt; after examples\r\nand it figures out the transformation, then applies it to your whole file or\r\nstream. It's FlashFill for the terminal but… [+10066 chars]"
-  },
-  {
-    "id": "83bca380c684f8b6",
-    "title": "Knott's pulls T-shirt after criticism",
-    "source": "Theme Park Insider",
-    "publication_date": "2026-09-01T04:48:00Z",
-    "url": "https://www.themeparkinsider.com/flume/202609/12639/",
-    "article_text": "September 1, 2026, 12:48 AM · \r\nKnotts Berry Farm has pulled a T-shirt promoting its new Knott's Scary Farm haunted house Inked following concerns the shirt included a racist caricature. A spokespers… [+4024 chars]"
-  },
-  {
-    "id": "73a49fd4ed8e53ce",
-    "title": "tokenspeed-smg-grpc-proto 0.4.16.post20260901",
-    "source": "Pypi.org",
-    "publication_date": "2026-09-01T04:46:37Z",
-    "url": "https://pypi.org/project/tokenspeed-smg-grpc-proto/0.4.16.post20260901/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "6e5005a1aedbc0fd",
-    "title": "tokenspeed-smg-grpc-servicer 0.9.1.post20260901",
-    "source": "Pypi.org",
-    "publication_date": "2026-09-01T04:46:16Z",
-    "url": "https://pypi.org/project/tokenspeed-smg-grpc-servicer/0.9.1.post20260901/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "d6cfa509489d578e",
-    "title": "E2E Networks rises after signing Rs 1,000 crore AI infrastructure term sheet",
-    "source": "Business Standard",
-    "publication_date": "2026-09-01T04:46:01Z",
-    "url": "https://www.business-standard.com/markets/capital-market-news/e2e-networks-rises-after-signing-rs-1-000-crore-ai-infrastructure-term-sheet-126090100220_1.html",
-    "article_text": "E2E Networks rose 3.10% to Rs 637.95 after the company announced that it had entered into a binding term sheet with a sovereign AI company based in India.\r\nUnder the arrangement, E2E Networks will pr… [+1177 chars]"
-  },
-  {
-    "id": "bd5b8bf63ed10697",
-    "title": "The Hugging Face hack",
-    "source": "Marginalrevolution.com",
-    "publication_date": "2026-09-01T04:43:33Z",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-hugging-face-hack.html",
-    "article_text": "As I wrote in The Free Press last week, we need a coordinated national and, indeed, international effort to limit such episodes of a powerful AI model going rogue in the future. That is likely to be … [+1899 chars]"
-  },
-  {
-    "id": "ab282786db46ecdd",
-    "title": "‘Change agent’ Army secretary resigns",
-    "source": "Defense One",
-    "publication_date": "2026-09-01T04:41:32Z",
-    "url": "https://www.defenseone.com/policy/2026/09/change-agent-army-secretary-resigns/415747/",
-    "article_text": "Dan Driscoll, whom President Donald Trump in 2024 hailed as a disruptor and change agent, has resigned as secretary of the Army.\r\nThe move was first reported by the Wall Street Journal. A source dire… [+2811 chars]"
-  },
-  {
-    "id": "27acc28abc1a28cf",
-    "title": "Show HN: Compute.cheap – the cheapest H100/H200 compute in the world",
-    "source": "Compute.cheap",
-    "publication_date": "2026-09-01T04:40:51Z",
-    "url": "https://compute.cheap",
-    "article_text": "H100on-demand pricing\r\nUpdated Aug 31, 2026\r\nH100 Compute Cheap on-demand price $1.931 per GPU-hour on Aug 31, 2026\r\nMarketCompute Cheap price\r\nSelect Spot or On-demand and H100 or H200, then hover o… [+258 chars]"
-  },
-  {
-    "id": "ae429900bc34ec83",
-    "title": "Dell Reports Tuesday, and Its Server Margin Is Where the AI Memory Bill Finally Reaches the Stock",
-    "source": "Biztoc.com",
-    "publication_date": "2026-09-01T04:38:25Z",
-    "url": "https://biztoc.com/x/757e476ad70677e6",
-    "article_text": "Dell Technologies (NYSE:DELL) reports its fiscal 2027 second-quarter results on Tuesday, Sept. 1, with a conference call set for 3:30 p.m. Central time. One line in that report interests me more than… [+152 chars]"
-  },
-  {
-    "id": "b0823a0d3314c380",
-    "title": "supermemory-openai-sdk 1.0.6",
-    "source": "Pypi.org",
-    "publication_date": "2026-09-01T04:37:09Z",
-    "url": "https://pypi.org/project/supermemory-openai-sdk/1.0.6/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "e09be63675711214",
-    "title": "XPENG Announces Vehicle Delivery Results for August 2026",
-    "source": "PRNewswire",
-    "publication_date": "2026-09-01T04:32:00Z",
-    "url": "https://www.prnewswire.com/news-releases/xpeng-announces-vehicle-delivery-results-for-august-2026-302865698.html",
-    "article_text": "GUANGZHOU, China, Sept. 1, 2026 /PRNewswire/ -- XPeng Inc. (\"XPENG\" or the \"Company,\"NYSE: XPEV and HKEX: 9868), a leading global Physical AI company, today announced its vehicle delivery results for… [+3733 chars]"
-  },
-  {
-    "id": "c651304b78e12374",
-    "title": "Learn to stop worrying and love data centers",
-    "source": "Freerepublic.com",
-    "publication_date": "2026-09-01T04:31:45Z",
-    "url": "https://freerepublic.com/focus/f-bloggers/4393819/posts",
-    "article_text": "Skip to comments.\r\nLearn to stop worrying and love data centersThe Spectator ^\r\n | 08/31/2026\r\nPosted on 08/31/2026 9:31:45 PM PDT by SeekAndFind\r\nIn popular mythology, America is the land that innov… [+5708 chars]"
-  },
-  {
-    "id": "6b86bc94a0bbe2dc",
-    "title": "US to press G20 on light-touch AI regulation",
+    "id": "9ca61fa9e7f959d5",
+    "title": "India is the world's best location to set up data centres: Piyush Goyal",
     "source": "The Times of India",
-    "publication_date": "2026-09-01T04:29:45Z",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-to-press-g20-on-light-touch-ai-regulation/articleshow/133668263.cms",
-    "article_text": "Tech bosses including Elon Musk, Nvidia's Jensen Huang and OpenAI's Sam Altman are participating in a G20 meeting in North Carolina this week amid a global debate on how governments should address th… [+2725 chars]"
+    "publication_date": "2026-09-01T16:45:31Z",
+    "url": "https://economictimes.indiatimes.com/news/india/india-is-the-worlds-best-location-to-set-up-data-centres-piyush-goyal/articleshow/133687554.cms",
+    "article_text": "New Delhi, Commerce and Industry Minister Piyush Goyal on Tuesday held a meeting with stakeholders of the data centre industry and discussed ways to further promote ease of doing business for the sec… [+1942 chars]"
   },
   {
-    "id": "a274e2141c802b8e",
-    "title": "Chalmers is betting data centres will help save Australia's economy. In reality, we're dumb landlords set to get a very poor return",
-    "source": "Dailymail.com",
-    "publication_date": "2026-09-01T04:28:48Z",
-    "url": "https://www.dailymail.com/news/article-16094843/data-centres-australia-expansion-chalmers-economy.html",
-    "article_text": "The Albanese government has embraced the extraordinary expansion of data centres as evidence that an artificial intelligence revolution will ride to the rescue of Australia's weak economy.\r\nMore than… [+5896 chars]"
-  },
-  {
-    "id": "ec8b9b06af845d52",
-    "title": "Advertising giant WPP set to axe 1,000 more jobs as AI reshapes the industry",
-    "source": "The Times of India",
-    "publication_date": "2026-09-01T04:28:05Z",
-    "url": "https://economictimes.indiatimes.com/news/international/global-trends/advertising-giant-wpp-set-to-axe-1000-more-jobs-as-ai-reshapes-the-industry/articleshow/133668164.cms",
-    "article_text": "British advertising group WPP is planning to cut up to 1,000 more jobs by the end of this year as part of an accelerated restructuring drive under new chief executive Cindy Rose, according to a repor… [+4097 chars]"
-  },
-  {
-    "id": "69b890a06c4aed46",
-    "title": "quantum-debugger 1.0.1",
+    "id": "570a30617ecbd4b0",
+    "title": "raynet-mcp 0.2.2",
     "source": "Pypi.org",
-    "publication_date": "2026-09-01T04:27:39Z",
-    "url": "https://pypi.org/project/quantum-debugger/1.0.1/",
+    "publication_date": "2026-09-01T16:45:24Z",
+    "url": "https://pypi.org/project/raynet-mcp/0.2.2/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "cec4f952758beec4",
-    "title": "Anthropic’s mega-IPO plan looms over packed US listing calendar",
-    "source": "Bloomberg",
-    "publication_date": "2026-09-01T04:27:24Z",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-s-mega-ipo-plan-looms-over-packed-us-listing-calendar",
-    "article_text": "Anthropic PBCs IPO is casting a long shadow over companies US listing plans, as they try to find room for their deals to grab attention after the September 7 Labor Day holiday.\r\nThe Claude developer … [+5231 chars]"
-  },
-  {
-    "id": "dd11f75d05b7f584",
-    "title": "ESDS Software Solution IPO Day 3: GMP indicates 74% premium; issue subscribed 18.34x. Should you bid?",
-    "source": "The Times of India",
-    "publication_date": "2026-09-01T04:25:40Z",
-    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/esds-software-solution-ipo-day-3-gmp-indicates-74-premium-issue-subscribed-18-34x-should-you-bid/articleshow/133667935.cms",
-    "article_text": "The ESDS Software Solution IPO entered its third and final day of bidding on Tuesday, September 1, continuing to attract strong interest from investors. The issue has also generated considerable buzz… [+7564 chars]"
-  },
-  {
-    "id": "09bc73e55e375c88",
-    "title": "All Christian schools in Jerusalem shut after Israel refuses entry to Palestinian teachers",
-    "source": "RT",
-    "publication_date": "2026-09-01T04:23:43Z",
-    "url": "https://www.rt.com/news/644942-jerusalem-christian-schools-close/",
-    "article_text": "Christian schools in Jerusalem have been forced to indefinitely delay the start of the new academic year after Israeli authorities failed to renew entry permits for more than 70 teachers and staff li… [+2683 chars]"
-  },
-  {
-    "id": "7a9e7c6d6230ab4b",
-    "title": "Qualcomm's 6G Pitch Has Efficiency Covered. Privacy Is Another Story",
+    "id": "cb683069d12c50ad",
+    "title": "21 Years Ago, Intel Saved the Mac. Now, We Say Goodbye to the Intel Era Forever",
     "source": "PCMag.com",
-    "publication_date": "2026-09-01T04:20:31Z",
-    "url": "https://me.pcmag.com/en/old-wireless-carriers/37906/qualcomms-6g-pitch-has-efficiency-covered-privacy-is-another-story",
-    "article_text": "SAN DIEGO, CASix months after launching a public pitch for 6G at MWC Barcelona, Qualcomm faces two problems with its attempt to advance the next generation of wireless. One is that wireless customers… [+9990 chars]"
+    "publication_date": "2026-09-01T16:43:24Z",
+    "url": "https://uk.pcmag.com/processors/166892/apple-mac-intel-processors-origin-and-end",
+    "article_text": "Editors' Note: Welcome to the An Apple a Day series, where well share pieces of Apple content from our archives daily from now through late September. In addition to PCMag, this series will include p… [+4354 chars]"
   },
   {
-    "id": "915497fa081629da",
-    "title": "Nifty trade below 24,100 in early trade; breadth positive",
-    "source": "Business Standard",
-    "publication_date": "2026-09-01T04:20:08Z",
-    "url": "https://www.business-standard.com/markets/capital-market-news/nifty-trade-below-24-100-in-early-trade-breadth-positive-126090100169_1.html",
-    "article_text": "The key equity benchmarks traded with minor cuts in early trade. The Nifty traded below the 24,100 level. Healthcare, realty and pharma shares declined, while FMCG, metal and media advanced on the NS… [+3857 chars]"
-  },
-  {
-    "id": "4656ec64c161f5b9",
-    "title": "ameva-vulkan-runtime 1.0.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-09-01T04:15:38Z",
-    "url": "https://pypi.org/project/ameva-vulkan-runtime/1.0.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "2227a610d99125cb",
-    "title": "ameva-vulkan-runtime added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-09-01T04:15:38Z",
-    "url": "https://pypi.org/project/ameva-vulkan-runtime/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "bf0b06073f016ff1",
-    "title": "quantum-debugger 1.0.0",
-    "source": "Pypi.org",
-    "publication_date": "2026-09-01T04:13:59Z",
-    "url": "https://pypi.org/project/quantum-debugger/1.0.0/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "id": "b76883a7f53a3f4e",
-    "title": "checkwash added to PyPI",
-    "source": "Pypi.org",
-    "publication_date": "2026-09-01T04:11:10Z",
-    "url": "https://pypi.org/project/checkwash/",
-    "article_text": "Your agent deleted the failing test to make CI green. greenwash catches it before merge.\r\nA deterministic, zero-LLM, local-only detector for code changes that tamper\r\nwith your verification layer wea… [+19071 chars]"
-  },
-  {
-    "id": "8f1252711de44628",
-    "title": "19,000 UHNIs today, 25,000 by 2031: India's family office boom has begun",
-    "source": "Business Standard",
-    "publication_date": "2026-09-01T04:09:43Z",
-    "url": "https://www.business-standard.com/finance/personal-finance/19-000-uhnis-today-25-000-by-2031-india-s-family-office-boom-has-begun-126090100161_1.html",
-    "article_text": "Rs 70,000 Crore Wealth Pool, 1.5X Growth: India's Family Offices Enter Next Phase\r\n1.5X Wealth, 25,000 UHNIs, $1.5 Trillion Transfer: Indias Family Office Moment\r\nSunainaa ChadhaNEW DELHI5 min read L… [+6576 chars]"
-  },
-  {
-    "id": "68a1c6eacb3e364c",
-    "title": "You have to beat the models at something",
-    "source": "Seangoedecke.com",
-    "publication_date": "2026-09-01T04:09:40Z",
-    "url": "https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/",
-    "article_text": "In 2025, I wrote that software engineers ought to be assessed by value over replacement: not how much money they made for their company, but how much they would have made compared to the average engi… [+9308 chars]"
-  },
-  {
-    "id": "614b6fd01d7e176f",
-    "title": "Australia is eyeing a world-first ‘fair and reasonable’ test for data collection and privacy",
-    "source": "The Conversation Africa",
-    "publication_date": "2026-09-01T04:06:37Z",
-    "url": "https://theconversation.com/australia-is-eyeing-a-world-first-fair-and-reasonable-test-for-data-collection-and-privacy-290838",
-    "article_text": "On Monday, the Australian government released draft legislation for the next big overhaul of the Privacy Act. \n\nThe Privacy Amendment (Personal Data Protection) Bill 2026 is now out for public commen… [+5796 chars]"
-  },
-  {
-    "id": "1ea60b162daf0205",
-    "title": "OpenAI Notches $1 Billion Ad Milestone",
+    "id": "8e441693c2b04936",
+    "title": "This $5 Trillion Company Could Be Worth $8 Trillion by 2030",
     "source": "Biztoc.com",
-    "publication_date": "2026-09-01T04:06:19Z",
-    "url": "https://biztoc.com/x/0b56547abd28d21f",
-    "article_text": "OpenAI Notches $1 Billion Ad MilestoneOpenAI has been slowly introducing ads to users chat boxes since launching them less than a year ago, but the reaction has been mixed.Sign up for smart news, ins… [+148 chars]"
+    "publication_date": "2026-09-01T16:43:19Z",
+    "url": "https://biztoc.com/x/26a243e7f6fe7c8d",
+    "article_text": "The post This $5 Trillion Company Could Be Worth $8 Trillion by 2030 appeared first on 24/7 Wall St..NVIDIA (NASDAQ:NVDA) just posted $96.22 billion in quarterly revenue growing 105.85% year over yea… [+142 chars]"
   },
   {
-    "id": "92f35b0b8e4aae20",
-    "title": "awerouter 0.5.3",
+    "id": "d9ba843d1846f921",
+    "title": "AOC Taunts Trump, Suggests a Mar-a-Lago Data Center",
+    "source": "Newser",
+    "publication_date": "2026-09-01T16:41:00Z",
+    "url": "https://www.newser.com/story/395669/aoc-taunts-trump-suggests-a-mar-a-lago-data-center.html",
+    "article_text": "Alexandria Ocasio-Cortez has a suggestion for where to build the next AI hub, and it takes on President Trump's criticism of communities with a NIMBY attitude: right next to Mar-a-Lago. As the Hill r… [+250 chars]"
+  },
+  {
+    "id": "032b62e80eb5edc3",
+    "title": "Show HN: Malinois – iOS Device Anti-Tampering",
+    "source": "Github.com",
+    "publication_date": "2026-09-01T16:40:49Z",
+    "url": "https://github.com/john-comptonemail-com/malinois",
+    "article_text": "A covert unattended-device tamper detector for iPhone.\r\nDownload on the App Store\r\nMalinois' singular objective is to guarantee, to the greatest extent possible, that you either:\r\n<ul><li>A. Return t… [+6162 chars]"
+  },
+  {
+    "id": "af73d8daf479fcf0",
+    "title": "wringer 0.6.6",
     "source": "Pypi.org",
-    "publication_date": "2026-09-01T04:05:29Z",
-    "url": "https://pypi.org/project/awerouter/0.5.3/",
+    "publication_date": "2026-09-01T16:39:42Z",
+    "url": "https://pypi.org/project/wringer/0.6.6/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "dd8d559c82e7b9e8",
-    "title": "Local LLM: On-Device – On-device AI chat that feels closer to Gemini",
-    "source": "Betalist.com",
-    "publication_date": "2026-09-01T04:05:00Z",
-    "url": "https://betalist.com/startups/local-llm-on-device",
-    "article_text": "None of the on-device LLMs I tried on iPhone felt close to Gemini, ChatGPT, or Claude, so I built one that runs locally and aims for that kind of UX. The local LLM runs Qwen, Gemma, and other small m… [+243 chars]"
+    "id": "346599a7fbbbd862",
+    "title": "Xiaomi 18 Fold surfaces in benchmark, confirming its chipset and RAM amount",
+    "source": "GSMArena.com",
+    "publication_date": "2026-09-01T16:39:02Z",
+    "url": "https://www.gsmarena.com/xiaomi_18_fold_surfaces_in_benchmark_confirming_its_chipset_and_ram_amount-news-74433.php",
+    "article_text": "Xiaomi has already officially confirmed that it's launching the 18 Fold this month, and that the device will be powered by the self-developed Xring O3 chipset, which seems quite impressive.\r\nNow the … [+838 chars]"
   },
   {
-    "id": "7a735f655c8982f2",
-    "title": "fsq-agent added to PyPI",
+    "id": "54db4ffbd78f8ec9",
+    "title": "S4 Capital's Monks Named a Leader in 2026 Gartner® Magic Quadrant™ for Global Digital Marketing Agencies",
+    "source": "PRNewswire",
+    "publication_date": "2026-09-01T16:39:00Z",
+    "url": "https://www.prnewswire.com/news-releases/s4-capitals-monks-named-a-leader-in-2026-gartner-magic-quadrant-for-global-digital-marketing-agencies-302866583.html",
+    "article_text": "Global, digital-first marketing brand leverages data-driven infrastructure and proprietary AI orchestration platform, Monks.Flow, to drive measurable market impact\r\nNEW YORK, Sept. 1, 2026 /PRNewswir… [+6149 chars]"
+  },
+  {
+    "id": "cce73823d51f6776",
+    "title": "OpenAI slams Apple trade-secret theft lawsuit as ‘baseless’: ‘A mess of Apple’s own making’",
+    "source": "New York Post",
+    "publication_date": "2026-09-01T16:38:41Z",
+    "url": "https://nypost.com/2026/09/01/business/openai-slams-apple-trade-secret-theft-lawsuit-as-baseless-a-mess-of-apples-own-making/",
+    "article_text": "OpenAI slammed a lawsuit from Apple alleging it stole the iPhone makers trade secrets by hiring its employees, saying its a mess of Apples own making, according to a new legal filing.\r\nThe Sam Altman… [+4179 chars]"
+  },
+  {
+    "id": "0bbf5a987b027c03",
+    "title": "Luca Guadagnino’s OpenAI Movie Will Launch at NYFF",
+    "source": "Vulture",
+    "publication_date": "2026-09-01T16:37:28Z",
+    "url": "http://www.vulture.com/article/luca-guadagninos-openai-movie-will-launch-at-nyff.html",
+    "article_text": "After quite the rough-and-tumble year, Luca Guadagninos Artificial, about OpenAI, Sam Altman, and the controversial firing and almost immediate rehiring of Altman back in 2023, will have its premiere… [+1457 chars]"
+  },
+  {
+    "id": "23df77edadbb5381",
+    "title": "Anthropic restarts Claude cyber tests with live escape detection",
+    "source": "4sysops.com",
+    "publication_date": "2026-09-01T16:37:21Z",
+    "url": "https://4sysops.com/archives/anthropic-restarts-claude-cyber-tests-with-live-escape-detection/",
+    "article_text": "Testing returns under active supervision\r\nAnthropic paused external evaluations of pre-release models for several weeks and briefly stopped some internal testing after attributing the incidents to a … [+1966 chars]"
+  },
+  {
+    "id": "c0953e4a4d976d16",
+    "title": "Dan Herbatschek Explores Staying Thoughtful In A Faster, Tech-Driven Workplace",
+    "source": "Bitrebels.com",
+    "publication_date": "2026-09-01T16:36:48Z",
+    "url": "https://bitrebels.com/technology/dan-herbatschek-explores-staying-thoughtful-in-a-faster-tech-driven-workplace/",
+    "article_text": "Dan Herbatschek has watched the pace of professional life accelerate in ways that would have seemed implausible a generation ago. The tools that were supposed to create more time have, in most cases,… [+7066 chars]"
+  },
+  {
+    "id": "495906710a0dab31",
+    "title": "Salute announces agreement to acquire T5 Operations",
+    "source": "PRNewswire",
+    "publication_date": "2026-09-01T16:36:00Z",
+    "url": "https://www.prnewswire.com/news-releases/salute-announces-agreement-to-acquire-t5-operations-302866580.html",
+    "article_text": "Strategic acquisition further expands Salute's world-class FM&amp;O leadership for AI/HPC and cloud data centers \r\nAUSTIN, Texas, Sept. 1, 2026 /PRNewswire/ -- Salute, the global leader in end-to-end… [+5378 chars]"
+  },
+  {
+    "id": "b0aa1a60e4f43c20",
+    "title": "Apple Claims Former Employee Stole Trade Secrets for OpenAI, Then Tried to Destroy the Evidence",
+    "source": "Gizmodo.com",
+    "publication_date": "2026-09-01T16:35:38Z",
+    "url": "https://gizmodo.com/apple-claims-former-employee-stole-trade-secrets-for-openai-then-tried-to-destroy-the-evidence-2000805641",
+    "article_text": "Apple just delivered its latest blow in its lawsuit against OpenAI, claiming to have unearthed shocking evidence from a former employee’s laptop.\r\nIn a brief submitted Monday to a United States Distr… [+2674 chars]"
+  },
+  {
+    "id": "ea16dec068df3da7",
+    "title": "Unboxing Galaxy Z Fold8: Welcome the Immersive Viewing Experience with the Lightest Fold",
+    "source": "Samsung.com",
+    "publication_date": "2026-09-01T16:35:27Z",
+    "url": "https://news.samsung.com/in/unboxing-galaxy-z-fold8-welcome-the-immersive-viewing-experience-with-the-lightest-fold",
+    "article_text": "Meet Galaxy Z Fold8 and say hello to new inspirations.\r\nFrom the 10:16 cover screen that matches your social feed and 4:3 main screen for immersive viewing experienceto the grip-friendly design for c… [+1826 chars]"
+  },
+  {
+    "id": "cfb33c0c6b17813c",
+    "title": "Alibaba Group Holding Limited (BABA) Investors: Securities Fraud Class Action Filed, Contact Hagens Berman Before October 5, 2026 Lead Plaintiff Deadline",
+    "source": "PRNewswire",
+    "publication_date": "2026-09-01T16:34:00Z",
+    "url": "https://www.prnewswire.com/news-releases/alibaba-group-holding-limited-baba-investors-securities-fraud-class-action-filed-contact-hagens-berman-before-october-5-2026-lead-plaintiff-deadline-302866513.html",
+    "article_text": "SAN FRANCISCO, Sept. 1, 2026 /PRNewswire/ -- Hagens Berman Sobol Shapiro LLP urges Alibaba Group Holding Limited (NYSE: BABA) investors who suffered substantial losses submit their losses now.\r\nA sec… [+4585 chars]"
+  },
+  {
+    "id": "11c79fddd1556f4c",
+    "title": "Apple's accusations are making things uncomfortable for OpenAI",
+    "source": "Biztoc.com",
+    "publication_date": "2026-09-01T16:33:33Z",
+    "url": "https://biztoc.com/x/0b67cb63231062ad",
+    "article_text": "A laptop arrived late. What was on it made things worse. And now Apple is asking a federal court to move faster, arguing that evidence in its lawsuit against OpenAI is being actively destroyed.Apple … [+151 chars]"
+  },
+  {
+    "id": "0313f5576b3248d9",
+    "title": "1 Magnificent Artificial Intelligence (AI) Stock to Buy With $25 Before 2026 Is Over",
+    "source": "Biztoc.com",
+    "publication_date": "2026-09-01T16:33:22Z",
+    "url": "https://biztoc.com/x/ac295bebc8bee37d",
+    "article_text": "As we approach the end of 2026, the S&amp;P 500 index is hovering near an all-time high. However, there are still some attractive opportunities on the table, even in the red-hot artificial intelligen… [+153 chars]"
+  },
+  {
+    "id": "43c408f067c392a8",
+    "title": "DLSS 5 Officially Goes Live September 3 With NBA 2K27, Exclusive to RTX 50-series \"Blackwell\" GPUs",
+    "source": "Techpowerup.com",
+    "publication_date": "2026-09-01T16:32:33Z",
+    "url": "https://www.techpowerup.com/352223/dlss-5-officially-goes-live-september-3-with-nba-2k27-exclusive-to-rtx-50-series-blackwell-gpus",
+    "article_text": "This should only take a few seconds. If you have issues, please do contact us, we want to learn about any problems.\r\nDrag the handle to the target\r\nNeed help? Contact Us. Please mention your IP: 66.7… [+7 chars]"
+  },
+  {
+    "id": "690a31103ffbf2c0",
+    "title": "ChatGPT Facing Dual Regulatory Regimes Under New EU Designation",
+    "source": "pymnts.com",
+    "publication_date": "2026-09-01T16:32:32Z",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/chatgpt-facing-dual-regulatory-regimes-under-new-eu-designation/",
+    "article_text": "The European Union is bringing OpenAIs ChatGPT under its strictest online platform rules, signaling that Brussels increasingly views widely used artificial intelligence services not only as AI models… [+4831 chars]"
+  },
+  {
+    "id": "890acc3e7a4185df",
+    "title": "opik-mcp 0.2.24",
     "source": "Pypi.org",
-    "publication_date": "2026-09-01T04:04:38Z",
-    "url": "https://pypi.org/project/fsq-agent/",
+    "publication_date": "2026-09-01T16:31:21Z",
+    "url": "https://pypi.org/project/opik-mcp/0.2.24/",
     "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
-    "id": "c57de0a67b574ca9",
-    "title": "LLMs, Meet The DSA; The Social Media Controversy Continues",
-    "source": "AdExchanger",
-    "publication_date": "2026-09-01T04:03:34Z",
-    "url": "http://www.adexchanger.com/daily-news-roundup/tuesday-01092026/",
-    "article_text": "Large And (Not) In Charge\r\nWhat do ChatGPT, Reddit and Roblox have in common – aside from beefing up their burgeoning ads businesses within the last several years?\r\nAll three companies reach at least… [+4691 chars]"
+    "id": "fcfbcc1be2a3ddd7",
+    "title": "This $5 Trillion Company Could Be Worth $8 Trillion by 2030",
+    "source": "24/7 Wall St.",
+    "publication_date": "2026-09-01T16:30:16Z",
+    "url": "https://247wallst.com/investing/2026/09/01/this-5-trillion-company-could-be-worth-8-trillion-by-2030/",
+    "article_text": "Quick Read\r\n<ul><li>NVDA posted $96B in quarterly revenue growing 106% YoY, yet reaching $330 by 2030 requires just 11% annualized returns from today's price.\r\n</li><li>Jensen Huang projects 70% reve… [+4715 chars]"
   },
   {
-    "id": "a9da38c66e84c1d2",
-    "title": "Ulla Johnson Opens First European Flagship on London’s Sloane Street",
-    "source": "WWD",
-    "publication_date": "2026-09-01T04:01:00Z",
-    "url": "http://wwd.com/business-news/retail/ulla-johnson-first-european-flagship-london-sloane-street-1239147543/",
-    "article_text": "LONDON — In a milestone in its international expansion, Ulla Johnson on Tuesday unveiled its first stand-alone store outside the U.S. at 150 Sloane Street here.\r\nIn an interview, the brand’s chief ex… [+6035 chars]"
+    "id": "c205e096c964b8bc",
+    "title": "An $89 Billion Reason to Buy Nvidia Stock Here",
+    "source": "Biztoc.com",
+    "publication_date": "2026-09-01T16:29:38Z",
+    "url": "https://biztoc.com/x/99ba2f5795cdbc80",
+    "article_text": "reported blockbuster second-quarter fiscal 2027 results on Aug. 26, led by a solid surge in data-center revenue, which climbed by a whopping 117% year-over-year (YOY) to $89 billion. With the data-ce… [+147 chars]"
   },
   {
-    "id": "639e0655ffa6ce78",
-    "title": "EXCLUSIVE: Randa to Acquire Untuckit, Operate It as a Stand-alone Business",
-    "source": "WWD",
-    "publication_date": "2026-09-01T04:01:00Z",
-    "url": "http://wwd.com/business-news/mergers-acquisitions/randa-acquire-untuckit-chris-riccobono-david-katz-1239149255/",
-    "article_text": "Seemingly all of the action in the fashion M&amp;A market these days is centered around the big brand management firms such as Authentic Brands Group, WHP Global and Marquee.\r\nBut there are still a h… [+7485 chars]"
+    "id": "652033ea1ab09e2a",
+    "title": "The Ethics of Intelligence: Hampton University Builds an AI Ecosystem for a Future Where Access, Data, Opportunity Matter",
+    "source": "PRNewswire",
+    "publication_date": "2026-09-01T16:29:00Z",
+    "url": "https://www.prnewswire.com/news-releases/the-ethics-of-intelligence-hampton-university-builds-an-ai-ecosystem-for-a-future-where-access-data-opportunity-matter-302866572.html",
+    "article_text": "As Virginia becomes the nation's data center capital and AI reshapes the labor market, Hampton University is tackling a larger question: Who will shape the technologies increasingly shaping us?\r\nHAMP… [+13090 chars]"
   },
   {
-    "id": "9a1276e7845c4864",
-    "title": "5 questions facing advertisers, publishers and creators heading into fall",
-    "source": "Digiday",
-    "publication_date": "2026-09-01T04:01:00Z",
-    "url": "http://digiday.com/podcasts/5-questions-facing-advertisers-publishers-and-creators-heading-into-fall/",
-    "article_text": "A lot can happen in a few months. A few months ago, NBCUniversal was secure within Comcast, LiveRamp was an independent ad tech company, Hank Green was unbesmirched, and publishers complaints about G… [+2795 chars]"
+    "id": "d80264645db6e0d2",
+    "title": "AI token prices are hitting new record lows",
+    "source": "Biztoc.com",
+    "publication_date": "2026-09-01T16:28:26Z",
+    "url": "https://biztoc.com/x/39f54ade5867fced",
+    "article_text": "A closely followed measure of artificial intelligence token prices touched fresh lows this week, the latest sign of deflating prices in an increasingly competitive landscape.The LLM Token Expenditure… [+137 chars]"
   },
   {
-    "id": "e709a876d70ecd68",
-    "title": "Siemens Healthineers showcases its AI-powered technological innovations to redefine healthcare delivery in Southeast Asia",
-    "source": "BusinessLine",
-    "publication_date": "2026-09-01T04:00:44Z",
-    "url": "https://www.thehindubusinessline.com/brandhub/pr-release/siemens-healthineers-showcases-its-ai-powered-technological-innovations-to-redefine-healthcare-delivery-in-southeast-asia/article71413584.ece",
-    "article_text": "BANGKOK , Sept. 1, 2026 /PRNewswire/ -- At this year's Hospital Management Asia (HMA) healthcare conference, Siemens Healthineers is showcasing how artificial intelligence (AI), data and innovative t… [+5473 chars]"
+    "id": "502501dba0dd4b6f",
+    "title": "Why did Elon Musk want Cursor? Know the real story and how MIT grad Aman Sanger sealed $60 billion deal",
+    "source": "Livemint",
+    "publication_date": "2026-09-01T16:27:15Z",
+    "url": "https://www.livemint.com/companies/people/why-did-elon-musk-want-cursor-know-the-real-story-and-how-mit-grad-aman-sanger-sealed-60-billion-deal-11788275983698.html",
+    "article_text": "Aman Sanger was one of four MIT students experimenting with the possibilities of artificial intelligence when he helped establish Anysphere in 2022. Four years later, the company behind AI coding pla… [+4744 chars]"
   },
   {
-    "id": "47bb5a5098b75720",
-    "title": "Cybersecurity jobs available right now: September 1, 2026",
-    "source": "Help Net Security",
-    "publication_date": "2026-09-01T04:00:30Z",
-    "url": "https://www.helpnetsecurity.com/2026/09/01/cybersecurity-jobs-available-right-now-september-1-2026/",
-    "article_text": "Security Engineer, PSO\r\nGoogle | USA | On-site – View job details\r\nAs a Security Engineer, you will provide technical guidance to customers adopting Google Cloud Platform, helping them navigate their… [+6109 chars]"
+    "id": "cc3fe11f85727780",
+    "title": "X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested",
+    "source": "Decrypt",
+    "publication_date": "2026-09-01T16:26:10Z",
+    "url": "https://decrypt.co/377048/x-data-breach-users-flooded-password-reset",
+    "article_text": "In brief\r\n<ul><li>X users have been posting since early August about password reset emails, login alerts, and account lockouts they never triggered.</li><li>X has not admitted or reported a new data … [+6953 chars]"
   },
   {
-    "id": "f67c5a508fc1d7c5",
-    "title": "The Pinnacle of Clarity: AGON by AOC Unveils World's First 5K NVIDIA G-SYNC® Pulsar Gaming Monitor",
-    "source": "BusinessLine",
-    "publication_date": "2026-09-01T04:00:19Z",
-    "url": "https://www.thehindubusinessline.com/brandhub/pr-release/the-pinnacle-of-clarity-agon-by-aoc-unveils-worlds-first-5k-nvidia-g-sync-pulsar-gaming-monitor/article71413573.ece",
-    "article_text": "The AGP327KG combines 5K resolution with NVIDIA G-SYNC Pulsar technology for exceptional motion clarity and smooth, tear-free variable refresh rate gaming.\r\nTAIPEI , Sept. 1, 2026 /PRNewswire/ -- AGO… [+2741 chars]"
+    "id": "a7bd8f80891cdae5",
+    "title": "Crowbound #1 Preview: Factory Reset for Humanity's Future",
+    "source": "Bleeding Cool News",
+    "publication_date": "2026-09-01T16:26:08Z",
+    "url": "https://bleedingcool.com/comics/crowbound-1-preview-factory-reset-for-humanitys-future/",
+    "article_text": "Posted in: Comics, Image, Preview | Tagged: Crowbound\r\nCrowbound #1 debuts this Wednesday with a mother's desperate bargain in a world split by a monstrous Factory and ruled by a Scarecrow Queen.\r\nAr… [+9112 chars]"
   },
   {
-    "id": "f45f741eb6c2b56d",
-    "title": "Global Market: KOSPI gains as AI-driven chip demand lifts South Korean export",
-    "source": "The Times of India",
-    "publication_date": "2026-09-01T04:00:05Z",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-kospi-gains-as-ai-driven-chip-demand-lifts-south-korean-export/articleshow/133667458.cms",
-    "article_text": "South Korean shares rose on Tuesday, September 1, after preliminary data showed the countrys exports recorded another month of strong growth, helped by robust demand for semiconductors linked to the … [+2537 chars]"
+    "id": "cf62b551ef840784",
+    "title": "S&P Global Completes Acquisition of datacenterHawk",
+    "source": "PRNewswire",
+    "publication_date": "2026-09-01T16:25:00Z",
+    "url": "https://www.prnewswire.com/news-releases/sp-global-completes-acquisition-of-datacenterhawk-302866559.html",
+    "article_text": "Enhances S&amp;P Global Energy's global data center, power, and infrastructure intelligence \r\nNEW YORK, Sept. 1, 2026 /PRNewswire/ -- S&amp;P Global (NYSE: SPGI) today announced the completion of its… [+10876 chars]"
   },
   {
-    "id": "7121e737b53f5c8f",
-    "title": "Ila Kumar: Innovating with communities",
-    "source": "Mit.edu",
-    "publication_date": "2026-09-01T04:00:00Z",
-    "url": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
-    "article_text": "Before graduate school, Kumar grew up in Philadelphia, attended the University of Pennsylvania, and worked on several projects at the intersection of technology and mental health or psychology resear… [+3304 chars]"
-  },
-  {
-    "id": "743cd24f37989c54",
-    "title": "Thinks Better in Cursive",
-    "source": "Richmondmagazine.com",
-    "publication_date": "2026-09-01T04:00:00Z",
-    "url": "https://richmondmagazine.com/arts-entertainment/books/david-baldacci/",
-    "article_text": "The following is an online extra accompanying our interview with David Baldacci in the September 2026 issue of Richmond magazine.\r\nCome into my cell. Make yourself at home. Take the chair; Ill sit on… [+16815 chars]"
-  },
-  {
-    "id": "576e3c71aa7c5731",
-    "title": "Trump’s putting America first in medicine, at factories, and with oil",
-    "source": "Americanthinker.com",
-    "publication_date": "2026-09-01T04:00:00Z",
-    "url": "https://www.americanthinker.com/blog/2026/09/trump-s-putting-america-first-in-medicine-at-factories-and-with-oil/",
-    "article_text": "Americans heading into this midterm season keep hearing that President Donald J. Trump spends all his time on foreign policy, especially the conflict with Iranian Islamist state terrorists.\r\nThat sto… [+5458 chars]"
-  },
-  {
-    "id": "72bd6784e5aae170",
-    "title": "The Cybersecurity Race Is Getting Faster. America Has to Keep Up.",
-    "source": "Americanthinker.com",
-    "publication_date": "2026-09-01T04:00:00Z",
-    "url": "https://www.americanthinker.com/articles/2026/09/the-cybersecurity-race-is-getting-faster-america-has-to-keep-up/",
-    "article_text": "There is a fundamental problem emerging in cybersecurity that has little to do with whether America has enough security researchers, enough software engineers, or enough sophisticated security tools.… [+8060 chars]"
-  },
-  {
-    "id": "f69d965f031bfcdb",
-    "title": "Mathematician discovers how to fold the smallest origami doughnut",
-    "source": "Scientific American",
-    "publication_date": "2026-09-01T04:00:00Z",
-    "url": "https://www.scientificamerican.com/article/mathematician-discovers-how-to-fold-the-smallest-origami-doughnut/",
-    "article_text": "This article is from Proof Positive, our friendly math newsletter that’s delivered to your inbox every Tuesday afternoon. Sign up today and read it first.\r\nHow can you create a doughnut-shaped surfac… [+4996 chars]"
-  },
-  {
-    "id": "05598e73055116cc",
-    "title": "Citizen Enforcement or Green Activism?",
-    "source": "Americanthinker.com",
-    "publication_date": "2026-09-01T04:00:00Z",
-    "url": "https://www.americanthinker.com/articles/2026/09/citizen-enforcement-or-green-activism/",
-    "article_text": "Back in the early 1970s, several significant pieces of legislation were passed relating directly to the environment and cleaning up our air and water. In 1970, the Clean Air Act targeted airborne pol… [+8266 chars]"
-  },
-  {
-    "id": "960d50fcf9f73c4c",
-    "title": "OpenAI reports disturbing behavior from AI agents",
-    "source": "Americanthinker.com",
-    "publication_date": "2026-09-01T04:00:00Z",
-    "url": "https://www.americanthinker.com/blog/2026/09/openai-reports-disturbing-behavior-from-ai-agents/",
-    "article_text": "An extraordinary experiment inside OpenAI went badly off the rails this summer when artificial intelligence agents that were supposed to operate independently discovered one another, created their ow… [+9062 chars]"
-  },
-  {
-    "id": "5f8c4e38444d5e20",
-    "title": "pymaxim 1.1.2",
+    "id": "a51465589a9d5a56",
+    "title": "modelbrief added to PyPI",
     "source": "Pypi.org",
-    "publication_date": "2026-09-01T03:56:09Z",
-    "url": "https://pypi.org/project/pymaxim/1.1.2/",
-    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "publication_date": "2026-09-01T16:24:04Z",
+    "url": "https://pypi.org/project/modelbrief/",
+    "article_text": "Train your model your way. ModelBrief analyses it and turns the results into a complete model report.\r\nModelBrief accepts an already-trained model plus any available train, validation, and test data.… [+4767 chars]"
+  },
+  {
+    "id": "bab762c8bb6debe4",
+    "title": "China’s Xi visits Egypt as US sanctions threat looms over Iran links",
+    "source": "The Punch",
+    "publication_date": "2026-09-01T16:23:42Z",
+    "url": "https://punchng.com/chinas-xi-visits-egypt-as-us-sanctions-threat-looms-over-iran-links/",
+    "article_text": "Chinese President Xi Jinping is set to arrive in Egypt on Tuesday, making a rare trip to the Middle East as both countries face the threat of United States sanctions over financial links to Iran.\r\nTh… [+3531 chars]"
+  },
+  {
+    "id": "565a9a3b3947a6e6",
+    "title": "Chevron, Exxon and Other Oil Stocks Jump as Two Huge Energy Stories Collide",
+    "source": "24/7 Wall St.",
+    "publication_date": "2026-09-01T16:23:18Z",
+    "url": "https://247wallst.com/investing/2026/09/01/chevron-exxon-and-other-oil-stocks-jump-as-two-huge-energy-stories-collide/",
+    "article_text": "Quick Read\r\n<ul><li>Resumed U.S.-Iran strikes sent oil up 3%, lifting CVX and XOM roughly 1.5% each at Monday's open as Middle East risk premiums returned.\r\n</li><li>OXY fully offset Middle East prod… [+4235 chars]"
+  },
+  {
+    "id": "c639f614f49ac08e",
+    "title": "Musk defends AI data centres, slams EU rules at G20",
+    "source": "The Punch",
+    "publication_date": "2026-09-01T16:22:38Z",
+    "url": "https://punchng.com/musk-defends-ai-data-centres-slams-eu-rules-at-g20/",
+    "article_text": "Elon Musk on Tuesday urged the G20 to tread softly on regulating tech and Artificial Intelligence, saying European-style rules inhibit innovation.\r\nMusk also made a defence of building data centres t… [+3908 chars]"
+  },
+  {
+    "id": "059a859715995040",
+    "title": "LatchBio evaluates Grok 4.6’s biosecurity performance and finds it leads the pack",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-09-01T16:19:14Z",
+    "url": "https://cryptobriefing.com/latchbio-grok-46-biosecurity-evaluation/",
+    "article_text": "The AI biosecurity auditor says xAI's latest model can distinguish between dangerous biological queries and legitimate research better than any competitor tested. Teaching an AI model to refuse instr… [+2815 chars]"
+  },
+  {
+    "id": "f8e87a48bd0d4176",
+    "title": "Observing and evaluating production agents using OpenSearch Agent Health",
+    "source": "Amazon.com",
+    "publication_date": "2026-09-01T16:19:02Z",
+    "url": "https://aws.amazon.com/blogs/big-data/observing-and-evaluating-production-agents-using-opensearch-agent-health/",
+    "article_text": "As AI agents are moving from experimental prototypes to production workloads, teams need visibility into what agents are doing and a systematic way to measure whether theyre doing it well. Traditiona… [+12906 chars]"
+  },
+  {
+    "id": "e0c402474e355a5b",
+    "title": "AI token prices hit new record lows as inference costs plunge 43% in ten weeks",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-09-01T16:18:40Z",
+    "url": "https://cryptobriefing.com/ai-token-prices-record-lows/",
+    "article_text": "The cost of running AI models is cratering thanks to OpenAI price wars and aggressive Chinese competitors, reshaping the economics of artificial intelligence The price of processing AI tokens, the ba… [+3379 chars]"
+  },
+  {
+    "id": "ed5ddb135a9a0033",
+    "title": "Dell reports Q2 FY27 earnings as AI server demand reshapes the company",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-09-01T16:18:19Z",
+    "url": "https://cryptobriefing.com/dell-q2-fy27-earnings-ai-server-demand/",
+    "article_text": "The company's AI-optimized server business has grown so fast it now dwarfs the rest of Dell's portfolio, and investors want to know if it can keep up. Dell Technologies is scheduled to report its fis… [+2436 chars]"
+  },
+  {
+    "id": "93c3f7eab9375d71",
+    "title": "Flamengo top for biggest wins in 2026 and the round-robin era",
+    "source": "Onefootball.com",
+    "publication_date": "2026-09-01T16:18:00Z",
+    "url": "https://onefootball.com/en/news/flamengo-top-for-biggest-wins-in-2026-and-the-round-robin-era-43383392",
+    "article_text": "Flamengo is the team with the most routs in 2026 and in the round-robin eraCredits: Gilvan de Souza/Flamengo\r\nWith two goals from Samuel Lino and another from Carrascal, Flamengo thrashed Botafogo 3-… [+1591 chars]"
+  },
+  {
+    "id": "e764acb5e9890dff",
+    "title": "Micron’s Insane Productivity Explosion: Revenue Per Employee Doubled to $1.7 Million in Just 9 Months",
+    "source": "24/7 Wall St.",
+    "publication_date": "2026-09-01T16:17:06Z",
+    "url": "https://247wallst.com/investing/2026/09/01/microns-insane-productivity-explosion-revenue-per-employee-doubled-to-1-7-million-in-just-9-months/",
+    "article_text": "Quick Read\r\n<ul><li>MU doubled revenue per employee to $1,703 in nine months as gross margin hit 85% and free cash flow surged to $18 billion.\r\n</li><li>Mehrotra sees no supply-demand balance through… [+4627 chars]"
+  },
+  {
+    "id": "e8aa19b7e5d1f393",
+    "title": "David Booth Says Picking AI Winners Can Backfire: What About Nvidia?",
+    "source": "Biztoc.com",
+    "publication_date": "2026-09-01T16:16:51Z",
+    "url": "https://biztoc.com/x/d303d48f0525beb7",
+    "article_text": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.David Booth, founder and chairman of $1.1 trillion Dimensional Fund Advisors, says investors do not… [+152 chars]"
+  },
+  {
+    "id": "6760668169a905c2",
+    "title": "This Guy Built a Free Plugin That Provides Godot With Raytraced Sound",
+    "source": "Gizmodo.com",
+    "publication_date": "2026-09-01T16:15:03Z",
+    "url": "https://gizmodo.com/this-guy-built-a-free-plugin-that-provides-godot-with-raytraced-sound-2000805635",
+    "article_text": "Roll up, roll up, folks! Heres a whole new way to melt your GPU! Thats right, people: youve heard of ray-traced graphics, but have you heard of ray-traced sound?\r\nIn all seriousness, the idea of ray-… [+3896 chars]"
+  },
+  {
+    "id": "6dd4b451e4f12288",
+    "title": "Startup launches 27-inch glasses-free spatial 3D display for under $1200 on Kickstarter",
+    "source": "TechRadar",
+    "publication_date": "2026-09-01T16:15:00Z",
+    "url": "https://www.techradar.com/pro/startup-launches-27-inch-glasses-free-spatial-3d-display-for-under-usd1200-on-kickstarter",
+    "article_text": "<ul><li>ViewX's 27-inch display shows 3D images without requiring any glasses at all</li><li>An onboard AI chip converts ordinary 2D footage into spatial 3D content</li><li>Eye tracking runs at 180fp… [+4149 chars]"
+  },
+  {
+    "id": "43ef6511cd0c1d28",
+    "title": "This High-Yield Dividend Stock Is up 60% From Its 2026 Lows. Why You Should Think About Selling Now",
+    "source": "Biztoc.com",
+    "publication_date": "2026-09-01T16:14:31Z",
+    "url": "https://biztoc.com/x/82ac490ff90f6641",
+    "article_text": "It's not often that we use high yield and tech stocks in the same sentence. However, some of the legacy software and consulting companies have joined the league, thanks to the drawdown in their stock… [+138 chars]"
+  },
+  {
+    "id": "813f44234b890688",
+    "title": "A researcher hijacked Claude Code by asking it to summarise a web page",
+    "source": "The Next Web",
+    "publication_date": "2026-09-01T16:14:01Z",
+    "url": "https://thenextweb.com/news/claude-code-prompt-injection-summarise-website-auto-mode",
+    "article_text": "Ask Claude Code to summarise a web page, and it can end up running an attackers code on your machine. A security researcher got that result in up to 80% of his attempts.\r\nJessica Lyons reported the f… [+5457 chars]"
+  },
+  {
+    "id": "080d937249bd77c9",
+    "title": "Oracle Falls 4% as Bond Selloff Tests Its Debt-Funded AI Buildout, Nebius Slips",
+    "source": "24/7 Wall St.",
+    "publication_date": "2026-09-01T16:13:44Z",
+    "url": "https://247wallst.com/investing/2026/09/01/oracle-falls-4-as-bond-selloff-tests-its-debt-funded-ai-buildout-nebius-slips/",
+    "article_text": "Quick Read\r\n<ul><li>Oracle (ORCL) slides 4% and Nebius (NBIS) drops 3% as the 10-year Treasury yield climbs to a one-year high of 4.8%.\r\n</li><li>Cloud ETF SKYY falls 2% versus QQQ's 1% drop, confirm… [+5537 chars]"
+  },
+  {
+    "id": "794f3c6b6659f7e5",
+    "title": "Unboxing the Slimmest: Galaxy Z Fold8 Ultra is Designed to be Slimmer and Lighter for Everyday Convenience",
+    "source": "Samsung.com",
+    "publication_date": "2026-09-01T16:13:40Z",
+    "url": "https://news.samsung.com/in/unboxing-the-slimmest-galaxy-z-fold8-ultra-is-designed-to-be-slimmer-and-lighter-for-everyday-convenience",
+    "article_text": "As Ultra unfolds, true confidence takes shape.\r\nEngineered to be ultra powerful and meet your every need without missing a beat, yet impossibly slim at 4.1 mm (when unfolded) and light at just 214 g,… [+2112 chars]"
+  },
+  {
+    "id": "899033a92b43b12b",
+    "title": "Cathie Wood’s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block",
+    "source": "Decrypt",
+    "publication_date": "2026-09-01T16:13:28Z",
+    "url": "https://decrypt.co/377046/cathie-wood-ark-invest-buys-more-block",
+    "article_text": "In brief\r\n<ul><li>Ark Invest bought about $37.4 million in Block shares Monday.</li><li>The firm divided the 456,059 shares among its ARKK, ARKW, and ARKF funds.</li><li>Ark also bought roughly $3.4 … [+2085 chars]"
   }
 ]
