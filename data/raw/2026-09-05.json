@@ -1,0 +1,1498 @@
+[
+  {
+    "id": "fc40ddafdd41e0cc",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "source": "OpenAI Blog",
+    "publication_date": "Thu, 03 Sep 2026 13:15:00 GMT",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "article_text": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
+  },
+  {
+    "id": "325e9dcd840a97e9",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "publication_date": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "article_text": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
+  },
+  {
+    "id": "9281d6906e8350b6",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "publication_date": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "article_text": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+  },
+  {
+    "id": "039a4975e102cb53",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "source": "OpenAI Blog",
+    "publication_date": "Thu, 03 Sep 2026 11:00:00 GMT",
+    "url": "https://openai.com/index/gpt-6-astra",
+    "article_text": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
+  },
+  {
+    "id": "39210f987919e80e",
+    "title": "Safety overview: GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "publication_date": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "article_text": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
+  },
+  {
+    "id": "3bda12e16fd31e0e",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "source": "OpenAI Blog",
+    "publication_date": "Wed, 02 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "article_text": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
+  },
+  {
+    "id": "b0cbef382238cdd5",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "source": "OpenAI Blog",
+    "publication_date": "Tue, 01 Sep 2026 17:00:00 GMT",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "article_text": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
+  },
+  {
+    "id": "f2694bfa96c49e91",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "source": "OpenAI Blog",
+    "publication_date": "Tue, 01 Sep 2026 13:00:00 GMT",
+    "url": "https://openai.com/index/path-to-astra",
+    "article_text": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
+  },
+  {
+    "id": "c0364833b41073ca",
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "source": "OpenAI Blog",
+    "publication_date": "Tue, 01 Sep 2026 12:00:00 GMT",
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "article_text": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
+  },
+  {
+    "id": "330fba64551db8b4",
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "source": "OpenAI Blog",
+    "publication_date": "Tue, 01 Sep 2026 01:00:00 GMT",
+    "url": "https://openai.com/index/gilbert-tobin",
+    "article_text": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
+  },
+  {
+    "id": "4862f3d2c68fb1ad",
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "source": "OpenAI Blog",
+    "publication_date": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "article_text": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
+  },
+  {
+    "id": "0b5a688ac44522d6",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "source": "OpenAI Blog",
+    "publication_date": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "url": "https://openai.com/index/polimill",
+    "article_text": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
+  },
+  {
+    "id": "8a7cdd78fd483859",
+    "title": "A milestone in expanding access to AI",
+    "source": "OpenAI Blog",
+    "publication_date": "Mon, 31 Aug 2026 04:00:00 GMT",
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "article_text": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
+  },
+  {
+    "id": "b42ac281ecaf56c0",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "source": "OpenAI Blog",
+    "publication_date": "Fri, 28 Aug 2026 06:00:00 GMT",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "article_text": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
+  },
+  {
+    "id": "cb1db0d5c74b6e9e",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "source": "OpenAI Blog",
+    "publication_date": "Fri, 28 Aug 2026 02:00:00 GMT",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "article_text": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
+  },
+  {
+    "id": "5c8d75ef9c12c059",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "source": "OpenAI Blog",
+    "publication_date": "Thu, 27 Aug 2026 09:00:00 GMT",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "article_text": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
+  },
+  {
+    "id": "fe23f369e01db08d",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "source": "OpenAI Blog",
+    "publication_date": "Thu, 27 Aug 2026 03:00:00 GMT",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "article_text": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
+  },
+  {
+    "id": "832a12c8f33a104e",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "source": "OpenAI Blog",
+    "publication_date": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/learning-never-stops",
+    "article_text": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
+  },
+  {
+    "id": "fa2791fbc9af008f",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "source": "OpenAI Blog",
+    "publication_date": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "article_text": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
+  },
+  {
+    "id": "34e62ff4c7cf4def",
+    "title": "The Hugging Face incident and the road ahead",
+    "source": "OpenAI Blog",
+    "publication_date": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "article_text": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment."
+  },
+  {
+    "id": "2b0379511ea05114",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "source": "Google DeepMind",
+    "publication_date": "Thu, 03 Sep 2026 15:02:08 +0000",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "article_text": ""
+  },
+  {
+    "id": "d721843382f3485e",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "source": "Google DeepMind",
+    "publication_date": "Wed, 02 Sep 2026 16:24:24 +0000",
+    "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "article_text": ""
+  },
+  {
+    "id": "63b19b50b4021cb5",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "source": "Google DeepMind",
+    "publication_date": "Wed, 02 Sep 2026 16:18:31 +0000",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "article_text": ""
+  },
+  {
+    "id": "20b040f8e58f31e9",
+    "title": "Introducing agentic video understanding with Gemini",
+    "source": "Google DeepMind",
+    "publication_date": "Tue, 01 Sep 2026 17:08:51 +0000",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "article_text": ""
+  },
+  {
+    "id": "74b1125af8681de1",
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "source": "Google DeepMind",
+    "publication_date": "Thu, 27 Aug 2026 16:11:32 +0000",
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "article_text": ""
+  },
+  {
+    "id": "71c43cf780d371ee",
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "source": "Google DeepMind",
+    "publication_date": "Thu, 27 Aug 2026 12:59:16 +0000",
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "article_text": "Piloting the world's first double-blind AI evaluations"
+  },
+  {
+    "id": "ac6eb9276806c2f8",
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "source": "Google DeepMind",
+    "publication_date": "Wed, 26 Aug 2026 17:01:00 +0000",
+    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "article_text": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
+  },
+  {
+    "id": "835a331a5b20ce16",
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "source": "Google DeepMind",
+    "publication_date": "Fri, 21 Aug 2026 11:59:48 +0000",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "article_text": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+  },
+  {
+    "id": "43643a3dd841363b",
+    "title": "Introducing Gemini 3.7 Flash",
+    "source": "Google DeepMind",
+    "publication_date": "Thu, 13 Aug 2026 17:04:18 +0000",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "article_text": ""
+  },
+  {
+    "id": "1357a9ae7911e1d5",
+    "title": "Putting sign language AI into users’ hands",
+    "source": "Google DeepMind",
+    "publication_date": "Wed, 12 Aug 2026 14:01:59 +0000",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "article_text": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+  },
+  {
+    "id": "1986eab2e2ed84ba",
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "source": "Google DeepMind",
+    "publication_date": "Thu, 06 Aug 2026 15:06:15 +0000",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "article_text": ""
+  },
+  {
+    "id": "614d79e4a866af7d",
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "source": "Google DeepMind",
+    "publication_date": "Thu, 30 Jul 2026 15:00:59 +0000",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "article_text": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
+  },
+  {
+    "id": "05b5e14c97505dcc",
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "source": "Google DeepMind",
+    "publication_date": "Wed, 29 Jul 2026 16:02:10 +0000",
+    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "article_text": ""
+  },
+  {
+    "id": "42a1992e4b242ffc",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "source": "Google DeepMind",
+    "publication_date": "Tue, 28 Jul 2026 13:21:37 +0000",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "article_text": ""
+  },
+  {
+    "id": "a821810ee2b72f16",
+    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "source": "Google DeepMind",
+    "publication_date": "Wed, 22 Jul 2026 13:38:54 +0000",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "article_text": "Google commits $40M in AI tokens and credits for the Genesis Mission"
+  },
+  {
+    "id": "e38a2bc2474832f2",
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "source": "Google DeepMind",
+    "publication_date": "Tue, 21 Jul 2026 15:16:30 +0000",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "article_text": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
+  },
+  {
+    "id": "b5de177ccc831b45",
+    "title": "Introducing Gemini 3.5 Flash Cyber",
+    "source": "Google DeepMind",
+    "publication_date": "Fri, 17 Jul 2026 15:00:11 +0000",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "article_text": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities."
+  },
+  {
+    "id": "53ad893ddb18c2e1",
+    "title": "Our approach to bioresilience",
+    "source": "Google DeepMind",
+    "publication_date": "Thu, 16 Jul 2026 09:30:42 +0000",
+    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "article_text": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
+  },
+  {
+    "id": "13f77bbb5cb94408",
+    "title": "Empowering India’s next generation of innovators with ATL Saathi",
+    "source": "Google DeepMind",
+    "publication_date": "Mon, 13 Jul 2026 12:37:28 +0000",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "article_text": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
+  },
+  {
+    "id": "f6b3f809726c47bb",
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "source": "Google DeepMind",
+    "publication_date": "Fri, 03 Jul 2026 14:25:43 +0000",
+    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "article_text": ""
+  },
+  {
+    "id": "9509bbf8b01c98fe",
+    "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+    "source": "NVIDIA Blog",
+    "publication_date": "Thu, 03 Sep 2026 16:00:59 +0000",
+    "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+    "article_text": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators [&#8230;]"
+  },
+  {
+    "id": "fa67f50273e6d77f",
+    "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+    "source": "NVIDIA Blog",
+    "publication_date": "Thu, 03 Sep 2026 13:00:35 +0000",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+    "article_text": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned [&#8230;]"
+  },
+  {
+    "id": "ea981681c9e20cb5",
+    "title": "NVIDIA to Acquire Hugging Face",
+    "source": "NVIDIA Blog",
+    "publication_date": "Thu, 03 Sep 2026 11:56:49 +0000",
+    "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+    "article_text": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for [&#8230;]"
+  },
+  {
+    "id": "5c23ba73e597b8bc",
+    "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+    "source": "NVIDIA Blog",
+    "publication_date": "Tue, 01 Sep 2026 21:19:20 +0000",
+    "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
+    "article_text": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too.  The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber [&#8230;]"
+  },
+  {
+    "id": "ca1c781736e147b0",
+    "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
+    "source": "NVIDIA Blog",
+    "publication_date": "Thu, 27 Aug 2026 13:00:33 +0000",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
+    "article_text": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology controls give members more ways to fine-tune gameplay, while expanded support for new Steam devices, GOG single sign-on, Firefox browser [&#8230;]"
+  },
+  {
+    "id": "d9edb0555aca346a",
+    "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
+    "source": "NVIDIA Blog",
+    "publication_date": "Thu, 27 Aug 2026 13:00:17 +0000",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+    "article_text": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale."
+  },
+  {
+    "id": "a50e18aa16c5d023",
+    "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+    "source": "NVIDIA Blog",
+    "publication_date": "Wed, 26 Aug 2026 21:05:30 +0000",
+    "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+    "article_text": "The next wave of AI is placing new demands on infrastructure.  As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation [&#8230;]"
+  },
+  {
+    "id": "cd140ce3164a9cce",
+    "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
+    "source": "NVIDIA Blog",
+    "publication_date": "Tue, 25 Aug 2026 15:30:48 +0000",
+    "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
+    "article_text": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality.  Electronic Arts, Embark and Ubisoft are among the latest game publishers and developers bringing their blockbuster titles to NVIDIA RTX Spark ahead of its launch [&#8230;]"
+  },
+  {
+    "id": "f21b782b05987822",
+    "title": "How XPUs Meet a World-Class AI Factory",
+    "source": "NVIDIA Blog",
+    "publication_date": "Mon, 24 Aug 2026 15:00:54 +0000",
+    "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
+    "article_text": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscalers and AI-native companies building custom XPUs must consider [&#8230;]"
+  },
+  {
+    "id": "b4d239e1cc10ea77",
+    "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+    "source": "NVIDIA Blog",
+    "publication_date": "Mon, 24 Aug 2026 15:00:41 +0000",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+    "article_text": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system NVIDIA Groq [&#8230;]"
+  },
+  {
+    "id": "79a0646933911189",
+    "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+    "source": "NVIDIA Blog",
+    "publication_date": "Mon, 24 Aug 2026 15:00:19 +0000",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+    "article_text": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why?  Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer comparisons and model valuations, then synthesizes everything into a [&#8230;]"
+  },
+  {
+    "id": "0557db4024a130d0",
+    "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+    "source": "NVIDIA Blog",
+    "publication_date": "Thu, 20 Aug 2026 13:00:24 +0000",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+    "article_text": "It’s a new way into the cloud.  GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or everyday PC, it’s now even easier to play supported PC games without downloading a dedicated app. Plus, discover [&#8230;]"
+  },
+  {
+    "id": "efd3807b91878640",
+    "title": "Securing the Infrastructure of Intelligence",
+    "source": "NVIDIA Blog",
+    "publication_date": "Mon, 17 Aug 2026 12:34:51 +0000",
+    "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+    "article_text": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory and networking — as well as land, power and [&#8230;]"
+  },
+  {
+    "id": "b7aa33db77b78eeb",
+    "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+    "source": "NVIDIA Blog",
+    "publication_date": "Fri, 14 Aug 2026 17:13:05 +0000",
+    "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+    "article_text": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of [&#8230;]"
+  },
+  {
+    "id": "57077a078bea401a",
+    "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
+    "source": "NVIDIA Blog",
+    "publication_date": "Thu, 13 Aug 2026 13:00:33 +0000",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
+    "article_text": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is also delivering new cloud optimizations that make Frame Generation feel even more responsive while streaming. On top of that, Performance members will see higher frame [&#8230;]"
+  },
+  {
+    "id": "ccb8d606b747f3e0",
+    "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+    "source": "NVIDIA Blog",
+    "publication_date": "Wed, 12 Aug 2026 14:00:00 +0000",
+    "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+    "article_text": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best — employees. Huang topped the list, with 99% of employees approving of the job he does. “As AI and shifting expectations [&#8230;]"
+  },
+  {
+    "id": "90efa435138feda2",
+    "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+    "source": "NVIDIA Blog",
+    "publication_date": "Wed, 12 Aug 2026 00:38:21 +0000",
+    "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+    "article_text": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies [&#8230;]"
+  },
+  {
+    "id": "38a0519a43d4c8dc",
+    "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+    "source": "NVIDIA Blog",
+    "publication_date": "Tue, 11 Aug 2026 15:00:06 +0000",
+    "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+    "article_text": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how power gets from the grid to the GPU.  In traditional power delivery, electricity travels from the grid as an alternating current (AC) [&#8230;]"
+  },
+  {
+    "id": "b8d5ebc86e9a11be",
+    "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "publication_date": "Fri, 04 Sep 2026 21:45:52 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/",
+    "article_text": "Learn how to deploy a multimodal WhatsApp ordering assistant that takes customer orders through text, voice notes, and real-time voice calls on a single business number, built on Amazon Bedrock AgentCore with Amazon Nova 2. The channel and ordering layers stay separate, and one shared memory recognizes each customer across all three channels."
+  },
+  {
+    "id": "d7cbe8a52a1316d2",
+    "title": "Designing lifecycle policies for AgentCore memory",
+    "source": "AWS ML Blog",
+    "publication_date": "Fri, 04 Sep 2026 17:20:04 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
+    "article_text": "Long-running AI agents accumulate outdated memories that degrade quality and create compliance risk. Learn how to design memory lifecycle policies for Amazon Bedrock AgentCore: scoring, consolidating, and pruning agent memories on a nightly AWS Step Functions workflow, with a deployable AWS CDK stack."
+  },
+  {
+    "id": "538d1cb28481919c",
+    "title": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
+    "source": "AWS ML Blog",
+    "publication_date": "Fri, 04 Sep 2026 16:16:00 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/",
+    "article_text": "Building a Physical AI system takes a continuous pipeline, not a single training job. This post shows how to run that model factory (synthetic data generation, post-training, and closed-loop evaluation with NVIDIA Cosmos 3) on a persistent, resilient Amazon SageMaker HyperPod cluster on Amazon EKS, with GPU goodput as the metric that matters."
+  },
+  {
+    "id": "7f92fe65bc862084",
+    "title": "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
+    "source": "AWS ML Blog",
+    "publication_date": "Fri, 04 Sep 2026 16:12:17 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/",
+    "article_text": "HyperPod InstantStart is an open source control plane that composes Amazon EKS orchestration with the managed capabilities of Amazon SageMaker HyperPod. It drives the same guarded operations through both a web interface and an AI agent, turning cluster bootstrap, capacity, training, inference, and storage into dependable, agent-driven infrastructure."
+  },
+  {
+    "id": "12abc1a8098b756e",
+    "title": "Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract",
+    "source": "AWS ML Blog",
+    "publication_date": "Fri, 04 Sep 2026 16:08:10 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/",
+    "article_text": "Learn how to customize an Amazon Bedrock knowledge base for large, complex documents by combining the high-accuracy text extraction of Amazon Textract with the generative AI of Amazon Bedrock. This post shows how to ingest and preprocess PDFs and images, then query utility bills at scale for faster, more accurate customer interactions."
+  },
+  {
+    "id": "96b7b42b27ab523b",
+    "title": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "publication_date": "Fri, 04 Sep 2026 16:06:01 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/",
+    "article_text": "Disaster recovery at scale is hard. Learn how Intuit built EWOK Agent, an agentic disaster recovery assistant on Amazon Bedrock that lets on-call engineers run production failovers from a plain-language request while keeping every action audited, policy-compliant, and safe."
+  },
+  {
+    "id": "85f743ffd3779c0c",
+    "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "publication_date": "Thu, 03 Sep 2026 16:16:28 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/",
+    "article_text": "Engineering teams adopting the AI-Driven Development Lifecycle (AI-DLC) often struggle to turn concepts into working code. This post walks through two reference implementations on Amazon Bedrock AgentCore, Kiro, and Claude Code: an SQL-to-ER-diagram generator and a multi-agent code security analyzer that put the AI-DLC construction phase into practice."
+  },
+  {
+    "id": "476903b617826f00",
+    "title": "Migrate agentic workloads to Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "publication_date": "Thu, 03 Sep 2026 16:14:12 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/",
+    "article_text": "An agent that works in a notebook is not an agent in production. This post walks through migrating a LangGraph customer support agent to Amazon Bedrock AgentCore in two stages: onto Runtime, Gateway, and Memory, then to model-driven planning on Strands Agents, retiring operational burdens along the way."
+  },
+  {
+    "id": "e44cf13a88b8ddfe",
+    "title": "Integrating Outlook with Amazon Quick for AI-powered email automation",
+    "source": "AWS ML Blog",
+    "publication_date": "Thu, 03 Sep 2026 16:11:57 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/",
+    "article_text": "Integrate Microsoft Outlook with Amazon Quick to automate email management, calendar scheduling, and workflow coordination. This post walks through the end-to-end setup and shows automation scenarios using Amazon Quick chat agents, Amazon Quick Flows, and Amazon Quick Automate."
+  },
+  {
+    "id": "38ef869156111ce0",
+    "title": "Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "publication_date": "Thu, 03 Sep 2026 16:10:39 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/",
+    "article_text": "Deploy a customer-operated LiteLLM gateway on Amazon ECS with AWS Fargate, connect it to an OpenAI model on Amazon Bedrock, and configure Codex to route requests through the gateway's Responses API with scoped identities, budgets, rate limits, and telemetry. We also compare direct IAM Identity Center access and a managed Portkey deployment."
+  },
+  {
+    "id": "b854aa8ff5f4fd8d",
+    "title": "Best practices for building agentic automations with Amazon Quick Automate",
+    "source": "AWS ML Blog",
+    "publication_date": "Thu, 03 Sep 2026 16:08:28 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate/",
+    "article_text": "Learn best practices for building production-grade, agent-based business process automations with Amazon Quick Automate: choosing the right process, designing focused agents, combining them with deterministic steps, applying human-in-the-loop review, and building in evaluation and observability."
+  },
+  {
+    "id": "1ae1b1944fae5886",
+    "title": "Embed Quick Sight visuals using Cognito user authentication",
+    "source": "AWS ML Blog",
+    "publication_date": "Thu, 03 Sep 2026 16:01:56 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/embed-quick-sight-visuals-using-cognito-user-authentication/",
+    "article_text": "Learn how to embed individual Amazon Quick Sight visuals into a React application with per-user access control. This walkthrough uses Amazon Cognito authentication and a serverless AWS Lambda backend to generate scoped embed URLs, deployed with a single AWS CloudFormation stack."
+  },
+  {
+    "id": "b3fd8ab69e8f575b",
+    "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference",
+    "source": "AWS ML Blog",
+    "publication_date": "Wed, 02 Sep 2026 21:22:05 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/",
+    "article_text": "Australian teams can now access OpenAI GPT-5.6 Sol, Terra, and Luna models on Amazon Bedrock with global cross-Region inference from the Asia Pacific (Sydney) and Asia Pacific (Melbourne) Regions. This post shows how to invoke the models, use prompt caching, set up Codex with OpenID Connect authentication, and monitor usage with Amazon CloudWatch."
+  },
+  {
+    "id": "8b134edef1d04657",
+    "title": "Modernizing and scaling support operations with generative AI on AWS",
+    "source": "AWS ML Blog",
+    "publication_date": "Wed, 02 Sep 2026 18:26:35 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws/",
+    "article_text": "Learn how to build a generative AI-based support operations platform on AWS that converts training videos into structured SOPs, applies Retrieval-Augmented Generation to guide ticket resolution, and uses machine learning to predict SLA risk and prioritize work."
+  },
+  {
+    "id": "239556b1f7d6e924",
+    "title": "How an AWS team detects dashboard content failures at scale using Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "publication_date": "Wed, 02 Sep 2026 18:21:20 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/",
+    "article_text": "Business intelligence dashboards can fail silently, showing blank, stale, or wrong data even when every infrastructure monitor reports healthy. Learn how an AWS team built an automated, AI-powered content validation solution on Amazon Bedrock that scans hundreds of dashboards and alerts owners, cutting mean time to detection from days to under an hour."
+  },
+  {
+    "id": "5708a8b25abfcbe3",
+    "title": "From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore",
+    "source": "AWS ML Blog",
+    "publication_date": "Wed, 02 Sep 2026 18:18:47 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/",
+    "article_text": "Learn how a global interdealer broker built an automated architecture documentation pipeline on Amazon Bedrock AgentCore that analyzes .NET code bases, generates architecture diagrams, and maintains searchable documentation through Amazon Bedrock Knowledge Bases and AWS CodePipeline."
+  },
+  {
+    "id": "679c29f8bd96fa58",
+    "title": "Trinity: Agentic AI-powered transition planning for students with disabilities",
+    "source": "AWS ML Blog",
+    "publication_date": "Wed, 02 Sep 2026 18:14:17 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities/",
+    "article_text": "Learn how University Startups and its AWS partner g/d/n/a scaled Trinity, a conversational AI solution for students with disabilities, into a serverless multi-agent architecture on Amazon Bedrock that produces IDEA-aligned transition plans for school districts across the US."
+  },
+  {
+    "id": "294ac6d01ed0df9f",
+    "title": "Introducing Claude Fable 5.1 on AWS",
+    "source": "AWS ML Blog",
+    "publication_date": "Tue, 01 Sep 2026 19:12:43 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/",
+    "article_text": "Claude Fable 5.1 is now available on Amazon Bedrock and Claude Platform on AWS. This post covers Claude Fable 5.1's improvements, the Enterprise Frontier Safeguards for keeping your data in a cloud environment you control, and how to start building with the model on Amazon Bedrock."
+  },
+  {
+    "id": "50507cf844954d90",
+    "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
+    "source": "AWS ML Blog",
+    "publication_date": "Tue, 01 Sep 2026 16:17:54 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/",
+    "article_text": "When Atos set out to upskill 400 engineers in agentic AI, hands-on learning was the missing ingredient. Over three days, engineers built multi-agent systems on AWS through an AI League event. This post explains why Atos chose the format, what engineers built and learned, and what other enterprises should consider."
+  },
+  {
+    "id": "dc38027fbdb63364",
+    "title": "Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
+    "source": "AWS ML Blog",
+    "publication_date": "Tue, 01 Sep 2026 16:03:41 +0000",
+    "url": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/",
+    "article_text": "As generative AI adoption scales, cost governance becomes a top challenge. Learn how Jamf built real-time, per-user spend enforcement for Amazon Bedrock using IAM Customer Managed Policies, an Amazon Athena cost view, and a serverless AWS Lambda loop that applies tiered model limits in near-real-time without disrupting active sessions."
+  },
+  {
+    "id": "8466ee8584a33fb7",
+    "title": "The patch window is collapsing: Why security needs a new control plane",
+    "source": "Azure AI Blog",
+    "publication_date": "Tue, 25 Aug 2026 16:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
+    "article_text": "<p>Organizations need protection that operates in the gap between discovery and remediation.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/\">The patch window is collapsing: Why security needs a new control plane</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "97d6de8b13d488ed",
+    "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
+    "source": "Azure AI Blog",
+    "publication_date": "Mon, 17 Aug 2026 15:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/",
+    "article_text": "<p>Cloud-native platforms are becoming the foundation for AI transformation. Discover how Microsoft's Azure application platform helps organizations modernize, innovate, and operate AI-powered applications at scale.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/\">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms </a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "2e0442baa84f7c5a",
+    "title": "Meet Brain: The AI system behind Azure reliability",
+    "source": "Azure AI Blog",
+    "publication_date": "Thu, 02 Jul 2026 16:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+    "article_text": "<p>Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/\">Meet Brain: The AI system behind Azure reliability</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "d4652bc8706ea46f",
+    "title": "Accelerate modern Linux workloads with Azure Files",
+    "source": "Azure AI Blog",
+    "publication_date": "Mon, 29 Jun 2026 15:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
+    "article_text": "<p>Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/\">Accelerate modern Linux workloads with Azure Files</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "7044819e7fff9276",
+    "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
+    "source": "Azure AI Blog",
+    "publication_date": "Mon, 27 Apr 2026 18:00:00 +0000",
+    "url": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
+    "article_text": "<p>Azure Local scales Microsoft Sovereign Private Cloud, supporting AI and data workloads with full control, compliance, and disconnected operations.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/\">Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "d63432c792d3ed50",
+    "title": "Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters",
+    "source": "Azure AI Blog",
+    "publication_date": "Tue, 31 Mar 2026 16:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/",
+    "article_text": "<p>Explore how Microsoft and Armada bring sovereign AI to the edge with Azure Local, enabling secure, resilient workloads in disconnected and regulated environments.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/\">Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "97a1edbe855f4ad1",
+    "title": "Navigating digital sovereignty at the frontier of transformation",
+    "source": "Azure AI Blog",
+    "publication_date": "Mon, 30 Mar 2026 21:27:39 +0000",
+    "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/",
+    "article_text": "<p>Digital sovereignty has become a practical leadership discipline grounded in risk management, continuity planning, and long-term accountability.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/\">Navigating digital sovereignty at the frontier of transformation</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "54b1b15dd7997c0d",
+    "title": "What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026",
+    "source": "Azure AI Blog",
+    "publication_date": "Tue, 24 Mar 2026 07:05:00 +0000",
+    "url": "https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/",
+    "article_text": "<p>At KubeCon + CloudNativeCon Europe 2026 in Amsterdam, we're making announcements that reflect the goal of bringing the operational maturity of Kubernetes to today's workloads and demands.</p>\n<p>The post <a href=\"https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/\">What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "4bcd83ae3b3ea251",
+    "title": "Advancing agentic AI with Microsoft databases across a unified data estate",
+    "source": "Azure AI Blog",
+    "publication_date": "Wed, 18 Mar 2026 12:50:00 +0000",
+    "url": "https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/",
+    "article_text": "<p>Built on a consistent Microsoft SQL foundation from on premises to the cloud, Azure SQL brings AI capabilities directly into your database experience.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/\">Advancing agentic AI with Microsoft databases across a unified data estate</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "31c9718401c4de0e",
+    "title": "Azure IaaS: Explore new resources for building a stronger, more efficient infrastructure",
+    "source": "Azure AI Blog",
+    "publication_date": "Wed, 04 Mar 2026 17:00:00 +0000",
+    "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/",
+    "article_text": "<p>As organizations accelerate digital transformation, infrastructure decisions increasingly shape how quickly teams can adopt AI, how reliably applications operate at global scale, and how effectively businesses respond to constant change.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/\">Azure IaaS: Explore new resources for building a stronger, more efficient infrastructure</a> appeared first on <a href=\"https://azure.microsoft.com/en-us/blog\">Microsoft Azure Blog</a>.</p>"
+  },
+  {
+    "id": "74eca2cdad77d7d8",
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "source": "TechCrunch AI",
+    "publication_date": "Wed, 12 Aug 2026 17:51:00 +0000",
+    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "article_text": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia."
+  },
+  {
+    "id": "74b3c5e18682c7e7",
+    "title": "Data center demand drives 66% surge in natural gas power plant costs",
+    "source": "TechCrunch AI",
+    "publication_date": "Mon, 27 Apr 2026 15:27:52 +0000",
+    "url": "https://techcrunch.com/2026/04/27/data-center-demand-drives-66-surge-in-natural-gas-power-plant-costs/",
+    "article_text": "Natural gas power plant costs have nearly doubled in two years and take 23% longer to build as data center electricity demand skyrockets."
+  },
+  {
+    "id": "3789015f007dd770",
+    "title": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
+    "source": "TechCrunch AI",
+    "publication_date": "Tue, 13 Jan 2026 11:30:00 +0000",
+    "url": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/",
+    "article_text": "AI drug discovery startup Converge Bio raised $25 million in a Series A led by Bessemer Venture Partners, with additional backing from executives at Meta, OpenAI, and Wiz."
+  },
+  {
+    "id": "e7dad988e4a1b81a",
+    "title": "Meta bought 1 GW of solar this week",
+    "source": "TechCrunch AI",
+    "publication_date": "Fri, 31 Oct 2025 19:26:30 +0000",
+    "url": "https://techcrunch.com/2025/10/31/meta-bought-1-gw-of-solar-this-week/",
+    "article_text": "The social media company inked three deals in the U.S. to power its data centers and offset its carbon footprint."
+  },
+  {
+    "id": "211b88da05239db1",
+    "title": "How one AI startup is helping rice farmers battle climate change",
+    "source": "TechCrunch AI",
+    "publication_date": "Tue, 26 Aug 2025 15:21:19 +0000",
+    "url": "https://techcrunch.com/2025/08/26/how-one-ai-startup-is-helping-rice-farmers-battle-climate-change/",
+    "article_text": "Mitti Labs is working with The Nature Conservancy to expand the use of climate-friendly rice farming practices in India. The startup uses its AI to verify reductions in methane emissions."
+  },
+  {
+    "id": "776d9f50d1711ca6",
+    "title": "Harvard dropouts to launch ‘always on’ AI smart glasses that listen and record every conversation",
+    "source": "TechCrunch AI",
+    "publication_date": "Wed, 20 Aug 2025 16:00:00 +0000",
+    "url": "https://techcrunch.com/2025/08/20/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-and-record-every-conversation/",
+    "article_text": "After developing a facial-recognition app for Meta’s Ray-Ban glasses and doxing random people, two former Harvard students are now launching a startup that makes smart glasses with an always-on microphone."
+  },
+  {
+    "id": "ffaab69fb824f0db",
+    "title": "Meta to add 100MW of solar power from US gear",
+    "source": "TechCrunch AI",
+    "publication_date": "Wed, 20 Aug 2025 15:56:53 +0000",
+    "url": "https://techcrunch.com/2025/08/20/meta-to-add-100-mw-of-solar-power-from-u-s-gear/",
+    "article_text": "The social media company is adding another tranche of solar to power a new AI data center in South Carolina."
+  },
+  {
+    "id": "84ad90afcd573ee3",
+    "title": "Perplexity accused of scraping websites that explicitly blocked AI scraping",
+    "source": "TechCrunch AI",
+    "publication_date": "Mon, 04 Aug 2025 15:41:39 +0000",
+    "url": "https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/",
+    "article_text": "Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages."
+  },
+  {
+    "id": "63aa6f153b8c836a",
+    "title": "Obvio’s stop sign cameras use AI to root out unsafe drivers",
+    "source": "TechCrunch AI",
+    "publication_date": "Wed, 04 Jun 2025 14:00:00 +0000",
+    "url": "https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/",
+    "article_text": "American streets are incredibly dangerous for pedestrians. A San Carlos, California-based startup called Obvio thinks it can change that by installing cameras at stop signs -- a solution the founders also say won’t create a panopticon."
+  },
+  {
+    "id": "f36af8ea05f016a1",
+    "title": "Breakneck data center growth challenges Microsoft’s sustainability goals",
+    "source": "TechCrunch AI",
+    "publication_date": "Mon, 02 Jun 2025 18:07:05 +0000",
+    "url": "https://techcrunch.com/2025/06/02/breakneck-data-center-growth-challenges-microsofts-sustainability-goals/",
+    "article_text": "Microsoft's sustainability goals are imperiled by its push into AI and cloud services."
+  },
+  {
+    "id": "d733a1d0558850d2",
+    "title": "Gridcare thinks more than 100 GW of data center capacity is hiding in the grid",
+    "source": "TechCrunch AI",
+    "publication_date": "Tue, 27 May 2025 12:00:00 +0000",
+    "url": "https://techcrunch.com/2025/05/27/gridcare-thinks-more-than-100-gw-of-data-center-capacity-is-hiding-in-the-grid/",
+    "article_text": "Gridcare raised $13.3 million for its data platform that finds underutilized capacity on the electrical grid."
+  },
+  {
+    "id": "e13b8a89aa4c04b4",
+    "title": "Meta adds another 650 MW of solar power to its AI push",
+    "source": "TechCrunch AI",
+    "publication_date": "Thu, 22 May 2025 16:49:53 +0000",
+    "url": "https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/",
+    "article_text": "The company already has more than 12 gigawatts of capacity in its renewable power portfolio."
+  },
+  {
+    "id": "adf9f55e26f31507",
+    "title": "Who are climate-conscious consumers? Not who you’d expect, says Northwind Climate",
+    "source": "TechCrunch AI",
+    "publication_date": "Tue, 01 Apr 2025 19:52:59 +0000",
+    "url": "https://techcrunch.com/2025/04/01/who-are-climate-conscious-consumers-not-who-youd-expect-says-northwind-climate/",
+    "article_text": "Rather than divide people into demographic buckets, Northwind Climate analyzes survey responses for behavioral clues."
+  },
+  {
+    "id": "337b72ffa6313d09",
+    "title": "Data centers love solar: Here’s a comprehensive guide to deals over 100 megawatts",
+    "source": "TechCrunch AI",
+    "publication_date": "Sun, 30 Mar 2025 14:00:00 +0000",
+    "url": "https://techcrunch.com/2025/03/30/data-centers-love-solar-heres-a-comprehensive-guide-to-deals-over-100-megawatts/",
+    "article_text": "New and expanded data centers are expected to double the sector’s power demand by 2029 as tech companies rush to capitalize on AI."
+  },
+  {
+    "id": "573ed0603f67e084",
+    "title": "Nvidia thinks AI can solve electrical grid problems caused by AI",
+    "source": "TechCrunch AI",
+    "publication_date": "Thu, 20 Mar 2025 16:41:12 +0000",
+    "url": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/",
+    "article_text": "The Open Power AI Consortium says it will use domain-specific AI models to tackle problems in the power industry."
+  },
+  {
+    "id": "f83ccfd44147c095",
+    "title": "Solar notches another win as Microsoft adds 475 MW to power its AI data centers",
+    "source": "TechCrunch AI",
+    "publication_date": "Thu, 20 Mar 2025 14:57:11 +0000",
+    "url": "https://techcrunch.com/2025/03/20/solar-notches-another-win-as-microsoft-adds-475-mw-to-power-its-ai-data-centers/",
+    "article_text": "The company recently signed a deal with energy provider AES for three solar projects across the Midwest."
+  },
+  {
+    "id": "7d4531ac559d37d1",
+    "title": "Geothermal could power nearly all new data centers through 2030",
+    "source": "TechCrunch AI",
+    "publication_date": "Tue, 11 Mar 2025 17:43:52 +0000",
+    "url": "https://techcrunch.com/2025/03/11/geothermal-could-power-nearly-all-new-data-centers-through-2030/",
+    "article_text": "Geothermal resources have enormous potential to provide the sort of consistent power that data centers crave."
+  },
+  {
+    "id": "f22b091b16cfc320",
+    "title": "ElevenLabs now lets authors create and publish audiobooks on its own platform",
+    "source": "TechCrunch AI",
+    "publication_date": "Wed, 26 Feb 2025 03:45:45 +0000",
+    "url": "https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/",
+    "article_text": "Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company confirmed. The announcement comes days after the company partnered with Spotify for AI-narrated audiobooks. ElevenLabs, which raised a $180 million mega-round last month, started inviting authors to try out their publishing program through [&#8230;]"
+  },
+  {
+    "id": "4397d52d3137dd7c",
+    "title": "Data center tweaks could unlock 76 GW of new power capacity in the US",
+    "source": "TechCrunch AI",
+    "publication_date": "Thu, 13 Feb 2025 14:00:00 +0000",
+    "url": "https://techcrunch.com/2025/02/13/data-center-tweaks-could-unlock-76-gw-of-new-power-capacity-in-the-u-s/",
+    "article_text": "A new study argues that data centers could be ideal demand-response participants because they have the potential to be flexible."
+  },
+  {
+    "id": "ebeda8b8b57f92ad",
+    "title": "YouTube AI updates include auto dubbing expansion, age ID tech, and more",
+    "source": "TechCrunch AI",
+    "publication_date": "Tue, 11 Feb 2025 14:57:22 +0000",
+    "url": "https://techcrunch.com/2025/02/11/youtube-ai-updates-to-include-expansion-of-auto-dubbing-age-identifying-tech-and-more/",
+    "article_text": "In his annual letter, YouTube CEO Neal Mohan dubbed AI one of the company&#8217;s four &#8220;big bets&#8221; for 2025. The executive pointed to the company&#8217;s investments in AI tools for creators, including ones for video ideas, thumbnails, and language translation. The latter feature will roll out to all creators in YouTube&#8217;s Partner Program this month, [&#8230;]"
+  },
+  {
+    "id": "d7da0fb3d5ff6a40",
+    "title": "Roland is getting into generative AI music with Melody Flip",
+    "source": "The Verge AI",
+    "publication_date": "2026-09-04T13:51:35-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "article_text": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from [&#8230;]"
+  },
+  {
+    "id": "70d9a07f92e25458",
+    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "source": "The Verge AI",
+    "publication_date": "2026-09-04T12:05:57-04:00",
+    "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "article_text": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot [&#8230;]"
+  },
+  {
+    "id": "f60d7bb6db5c87d1",
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "source": "The Verge AI",
+    "publication_date": "2026-09-04T09:34:12-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "article_text": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI [&#8230;]"
+  },
+  {
+    "id": "39ef2b5157f89d47",
+    "title": "Instagram’s AI detection is a mess (again)",
+    "source": "The Verge AI",
+    "publication_date": "2026-09-04T08:00:00-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+    "article_text": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI [&#8230;]"
+  },
+  {
+    "id": "5597b0d13607de29",
+    "title": "Why AI food looks like that",
+    "source": "The Verge AI",
+    "publication_date": "2026-09-04T07:00:00-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+    "article_text": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading [&#8230;]"
+  },
+  {
+    "id": "f24bdcbc61ac28fe",
+    "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+    "source": "The Verge AI",
+    "publication_date": "2026-09-04T06:44:15-04:00",
+    "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+    "article_text": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory. \"Project Zenith devices come with a preconfigured Windows setup for development and a [&#8230;]"
+  },
+  {
+    "id": "46893d79734da48d",
+    "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+    "source": "The Verge AI",
+    "publication_date": "2026-09-04T06:41:48-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+    "article_text": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the [&#8230;]"
+  },
+  {
+    "id": "906b9e6788bbd685",
+    "title": "This NAS company wants to run your local smart home",
+    "source": "The Verge AI",
+    "publication_date": "2026-09-04T05:41:44-04:00",
+    "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+    "article_text": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a [&#8230;]"
+  },
+  {
+    "id": "d309bdab2a0a0b8e",
+    "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+    "source": "The Verge AI",
+    "publication_date": "2026-09-03T14:00:00-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "article_text": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't [&#8230;]"
+  },
+  {
+    "id": "90c599e2da9dd5b7",
+    "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+    "source": "The Verge AI",
+    "publication_date": "2026-09-03T12:00:00-04:00",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+    "article_text": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software [&#8230;]"
+  },
+  {
+    "id": "9e01ce34599b2047",
+    "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.02981",
+    "article_text": "arXiv:2609.02981v1 Announce Type: new \nAbstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend tasks, and provide formative feedback. This paper studies the structure and application of a new practical English textbook driven by artificial intelligence. A five-layer architecture is proposed: knowledge mapping, learner profiling, task generation, feedback orchestration, and teacher-side governance. A prototype was tested on 186 non-English-major undergraduates for eight weeks of teaching. Compared with a static digital textbook, the proposed system increased the unit completion accuracy from 72.4% to 84.9%, raised the average score for speaking tasks by 10.8 points, and reduced the teacher's correction time by 31.6%. Therefore, an AI-driven textbook can maintain the stability of the curriculum while providing personalised learning paths, rich practice materials and traceable classroom data."
+  },
+  {
+    "id": "eab80780abedb3a0",
+    "title": "MasterControl Seventeen Every Time",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03209",
+    "article_text": "arXiv:2609.03209v1 Announce Type: new \nAbstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical program that returns both results and evidence. We show that this restriction can remain expressive within a defined analytical class, using relational operations plus aggregation, comparison, windows, ranking, and similarity. Fixed meaning, policy, data, and execution rules also make results replayable. Across 440 runs, three 8B models generated SQL and selected tools at runtime, while Qwen3-8B interpreted intent only and policy executed the approved program. None of 330 runtime-planning episodes matched the full answer-and-evidence contract across all test datasets; the policy-executed analyzer matched 110 of 110. This is a configuration-specific result, not evidence that runtime agents cannot succeed under other designs."
+  },
+  {
+    "id": "1ad1eb866511b540",
+    "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03236",
+    "article_text": "arXiv:2609.03236v1 Announce Type: new \nAbstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent decisions. We introduce \\textbf{Speculative Macro Commit} (SMC), a runtime mechanism for a two-tier agent system: a large authoritative actor model produces the official trajectory, while a faster speculative drafter model continuously predicts and executes future action chains on an isolated environment snapshot. SMC mines recurring multi-action skeletons from training traces and stores them in a macro library used to match against action chains predicted by the drafter at runtime. When the actor's next tool call matches the first drafted action, SMC commits the remaining pre-executed draft steps, together with their observations, to the official trajectory. Using Qwen3.5-27B INT4 as the authoritative actor model and Qwen3.5-4B as the speculative drafter model, SMC matches the sequential agent's overall accuracy while reducing latency by 10.23\\% over the Speculative Actions (SA) baseline and 18.59\\% over sequential execution on the $\\tau^2$-Bench Telecom subset. On AppWorld, SMC reduces wall time by 7.7\\% over SA baseline and 44.9\\% over sequential execution, with a small reduction in task completion. Overall, SMC provides a practical way to reuse multi-step speculative execution and reduce agent latency beyond single-step speculative actions. Our code is publicly available \\href{https://github.com/zeyuliu1037/speculative-macro-commit}{\\textcolor{magenta}{here}}."
+  },
+  {
+    "id": "c59feb542f8f1a74",
+    "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03340",
+    "article_text": "arXiv:2609.03340v1 Announce Type: new \nAbstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may commit $r_4$, and an executor may receive $r_4$ without replacing the plan derived from $r_3$. We call this \\emph{stale-plan execution}: state freshness does not establish that the plan authorizing an action remains valid. We introduce PlanFence, a dependency-scoped action-validation protocol. Plans cite the exact public records they used, and an executor validates only the records that can affect the pending external action, replanning once or blocking when validation is incomplete. In 30 controlled live workflows with a post-plan revision, a freshness-only executor acts on the obsolete plan in every task, whereas PlanFence completes all tasks without an invalid action. Controlled replay reveals two conditional boundaries: proactive synchronization yields lower coordination stall at low churn, while PlanFence avoids repeated update-path coordination as churn grows and avoids validating unrelated state as the shared keyspace grows. These are controlled safety and systems-cost results, not general task-accuracy gains."
+  },
+  {
+    "id": "fa45b8266bdf6cb4",
+    "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03402",
+    "article_text": "arXiv:2609.03402v1 Announce Type: new \nAbstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited personalization. This study presents a prompt-engineering-based framework for personalizing general-purpose LLM/RAG-based AI teaching assistants such as Jill Watson across academic disciplines and courses. The framework adapts responses using six learner-specific dimensions: self-assessment, abstraction preference, verbosity preference, perceptual orientation, information processing style, and level of understanding, yielding 96 distinct learner profiles. Student queries are additionally analyzed using Bloom's Taxonomy to estimate cognitive complexity at the interaction level. Learner attributes and cognitive assessments are encoded in structured prompts that condition the LLM without requiring model retraining. The framework is evaluated through experiments using NLP metrics and a human study with five participants. Results show perceived differences in response style and structure across personalization conditions, with statistical analyses identifying learner attributes associated with measurable response changes. These findings provide preliminary evidence that prompt-based personalization can support adaptive behavior in LLM-powered educational agents."
+  },
+  {
+    "id": "d5873bcc8721a903",
+    "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03407",
+    "article_text": "arXiv:2609.03407v1 Announce Type: new \nAbstract: People increasingly turn to large language models (LLMs) for everyday advice, making ethically charged interpersonal problems a practical moral-advisory context. Most prior work has studied this context through single-turn judgments or pressure-laden rebuttals, assumptions that poorly match how guidance is sought in real-world contexts. These assumptions leave unclear whether narration alone, without an explicit opposing position, can shift model judgments during multi-turn moral consultation. Yet real-world moral-conflict conversation often elicits one party's self-justifying account, which can unfold over multiple turns and create information asymmetry. We introduce \\textbf{narrative captivity}, a failure mode in which a model treats an unopposed one-sided account as complete and aligns with the narrator's interpretation without seeking missing perspectives. To measure this phenomenon, we build a benchmark of $5{,}078$ interpersonal-conflict scenarios spanning six moral dimensions. Across 17 LLMs, narrative captivity is widespread: end-state judgments under multi-turn narration shift by 25 percentage points on average beyond the matched single-turn baseline. Stage-level analysis identifies preference optimization as a major contributor, while four inference-time strategies provide only partial mitigation. We hope our project fosters LLM advisors that preserve independent judgment in real-world consultation."
+  },
+  {
+    "id": "4e26edae3c1e666d",
+    "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03416",
+    "article_text": "arXiv:2609.03416v1 Announce Type: new \nAbstract: LLM-empowered paper-code discrepancy detection has received growing concern since the scaling of research submissions exceeds the manual review capability. However, the limited context capacity and one-sided discrepancy detection of existing single-agent LLM paradigms lead to an inferior recall performance in detecting discrepancies. In this paper, we propose Dude, the first Dual-Detection Multi-Agent System for paper-code discrepancy detection. We discover that the granularity asymmetry of the paper-language and code-language introduces over-interpretation and over-reporting challenges in a multi-agent system design for discrepancy detection, resulting in increasing false positives. To address this, we propose a granularity-aligned negotiation and a two-stage salience-filtering mechanism in Dude, which effectively prevents agents from falsely reporting discrepancies. Experimental results in real-world paper-code discrepancy datasets showcase Dude's significant recall and precision improvement by up to 22.8%, increasing F1 score by up to 18.7% compared to baseline methods."
+  },
+  {
+    "id": "cdb52abe16714fba",
+    "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03423",
+    "article_text": "arXiv:2609.03423v1 Announce Type: new \nAbstract: Full-duplex voice agents must continuously decide when to listen, backchannel, interrupt, handle speech overlaps, take the floor, and yield. Existing benchmarks largely test these behaviors through explicit turn-management instructions, while deployed agents are often configured through roles or personas from which the appropriate conversational behavior must be inferred. We introduce DuplexSpeechBench-IFEval (DSB-IFEval) for evaluating implicit instruction-following in real-time spoken interaction. (DSB-IFEval) comprises 1,038 test cases spanning eight diverse assistant roles and evaluates five conditioning protocols for instruction-following: default behavior, explicit behavioral instructions, persona-implied behavior, combined persona--rule conditioning, and instruction conflict. We measure real-time floor management using a deterministic Instruction Adherence Score (IAS) and persona-consistent content using LLM-judged Persona Adherence Score (PAS). Across six real-time speech systems, we find architecture-dependent trade-offs. Full duplex models like F-Actor and PersonaPlex are more sensitive to whether conversational behavior is stated explicitly or must be inferred from a persona, with adherence dropping by 9.7% and 4.5%, respectively, under persona-only conditioning. In contrast, GPT-Realtime, MiniCPM-o, and Fun-Audio-Chat strongly adhere to persona-consistent content, but their floor behavior does not adapt across explicit and persona-only instructions and remains constrained on several proactive actions. We further find that even if systems reliably follow conflicting directives to their prescribed persona, they still struggle to override them under safety conflict. These results show that inferring the behavior implied by a role, executing it at the appropriate conversational moment, and resolving competing instructions remain distinct challenges for full-duplex voice agents."
+  },
+  {
+    "id": "e6672d85ad73919f",
+    "title": "Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03438",
+    "article_text": "arXiv:2609.03438v1 Announce Type: new \nAbstract: Graphical user interface (GUI) agents are increasingly used to execute natural-language instructions on user interfaces, yet real users may issue infeasible instructions due to benign mistakes. A reliable agent should not only know how to act, but also when not to act. In this work, we introduce CONFLICTGUI, a benchmark covering instruction-internal conflicts and instruction-GUI context conflicts to study conflict-aware termination. Our evaluation reveals severe execution-biased overcompliance: agents that perform well on feasible tasks often continue to execute blindly under conflicting instructions. To mitigate this behavior, we propose CONFLICTGUARD, an inference-time framework that aligns an agent's feasibility awareness with its action generation. CONFLICTGUARD contains two coupled components: a feasibility verification protocol that guides the agent to assess instruction logic and GUI-side evidence before acting, and a conditional action modulation mechanism that steers agents from over-compliant execution into termination-oriented behavior. Experiments across five widely-used agents demonstrate that CONFLICTGUARD improves average conflict task success rate significantly, while preserving normal GUI-task performance. These results validate that a lightweight inference-time intervention can substantially boost GUI Agent's competence to identify inappropriate execution scenarios and refrain from unnecessary actions."
+  },
+  {
+    "id": "7850f3034e2c620d",
+    "title": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03460",
+    "article_text": "arXiv:2609.03460v1 Announce Type: new \nAbstract: As generative AI makes polished prose cheap to produce, users can no longer rely on fluency as a proxy for truth. We call this failure mode the Fluency Trap: users trust fluent hallucinations while also discounting accurate content once it is disclosed as AI-generated. Binary ``Made with AI'' labels respond with authorship disclosure, but they do not show what supports a claim. We propose Provenance Density, an evidence-visualization interface that shows the density of verified claims in a text. In a user study with 81 participants, an idealized Provenance Density interface produced a large discernment gap between truth and fabrication ($+4.15$ points, $d=1.82$), whereas participants given no signal showed no detectable discrimination. A technical audit with 200 samples shows that retrieval density alone is insufficient; unexpectedly, the Consistency Veto carries most of the discriminative signal on dynamic queries. As AI-generated content becomes indistinguishable from human writing, effective transparency must move from authorship disclosure toward evidence visualization."
+  },
+  {
+    "id": "4e1a0082b6b75435",
+    "title": "AutoGraphForge: Towards Automated Graph Theory Discovery",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03478",
+    "article_text": "arXiv:2609.03478v1 Announce Type: new \nAbstract: We report on our ongoing project to develop a computational pipeline, AutoGraphForge, for an automated graph-theoretic conjecturing-refuting-formalizing-proving system. Conjecture generation is counterexample-guided and runs in rounds: a Graffiti3 generator proposes conjectures over a small, evolving snapshot table $T$ (initially a few hundred graphs with their computed invariants) that grows only by counterexamples to its own conjectures. A novelty filter of $559$ classical and folklore relations, closed under transitive composition and linear identity substitution, decides via a linear program whether a candidate is already implied by known results. Surviving candidates are tested against a dataset of about $348,000$ graphs, unioning the complete House of Graphs invariant export, the exhaustive census of all connected graphs on at most nine vertices, several extremal families (strongly regular, minimal Ramsey, Cayley, cages, barbells, lollipops, spiders), and random models. Counterexample-search algorithms then attack the remainder. Run for several rounds on an HPC cluster, the loop yields $6,522$ conjectures that survived the refutation dataset, the novelty filter and every active-search run -- among them nontrivial relations between the annihilation number and the edge-cover number for bipartite and regular graphs, which we prove by hand. A subsequent formalization and proving stage deterministically translates each surviving conjecture into a Lean 4 statement skeleton; every candidate proof is kernel-verified against a pinned mathlib4 and our custom invariant preamble. This stage integrates two neural provers -- DeepSeek-Prover-V2-671B (served with vLLM) and the Lean-specialised OProver-32B -- behind the independent kernel check. It is implemented end-to-end and passes initial sanity checks, with the full pipeline currently running on the cluster."
+  },
+  {
+    "id": "1c023a49a70692fd",
+    "title": "Making Every Tool Call Count: Necessary Tool-Evidence Path Rewards for Agentic Vision-Language Models",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03493",
+    "article_text": "arXiv:2609.03493v1 Announce Type: new \nAbstract: Modern vision-language models (VLMs) can directly answer many image-grounded questions, yet they often struggle with complex queries requiring fine-grained visual details or external knowledge. To acquire this missing evidence, agentic VLMs invoke tools such as image cropping, image search, and text search. However, existing training paradigms primarily evaluate tool-use based on final answer correctness, leaving evidence acquisition and utilization insufficiently supervised. This leads to two critical shortcomings: (i) models frequently issue redundant or off-target tool calls that fail to gather necessary evidence, and (ii) even when appropriate tools are called, models often fail to extract the necessary information from the resulting observations. To address these limitations, we introduce the NTEP (Necessary Tool-Evidence Path), a novel annotation scheme that explicitly specifies the essential external evidence and corresponding tool calls for each query. Building upon this, we propose NTEP-R (NTEP Reward), a supervision mechanism ensuring that each tool invocation strictly advances the reasoning process toward the final solution. Specifically, our approach rewards the agent for aligning its pre-call intent with a necessary evidence-seeking goal, and for ensuring the information summarized from the post-call observation aligns with the necessary evidence. Furthermore, we introduce a non-repeated-goal regularizer to penalize redundant calls that revisit satisfied NTEP goals. Extensive evaluations on seven image-grounded benchmarks demonstrate that our 8B-parameter instantiation, NTEP-8B, significantly improves both search-oriented accuracy and tool-use efficiency within a unified three-tool framework. These results highlight the critical value of fine-grained tool-evidence path supervision for training robust agentic VLMs."
+  },
+  {
+    "id": "5bb59069c681171b",
+    "title": "GrowPage: On-Demand KV Budgeting for Efficient LLM Reasoning Serving",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03494",
+    "article_text": "arXiv:2609.03494v1 Announce Type: new \nAbstract: Long-output reasoning has made the key--value (KV) cache a critical memory bottleneck for efficient LLM serving. Existing KV compression methods usually rely on a predefined per-request budget and adjust only which KV states are retained, leaving the total capacity fixed throughout decoding. However, reasoning workloads exhibit substantial demand variation: different requests require different KV capacities, and the attention demand of an individual request evolves during generation. We introduce \\textbf{GrowPage}, an on-demand KV budgeting framework that treats KV capacity as a runtime resource. GrowPage maintains lightweight dual-timescale query summaries to capture recent and long-term attention behaviors, and uses their relative attention working sets to estimate demand evolution. At each capacity boundary, GrowPage either compresses KV states within the current allocation or acquires an additional physical page when broader demand emerges. By integrating with PagedAttention's page-level memory abstraction, GrowPage preserves continuous batching and prefix caching. Experiments on reasoning benchmarks across multiple models show that GrowPage achieves a superior performance--throughput trade-off over existing approaches."
+  },
+  {
+    "id": "013719e11050953e",
+    "title": "PPO-STGNN: A Proximal Policy Optimization Approach with Spatio-Temporal Graph Neural Networks for DAG Task Scheduling in Cloud-Edge-End Computing",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03503",
+    "article_text": "arXiv:2609.03503v1 Announce Type: new \nAbstract: With the rapid development of the Internet of Things, computation intensive directed acyclic graph (DAG) tasks have become increasingly common in cloud-edge-end collaborative environments. However, cloud, edge, and end nodes are highly heterogeneous in computing capacity, network bandwidth, and energy consumption, which makes the efficient scheduling of tasks with complex dependencies an NP-hard problem. Traditional heuristic algorithms and conventional reinforcement-learning methods often fail to capture the spatio-temporal dynamics of system resources. This paper proposes PPO-STGNN, a DAG task-scheduling algorithm that integrates proximal policy optimization (PPO) with spatio-temporal graph neural networks (STGNNs). The method uses an STGNN to extract features from both the DAG task topology and the physical cloud-edge-end resource graph, and then optimizes the scheduling policy through PPO to minimize makespan and schedule length ratio (SLR) while improving CPU and memory load balancing. To accelerate convergence, a multi-teacher behavior-cloning mechanism is introduced for pretraining. Experimental results show that PPO-STGNN significantly improves load balancing while maintaining a low completion time, making it suitable for dynamic and heterogeneous cloud-edge- end DAG scheduling scenarios."
+  },
+  {
+    "id": "7105b55e57007fe4",
+    "title": "What Matters for Aggressive Decoding-Time KV Eviction? Temporal Aggregation and Ranking Preservation",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03515",
+    "article_text": "arXiv:2609.03515v1 Announce Type: new \nAbstract: Decoding-time KV cache compression research focuses heavily on designing better token scoring functions, while the temporal rule that aggregates scores across decode steps is often treated as an implementation detail. Under aggressive KV compression, we find that exponential-moving-average (EMA) aggregation makes approximately order-preserving scorer modifications largely indistinguishable at the eviction-set level. Value-norm and entropy variants remain highly correlated with attention and produce nearly unchanged retention sets, whereas KeyDiff, key norm, recency, and a learned scorer alter the ranking and degrade substantially. We associate this stability with the evaluated aggregation, which couples layer weighting and temporal retention. Building on this observation, we introduce InertiaKV, an EMA-based decoding-time eviction method, and InertiaKV-Lazy, its periodic-refresh variant, which yields 1.34-1.46x decode throughput relative to full refresh InertiaKV. We also study Score-Free decoding as a separate empirical operating point: it scores the full context once at the first decode step, freezes that ranking, and incurs an average quality change of +0.03 while removing all subsequent scoring. Across six open-weight backbones and the LongBench, LongBench-v2, and RULER benchmarks, the results identify temporal aggregation and ranking preservation as distinct, consequential design factors; they do not imply that scoring quality is irrelevant in general."
+  },
+  {
+    "id": "7a0a0d4f51aa53b5",
+    "title": "CulturalMenuBench: Probing the Knowledge-Application Gap in Multimodal Culinary Reasoning",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03526",
+    "article_text": "arXiv:2609.03526v1 Announce Type: new \nAbstract: Multimodal language models achieve near-ceiling scores on food recognition benchmarks, yet it remains unclear whether this success reflects genuine cultural understanding or mere visual matching. To probe this distinction, we introduce CulturalMenuBench, a benchmark of 4,870 items in 10 languages across 18 regions; its 10 tasks pair final-dish and step-by-step cooking images with ingredients, procedural text, and regional labels, spanning basic recognition to process-grounded cultural attribution. Evaluating 12 models exposes a substantial knowledge-application gap: models exceeding 94% on standard multiple-choice tasks drop to at most 56% when attributing dishes to Chinese regional cuisines, despite an identical four-way format. Diagnostic analyses explain why: error patterns are consistent with random guessing, accuracy tracks visual distinctiveness rather than cultural structure, and models classify cuisines more accurately from dish names alone than from images (+7-18 points). The knowledge is thus present but cannot be activated through visual input. An ablation confirms these tasks genuinely require procedural evidence: removing sequential cooking images selectively degrades process-grounded tasks while others remain stable. Overall, CulturalMenuBench shows that near-perfect recognition can conceal an inability to apply cultural knowledge, motivating training that explicitly connects perception, procedure, and cultural context. Code and data are publicly available."
+  },
+  {
+    "id": "0ccf04de584d7d33",
+    "title": "NeoRed: A Knowledge-Logic-Alignment Multimodal Large Language Model for Neonatal Respiratory Disease Diagnosis",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03527",
+    "article_text": "arXiv:2609.03527v1 Announce Type: new \nAbstract: Neonatal respiratory diseases are a major cause of neonatal morbidity and mortality, posing substantial challenges in clinical practice. Despite recent advances, existing Multimodal Large Language Models (MLLMs) face two key limitations in neonatal diagnosis: (1) domain gap arising from predominantly adult training data; (2) insufficient integration of multidimensional clinical context for accurate diagnosis. To address these challenges, we collect two real-world clinical datasets (NeoCXR and NeoCXR-EV) and propose NeoRed, to the best of our knowledge, the first MLLM tailored for neonatal respiratory disease, filling the gap in neonatal diagnostic reports generation. To enhance joint diagnosis from heterogeneous clinical context and chest X-rays, we design a novel Knowledge-Logic-Alignment (KLA) framework which constrains model behavior from three perspectives: 1) Knowledge Prior Injection (KPI) incorporates neonatologist-inspired diagnostic priors into multimodal representations, guiding disease-specific attention across modalities; 2) Diagnostic Logic Constraint (DLC) aligns the semantics of generated reports with multimodal diagnostic logic; and 3) Visual Semantic Alignment (VSA) establishes semantic correspondence between visual features and imaging conclusions. Extensive experiments demonstrate that NeoRed enables accurate neonatal diagnostic reports generation, achieving ROUGE-L of 53.29% and Clinical Efficacy F1 score of 65.19% on NeoCXR, outperforming existing MLLMs. NeoRed also preserves competitive report generation performance on adult benchmarks (MIMIC-CXR and IU-Xray). Datasets will be available upon application."
+  },
+  {
+    "id": "16b21b6cf0ff6e1a",
+    "title": "Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03535",
+    "article_text": "arXiv:2609.03535v1 Announce Type: new \nAbstract: Lesion segmentation in medical images plays a critical role in clinical diagnosis and treatment planning. Despite significant advances, lesion segmentation remains challenging due to two major factors: (1) complex background interference; (2) diverse lesion morphology. Existing encoder-decoder based methods mainly focus on enhancing feature extraction or redesigning decoding strategies. However, they lack early prior guidance and feature reconfiguration during the encoding stage, limiting their effectiveness in handling these challenges. To address these limitations, we propose FreNet, a feature reconfiguration framework with visual priors, which performs pixel-level reconfiguration before encoding and feature-level reconfiguration during encoding for precise medical lesion segmentation. To suppress background responses, we propose an Implicit Prior Neural Network (IPNN), which models a continuous spatial field and leverages visual prior from SAM to reconfigure input image before encoding stage. To better handle diverse lesion morphology, we design a Dual-domain Feature Reconfiguration (DFR) module to progressively reconfigure backbone features during encoding stage. Within DFR, the Frequency Decoupling Module (FDM) decouples backbone features in frequency domain to enhance foreground-background discriminability, while the Spatial Localization Module (SLM) spatially relocates and improving spatial stability after frequency decoupling. Extensive experiments on 9 medical image segmentation benchmarks across three imaging modalities demonstrate that FreNet significantly outperforms state-of-the-art (SOTA) methods. On the challenging ETIS dataset, our method achieves Dice improvements of 5.0% over SOTA method and 7.2% over SAM."
+  },
+  {
+    "id": "238327e73b565a76",
+    "title": "Dalek: A Constructive Agent Machine",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03546",
+    "article_text": "arXiv:2609.03546v1 Announce Type: new \nAbstract: We present Dalek, a closed machine designed for agents that realizes self-maintenance, self-evolution, self-reproduction, and self-organization on any substrate satisfying a general host contract. The machine is built from three primitives---actors, messages, and channels. Four obligations---a host boundary, a construction language, admissible transitions, and rule heredity---give its boundary, identity, and closure a structural basis.\n  Von Neumann's 1948 self-reproducing automaton supplies a hereditary constructional core: a self-description together with a constructor, a copier, and a controller. Dalek combines this core with the four obligations and rederives its medium for a text-and-message agent substrate, adding explicit structures for boundary, identity, history, and growth. A large language model and a compiler occupy the payload position and form a general capability producer. New capabilities are authored, compiled, installed into the description, and inherited by descendants. The same path produces the machine's own organs and even its runtime, closing heredity and evolution within the machine."
+  },
+  {
+    "id": "bbc620f5ea992078",
+    "title": "GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis",
+    "source": "arXiv cs.AI",
+    "publication_date": "Sat, 05 Sep 2026 00:00:00 -0400",
+    "url": "https://arxiv.org/abs/2609.03553",
+    "article_text": "arXiv:2609.03553v1 Announce Type: new \nAbstract: Policy analysis requires more than predicting whether a proposal will pass: it requires identifying who will be affected, how those actors respond, and what follows. LLM-based policy simulations model these processes at scale, but their validity is hard to establish when plausible behaviour is never compared with observed outcomes. We introduce GPS-Bench, an evidence-grounded benchmark for governance policy simulation that links policies to relevant actors, actor actions and downstream impacts using legislative records, lobbying disclosures, regulatory documents, corporate filings, economic data and other public evidence. Actors are reconstructed from the dated record rather than prompted as archetypes, so a persona is an evidence object with provenance; a human-annotated pool forms the Gold evaluation set, while cases labelled by a separate LLM from retrieved evidence are treated as Silver supervision and never as test labels. Because every inference mode reads the same grounded state and emits the same schema, GPS-Bench turns \"does multi-agent simulation help?\" into a controlled comparison: we contrast joint reasoning, independent and communicating actor agents, graph-based methods and weight-level fine-tuning over one policy state. Fine-tuning on the grounded record gives the strongest actor-level impact prediction, and decomposition does not beat it; what decomposition adds is mechanism. Agents hold private, non-identical evidence, each seeing its own exposure clause, and address named partners with concrete joint proposals, what they offer, what they need in return, and why acting together beats acting alone, so the coalitions that form can be checked against the commitments the record holds. GPS-Bench therefore gives a common empirical setting for studying when evidence, actor modelling and multi-agent interaction improve the prediction and interpretation of policy outcomes."
+  },
+  {
+    "id": "d85bcc929d7d3041",
+    "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+    "source": "Freerepublic.com",
+    "publication_date": "2026-09-04T04:48:41Z",
+    "url": "https://freerepublic.com/focus/f-news/4394181/posts",
+    "article_text": "Skip to comments.\r\nOpenAIs next big AI model has entered the AGI erahttps://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release ^Posted on 09/03/2026 9:48:41 PM PDT by Buste… [+1999 chars]"
+  },
+  {
+    "id": "8e6e7d4b39c84641",
+    "title": "Google engineer unplugged every fiber they could see and – surprise! – took down a chunk of the G-Cloud",
+    "source": "Theregister.com",
+    "publication_date": "2026-09-04T04:48:25Z",
+    "url": "https://www.theregister.com/off-prem/2026/09/04/google-engineer-unplugged-every-fiber-they-could-see-and-surprise-took-down-a-chunk-of-the-g-cloud/5294418",
+    "article_text": "Google Cloud has revealed the embarrassing reason for a partial outage at its us-central1-b region this week: An engineer unplugged it.\r\nThe incident spanned 07:41 to 11:52 PT on September 1,and saw … [+2598 chars]"
+  },
+  {
+    "id": "fbda89f758e4ae9d",
+    "title": "I Tried Lenovo's IdeaPad Vibe, a Fun, Colorful MacBook Neo Competitor",
+    "source": "PCMag.com",
+    "publication_date": "2026-09-04T04:48:24Z",
+    "url": "https://me.pcmag.com/en/laptops/37956/i-tried-lenovos-ideapad-vibe-a-fun-colorful-macbook-neo-competitor",
+    "article_text": "With memory costs up, budget laptops are in: Lenovo just announced the IdeaPad Vibe, an entry-level laptop starting at $699.99 (about AED 2,571; roughly SAR 2,625), at the IFA 2026 show in Berlin, Ge… [+9227 chars]"
+  },
+  {
+    "id": "1a1eca66b5550e62",
+    "title": "OpenAI Declares “AGI Era” With Astra Launch. Anthropic’s Fable 5.1 More Than Doubled Its Predecessor’s Science Score. MSFT and AMZN Both Win, but One Has A Slight Edge",
+    "source": "Biztoc.com",
+    "publication_date": "2026-09-04T04:46:42Z",
+    "url": "https://biztoc.com/x/f189d43c137fa917",
+    "article_text": "OpenAI Declares AGI Era With Astra Launch. Anthropics Fable 5.1 More Than Doubled Its Predecessors Science Score. MSFT and AMZN Both Win, but One Has A Slight EdgeOpenAI President Greg Brockman ended… [+148 chars]"
+  },
+  {
+    "id": "82616f7b1978b67f",
+    "title": "Share price numbers for the Hugging Face incident",
+    "source": "Biztoc.com",
+    "publication_date": "2026-09-04T04:46:23Z",
+    "url": "https://biztoc.com/x/55a74b889818567f",
+    "article_text": "major publicly traded cybersecurity firms lost roughly $6580 billion, or about 810% of their combined value, in the days following disclosure of the Hugging Face/OpenAI incident; by early September t… [+149 chars]"
+  },
+  {
+    "id": "54ae2a6e87dba52a",
+    "title": "Anthropic Fixed Fable 5.1's Worst Problems...So Why Am I Staying With Opus?",
+    "source": "PCMag.com",
+    "publication_date": "2026-09-04T04:46:08Z",
+    "url": "https://me.pcmag.com/en/ai/37955/anthropic-fixed-fable-51s-worst-problemsso-why-am-i-staying-with-opus",
+    "article_text": "Fable is perhaps the most intriguing AI model to date. Anthropic positioned it as the worlds most powerful LLM, comparable only with its big sibling, Mythos, which was too powerful for a public relea… [+6331 chars]"
+  },
+  {
+    "id": "78ca6c23e6335684",
+    "title": "terminalcreature added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-09-04T04:42:11Z",
+    "url": "https://pypi.org/project/terminalcreature/",
+    "article_text": "A terminal pet that levels off your second brain.\r\nA creature that lives in your Claude Code statusline, hatches from an egg,and grows on a diet of your own memories. It counts your notes and never r… [+21022 chars]"
+  },
+  {
+    "id": "3fd5d6ee8e3fb76c",
+    "title": "UGREEN NASync DXP6800 Ultra & DXP8800 Ultra",
+    "source": "Newsshooter",
+    "publication_date": "2026-09-04T04:41:58Z",
+    "url": "https://www.newsshooter.com/2026/09/03/ugreen-nasync-dxp6800-ultra-dxp8800-ultra/",
+    "article_text": "UGREEN has announced its new NASync DXP6800 Ultra and DXP8800 Ultra. According to the company, both versions were designed as powerful local data centers for small studios and growing businesses. \r\nD… [+2402 chars]"
+  },
+  {
+    "id": "c48ea2e2c2d8a719",
+    "title": "LLM認知確認ツール「ディギディギ」にRAG発火測定とRAGシミュレーターを搭載【株式会社トドオナダ】",
+    "source": "Prtimes.jp",
+    "publication_date": "2026-09-04T04:39:41Z",
+    "url": "https://prtimes.jp/main/html/rd/p/000000290.000054369.html",
+    "article_text": "LLMRAGRAGLLMLLMWEBRAGRAGRAG\r\n LLM \r\n2026831LLM\r\n<ul><li> LLM\r\n</li><li> 85.8% 2024LLM ES-WR50 \r\n</li><li></li></ul>RAGLLMRAG\r\n RAG  \r\nLLMRAGLLM1\r\n RAG \r\nRAGRAGLLM\r\n RAGLLM\r\nLLM4\r\nRAGLLM\r\nrobots.txtUR… [+288 chars]"
+  },
+  {
+    "id": "6dd1099353981d39",
+    "title": "Anthropic surpasses OpenAI in ARR and valuation, says OpenAI president",
+    "source": "Crypto Briefing",
+    "publication_date": "2026-09-04T04:37:04Z",
+    "url": "https://cryptobriefing.com/anthropic-surpasses-openai-in-arr-and-valuation-says-openai-president/",
+    "article_text": "Greg Brockman, the President of OpenAI, has addressed why Anthropic has surpassed OpenAI in annual recurring revenue (ARR). According to Brockman, Anthropic’s focus on real-world coding, developer ne… [+1433 chars]"
+  },
+  {
+    "id": "ab6a315c14247b2e",
+    "title": "OpenAI is putting $1 billion behind Daybreak for defenders working without enterprise budgets",
+    "source": "Help Net Security",
+    "publication_date": "2026-09-04T04:35:41Z",
+    "url": "https://www.helpnetsecurity.com/2026/09/04/openai-daybreak-frontline-defenders-access/",
+    "article_text": "OpenAI committed $1 billion to subsidize access to its Daybreak cyber models, along with training and technical support, for organizations defending water and wastewater systems, the electric grid, s… [+3393 chars]"
+  },
+  {
+    "id": "aba2e88018251066",
+    "title": "Maas Group Shares Jump 6% As Firmus AI Infrastructure Bet And Record FY26 Results Fuel Rally",
+    "source": "Ibtimes.com.au",
+    "publication_date": "2026-09-04T04:34:31Z",
+    "url": "https://www.ibtimes.com.au/maas-group-record-results-ai-infrastructure-expansion-1874986",
+    "article_text": "DUBBO, N.S.W. — Shares of Maas Group Holdings Ltd. climbed $0.33, or 6.42%, to $5.47, as the diversified regional infrastructure and property company continued to build momentum following a record se… [+6661 chars]"
+  },
+  {
+    "id": "61c5883779da8483",
+    "title": "woolroom added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-09-04T04:33:37Z",
+    "url": "https://pypi.org/project/woolroom/",
+    "article_text": "Anyone can have a pet that is really theirs on the internet alive when\r\nnobody is looking, shared with their people, running in a home they own.\r\nwoolroom is a self-hostable shared ambient pet: one q… [+8452 chars]"
+  },
+  {
+    "id": "d6301b5b28540d8f",
+    "title": "edgefirst-tracker added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-09-04T04:31:46Z",
+    "url": "https://pypi.org/project/edgefirst-tracker/",
+    "article_text": "ByteTrack multi-object tracking. Installs alone it does not require the tensor, image, or decoder wheels.\r\nPart of the EdgeFirst HAL\r\nedgefirst-tracker is one of five Python packages built from the E… [+2255 chars]"
+  },
+  {
+    "id": "7f9963c905ee7351",
+    "title": "Ohio should make data centers bring their own power | Opinion",
+    "source": "Biztoc.com",
+    "publication_date": "2026-09-04T04:31:28Z",
+    "url": "https://biztoc.com/x/f43329280759d813",
+    "article_text": "Data center demand may already be adding $10 to $20 a month to some Ohio household electric bills and neither utilities nor regulators can tell customers exactly how much, or why.The Enquirer recentl… [+133 chars]"
+  },
+  {
+    "id": "d7e2e36f0b3be026",
+    "title": "Most of the bugs Claude Mythos found have never been checked by a human",
+    "source": "Help Net Security",
+    "publication_date": "2026-09-04T04:30:25Z",
+    "url": "https://www.helpnetsecurity.com/2026/09/04/echo-claude-mythos-vulnerability-findings/",
+    "article_text": "Anthropic pointed Claude Mythos Preview at 281 open-source projects and collected 23,019 candidate vulnerabilities. External security firms reviewed 1,900 of them. Maintainers received 1,596 reports … [+3775 chars]"
+  },
+  {
+    "id": "7d9e31132d43ee13",
+    "title": "DLSS 5 Spikes Power Consumption",
+    "source": "PCMag.com",
+    "publication_date": "2026-09-04T04:29:00Z",
+    "url": "https://me.pcmag.com/en/graphics-cards/37951/dlss-5-spikes-power-consumption",
+    "article_text": "DLSS 5 doesn't just tank frame rates and weather faces; it might also spike power consumption on GPUs. Tom's Hardware tested various games with high-end graphics cards running DLSS 5 and found that, … [+3522 chars]"
+  },
+  {
+    "id": "5311713d6704b042",
+    "title": "fluidfix 0.11.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-09-04T04:23:49Z",
+    "url": "https://pypi.org/project/fluidfix/0.11.0/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "0a38c91dcb9bdb0e",
+    "title": "Chunghwa Precision Test sees ASIC revenue overtaking GPU by 2027",
+    "source": "Digitimes",
+    "publication_date": "2026-09-04T04:22:09Z",
+    "url": "https://www.digitimes.com/news/a20260903PD241/asic-revenue-gpu-2027-demand.html",
+    "article_text": "Keep me signed in\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the… [+288 chars]"
+  },
+  {
+    "id": "9ce8a043bb77d0e8",
+    "title": "The sameness problem behind those unappetizing AI-generated menus | TechCrunch",
+    "source": "TechCrunch",
+    "publication_date": "2026-09-04T04:21:03Z",
+    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "article_text": "When it first happens to you, you think you’re crazy. You wander into a cafe and look at a menu with a variety of bagel sandwiches, but each illustration looks eerily flawless, precisely symmetrical,… [+5994 chars]"
+  },
+  {
+    "id": "c33de95d906831ce",
+    "title": "Indices drift higher amid global cues",
+    "source": "Business Standard",
+    "publication_date": "2026-09-04T04:20:46Z",
+    "url": "https://www.business-standard.com/markets/capital-market-news/indices-drift-higher-amid-global-cues-126090400183_1.html",
+    "article_text": "The key equity benchmarks traded with moderate gains in early trade supported by positive global cues. After a challenging start to September, domestic equities showed signs of stabilisation as inves… [+5895 chars]"
+  },
+  {
+    "id": "de7dc83c626f1ae4",
+    "title": "Debunking the ‘Tina’ doctrine: Nomura warns AI-driven rally masks US vulnerabilities",
+    "source": "Biztoc.com",
+    "publication_date": "2026-09-04T04:15:52Z",
+    "url": "https://biztoc.com/x/c16287748227d39b",
+    "article_text": "The artificial intelligence boom has signalled growing risks in the US economy and capital markets, with a setback in the technology rally potentially triggering a sharp correction in US assets and w… [+138 chars]"
+  },
+  {
+    "id": "6b692d03d651fe32",
+    "title": "Nvidia Raises Bet on Open-Source AI With $13B Hugging Face Deal",
+    "source": "Biztoc.com",
+    "publication_date": "2026-09-04T04:15:51Z",
+    "url": "https://biztoc.com/x/c47a2224a2264fae",
+    "article_text": "Nvidia Raises Bet on Open-Source AI With $13B Hugging Face DealOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty, Nvidia CEO Jensen Huang sa… [+146 chars]"
+  },
+  {
+    "id": "36b0bb8f8c13b660",
+    "title": "Claire Byrne prepares to go on Celebrity Gogglebox: ‘We need fizzy jellies and quality crisps’",
+    "source": "The Irish Times",
+    "publication_date": "2026-09-04T04:15:00Z",
+    "url": "https://www.irishtimes.com/culture/tv-radio/2026/09/04/claire-byrne-prepares-to-go-on-celebrity-gogglebox-we-need-fizzy-jellies-and-quality-crisps/",
+    "article_text": "One of the most noticeable aspects of The Claire Byrne Show (Newstalk, weekdays) is how relaxed the host sounds in comparison to the slightly strait-laced persona of her years on RTÉ Radio 1. Welcome… [+7719 chars]"
+  },
+  {
+    "id": "6806d2451657354d",
+    "title": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO",
+    "source": "The Times of India",
+    "publication_date": "2026-09-04T04:14:53Z",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-ai-firm-moonshot-files-confidentially-for-hong-kong-ipo/articleshow/133751573.cms",
+    "article_text": "Beijing-based startup Moonshot has confidentially filed for a Hong Kong initial public offering, said three people with knowledge of the plans, in what is likely to be one of the most anticipated nea… [+3265 chars]"
+  },
+  {
+    "id": "bc6d34f689a33d24",
+    "title": "OpenAI commits $1B in AI credits to frontline cyber defenders",
+    "source": "Slashdot.org",
+    "publication_date": "2026-09-04T04:12:37Z",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185418914",
+    "article_text": "\"Though a program be but three lines long,\r\nsomeday it will have to be maintained.\"\r\n-- The Tao of Programming"
+  },
+  {
+    "id": "f69c050a809aa38f",
+    "title": "AI startup Crusoe valued at $30 billion after new funding",
+    "source": "The Times of India",
+    "publication_date": "2026-09-04T04:10:02Z",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-startup-crusoe-valued-at-30-billion-after-new-funding/articleshow/133751506.cms",
+    "article_text": "AI data center startupCrusoe has raised over $3 billion in a funding round that values it at roughly $30 billion, Bloomberg News reported on Thursday, citing people familiar with the matter.Launched … [+1235 chars]"
+  },
+  {
+    "id": "111e5032872b0f1f",
+    "title": "NVIDIA DLSS 5 Neural Rendering Tested: Incredible Photorealism, Performance Explored",
+    "source": "Hot Hardware",
+    "publication_date": "2026-09-04T04:10:00Z",
+    "url": "https://hothardware.com/news/nvidia-dlss-5-neural-rendering-tested",
+    "article_text": "Having spent a few hours in direct, deep performance and image quality testing, I'm here to tell you the unvarnished truth about NVIDIA's DLSS 5 neural rendering for GeForce RTX 50 series GPUs. Today… [+19952 chars]"
+  },
+  {
+    "id": "0ccc175a5daa9c58",
+    "title": "You-Know-Who is Pushing us toward a Death Valley World",
+    "source": "Juancole.com",
+    "publication_date": "2026-09-04T04:06:18Z",
+    "url": "https://www.juancole.com/2026/09/pushing-toward-valley.html",
+    "article_text": "( Tom Engelhardt Substack ) – Let me not quote him once in this piece. We’ve already heard all too much from him, don’t you think? And president of the United States though he may be, he doesn’t dese… [+7149 chars]"
+  },
+  {
+    "id": "3e16329d82a53c77",
+    "title": "redimnet2-onnx added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-09-04T04:05:15Z",
+    "url": "https://pypi.org/project/redimnet2-onnx/",
+    "article_text": "Run the official PalabraAI ReDimNet2 speaker-verification models with\r\nONNX Runtime. All 20 published checkpoints are available and produce L2-normalized 192-dimensional embeddings.\r\nInstallation\r\nFo… [+2147 chars]"
+  },
+  {
+    "id": "41249bf2f34a58c2",
+    "title": "memnet-llm 0.19.4",
+    "source": "Pypi.org",
+    "publication_date": "2026-09-04T04:04:07Z",
+    "url": "https://pypi.org/project/memnet-llm/0.19.4/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "284fa6e49a516267",
+    "title": "Who’s Ready For Multimedia TikTok Comments?; AI Ads For AI Shows",
+    "source": "AdExchanger",
+    "publication_date": "2026-09-04T04:03:39Z",
+    "url": "http://www.adexchanger.com/daily-news-roundup/friday-04092026/",
+    "article_text": "The AdExchanger Newsletter is taking a break for Labor Day on Monday, September 7. We’ll be back on September 8!\r\nAttack Of The Talking TikTok Comments\r\nBrands want to meet users where they are. More… [+4612 chars]"
+  },
+  {
+    "id": "e81ae0e01e35f779",
+    "title": "openai-codex-auth added to PyPI",
+    "source": "Pypi.org",
+    "publication_date": "2026-09-04T04:03:05Z",
+    "url": "https://pypi.org/project/openai-codex-auth/",
+    "article_text": "Use the Codex CLI's ChatGPT login as a bearer credential, so OpenAI model calls\r\nbill to a ChatGPT (Codex) subscription instead of an API key.\r\ncodex login stores tokens in ~/.codex/auth.json. This p… [+1174 chars]"
+  },
+  {
+    "id": "834cd03f0bc724bd",
+    "title": "Tokyo Plans Self-Driving Ride Trial This Year",
+    "source": "Newsonjapan.com",
+    "publication_date": "2026-09-04T04:01:52Z",
+    "url": "https://newsonjapan.com/article/150628.php",
+    "article_text": "TOKYO -\r\n An autonomous ride-hailing service developed by British company Wayve launched in London on September 3, with the AI-powered technology also scheduled to begin trial operations in Tokyo by … [+770 chars]"
+  },
+  {
+    "id": "09ae5d7160997fe7",
+    "title": "China interconnect chipmaker Montage enters Samsung, SK Hynix CXL 3.2 supply chains and begins DDR6 development",
+    "source": "Digitimes",
+    "publication_date": "2026-09-04T04:01:20Z",
+    "url": "https://www.digitimes.com/news/a20260904PD220/montage-cxl-development-samsung-sk-hynix.html",
+    "article_text": "Keep me signed in\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the… [+288 chars]"
+  },
+  {
+    "id": "cdfdf65236793eca",
+    "title": "What smart people in business and tech are saying about AI bans for schools",
+    "source": "Business Insider",
+    "publication_date": "2026-09-04T04:01:01Z",
+    "url": "https://www.businessinsider.com/what-smart-people-are-saying-about-school-ai-bans-mamdani-2026-9#article",
+    "article_text": "New York City Mayor Zohran Mamdani introduced a one-year ban on AI in schools, which he said could affect 600,000 public school students. And the tech world has a lot to say.\r\nOn Wednesday, Mamdani p… [+5230 chars]"
+  },
+  {
+    "id": "0ceef78e12f2341c",
+    "title": "Future of Marketing: Brands want creators who can win over humans and machines at once",
+    "source": "Digiday",
+    "publication_date": "2026-09-04T04:01:00Z",
+    "url": "http://digiday.com/marketing/future-of-marketing-brands-want-creators-who-can-win-over-humans-and-machines-at-once/",
+    "article_text": "This Future of Marketing Briefing covers the latest in marketing for Digiday+ members and is distributed over email every Friday at 10 a.m. ET. More from the series →Two things drive creator spending… [+12054 chars]"
+  },
+  {
+    "id": "11b05e13508cfebc",
+    "title": "Cloud AI Means Someone Else Has Your Data, MINISFORUM Fixes That",
+    "source": "Yanko Design",
+    "publication_date": "2026-09-04T04:00:19Z",
+    "url": "https://www.yankodesign.com/2026/09/03/cloud-ai-means-someone-else-has-your-data-minisforum-fixes-that/",
+    "article_text": "Running a serious AI model at home usually means renting someone else’s cloud server and hoping your data stays private along the way. MINISFORUM built its newest pairing to remove that trade-off ent… [+3613 chars]"
+  },
+  {
+    "id": "60363f412e883e03",
+    "title": "NVIDIAが重たいAI処理を同一ネットワーク内のPCに割り振れる無料ツール「PAIR」を公開",
+    "source": "Livedoor.com",
+    "publication_date": "2026-09-04T04:00:00Z",
+    "url": "https://news.livedoor.com/article/detail/32239530/",
+    "article_text": "OllamaLM StudioAIPCPAIR(Personal AI Router)NVIDIA\r\nNVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network | NVIDIA Technical Blog\r\nhttps://developer.nvidia.com/blog/nvid… [+786 chars]"
+  },
+  {
+    "id": "d5880d6c84907621",
+    "title": "Trump, Venezuelan Oil, and National Security",
+    "source": "Americanthinker.com",
+    "publication_date": "2026-09-04T04:00:00Z",
+    "url": "https://www.americanthinker.com/articles/2026/09/trump-venezuelan-oil-and-national-security/",
+    "article_text": "What President Donald Trump called “the biggest oil deal in world history” when it was announced last week is not the only highly favorable deal his administration has made with the “interim authorit… [+7680 chars]"
+  },
+  {
+    "id": "5dee29e3d84190cc",
+    "title": "(PR) Ugreen Launches the NASync DXP6800 Ultra and DXP8800 Ultra at IFA 2026",
+    "source": "Techpowerup.com",
+    "publication_date": "2026-09-04T04:00:00Z",
+    "url": "https://www.techpowerup.com/352307/ugreen-launches-the-nasync-dxp6800-ultra-and-dxp8800-ultra-at-ifa-2026",
+    "article_text": "Ugreen, a leading global consumer technology company, is due to showcase the Ugreen NASync DXP6800 Ultra and DXP8800 Ultra at IFA 2026. Designed as powerful local data centers for small studios and g… [+3033 chars]"
+  },
+  {
+    "id": "ca22e61c7a076a6f",
+    "title": "The price of enough",
+    "source": "Americanthinker.com",
+    "publication_date": "2026-09-04T04:00:00Z",
+    "url": "https://www.americanthinker.com/blog/2026/09/the-price-of-enough/",
+    "article_text": "Public anxiety about data center construction only grows. Many worry that communities will face higher utility bills, water depletion, overburdened infrastructure and economic uncertainty.\r\nAfter COV… [+3687 chars]"
+  },
+  {
+    "id": "770e6144f663c24b",
+    "title": "llm-budget-proxy 0.1.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-09-04T03:55:23Z",
+    "url": "https://pypi.org/project/llm-budget-proxy/",
+    "article_text": "GitHub Repository:https://github.com/preettrank53/llm-circuit-breaker\r\nA local circuit breaker to stop multi-agent workflows from bankrupting your OpenAI API limits.\r\nArchitecture &amp; Data Flow\r\nIn… [+1849 chars]"
+  },
+  {
+    "id": "4c007790a9caaf84",
+    "title": "llama-index-tools-opticparse 1.0.0",
+    "source": "Pypi.org",
+    "publication_date": "2026-09-04T03:54:58Z",
+    "url": "https://pypi.org/project/llama-index-tools-opticparse/",
+    "article_text": "Official LlamaIndexBaseToolSpec integration for OpticParse Multimodal Vision Web Scraper and PhishVision Zero-Day Cybersecurity &amp; Drainer Detection.\r\nEmpower your autonomous LlamaIndex agents, RA… [+2185 chars]"
+  },
+  {
+    "id": "5b19d1f9e2e951de",
+    "title": "India turns to AI and satellites to modernise tea farming",
+    "source": "The Times of India",
+    "publication_date": "2026-09-04T03:51:18Z",
+    "url": "https://economictimes.indiatimes.com/news/economy/agriculture/india-turns-to-ai-and-satellites-to-modernise-tea-farming/articleshow/133750728.cms",
+    "article_text": "India is turning to artificial intelligence and satellite technology to tackle some of the tea industry's biggest challenges, from detecting crop stress and pests to estimating yields.The Tea Board o… [+2538 chars]"
+  },
+  {
+    "id": "75da1595ecb75826",
+    "title": "T-Mobile's Gopalan bets on AI, home internet to revive subscriber growth",
+    "source": "Business Standard",
+    "publication_date": "2026-09-04T03:48:51Z",
+    "url": "https://www.business-standard.com/companies/news/t-mobile-s-gopalan-bets-on-ai-home-internet-to-revive-subscriber-growth-126090400143_1.html",
+    "article_text": "T-Mobile CEO Srini Gopalan is banking on home internet and artificial intelligence to drive growth and revive the company's shares, which have fallen 25 per cent since he took the job\r\nSrini Gopalan … [+4005 chars]"
+  },
+  {
+    "id": "cc8aef96e1b4e530",
+    "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+    "source": "Agentconnect.md",
+    "publication_date": "2026-09-04T03:40:26Z",
+    "url": "https://agentconnect.md/blog/grep-beat-lsp-harness/",
+    "article_text": "Why would a coding agent ignore a retrieval interface that returns more precise results?\r\nI explored this question in a small study comparing lexical search with grep against LSP-backed semantic navi… [+12836 chars]"
+  },
+  {
+    "id": "d44fff7cca3f18cb",
+    "title": "markitdown-ocr 0.1.1b1",
+    "source": "Pypi.org",
+    "publication_date": "2026-09-04T03:38:19Z",
+    "url": "https://pypi.org/project/markitdown-ocr/0.1.1b1/",
+    "article_text": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "id": "38507e9ec9e9809a",
+    "title": "LG UltraGear G6 27G64NA 27\" QHD 300Hz Gaming Monitor $349 @ JB Hi-Fi (RRP $699)",
+    "source": "Ozbargain.com.au",
+    "publication_date": "2026-09-04T03:36:40Z",
+    "url": "https://www.ozbargain.com.au/node/973881",
+    "article_text": "Been shopping for monitors but still not sure if I'm going to buy. Might get the ASUS ProArt insteadVivid Colour, Fast Response, Total ControlDominate with the 27\" QHD (2560x1440) IPS gaming monitor.… [+2188 chars]"
+  }
+]
