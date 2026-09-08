@@ -1442,6 +1442,16 @@ Abstract: In practice, most commercial LLM providers do not publicly release det
  extension, network issues, or browser settings.",llm-forensic-timeline added to PyPI
 468eebfa-ef2b-4046-929b-4df585535676,2026-09-07,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/llm-interceptor/2.10.0/,"A required part of this site couldnt load. This may be due to a browser
  extension, network issues, or browser settings.",llm-interceptor 2.10.0
+8234b81f-a266-44c3-ba92-edcfa34cd1a0,2026-09-07,MODEL_RELEASE,GitHub - Tencent,Claude,,Github.com,https://github.com/Tencent/teamai-cli,"English | 
+TeamAI manages your team's skills, rules, MCP, and knowledge across Claude Code, Codex, CodeBuddy, WorkBuddy, OpenCode, Cursor, Qoder, and other AI agents. npm install -g teamai-cli
+Cre… [+13919 chars]",GitHub - Tencent/teamai-cli: Make Every Team AI Native
+5c0402cf-ad7c-43f8-af6c-fe5d543bbf4a,2026-09-07,MODEL_RELEASE,PyPI LLM Router,,,Pypi.org,https://pypi.org/project/radlab-llm-router/,"LLM Router is a service that can be deployed onpremises or in the cloud. It adds a
+layer between any application and the LLM provider.",radlab-llm-router added to PyPI
+78b43f02-35d4-4825-9330-3c7cd99bb005,2026-09-07,MODEL_RELEASE,Modal,Claude,,Github.com,https://github.com/Moiz-I/council-of-claude,"Multi-model structured deliberation. Queries 4 frontier LLMs in parallel with distinct personas, cross-pollinates anonymously, synthesises a recommendation.",Show HN: LLM Council: survival-of-the-fittest multi-modal deliberation
+98065487-c2a6-4af3-af15-e34b21df6ec7,2026-09-07,MODEL_RELEASE,claude-gpt,Claude,,Pypi.org,https://pypi.org/project/claude-gpt/0.1.3/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",claude-gpt 0.1.3
+89ef3533-104b-434b-b598-a05aa0e8b581,2026-09-07,MODEL_RELEASE,claude-gpt,Claude,,Pypi.org,https://pypi.org/project/claude-gpt/0.1.2/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",claude-gpt 0.1.2
 6e930431-9a6a-4213-9af0-7a905d8842fa,2026-09-06,MODEL_RELEASE,OpenAI,,OpenAI,Biztoc.com,https://biztoc.com/x/3978cd05ccf2defc,"While OpenAI has yet to open the proverbial floodgates for its latest GPT-6 Astra AI model, initial impressions that are surfacing on the social media suggest the model has a proclivity for spawning … [+149 chars]","OpenAI’s GPT-6 Astra Spawns Armies Of Agents That Run On Local CPUs, Handing Intel And AMD A Demand Windfall"
 be06129a-94e5-4ef1-8ef2-008bb8326ca7,2026-09-06,MODEL_RELEASE,LLM,Claude,,Freethoughtblogs.com,https://freethoughtblogs.com/gas/2026/09/05/kinda-mindblowing/,"I was discussing LLM cognition, such as it be, with an LLM – Claude – and the spirit of the Kant Car came over me, changed the course of the conversation. I’d just like anyone with the patience to r… [+22593 chars]",Kinda Mindblowing
 92050310-8d38-434e-bae3-d6b6223e0bd2,2026-09-06,MODEL_RELEASE,OpenAI,Gemini,OpenAI,Pypi.org,https://pypi.org/project/subtranslate-ai/,"AI-powered subtitle translation for SRT files, supporting OpenAI and Google Gemini. Status: Version 0.9.0 will be the first public release; PyPI publication
