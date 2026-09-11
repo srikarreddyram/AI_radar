@@ -2,11 +2,13 @@ name: "🔍 WF3: Entity Extraction"
 
 on:
   schedule:
-    - cron: "30 1,13 * * *"  # 01:30 and 13:30 UTC daily
+    - cron: "30 1 * * *"  # 01:30 UTC daily
   workflow_dispatch:
 
 permissions:
   contents: write
+  pull-requests: write
+  issues: write
 
 jobs:
   extract:
@@ -34,10 +36,33 @@ jobs:
           python scripts/entity_extract.py | tee /tmp/extract_output.txt
           echo "EVENT_COUNT=$(grep 'EVENT_COUNT=' /tmp/extract_output.txt | cut -d= -f2)" >> $GITHUB_ENV
 
-      - name: Commit and push
+      - name: Commit via pull request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "srikarreddyram"
           git config user.email "srikarreddyram@users.noreply.github.com"
           git add -A
-          git diff --staged --quiet || git commit -m "🔍 entities extracted: ${{ env.EVENT_COUNT || '0' }} events"
-          for i in 1 2 3 4 5; do git pull --rebase origin main && git push && break || sleep $((RANDOM % 5 + 1)); done
+          git diff --staged --quiet && exit 0
+          BRANCH="auto/entity-extract-$(date -u +%Y%m%d%H%M%S)"
+          git checkout -b "$BRANCH"
+          git commit -m "🔍 entities extracted: ${{ env.EVENT_COUNT || '0' }} events"
+          git push origin "$BRANCH"
+          gh pr create --base main --head "$BRANCH" \
+            --title "🔍 entities extracted: ${{ env.EVENT_COUNT || '0' }} events" \
+            --body "Automated data update from **🔍 WF3: Entity Extraction**."
+          gh pr merge "$BRANCH" --squash --delete-branch
+
+      - name: File issue on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TITLE="🚨 ${{ github.workflow }} failed"
+          RUN_URL="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          EXISTING=$(gh issue list --repo "${{ github.repository }}" --label automation-failure --state open --search "\"$TITLE\" in:title" --json number --jq '.[0].number // empty')
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --repo "${{ github.repository }}" --body "Failed again: $RUN_URL"
+          else
+            gh issue create --repo "${{ github.repository }}" --title "$TITLE" --body "Run failed: $RUN_URL" --label automation-failure
+          fi
