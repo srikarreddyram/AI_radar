@@ -4,7 +4,7 @@
 ![Last Updated](badges/last_updated.svg)
 
 > An automated data collection and intelligence platform tracking the AI infrastructure ecosystem.
-> **Last checked: 2026-09-10 at 18:12 UTC**
+> **Last checked: 2026-09-11 at 07:53 UTC**
 
 ---
 
@@ -12,39 +12,39 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total Events** | 11696 |
-| **Events (7 days)** | 725 |
-| **Events (30 days)** | 3037 |
+| **Total Events** | 11778 |
+| **Events (7 days)** | 674 |
+| **Events (30 days)** | 2980 |
 
 ### Category Distribution
 
 | Category | Count |
 |----------|-------|
-| OTHER | 7102 |
-| RESEARCH_BREAKTHROUGH | 1356 |
-| MODEL_RELEASE | 1352 |
-| FUNDING_EVENT | 671 |
-| GPU_RELEASE | 550 |
-| DATACENTER_EXPANSION | 308 |
-| OUTAGE | 162 |
+| OTHER | 7141 |
+| RESEARCH_BREAKTHROUGH | 1372 |
+| MODEL_RELEASE | 1360 |
+| FUNDING_EVENT | 677 |
+| GPU_RELEASE | 554 |
+| DATACENTER_EXPANSION | 311 |
+| OUTAGE | 163 |
 | POLICY_REGULATION | 148 |
-| SERVICE_UPDATE | 47 |
+| SERVICE_UPDATE | 52 |
 
 
 ### Top Companies
 
 | Company | Events |
 |---------|--------|
-| Intel | 957 |
-| NVIDIA | 606 |
-| AI | 572 |
-| OpenAI | 562 |
-| Anthropic | 434 |
-| Amazon | 278 |
-| Meta | 197 |
-| Google | 175 |
-| Modal | 168 |
-| Microsoft | 152 |
+| Intel | 963 |
+| NVIDIA | 608 |
+| AI | 577 |
+| OpenAI | 568 |
+| Anthropic | 438 |
+| Amazon | 284 |
+| Meta | 198 |
+| Google | 178 |
+| Modal | 171 |
+| Microsoft | 153 |
 
 
 ---
