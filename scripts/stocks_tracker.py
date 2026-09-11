@@ -52,7 +52,8 @@ def main():
         "AAPL": "NASDAQ",
         "AMD": "NASDAQ",
         "TSM": "NYSE",
-        "AMZN": "NASDAQ"
+        "AMZN": "NASDAQ",
+        "INTC": "NASDAQ"
     }
     
     now_dt = datetime.datetime.now(datetime.UTC)

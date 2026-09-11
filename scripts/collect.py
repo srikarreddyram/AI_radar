@@ -12,6 +12,7 @@ import hashlib
 import random
 import glob
 import logging
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -99,7 +100,11 @@ def collect_rss() -> list[dict]:
             feed = feedparser.parse(feed_url)
             for entry in feed.entries[:20]:  # cap per feed
                 pub_date = ""
-                if hasattr(entry, "published"):
+                if getattr(entry, "published_parsed", None):
+                    pub_date = time.strftime("%Y-%m-%dT%H:%M:%SZ", entry.published_parsed)
+                elif getattr(entry, "updated_parsed", None):
+                    pub_date = time.strftime("%Y-%m-%dT%H:%M:%SZ", entry.updated_parsed)
+                elif hasattr(entry, "published"):
                     pub_date = entry.published
                 elif hasattr(entry, "updated"):
                     pub_date = entry.updated
