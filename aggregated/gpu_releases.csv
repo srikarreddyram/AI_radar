@@ -212,6 +212,23 @@ Abstract: Class imbalance poses a critical challenge in federated learning (FL),
 Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly rel...",RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models,H100
 ec900043-52b5-441e-b2c6-37a5ca555299,2026-09-21,GPU_RELEASE,RTL,,,arXiv cs.AI,https://arxiv.org/abs/2609.21157,"arXiv:2609.21157v1 Announce Type: new 
 Abstract: Large Language Model (LLM) agents are increasingly being explored for chip design, but most existing approaches operate directly at RTL. We ask whether agents can design better chips by leveraging higher-level abstractions.",Can Agents Design Better Chips with a Higher Level Abstraction?,
+7b2154fb-0e48-4b2a-b133-567c3f254c73,2026-09-21,GPU_RELEASE,Intel,,,The Irish Times,https://www.irishtimes.com/opinion/2026/09/21/if-ai-has-a-10-chance-of-killing-us-all-by-2030-should-i-invest-in-a-pension/,Reports from Silicon Valley this month on the odds of artificial intelligence (AI) obliterating humanity by 2030 are enough to make one crack open the piggy bank and go wild. Why invest in a pension … [+5053 chars],"If AI has a ‘10% chance’ of killing us all by 2030, should I invest in a pension?",
+df58c132-8f5f-46ac-a21a-8475c94409c5,2026-09-21,GPU_RELEASE,VRAM GPU,,GB,Github.com,https://github.com/volotat/mini-AGI/,"mini-AGI - is a continual learning byte-level language model that assembles its own architecture, trains from scratch on a single 8 GB VRAM GPU, and keeps learning from everything it reads. It store… [+28265 chars]",Mini-AGI – dynamic continual learning model trained from scratch on 8GB VRAM,
+c38ef3b6-61fb-4870-8dc2-7f3a8686fbb3,2026-09-21,GPU_RELEASE,AI,,,Prtimes.jp,https://prtimes.jp/main/html/rd/p/000000171.000137731.html,"AIUravation AIAILLMGPULLMAI
+AI
+GPU
+: 3
+3
+:
+5PoC
+GPU
+<ul><li>1: PoC24PoC
+</li><li>2: GPU12GPU
+</li><li>3: AI13
+</li></ul>: https://uravation.com/local-llm/
+62AIAIAIAI
+Uravation 
+AIGPUPoC… [+48 chars]",Uravation、クラウドAIが使えない企業向け「ローカルLLM導入支援」サービスを提供開始,
 70bef4a8-dbfa-4d89-a1da-3b5370b6d5fe,2026-09-20,GPU_RELEASE,Hugging Face,,,Pypi.org,https://pypi.org/project/laya-coreml/,"Open-weight typed decisions on Apple Silicon. Core ML, Neural Engine, zero generated tokens.",laya-coreml added to PyPI,
 7c132ff5-9ef2-4a27-9482-3b2c043b4b6b,2026-09-19,GPU_RELEASE,Lenovo IdeaPad Slim,,,PCMag.com,https://me.pcmag.com/en/laptops/38096/lenovo-ideapad-slim-5x-gen-11-review-a-snapdragon-workhorse-with-just-a-little-sizzle,"The Lenovo IdeaPad Slim 5x won't blow you away, but it offers something hard to find right now: a decent everyday laptop with helpful features and potent enough silicon for less than $1,000 ($969.99 … [+10757 chars]",Lenovo IdeaPad Slim 5x Gen 11 Review: A Snapdragon Workhorse With Just a Little Sizzle,
 0f06495c-0265-4324-be7e-62d03e9cbf06,2026-09-18,GPU_RELEASE,AI Agents Understand Computer Architecture,,,arXiv cs.AI,https://arxiv.org/abs/2609.19387,"arXiv:2609.19387v1 Announce Type: new 
