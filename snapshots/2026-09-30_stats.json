@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-09-30T08:46:56.511014+00:00",
+  "date": "2026-09-30",
+  "total_events": 13409,
+  "events_7d": 649,
+  "events_30d": 2725,
+  "category_distribution": {
+    "OTHER": 8040,
+    "RESEARCH_BREAKTHROUGH": 1646,
+    "MODEL_RELEASE": 1575,
+    "FUNDING_EVENT": 763,
+    "GPU_RELEASE": 613,
+    "DATACENTER_EXPANSION": 332,
+    "OUTAGE": 208,
+    "POLICY_REGULATION": 177,
+    "SERVICE_UPDATE": 55
+  },
+  "top_companies": {
+    "Intel": 1078,
+    "OpenAI": 663,
+    "AI": 657,
+    "NVIDIA": 654,
+    "Anthropic": 535,
+    "Amazon": 350,
+    "Meta": 250,
+    "Google": 204,
+    "Modal": 202,
+    "Microsoft": 176
+  }
+}
