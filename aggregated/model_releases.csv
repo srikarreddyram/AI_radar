@@ -1494,6 +1494,16 @@ Abstract: In light of strides in Arti cial Intelligence (AI) and its wide spread
 Abstract: NA methylation profiling has become a powerful approach for central nervous system (CNS) tumor classification, yet important challenges remain regarding cross-cohort transferability, methodological correctness, and robust multiclass evaluation. In ...",A Novel Machine Learning Approach for Central Nervous System Tumor Classification from DNA Methylation
 b1f6da12-708b-44e7-b344-c7547454f856,"Fri, 03 Ju",MODEL_RELEASE,Black-Box Inference of LLM Architectural Properties with Restrictive API Access,,top-$k$ logits and/or,arXiv cs.LG,https://arxiv.org/abs/2607.01313,"arXiv:2607.01313v1 Announce Type: new 
 Abstract: In practice, most commercial LLM providers do not publicly release details of underlying LLM architectures. However, prior work has shown that given limited API access to an LLM (namely, top-$k$ logits and/or a logit bias function), one can recover...",Black-Box Inference of LLM Architectural Properties with Restrictive API Access
+d5ed1543-ea03-44e2-b0b9-2833030cf4d0,2026-10-03,MODEL_RELEASE,,Claude,,Pypi.org,https://pypi.org/project/free-claude-code/6.8.2/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",free-claude-code 6.8.2
+569bbfab-a5d6-4f06-a89b-47fbf97e59e4,2026-10-03,MODEL_RELEASE,LLM,,,Pypi.org,https://pypi.org/project/bitnarrow/,"Open weight model surgery lab. Edit a model, measure it, gate it, ship it.",bitnarrow added to PyPI
+82386610-1ac6-4b8e-9e86-16609437697e,2026-10-03,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/llm-chatgpt-plan/0.1.0/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",llm-chatgpt-plan 0.1.0
+9138ef5d-cf77-4799-a96f-b2d6a2e4974d,2026-10-03,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/llm-chatgpt-plan/,"A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings.",llm-chatgpt-plan added to PyPI
+930e62c1-447e-425b-82bb-83de8dacbf20,2026-10-03,MODEL_RELEASE,,,,Pypi.org,https://pypi.org/project/premixdb/,"premixdb is a declarative language for building reproducible data mixtures to improve llm pretraining. uvaddpremixdb
+Capture, filter, mix, train
+importpremixdbaspfromtorch.utils.dataimportDataLoad… [+1287 chars]",premixdb added to PyPI
 6b2867d9-46e7-467d-9512-fede137bf122,2026-10-02,MODEL_RELEASE,Core,,,arXiv cs.AI,https://arxiv.org/abs/2610.00010,"arXiv:2610.00010v1 Announce Type: new 
 Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use: under finite c...",Heavy-Tailed Memory Traces in Long-Horizon Language Agents
 83c8cd69-c80f-4e66-aeac-f997f0e6f299,2026-10-02,MODEL_RELEASE,,,,arXiv cs.AI,https://arxiv.org/abs/2610.00012,"arXiv:2610.00012v1 Announce Type: new 
