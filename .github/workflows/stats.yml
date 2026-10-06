@@ -2,7 +2,7 @@ name: "📈 WF5: Stats Refresh"
 
 on:
   schedule:
-    - cron: "30 2 * * *"  # 02:30 UTC daily
+    - cron: "30 2 */3 * *"  # 02:30 UTC, every 3rd day of month
   workflow_dispatch:
 
 permissions:

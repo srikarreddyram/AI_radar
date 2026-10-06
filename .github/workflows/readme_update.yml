@@ -2,7 +2,7 @@ name: "📝 WF6: README Update"
 
 on:
   schedule:
-    - cron: "0 3 * * *"  # 03:00 UTC daily
+    - cron: "0 3 */3 * *"  # 03:00 UTC, every 3rd day of month
   workflow_dispatch:
 
 permissions:

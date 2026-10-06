@@ -2,7 +2,7 @@ name: "📥 WF1: Daily Collection"
 
 on:
   schedule:
-    - cron: "30 0 * * *"  # 00:30 UTC daily
+    - cron: "30 0 */3 * *"  # 00:30 UTC, every 3rd day of month
   workflow_dispatch:  # Manual trigger
 
 permissions:
